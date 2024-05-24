@@ -1,0 +1,3 @@
+Vitalik approved protocol.
+
+!tip 0.2
