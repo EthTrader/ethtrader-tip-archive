@@ -1,0 +1,5 @@
+!tip 20
+
+Ethereum is the World Computer.
+
+The problem is that 99% of the use cases of a public World Computer are impractical without encryption, and encryption of blockchain data is being criminalized under anti-money laundering laws.
