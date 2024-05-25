@@ -1,0 +1,7 @@
+> Pectra Targeted For Q1 2025  
+  
+The inclusion of EVM Object Format (EOF), which is a set of about 11 EIPs that introduce an opt-in container for EVM code, is a key component that is pushing the upgrade timeline to 2025. The upgrade is set to feature PeerDAS, a data availability sampling solution that uses existing peer-to-peer components within Ethereum. Developers also agreed to replace the account abstraction EIP-3074 with a newer proposal, EIP-7702, introduced by Vitalik. EIP-7702, enables EOAs to function as smart contract wallets during a transaction.
+
+Account abstraction here we go!
+
+!tip 1
