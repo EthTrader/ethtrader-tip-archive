@@ -1,0 +1,9 @@
+Wow! There are a lot of them! I would like to know which one of them will be implemented in this current cycle, which ones will be implemented in the next cycle and how the development of some of them is going.
+
+For example, the C2V development is ready to start at the beginning of the next cycle or will start in the middle of the next cycle? Same with the 50 comments limit.
+
+I think this can easily answered with a "If the governance passes it will be available next cycle but if the development is ready and gets developed by the middle of the cycle, it will start in the next cycle and not in the middle of one"
+
+u/raymv1987 , u/aminok, u/mattg1981
+
+!tip 5
