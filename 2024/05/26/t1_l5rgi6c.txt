@@ -1,0 +1,7 @@
+This is how I see crypto compared with what we already have.
+
+* L1: OS
+* L2: Browser, OS apps
+* L3: Websites, extensions, etc.
+
+!tip 1
