@@ -1,0 +1,5 @@
+>Maximal compatibility with Ethereum core architecture. 
+
+That's a very big claim. Would be interesting to see how it performs!
+
+^(!tip 1.0101)
