@@ -1,0 +1,5 @@
+Ethereum is all set to make usability and smart contracts even better. 
+
+Not sure about raising the validator cap though. Tbh, never looked deep into how that will affect (good or bad) the decentralized aspect of Ethereum.
+
+^(!tip 1.0101)
