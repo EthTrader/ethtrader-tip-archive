@@ -1,0 +1,9 @@
+Well,
+
+We call one ZK Sync,
+
+and we call the other one Polyhedra.
+
+I think it's just less confusing if ZKsync gets it.
+
+!tip 2
