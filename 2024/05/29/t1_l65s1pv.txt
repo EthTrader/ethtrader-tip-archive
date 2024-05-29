@@ -1,0 +1,3 @@
+Cross rollup programming seems something very nice. Would definitely make it easier for Dapps to run on multiple chains/platforms.
+
+^(!tip 1.0101)
