@@ -1,0 +1,3 @@
+...and the price didn't move at all :(
+
+^(!tip 1.0101)
