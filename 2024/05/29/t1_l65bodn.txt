@@ -1,0 +1,5 @@
+*Liquidity fragmentation is a concept in DeFi in which active liquidity is thinly spread across a variety of chains and protocols. Due to a low concentration of volume, this can lead to market and protocol inefficiencies*
+
+I can understand his reasoning.
+
+!tip 0.2

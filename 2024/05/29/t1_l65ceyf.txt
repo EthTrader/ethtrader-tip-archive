@@ -1,0 +1,3 @@
+How much did they make from all these funds.
+
+^(!tip 1.0101)
