@@ -1,0 +1,3 @@
+Slowly, but surely, things are moving.
+
+^(!tip 1.0101)

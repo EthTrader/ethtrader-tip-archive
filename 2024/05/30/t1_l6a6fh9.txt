@@ -1,0 +1,3 @@
+Looks like we may crab between 3700-3800 for a while now. Good zone to accumulate in small chunks.
+
+^(!tip 1.0101)
