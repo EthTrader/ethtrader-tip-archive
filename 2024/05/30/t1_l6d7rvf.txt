@@ -1,0 +1,3 @@
+The rocket is ready for launch.
+
+!tip 1
