@@ -1,0 +1,3 @@
+I see Simpsons, I tip!
+
+!tip 0.6969
