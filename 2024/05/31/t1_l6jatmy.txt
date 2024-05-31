@@ -1,0 +1,3 @@
+Should we listen to user who tells us not to listen to others for trading advice?
+
+!tip 0.3999
