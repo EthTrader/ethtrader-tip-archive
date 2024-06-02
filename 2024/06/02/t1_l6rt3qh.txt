@@ -1,0 +1,3 @@
+Need to pump that last candle.
+
+^(!tip 1.0101)
