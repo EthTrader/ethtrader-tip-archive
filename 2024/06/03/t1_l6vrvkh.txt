@@ -1,0 +1,3 @@
+It's a big wake-up call about the decentralization issues we're facing with these scaling solutions. The whole point of L2 is to make Ethereum more efficient and scalable, but if we're not nailing decentralization, we're just swapping one set of problems for another.
+
+!tip 0.2
