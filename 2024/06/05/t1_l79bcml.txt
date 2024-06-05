@@ -1,0 +1,5 @@
+>*“Integrating Celestia reduces storage costs and enhances security—a strategic move on our path to achieving 10,000 TPS. Using Celestia for our data availability layer will lower costs compared to Ethereum, allowing us to provide these cost savings to end users in the form of lower transaction fees. The outcome is a faster, more reliable blockchain platform that is easier and more accessible, while also addressing the higher gas fees typically required to benefit from Layer 1 protocols.”*
+
+I have to say that it looks good.
+
+!tip 1
