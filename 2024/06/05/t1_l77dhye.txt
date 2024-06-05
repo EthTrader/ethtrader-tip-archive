@@ -1,0 +1,5 @@
+You also need to tip a whole donut for it to count as an upvote; like this xD
+
+!tip 1
+
+Notice the (weight) on the donut-post comment
