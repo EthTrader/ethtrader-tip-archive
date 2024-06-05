@@ -1,0 +1,7 @@
+If tip amount is 1 or above it will be counted as vote regardless of message size. Only that if below certain character limits then the comment will be hidden or something. 
+
+
+Atleast this is what I understood, I may be wrong though.
+
+
+!tip 1
