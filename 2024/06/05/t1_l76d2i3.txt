@@ -1,0 +1,3 @@
+Grayscale selloff could have a minor impact in initial stages, as it happened with BTC. Apart from that, everything seems fine, for now.
+
+^(!tip 1.0101)

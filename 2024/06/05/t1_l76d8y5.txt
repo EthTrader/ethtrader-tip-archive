@@ -1,0 +1,3 @@
+Base is following the same strategy as Arbitrum like growing the network first instead of focusing on creating a governance token.
+
+^(!tip 1.0101)
