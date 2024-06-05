@@ -1,0 +1,4 @@
+Within 50 limit the tip will be registered but the comment removed
+
+
+!tip 1
