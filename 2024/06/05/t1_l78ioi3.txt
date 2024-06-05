@@ -1,0 +1,3 @@
+Does this Leaderboard shows tipping in daily comments section? 
+
+!tip 1
