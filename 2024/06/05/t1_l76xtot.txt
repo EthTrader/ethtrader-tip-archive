@@ -1,0 +1,2 @@
+Yeah, a lot of rules are implemented at the same time.
+!tip 1
