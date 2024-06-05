@@ -1,0 +1,3 @@
+But the daily didn't accept my tip!
+
+!tip 1
