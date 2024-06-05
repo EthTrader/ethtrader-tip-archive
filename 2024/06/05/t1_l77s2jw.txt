@@ -1,0 +1,3 @@
+First rule is to never click any links in your emails. Everything related to crypto should go to spam!
+
+^(!tip 1.001)

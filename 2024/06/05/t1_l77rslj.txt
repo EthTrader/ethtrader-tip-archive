@@ -1,0 +1,5 @@
+No donut-bot tip confirmations in the daily at all is probably a must.
+
+Nothing wrong with users throwing tips onto the end of comments; its only donut bot thats making the daily unbearable in this current system :(
+
+!tip 1
