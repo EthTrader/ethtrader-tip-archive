@@ -1,0 +1,3 @@
+Snapshot has been done so it looks like it! The tip comments aren't being auto removed yet though 
+
+!tip 1
