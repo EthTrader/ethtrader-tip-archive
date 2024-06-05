@@ -1,0 +1,3 @@
+Tip only deffo gets removed. It was mentioned that comments with a tip would need 50 characters or more to not be removed. I don't know if the 59 character thing is in place or not 
+
+!tip 1
