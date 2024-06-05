@@ -1,0 +1,10 @@
+Well...
+
+0.1 means 10 tips needed to get 1 full..."vote"
+
+To guess on the low-end lets say it costs 50 DONUTs with the dynamic P2P 
+
+
+So you need 500 tips to get 50 tips back in "votes"
+
+!tip 1

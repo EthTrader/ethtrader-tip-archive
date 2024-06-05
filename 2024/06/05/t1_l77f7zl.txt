@@ -1,0 +1,4 @@
+Removing just tip comments would help tremendously. I'm sure something is being worked on it already 
+
+
+!tip 1
