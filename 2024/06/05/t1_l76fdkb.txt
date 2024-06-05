@@ -1,0 +1,3 @@
+Expecting rate cuts from FED?
+
+^(!tip 1.0101)

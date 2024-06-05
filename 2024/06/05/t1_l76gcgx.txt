@@ -1,0 +1,3 @@
+It would be nice if the comments would auto-delete a minute later 
+
+!tip 1
