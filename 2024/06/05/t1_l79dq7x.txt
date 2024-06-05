@@ -1,0 +1,5 @@
+You forgot one.
+
+!news post multiplier 0.1x status
+
+!tip 1
