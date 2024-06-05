@@ -1,0 +1,4 @@
+Yes, snapshot is taken on the Wednesday itself.
+CSV file release is usually the day after snapshot day and distribution is on the weekend (usually)
+
+!tip 1
