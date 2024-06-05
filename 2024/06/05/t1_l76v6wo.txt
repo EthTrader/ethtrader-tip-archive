@@ -1,0 +1,7 @@
+>Any comment that contains a tip below 5 donuts that is less than 50 characters is removed by a bot, to reduce clutter.
+
+In simple words, if you get tipped 1 from someone and it does not contain 50 characters, that comment will be removed, but still, the tip will be counted.
+
+Sorry to bother you, trying to fully understand this.
+
+!tip 1
