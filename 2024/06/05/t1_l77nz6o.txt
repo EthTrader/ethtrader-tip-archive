@@ -1,0 +1,5 @@
+> So far I don't like these changes. It's cluttered, 0 tips so far and  fewer people leaving them vs upvotes. It might get better when people  get used to it but for now it hurts 
+
+They will get used to it the same way they got used to tipping using the tip command. Nowadays almost NOBODY does tipping on the blockchain. Everyone got used to it in couple of weeks.
+
+!tip 1
