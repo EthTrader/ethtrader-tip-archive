@@ -1,0 +1,10 @@
+Ehm...
+
+The merge is not 4 years ago...
+It merged in sept 2022 not 2020.
+
+The beacon chain started validating on the 1st of December 2020, though.
+
+https://ethereum.org/en/roadmap/merge/
+
+!tip 1
