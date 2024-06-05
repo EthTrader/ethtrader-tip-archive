@@ -1,0 +1,15 @@
+Imagine Ethereum blocks as baskets. Each basket can hold a limited number of bananas (data). Each transaction is a banana.
+ 
+Traditionally, each banana has to be packed into the basket directly. A blob is a bunch of bananas tied together. Instead of placing individual bananas in the basket, you pack a whole bunch, which is more efficient.
+
+Instead of handling each banana separately, blobs allow you to tie multiple bananas together. This makes it quicker and easier to manage more bananas.
+
+The bananas can be stored in baskets (blocks) more compactly. When you need bananas, you don't unpack the entire basket, you just take the pile (blob) and deal with it outside the basket.
+
+ So, storing bananas in batches lets you fit more bananas in the same space. This allows the basket (block) to hold more data without increasing the size dramatically.
+
+More bananas (transactions) can be processed at once, improving the network's capacity. Also, handling batches of bananas instead of individual ones reduces the operational complexity.
+
+This also allows the network to handle more transactions efficiently, making it faster and more scalable.
+
+!tip 1
