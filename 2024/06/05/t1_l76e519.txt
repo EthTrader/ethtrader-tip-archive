@@ -1,0 +1,3 @@
+>Sepolia is the recommended testnet for Ethereum developers as it has ongoing support from the Ethereum foundation. Additionally, Sepolia has a permissioned validator set, resulting in a more predictable network state since it is run by client and developer teams.
+
+!tip 1
