@@ -1,0 +1,3 @@
+I think you will have to do it again because snapshot is wrong. It is taking in count 0.1x news multiplier and that poll didn't pass.
+
+!tip 1
