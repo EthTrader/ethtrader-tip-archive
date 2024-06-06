@@ -1,0 +1,9 @@
+Anyway, not much worried about the tip bonus. The thing that must be fixed and reexecuted to have the real snapshot is the 0.1x multiplier for news which didn't pass with the manual votes 👀
+
+I totally agree with you because I asked several times when those things will start and I got no answer even if I pinged mods. Also I am the kind of believer that when a new rule is set, it must go forward, not be retrospective whatever the type of rule is.
+
+If we decide in the mdidle of the cycle something like Comedy posts to 1x. Well, Comedy posts before that day must remain at 0.1x and the new ones to 1x. Developing it is easy and just requires an extra condition that takes in count this.
+
+If date < decision date 0.1x, else 1x
+
+!tip 1

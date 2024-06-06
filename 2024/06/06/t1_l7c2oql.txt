@@ -1,0 +1,5 @@
+Coinbase is doing great
+
+!tip 0.01
+
+\[AutoMod\] News

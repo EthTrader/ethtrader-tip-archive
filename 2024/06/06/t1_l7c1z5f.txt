@@ -1,0 +1,5 @@
+"Initially, it will support eight networks—Base, Ethereum, Optimism, Arbitrum, Polygon, Avalanche, BNB, and Zora"
+
+Not bad
+
+!tip 1
