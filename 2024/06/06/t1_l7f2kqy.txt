@@ -1,0 +1,3 @@
+Obviously, they should decentralize the sequencers. A decentralized sequencer brings a network of nodes that will be given the task of sequencing the transactions for a larger rollup chain.
+
+!tip 1

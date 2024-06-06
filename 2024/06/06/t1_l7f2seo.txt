@@ -1,0 +1,3 @@
+I miss 5 gwei. Got a pending transaction 😔
+
+!tip 1
