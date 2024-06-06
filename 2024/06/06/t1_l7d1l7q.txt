@@ -1,0 +1,4 @@
+`admin->price("pumpa")->coin("Donut")->execute`
+
+
+!tip 1
