@@ -1,0 +1,5 @@
+CEX look for trading volumes before considering for a listing. We need this.
+
+\[YES\]
+
+!tip 1
