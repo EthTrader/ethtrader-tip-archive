@@ -1,0 +1,5 @@
+"It will reduce barriers to entry and accelerate development timelines. Also, it will reap the benefits of parallel optimistic execution and instant finality."
+
+Nice
+
+!tip 1
