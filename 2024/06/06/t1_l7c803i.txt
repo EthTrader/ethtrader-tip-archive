@@ -1,0 +1,3 @@
+Somehow tip2vote was put into that calculation. Dbrimatt explained it pretty good few comments down here. So complicated xD
+
+!tip 1
