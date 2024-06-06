@@ -1,0 +1,7 @@
+Great question!
+
+Not anymore, - as per the recent Governance proposal to increase voting incentives. the voting bonus is now applied to your scores, rather than on top of your distribution.
+
+This helps further reward active governance participation versus those who do not, without additional minting of DONUT or digging into the treasury funds - which is a much more suitable and healthier approach to distribtion.
+
+!tip 1
