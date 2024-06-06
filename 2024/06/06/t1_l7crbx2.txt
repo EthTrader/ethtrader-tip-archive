@@ -1,0 +1,5 @@
+Hopefully 
+
+Latest they introduced the MVP version of its rewards system on the Holesky testnet.
+
+!tip 1
