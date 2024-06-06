@@ -1,0 +1,9 @@
+There is no specification that changes need to wait until next round to be implemented, that is just assumed because that is how it operated in r/cryptocurrency
+
+None of these proposals specify when they should begin either, leaving it to be implemented as soon as it can be developed. 
+
+In future, for clarity, proposals should include a comment stating what Round it should be active from.
+
+Specificity and clarity is most important in governance.
+
+!tip 1
