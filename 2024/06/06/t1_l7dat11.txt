@@ -1,0 +1,3 @@
+Answer is ; Everyone is buying!
+
+^(!tip 1.0101)

@@ -1,0 +1,3 @@
+$ARB all time high was $2.3, i wonder when will we reach there.
+
+^(!tip 1.0101)
