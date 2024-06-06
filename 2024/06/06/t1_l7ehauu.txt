@@ -1,0 +1,4 @@
+>Market depth is a real-time list displaying the quantity to be sold versus unit price. The list is organized by price level and is reflective of real-time market activity. Mathematically, it is the size of an order needed to move the market price by a given amount. 
+
+
+10/10 score. !tip 1
