@@ -1,0 +1,5 @@
+Whatever the price is, I'm not Selling.
+
+!ban 10
+
+!tip 1

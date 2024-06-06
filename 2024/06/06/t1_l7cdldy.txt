@@ -1,0 +1,10 @@
+yea, gnosis had better incentives!
+
+cones currently have 4 pools:
+
+https://preview.redd.it/61zas2wstw4d1.png?width=1912&format=png&auto=webp&s=c0426f7082ebf272eebbd3a31fce649fed92db6b
+
+I provided liquidity to the gamma one (cones/eth) while the other one are single tokens pool, it means you only provide cones, not paired with eth.  
+A tiny part of the position could be still converted on eth, but way far from the 50% - 50% of the standard gamma pool
+
+!tip 1
