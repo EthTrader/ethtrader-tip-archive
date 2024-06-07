@@ -1,0 +1,9 @@
+Highlights, if you don't want to click the link.
+
+>zkSync Era v24 upgrade enhances device security with P256Verify.
+
+>New zkSync Bridgehub boosts ZK Stack chain interoperability.
+
+>Beta Node release simplifies zkSync setup, broadens developer access.
+
+⚡^(!Tip 1.01)
