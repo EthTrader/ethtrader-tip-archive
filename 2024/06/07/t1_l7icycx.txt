@@ -1,0 +1,4 @@
+!execute 20% pumpa 
+
+
+!tip 1
