@@ -1,0 +1,7 @@
+I think it's like that wen you vote, the weight will be calculated according to your governance score.
+
+Also, they take snapshot every week, so those Bronuts whose weight are less currently their new Donut will be added after a week or in distro this time and weight will be increased onwards.
+
+That's my understanding 
+
+!tip 1
