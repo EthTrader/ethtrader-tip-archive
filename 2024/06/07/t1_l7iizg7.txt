@@ -1,0 +1,7 @@
+
+
+>While smart contract vulnerabilities remain a concern, hackers increasingly target areas outside smart contracts, like private key leaks. These leaks, often due to phishing attacks or insecure storage practices, have led to significant losses.”
+
+People need to make sure their funds are SAFU
+
+!tip 1
