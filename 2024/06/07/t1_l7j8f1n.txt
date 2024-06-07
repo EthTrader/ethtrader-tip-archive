@@ -1,0 +1,7 @@
+>From where will moons be distributed since no new ones are created? 
+
+TheMoonDistributor (The mod controlled wallet) still has 2 or 3 million moons in it
+
+Same system as before, just with a much lower ratio.
+
+!tip 1
