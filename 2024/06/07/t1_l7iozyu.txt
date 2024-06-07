@@ -1,0 +1,3 @@
+It'd improve interoperability with ETH and other projects built on it, but relying heavily on ETH as an L2 could limit polygon automony.
+
+!tip 1
