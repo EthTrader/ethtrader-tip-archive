@@ -1,0 +1,3 @@
+Soon this problem will be gone with !approve command. Patience
+
+!tip 1
