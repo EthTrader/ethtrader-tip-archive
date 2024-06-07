@@ -1,0 +1,19 @@
+  
+I feel awkward and most of the times I forget about T2V xD
+
+>  
+I also find it weird that those receiving tips are getting less rewards by being tipped by those who sold all their Contrib - shouldn't it be the other way round? Kind of an indirect encouragement that does who sell everything still receive full rewards but those who are affected are those who receive tips from the seller lol.
+
+I feel the same way regarding this and should be the other way around.
+
+I also think that we should add a system to encourage holding.
+
+Add a multiplier to the last amount of DONUT earned by posts and comments that works like this:
+
+Currently Matt is taking snapshots to calculate the weight every 24h. Then we should use this daily weight to calculate an average during the whole cycle so in the end it is multiplied by your earnings.
+
+Example:
+
+User gets 20 DONUT by end of cycle for comment and posts. User played with donuts and sold after distro and bought back before snapshot. Imagine there are 5 snapshots of weight where first one is full 1 and last one is full 1 but the rest are 0. Multiplier for your 20 upvotes in the last calculation would be 2/5x20=8 DONUT. if you have hold the whole cycle 5/5x20 = 20 upvotes.
+
+!tip 1
