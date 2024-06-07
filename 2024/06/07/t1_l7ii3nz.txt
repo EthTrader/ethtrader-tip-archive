@@ -1,0 +1,4 @@
+`admin->action("initiate")->multisig->now`
+
+
+!tip 1
