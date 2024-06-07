@@ -1,0 +1,5 @@
+They’re saying that the increase in eth’s circulating supply to 120 million ETH makes its supply inflationary.
+
+This is because of a decline in daily active addresses, which leads to reduced user activity on the network.
+
+>! !tip 1 !<
