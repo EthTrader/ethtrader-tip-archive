@@ -1,0 +1,9 @@
+Create some kind of secret criteria in the background (like Airdrop eligibe criteria - for Donuts on Arb) and announce a date when the snapshot & the Airdrop will happen. 
+
+Only drop to the top x amount of people.
+
+This would ofcourse require some onchain evaluation in the end.
+
+But great idea to host a contest ![img](emote|t5_37jgj|32641)
+
+!tip 1
