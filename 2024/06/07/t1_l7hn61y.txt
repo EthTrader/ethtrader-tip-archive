@@ -1,0 +1,13 @@
+>Hashflow (HFT) on Arbitrum One Network
+
+>Hashflow (HFT) is a decentralized and interoperable trading platform designed to enhance the efficiency and accessibility of decentralized finance (DeFi). The integration with the Arbitrum One network, a layer-2 scaling solution for Ethereum, aims to provide users with faster transaction speeds and lower fees. This development is expected to attract more DeFi enthusiasts to utilize Hashflow’s services, leveraging Arbitrum’s robust infrastructure.
+
+>Wormhole (W) on Ethereum Network
+
+>Wormhole (W) is a cross-chain messaging protocol that facilitates the transfer of assets and data across different blockchain networks. By integrating with the Ethereum (ERC20) network, Binance aims to bolster the interoperability and connectivity of Wormhole, making it easier for users to move their assets between various blockchains seamlessly. This integration marks a significant step towards enhancing the cross-chain capabilities within the cryptocurrency ecosystem.
+
+# Just from the article to avoid you a click.
+
+Good news for ETH ecosystem.
+
+!tip 1

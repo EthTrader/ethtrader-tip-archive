@@ -1,0 +1,5 @@
+how does the contrib/weight power work when tipping to vote?
+
+I mean, 20k contrib gives you full power, but you have to hold 20k donuts too?
+
+!tip 1
