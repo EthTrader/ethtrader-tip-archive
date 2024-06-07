@@ -1,0 +1,5 @@
+I have just created a shortcut on my Windows 11 to just tip 1 using Ctrl+T
+
+!tip 1
+
+This tip has been made this way.

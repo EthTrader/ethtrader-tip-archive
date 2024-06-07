@@ -1,0 +1,5 @@
+Based Roll Up vs ZK Rollup vs Optimistic Rollup.
+
+It's getting complicated! xD
+
+!tip 1
