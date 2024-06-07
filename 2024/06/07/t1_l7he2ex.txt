@@ -1,0 +1,3 @@
+Yes ser. The tip weightage should be reversed. Tip receiver should receive full or part of the weightage based on his Donut holdings per CONTRIB.
+
+!tip 1
