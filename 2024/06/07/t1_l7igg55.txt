@@ -1,0 +1,3 @@
+A puppet in a modern system.
+
+!tip 1
