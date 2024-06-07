@@ -1,0 +1,5 @@
+>**Ethereum Foundation usually suggests that a single EIP has only one change proposal in it to make it more straightforward to implement.**
+
+This is how every proposal should be.
+
+!tip 1
