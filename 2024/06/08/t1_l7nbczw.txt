@@ -1,0 +1,5 @@
+When doing it, is important to have in count what u/Tanikushokutomu said here (https://www.reddit.com/r/ethtrader/comments/1davryy/comment/l7n8hbw/)
+
+I think the easiest approach is to set a default value of 1 weight to everybody and then 1 to 2 weight depending each individual. I didn't do the math but it feels like in the end of the day when distro will be calculated 0/1 or 1/2 would be the same.
+
+!tip 1

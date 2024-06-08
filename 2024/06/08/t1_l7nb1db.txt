@@ -1,0 +1,5 @@
+That's true but this can easily adjusted with a low cap or easier. The easiest solution would be to set 1 weight default for everybody and maybe 2 weight for those with full. If I am not wrong at the end of the day 0/1 or 1/2 is the same.
+
+Thanks for pointing that out.
+
+!tip 1
