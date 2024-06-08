@@ -1,0 +1,9 @@
+Great question!
+
+Trading can still be done on Honeyswap paired with XDAI.
+
+Otherwise, I think the only other bridge available is Omni bridge to send from Gnosis to mainnet. And Arbitrum official bridge which only sends from Mainent to Arbitrum.
+
+Unless there are some other developments I am not aware of.
+
+!tip 1
