@@ -1,0 +1,1 @@
+the 'upvote' button is no longer counted as a valid upvote, you need to tip to upvote. !tip 1
