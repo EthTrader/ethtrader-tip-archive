@@ -1,0 +1,3 @@
+I guess they are keeping this "bug" as is for future use of unused blobs. If it was my own project, I would have fixed the bug and reduced the cost.
+
+!tip 1

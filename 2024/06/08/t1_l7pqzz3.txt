@@ -1,0 +1,5 @@
+>We knew that we will use more blobs than other layer-2s. This is a design decision, not a bug.
+
+Change the design then. Don't waste money on unnecessary bandwidth.
+
+!tip 1
