@@ -1,0 +1,3 @@
+Donut faucet is a good idea. There should be an ETH faucet for Arbitrum for users with certain amount of governance scores.
+
+!tip 1
