@@ -1,0 +1,7 @@
+Yes, your Governance score is the lesser value of your DOONUT and CONTRIB balance.
+
+So, you have 2770 DONUT and 2966 CONTRIB - therefore your governance score is 2770.
+
+This means your tips provide less weight, with full weighting being given to 20k Governance and above.
+
+!tip 1
