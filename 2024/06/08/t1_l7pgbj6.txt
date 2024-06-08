@@ -1,0 +1,3 @@
+$enemy one ocupa say
+
+!tip 1
