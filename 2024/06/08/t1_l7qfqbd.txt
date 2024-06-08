@@ -1,0 +1,5 @@
+>Vailidiums are primarily responsible for reducing the load on the Ethereum blockchain by processing the majority of transactions off-chain and only sending concise proofs to the mainnet for verification. The off-chain transaction processing approach significantly boosts throughput and reduces congestion on the main network, resulting in a more efficient and cost-effective Ethereum experience.
+
+You are welcome.
+
+!tip 1
