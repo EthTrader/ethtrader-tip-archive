@@ -1,0 +1,7 @@
+I don't think a range of 1~2 would be equivalent to 0~1. I think it would be equivalent to 0.5~1. 
+
+It would still penalise newer users and slow down their progress to 20k contrib, but not as much as a 0~1 range. 
+
+But like what is the goal here? If the goal is to get people to hold/buy donuts then why not just base the multiplier on donut count instead of contrib? Or is the goal to encourage people who earned donuts to not sell them? (Or at least 20k of them). How about not applying the weighting until the user hits 20k contrib? That way it won't negatively affect new users who are trying to get to 20k contrib, and also won't negatively affect older sub users unless they sold a lot of their donuts. 
+
+!tip 2
