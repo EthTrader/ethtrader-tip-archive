@@ -1,0 +1,11 @@
+> system even by sending 0.0001 tips a few times.
+
+Tips less than 1 have 0 no weight xD
+
+Also, off-chain tips are awarded alongside distribution, so, even if II have 100k DONUTs in my wallet. If I'm, not very active, but I send people 20 tips for their content, and receive no tips myself... then those 20 people arn't goiing to get anything, because I have no rewards incoming myself to re-distribute.
+
+If that makes sense xD
+
+Maybe your right, maybe every active user who comments just once in the round, should receive like, 50 DONUT, that they can send tips - if only there was a way to make this not exploitable though xD
+
+!tip 1
