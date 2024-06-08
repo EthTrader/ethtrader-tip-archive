@@ -1,0 +1,5 @@
+>Tips less than 1 have 0 no weight xD
+
+I know, it's more about to allow them to test the system, to get used to it etc.
+
+!tip 1

@@ -1,0 +1,9 @@
+>voting/tipping system even by sending very small tips like 0.0001 at a time.
+
+Keep in mind, tips of that  size give 0 weight.
+
+But perhaps something where each wallet can use the faucet once per round, to be tipped say, 5 or 10 DONUTs.
+
+That way, they have incoming DONUTs they can redistribute via tipping others.
+
+!tip 1
