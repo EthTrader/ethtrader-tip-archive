@@ -1,0 +1,4 @@
+Maybe you can create a shortcut for the tip text like everyone 😊 
+
+
+!tip 1
