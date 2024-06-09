@@ -1,0 +1,5 @@
+>For example, if a blockchain network comprises 100 addresses but transactions are made by only one sender, the H-Index would rank this network low. The metric emphasizes the importance of a diverse ecosystem where a variety of users actively participate in sending and receiving funds.
+
+Sounding like a good index to be on top of! 
+
+!tip 1
