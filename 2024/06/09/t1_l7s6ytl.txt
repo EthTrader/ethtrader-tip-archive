@@ -1,0 +1,9 @@
+>Coinbase, a leading cryptocurrency exchange, has introduced a pioneering metric in blockchain analytics: the H-Index.
+
+>This new metric aims to provide a more accurate measure of network health by considering both the number of addresses and the diversity of transaction senders.
+
+>Coinbase’s analysis reveals Ethereum as the top performer, with its own layer-2 solution, Base, as a strong contender.
+
+Looks like an interesting metric.
+
+!tip 1
