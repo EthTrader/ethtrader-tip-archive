@@ -1,0 +1,3 @@
+Ethereum tops this metric, as expected.
+
+^(!tip 1.001)

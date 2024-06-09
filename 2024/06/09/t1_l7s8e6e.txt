@@ -1,0 +1,3 @@
+Given that this is a new round with new rules I expected distribution to happen fast so that scores and voting weight will be updated ASAP. Beats me why the process is this slow.
+
+!tip 1
