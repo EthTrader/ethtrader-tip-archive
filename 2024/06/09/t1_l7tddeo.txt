@@ -1,0 +1,3 @@
+Yes, I got an email that the intruders have my details like name and email. I guess they also had access to the portfolio, although they didn't mention anything. I changed the password just in case. I wonder why they don't have 2fa.
+
+!tip 1
