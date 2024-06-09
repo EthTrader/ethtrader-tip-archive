@@ -1,0 +1,3 @@
+>making staking better like allowing 2048 ETH instead of 32 ETH
+
+What does this mean? Did you mean 2 ETH instead of 32? !tip 1
