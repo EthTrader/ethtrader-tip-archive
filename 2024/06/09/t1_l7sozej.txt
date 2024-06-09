@@ -1,0 +1,11 @@
+Riki, you're probably right.
+
+Pay2post = Post Ratio * 2.5 
+
+(2.5 full weighted tips need to cover post fee with 1x multiplier)
+
+In case the proposal comes for news link 0.5x multiplier, then 5 full weight tips need to cover the cost.
+
+That's my understanding, may I understand wrong.
+
+!tip 1
