@@ -1,0 +1,3 @@
+I have same question. I think those tips will not be counted (outgoing and incoming both).
+
+!tip 1
