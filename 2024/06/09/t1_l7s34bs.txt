@@ -1,0 +1,3 @@
+Rabbys is just a wallet, but yes, they support and have whitelist DONUT without the need of manually importing it.
+
+!tip 1
