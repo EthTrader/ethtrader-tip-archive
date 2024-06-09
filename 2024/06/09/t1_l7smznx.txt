@@ -1,0 +1,4 @@
+Did you account for 0.5x multiplier for Daily?
+
+
+!tip 1

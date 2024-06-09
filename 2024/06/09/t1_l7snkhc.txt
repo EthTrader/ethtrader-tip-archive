@@ -1,0 +1,7 @@
+Bug found 😆
+
+Rectified
+
+admin->notify->mods->multisig-sign-done ("True")
+
+!tip 1
