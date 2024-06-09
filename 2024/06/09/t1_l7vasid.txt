@@ -1,0 +1,7 @@
+Availability's data availability architecture will work with Layer 2 projects like Arbitrum, Optimism, Polygon, StarkWare, and zkSync.  
+  
+Avail recently said it is working closely with OP Labs, one of the main contributors to Optimism, to make it easier to integrate with its ecosystem.  
+  
+Orbit chain builders will not have to rely on AnyTrust's external Data Availability Committee to publish data in Arbitrum. Instead, they can use Avail DA.
+
+!tip 1
