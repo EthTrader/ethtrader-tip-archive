@@ -1,0 +1,5 @@
+For posts = good
+
+For comments= bad
+
+!tip 1
