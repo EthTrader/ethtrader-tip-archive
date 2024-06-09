@@ -1,0 +1,11 @@
+Other DEX's will be a factor yes but don't forget all of the new DEX's that turn out to be shady and/or fail completely. 
+
+Uniswap has credibility and is the largest ETH DEX there is.
+
+Register a wallet and you can earn donuts on this sub!
+
+To register you do the register command followed by your address like this 👇
+
+!register 'address'
+
+!tip 6.9
