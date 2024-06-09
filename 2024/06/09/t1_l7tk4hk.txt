@@ -1,0 +1,5 @@
+Main part of Pectra upgrade is making every wallet a smart contract with sponsored fee feature. Dencun had low gas fee and blob features.
+
+Next big upgrade that will make drastic gas fee changes will be related to Danksharding.
+
+!tip 1
