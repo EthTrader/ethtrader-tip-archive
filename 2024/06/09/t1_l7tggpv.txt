@@ -1,0 +1,5 @@
+As far as I know Pectra upgrade is focused on account abstraction, making staking better like allowing 2048 ETH instead of 32 ETH limit but nothing related to gas fees.
+
+I heard that Vitalik and the team are working in making ETH "multi layer" that would help to reduce the gas fees.
+
+!tip 1
