@@ -1,0 +1,7 @@
+There should be a separate "!upvote" command. 
+
+And we should address tip spamming. Especially when it comes to comments. The back and fourth tipping comments is unnecessary.
+
+This system is still new and as it moves forward I sure we can think of ways to fix it.
+
+!tip 2.5
