@@ -1,0 +1,5 @@
+\[YES\] Minimalistic approach is best always. Calculations should be done behind the scenes. If this passes, there will be no residues that can affect user experience while reading, commenting, etc. 
+
+(*Now I am posting the tip command below, an extra work* *xD*)
+
+!tip 1
