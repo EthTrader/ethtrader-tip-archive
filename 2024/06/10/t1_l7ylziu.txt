@@ -1,0 +1,5 @@
+I wrote this already:
+
+>Those who wish to tip can do so independently, but we won't use it to determine votes. Tips will function similarly to a standard tip.
+
+!tip 1
