@@ -1,0 +1,7 @@
+Eth is kept cold, for receipt only. The seed is stored in two different physical locations and protected with an additional password! It is also diversified into two different wallets.
+
+I sign smart contracts for other coins with the regular set of accounts because Ledger security is still better than a hot wallet.
+
+I've looked at multisig but didn't like it. Also, it's very expensive.
+
+!tip 1
