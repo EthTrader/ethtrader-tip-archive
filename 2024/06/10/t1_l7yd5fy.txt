@@ -1,0 +1,9 @@
+Edit your comment with a tip 1 - and then give a tip 1 comment separately - it'll get removed, but that one will count  
+Or you can delete your comment and re-post with the tip
+
+These adjustments will take time to get used to xD  
+
+
+!tip 1
+
+![gif](emote|free_emotes_pack|upvote)

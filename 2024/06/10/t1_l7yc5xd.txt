@@ -1,0 +1,3 @@
+Yeah it won't pick it up, you need to post a new comment with the tip command
+
+!tip 5
