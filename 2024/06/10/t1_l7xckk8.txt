@@ -1,0 +1,3 @@
+Ethereum is better and secure than everything else out there.
+
+^(!tip 1.001)
