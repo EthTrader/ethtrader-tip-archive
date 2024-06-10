@@ -1,0 +1,5 @@
+>Kim noted that nine Ethereum Improvement Proposals (EIPs) are already confirmed for inclusion, with an additional five upgrades under consideration. She added that the upgrades are being staged in batches across devnet implementations, enabling Pectra’s scope to expand in the lead-up to deployment.
+
+9+5 EIPs in a single upgrade, this is why Pectra staged in batches.
+
+!tip 1
