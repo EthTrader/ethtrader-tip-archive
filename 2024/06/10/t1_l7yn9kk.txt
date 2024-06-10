@@ -1,0 +1,3 @@
+If DONUT price rises, your impermanent loss would be reduced.
+
+!tip 1
