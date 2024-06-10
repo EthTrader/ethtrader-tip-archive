@@ -1,0 +1,3 @@
+I think Matt clarified elsewhere that tipping weight is recalculated once a week
+
+!tip 1
