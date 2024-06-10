@@ -1,0 +1,7 @@
+Macro news yes
+
+Other coins No
+
+You can talk about other coins in the daily though
+
+!tip 1
