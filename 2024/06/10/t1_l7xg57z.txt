@@ -1,0 +1,7 @@
+* very low active users for full-weighted tips
+
+
+Also, was there plans for 0.5x multiplier for comedy tag? I could be wrong.
+
+
+!tip 1
