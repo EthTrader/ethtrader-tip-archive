@@ -1,0 +1,5 @@
+This is brilliant plan. Simple and effective if it can be achieved.
+
+No more typing of the extra "tip" after every comment.
+
+!tip 1

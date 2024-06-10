@@ -1,0 +1,3 @@
+Imagine how clean our comments will be, without forced "tip 1" comments.
+
+!tip 1
