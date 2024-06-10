@@ -1,0 +1,5 @@
+Now its an open popularity contest.
+
+even if a new user does tip, if they dont get tipped back they'll earn 0 donuts and their tip won't be sent either. The next CSV is going to be a very short list of probably less than 300 users xD
+
+!tip 1
