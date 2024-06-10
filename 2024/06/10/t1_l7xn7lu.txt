@@ -1,0 +1,3 @@
+Cumulative total in fiat, $190 doesn't add up with the calculation. Check again.
+
+!tip 1
