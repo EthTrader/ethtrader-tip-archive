@@ -1,0 +1,4 @@
+Tip weight doesn't gets updated automatically?
+
+
+!tip 1
