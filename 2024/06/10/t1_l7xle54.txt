@@ -1,0 +1,3 @@
+Don't support CBDC
+
+!tip 1
