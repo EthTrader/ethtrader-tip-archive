@@ -1,0 +1,5 @@
+From what I understand, MiCA's implementation in July brings a "clear regulatory framework for stablecoins" in the EU, **demanding a 1:1 reserve ratio and third-party custody for fiat-backed stablecoins.** This is a good thing, right? Though, nothing is as good as it seems with these people, so I assume there's something more.
+
+The whole purpose of this regulation is to "increase consumer trust and market stability", which is what they all say. Honestly, all I see is stricter compliance requirements. 
+
+>!!tip 1!<
