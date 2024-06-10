@@ -1,0 +1,5 @@
+>If we want crypto to merge with traditional industries and expand tenfold, we need Wall Street and capital markets to embrace it. And asset tokenization seems to be the key. While Wall Street moves at a slower pace compared to crypto startups, the idea that it can’t embrace new technology is outdated. The innovation divisions of the largest banks and asset managers are already advancing with tokenization experiments and proofs of concept, showing they can certainly understand decentralized oracles.
+
+This looks great on paper, but do we really *want* DeFi to merge with TradFi?
+
+>!!tip 1!<
