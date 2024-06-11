@@ -1,0 +1,11 @@
+It was actually still a lot closer than that, of the 98 votes recorded on Snapshot.org, 56 opposed it. 57% of users, whist is a majority, is certainly not a landslide either! xD
+
+>Besides, shouldn't a rejected proposal given time before it can be up for another run?
+
+Actually, I couldn't find anything about that in the guidelines, it was definitely a part of r/cc policies. - https://www.reddit.com/r/ethtrader/wiki/governance
+
+However, I agree, that there should be a minimum round duration before a rejected proposal can be repeated - perhaps this is a core value that should be stated in the constitution, either that or I am blind and can't see it established already.
+
+Pinging u/Aminok for constitution feedback.
+
+!tip 1.2345
