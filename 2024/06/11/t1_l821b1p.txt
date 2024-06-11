@@ -1,0 +1,5 @@
+>Ethereum layer-2 Optimism has implemented fault proofs into its smart contracts, according to its development team, OP Labs. According to the team, Optimism has now reached “Stage 1” of decentralization, referring to a list of milestones articulated by Ethereum co-founder Vitalik Buterin.
+
+Good job.
+
+!tip 1
