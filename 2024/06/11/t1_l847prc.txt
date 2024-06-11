@@ -1,0 +1,3 @@
+"POL introduces cross-chain validation and rewards and incorporates a 2% annual inflation rate over a decade, with 1% allocated to validator rewards to encourage active network participation and the remaining 1% supporting ecosystem growth through a newly established Community Treasury governed by the community."
+
+!tip 1
