@@ -1,0 +1,3 @@
+>Blobstream allows developers to continue their work within the Ethereum ecosystem. Builders can create customizable, high-throughput blockspace without the need for permissions or committees while ensuring security through cryptographic economic guarantees.
+
+I've always wondered what blob means and I was too distracted to check for it. I just learned something now. !tip 1
