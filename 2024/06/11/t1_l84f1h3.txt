@@ -1,0 +1,1 @@
+What is Monad exactly? Lazy here. What is the relation from Elixir and Monad? Is Monad like an L2 and Elixir runs on top? Have to do my research at home. !tip 1
