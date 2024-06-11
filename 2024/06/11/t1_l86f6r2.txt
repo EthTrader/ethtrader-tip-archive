@@ -1,0 +1,3 @@
+Yeah, upvotes don't count, only tips.
+
+!tip 1
