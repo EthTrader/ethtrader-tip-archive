@@ -1,0 +1,7 @@
+His knowledge is limited. Example:
+
+>I only know of one real-life use for "blockchain-related" technology - Git, which is based on Merkle Trees. It is a lifesaver for the IT industry and programmers.
+
+Ignore him.
+
+!tip 1
