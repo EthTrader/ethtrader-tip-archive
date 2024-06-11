@@ -1,0 +1,3 @@
+>Zircuit is an Ethereum Virtual Machine-compatible ZK rollup that can be compared to similar projects such as ZKsync, Scroll and Linea.
+
+This my first time learning about Zircuit. So many things on ETH ecosystem I needs to learn. Nice article !tip 1
