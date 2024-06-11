@@ -1,0 +1,3 @@
+[YES] but keep news links at 1x because: only 3 posts per day, no duplicate content, no repeat content.
+
+!tip 1
