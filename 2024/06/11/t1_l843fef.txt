@@ -1,0 +1,5 @@
+I don't think so.
+
+>The Pectra upgrade will also enact EIP-7251, which will increase the staking limit for validators from the current 32 Ether (ETH) to 2,048 ETH. This increase enables validators to hold a balance between 32 and 2,048 ETH, expanding from the previous 32 ETH limit.
+
+!tip 1
