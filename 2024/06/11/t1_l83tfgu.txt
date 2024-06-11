@@ -1,0 +1,3 @@
+Haha. Dont price will reduce to 0.0003 if minimum is 5
+
+!tip 1
