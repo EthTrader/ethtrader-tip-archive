@@ -1,0 +1,3 @@
+Media and Comedy flair were previously nerfed because they received more exposure and updoots from external users compared to News/Text posts. However, since we've shifted to a different model, increasing those multipliers now wouldn't be a bad idea, as updoots from non-registered users are no longer counted for rewards.
+
+!tip 1.001
