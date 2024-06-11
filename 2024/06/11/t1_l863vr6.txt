@@ -1,0 +1,3 @@
+The best solution is to remove the "tip" command. Make "1 comment is 1 vote" and use governance points weightage.
+
+!tip 1
