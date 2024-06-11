@@ -1,0 +1,3 @@
+I expect at least $3
+
+!tip 1
