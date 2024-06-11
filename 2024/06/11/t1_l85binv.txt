@@ -1,0 +1,3 @@
+He forgot the NFA-disclaimer
+
+^!tip 1
