@@ -1,0 +1,5 @@
+" It promises to slash the traditional 30-minute wait time for Structured Query Language (SQL) queries to sub-second speeds."
+
+Nice
+
+!tip 1
