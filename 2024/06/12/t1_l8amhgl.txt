@@ -1,0 +1,9 @@
+> Can we make it so that only original or new memes have this buff?
+
+That would actually be quite difficult to police and enforce - it's easy for someone to add a watermark or tag to something - but worth considering in a separate proposal.
+
+I believe better quality and original comedy would not only gain more tips from users, but more generous tips, thus be more rewarding.
+
+Lesser quality and re-posts would likely have a harder time achieving the required votes to break even, and should not be too substantial of an increase to see the front page full of just comedy.
+
+!tip 1
