@@ -1,0 +1,11 @@
+"Here's what makes the EWM stand out:
+
+*Decentralized: The EWM addresses concerns of censorship risks by providing historical data through a decentralized network.
+
+*Removing the RPC Bottleneck: Innovative technologies like Block Specimens and Block Results eliminate limitations associated with querying the RPC layer for data.
+
+*Secured via Proofs: Cryptographic proofs ensure data integrity, allowing participants to verify the accuracy of the provided data.
+
+*Enrichment: The EWM offers enrichment capabilities, such as contract tracing and off-chain NFT metadata, empowering developers and users with in-depth insights and analytics."
+
+!tip 1
