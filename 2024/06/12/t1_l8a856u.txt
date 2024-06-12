@@ -1,0 +1,5 @@
+Currently, I think it is 0.1x multiplier should also need to increase a bit. 
+
+25 full weight tips is hard to recover the post fee.
+
+!tip 1
