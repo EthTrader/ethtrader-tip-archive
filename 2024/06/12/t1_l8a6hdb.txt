@@ -1,0 +1,7 @@
+This proposal simply rewards additional CONTRIB to users who vote.
+
+This doesn't change anything else.
+
+Users need CONTRIB in the first place, ergo, they need to have received 1 distribution before they are allowed to vote; that has always been the case regardless of this bonus or not.
+
+!tip 1
