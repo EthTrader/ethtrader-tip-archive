@@ -1,0 +1,15 @@
+I’d be voting no, for now.
+
+We are still in the early stages of the Tip2Vote system, and I think we should assess how distribution scores perform over a complete cycle first.
+
+I will also say that changing from a fixed fee of 250 donuts to a flexible fee was the worst thing that happened to this sub. It increased the spam issue significantly. The sub was overwhelmed with hundreds of posts daily, which lead to clutter and loss of quality of content. Users were spamming dozens of posts a day, 10-12.
+
+Sure, we have a post submission cap now, which leads me to the next argument. 
+
+The current 3 post cap per user per 24 hours, combined with the Pay2Post fee, makes users to think about what they’re going to post. This promotes a sense of responsibility and accountability, making that posts are valuable and relevant. Removing the fee is simply going to lead to a decline in content quality as users feel less accountable, because they’ll just post whatever as there’s no penalty.
+
+The last thing and most important thing of all. Everyone will earn less, just like it happened under the new flexible pay2post fee. If everyone earns more individually, then everyone earns less collectively. This is because there’s only a specific amount of Donuts that are distributed every month. This is why we have ratios.
+
+Let’s say a user incurs 2K Donuts in fees, it means they earn 2K less. Eliminating the fee would mean users "lose less", but ultimately it’s just going to reduce the overall value and earnings for all members as the post ratios drop globally. This would disproportionately reward those who post indiscriminately, affecting the entire community's earnings.
+
+!tip 5
