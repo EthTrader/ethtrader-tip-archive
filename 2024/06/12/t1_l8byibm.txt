@@ -1,0 +1,7 @@
+Yea, I definitely need to contact CoinGecko. There’s some things that need to be updated in our CoinGecko page.
+
+Additionally, we might also add the widget to the dashboard, allowing users to buy Donuts with fiat directly.
+
+Thanks!
+
+!tip 5
