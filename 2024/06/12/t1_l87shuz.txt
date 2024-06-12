@@ -1,0 +1,5 @@
+Governance weight used to be updated weekly, but supposdely it's done daily now.
+
+However, MattG is away on holidays, so perhaps the bot fell asleep and he can't wake it up til he gets back 
+
+!tip 1
