@@ -1,0 +1,4 @@
+After CPI data they should reverse if the data doesn't come in hot. 
+
+
+**!tip 1**
