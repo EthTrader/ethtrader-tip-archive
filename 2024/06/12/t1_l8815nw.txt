@@ -1,0 +1,5 @@
+They do have the option to give less than 1 donut as a tip, it just won't be counted in  the T2V.
+
+They also have the option to give no tip.
+
+!tip 1
