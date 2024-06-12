@@ -1,0 +1,7 @@
+\[YES\] This is a great idea.
+
+I think it would be also interesting to have a command that retrieves data for the user like how many updoots/tips they have received on posts/comments, how many posts they have deleted and posted, etc. 
+
+Something to replace [https://www.mydonuts.online/](https://www.mydonuts.online/)
+
+!tip 3
