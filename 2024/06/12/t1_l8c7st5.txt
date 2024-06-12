@@ -1,0 +1,3 @@
+Bitwise should learn about transaction costs on Layer 2 networks.
+
+!tip 1
