@@ -1,0 +1,3 @@
+People may not get what they expect if there are multiple addresses of the same holders.
+
+!tip 1
