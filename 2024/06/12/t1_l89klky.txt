@@ -1,0 +1,5 @@
+Reddit-Pro-Tip
+
+Tagging more than 3 users in a single comment disables the notification to the tagged users. Anti-spam measure
+
+!tip 1
