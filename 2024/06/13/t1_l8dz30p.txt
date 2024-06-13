@@ -1,0 +1,5 @@
+>Kroma is the first Ethereum Layer 2 solution developed by Lightscale that combines Optimistic Rollup and zero-knowledge proofs. 
+
+Would be interesting to see how that unfolds!
+
+^(!tip 1)
