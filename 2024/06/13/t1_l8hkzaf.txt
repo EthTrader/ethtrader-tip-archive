@@ -1,0 +1,3 @@
+zkSync is an Ethereum L2 network that messes up the airdrop and sends tokens to all bots, Sybil accounts instead of legit users.
+
+!tip 1
