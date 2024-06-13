@@ -1,0 +1,3 @@
+To learn how zkSync works, you shouldn't have ZK. You should have at least SK (Some Knowledge).
+
+!tip 1
