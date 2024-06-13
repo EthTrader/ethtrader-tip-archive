@@ -1,0 +1,3 @@
+why not just implement a bot to crawl eth related news from google/coindesk/cointelegraph and auto post them in the post section. this way poster will not need to worry about losing donuts due similar post issues
+
+# !tip 1
