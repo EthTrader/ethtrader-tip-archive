@@ -1,0 +1,5 @@
+>since you have to tip from your own stash.
+
+Well, technically you tip from your potential stash. No DONUT will be removed from your wallet that you already own. DONUT you tip will only be redistributed from your your rewards in the CSV data.
+
+!tip 1

@@ -1,0 +1,5 @@
+I prefer Render as AI token.
+
+Here some silly tipping:
+
+!tip 1.2345
