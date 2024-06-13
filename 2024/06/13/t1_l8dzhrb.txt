@@ -1,0 +1,4 @@
+degen->short->all-in
+
+
+**!tip 1**
