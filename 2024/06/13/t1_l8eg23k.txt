@@ -1,0 +1,15 @@
+Detailed reasons why I am voting no;
+
+* Most people (not all) who are complaining about Pay2Post fee are having their posts removed because they are posting duplicates, or off-topic titles. This can simply be avoided in most cases by spending half a minute reading what their article actually is, and another minute browsing the sub. If you want to post links to earn donuts, perhaps, look at what else is already being shared first.
+
+* We have a limit of 3 posts in 24 hours we can create. With DONUT cost removed, users will be more inclined to post 3 times per day, because worst case scenario, their post gets removed, and they still receive the tips, even if the tipvote is not counted, the tip itself is still processed. 
+
+* We have flair multipliers for this reason as well, to help assist with spam control. (Yes, I think this should be slightly amended) but with no pay2post, whats to stop people deciding to simply post a Media post, a picture of a chart of any ERC-20 token?
+
+* Pay2Post is still a good feature as an anti-spam measure, we see how many duplicate stories get removed as it is... just wait until the same story takes up 8 of the top20 posts - waiting for a Mod to come online and clear the clutter - because lets face it, nobody wants to be that guy that nukes other peoples posts
+
+* As an anti-spam measure, removing this will create more work for the mods - and moderation duties already appear to be spread rather thin. It's not like duplicates are being removed 10 minutes after posting, they are on the front page for hours to most of a day in some cases.
+
+Just my 2 gwei!
+
+!tip 1
