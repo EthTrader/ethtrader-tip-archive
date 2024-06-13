@@ -1,0 +1,17 @@
+I've said a few times, the issue with tiip2vote, especially for comments, really results in more of a popularity contest.. Many genuine new users won't get tipped much in the first place, plus until there is a written Constitution and a well defined Donut-Wiki (Similar to r/cc Moons Wiki) there is always going to be confusion and difficulty for new users.
+
+Yes, Tip2Vote now shows transparency with votes, but that's not necessarily a good thing in real time. It would be good to see such activities post-mortem.
+
+But you also can't police what people want to tip, or what they appreciate.
+
+That funny joke someone might tip, that detailed analysis someone else might tip. 
+
+Personally, I think the best approach would simply to have been leave the comments rewarded by upvotes as usual, but also reduce the overall comment donut allocation, from 340k down to 300k.
+
+Use that spare 40k to better reward things like nominated comments, or "Posts of the week".
+
+Comment vote manipulation would incur ratio's low enough, manipulating isn't worth it - but a fairer distribution amongst all contributors would return.
+
+Would alts come back? Maybe, most likely. But vote manipulation was minimal on comments, compared to posts, due to the disparity in Donut/Vote Ratios from the separate reward allocations. 
+
+!tip 1
