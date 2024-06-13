@@ -1,0 +1,12 @@
+  {
+    "username": "bvandepol",
+    "address": "0x52a7f4e8904F70Ea831ED31511b35AadCB36b1d9",
+    "activeMembership": true,
+    "membershipRank": 5,
+    "totalDonutsBurned": 1000.0,
+    "totalBoughtMonthsMembership": 5.0,
+    "spentDays": 65,
+    "notSpentDays": 87
+  },
+
+!tip 1
