@@ -1,0 +1,5 @@
+1 whole donut is the minimum amount to be counted towards a vote.
+
+Otherwise less than 1 will still be tipped, but won't count for distributed rewards 
+
+!tip 1
