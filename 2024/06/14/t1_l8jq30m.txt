@@ -1,0 +1,5 @@
+!tip 1
+
+For whatever reason it seems that the total number of users in Linea's campaign looks very reasonable (in the few hundred ks for the LP programme, around 1m for Linea Park) - compared to 6m wallets for ZKSYNC filtered down to 690k for example
+
+I've quietly hoping that this one will cook for all of us, and most the sybils get sybiled out
