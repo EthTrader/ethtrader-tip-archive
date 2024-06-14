@@ -1,0 +1,5 @@
+>ZKsync is a Layer 2 scaling solution for Ethereum that aims to increase the network's transaction throughput while reducing transaction fees. It is built on top of ZK-rollup technology, which allows for aggregating multiple transactions into a single proof that can be verified on the Ethereum blockchain. 
+
+You're welcome.
+
+!tip 1
