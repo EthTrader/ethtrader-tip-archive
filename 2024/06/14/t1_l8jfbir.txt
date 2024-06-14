@@ -1,0 +1,5 @@
+TL;DR
+
+>Over the past year, Polygon Labs has espoused a new vision for their blockchain. Instead of a single PoS sidechain scaling Ethereum, Polygon (MATIC) is set to become an ecosystem of zero-knowledge-powered Layer 2 chains that share liquidity with and infinitely scale Ethereum. 
+
+I'd like to see how this works out for them. I don't understand why they're not cool with their current state. !tip 1
