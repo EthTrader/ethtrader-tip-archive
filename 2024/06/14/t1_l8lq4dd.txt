@@ -1,0 +1,4 @@
+It moves up 1 time and down 5 times.
+
+
+**!tip 1**
