@@ -1,0 +1,16 @@
+I don't know a thing about bot development or coding;
+
+Would it not be easier just to get Distributed Moderation  to approve filtered posts functional?
+
+Otherwise if it was possible to give bots a "priority order"
+
+Currently;
+
+1) Pay2Post is charged (Regardless if filtered or not)
+2) Donut-Bot stickies comment for Tip confirmations
+3) Donut-Bot deletes/locks post if posted within 30 minutes of previous post, or exceeds 24 hour post cap.
+
+
+Is it possible to switch the order of 1 and 2?
+
+!tip 1

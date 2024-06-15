@@ -1,0 +1,7 @@
+[NO]
+
+This rule has helped in keeping the feed very clean. Users should take some efforts to search and read articles. 
+
+Yes there are many cases where users are unable to find posts if the posts are stuck in mod queue. But we can do some tweaking in the Pay2Post, maybe reduce it a bit further or something.
+
+⚡^(!Tip 1.01)
