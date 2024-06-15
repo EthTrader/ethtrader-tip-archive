@@ -1,0 +1,5 @@
+>Rather than removing the Pay2Post fee for duplicate content, I'd prefer if we could provide an automated means of warning the user if the content they're providing looks to be a duplicate, before they post it
+
+this would be the preferred solution I think
+
+!tip 1
