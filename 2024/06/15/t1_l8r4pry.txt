@@ -1,0 +1,3 @@
+But PWA is not popular in web 2.0 because it mess up with cache. Simple 2D Web3 games can be played but good quality games cannot be played using PWA, near to impossible.
+
+!tip 1
