@@ -1,0 +1,7 @@
+> I would rather remove pay2post fee and keep no-duplicates rule.
+
+I would rather see the Distributed Moderation implemented.
+
+Pay2Post is not an issue - users not checking what posts are already up is the issue... however, in a portion of cases, users who do check, actually are screwed because they can't see what filtered posts are in the queue.
+
+!tip 1

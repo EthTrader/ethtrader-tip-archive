@@ -1,0 +1,3 @@
+If you remove the no duplicates rules you will see 10 articles with the same post for sure
+
+!tip 1
