@@ -1,0 +1,4 @@
+But mattg said that the voting weight is updated every 24 hrs now. So there's likely some bug right now in the code. 
+
+
+**!tip 1**
