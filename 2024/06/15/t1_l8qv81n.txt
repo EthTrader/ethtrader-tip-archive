@@ -1,0 +1,9 @@
+The automated means of warning would be perfect if it was possible. Firstly we need the bot not to allow duplicate links in the first place like is supposed to already be in place.
+
+For the scenarios where it's harder to tell due to different title etc I guess the only way to automate it would be to have a bot reading through the article via the links. I'm sure that is possible but sounds like a lot of work to put it in place!
+
+Plus I'd imagine the warning will come up when posts aren't actually duplicate due to multiple key words in articles.
+
+Probably best to ask Matt! 
+
+!tip 1
