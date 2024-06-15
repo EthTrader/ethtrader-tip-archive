@@ -1,0 +1,3 @@
+As far as I understand, tip weights are updated daily (or atleast should be), selling your donuts don't affect your previous tip weights
+
+!tip 1
