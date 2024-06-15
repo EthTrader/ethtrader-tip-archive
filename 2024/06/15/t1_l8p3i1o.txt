@@ -1,0 +1,3 @@
+A rule to stop us from tipping each others posts? 
+
+!tip 1
