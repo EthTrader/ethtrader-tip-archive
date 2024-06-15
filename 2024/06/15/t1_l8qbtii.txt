@@ -1,0 +1,7 @@
+The loss of funds wasn't due to phising or anything, but he wasn't careful and played the middle man of a transfer that was larger than his liquidity... basically it resulted in 1 user receiving useless testnet tokens in exchange for their mainnet tokens!
+
+Found the post - you can read it here https://www.reddit.com/r/CryptoCurrencyMeta/comments/10vhmus/moonplaceio_dev_payment_and_discovery_of_fake/
+
+I'm don't think it was malicious, I just think it was poor form... I also say he's amateurish because he's seemingly started several projects, and never really completed them or followed through with a polished final product.
+
+!tip 1
