@@ -1,0 +1,7 @@
+Yes LP counts for governance. The issue is that the weight doesn’t instantly reflect whatever you buy/sell. I’ve heard that the bot updates weight scored every x hours (exact time??) 
+
+Another thing is that some people didn’t even have their weights changed since the latest distribution… I saw one guy today still at last rounds weight and I tagged u/mattg1981.
+
+So, yeh, normally your weight should be updated prolly like once per day or whatever time Mattg set the bot to, but now I don’t know what’s up since people are facing issues where their weight hasn’t updated for nearly 2 weeks. Hopefully u/mattg1981 can clear things up
+
+!tip 1
