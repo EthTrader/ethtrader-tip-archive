@@ -1,0 +1,5 @@
+>Avail, a data availability solution that spun out of Polygon, has revealed integrations with five of the Ethereum ecosystem’s leading Layer 2 networks. Announced on April 24, Arbitrum, Optimism, ZkSync, Polygon, and StarkWare will each integrate Avail’s data availability architecture, Avail DA, into their respective tech stacks ahead of the project’s mainnet launch.
+
+Good to know that Avail is an important part of L2 and L3 networks on Ethereum. Data Availability is crucial on rollups.
+
+!tip 1

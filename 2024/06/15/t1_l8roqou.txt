@@ -1,0 +1,13 @@
+I needed something to mine with my GPUs back in ‘22.. KAS was new and profitable.. 
+
+Now it’s entering the top-25 without a single tier-1 CEX having it listed..
+
+It’s fast, cheap, fair launched and now KRC-20 has been announced for this or next month to release.
+
+What means smart contracts, tokens and stablecoins on their network.
+
+‘Rust’ upgrade has been implemented, what means 10 BPS (blocks per second).
+
+Testnet is running at 100BPS. So ultrafast, with hardly any fees..
+
+!tip 5
