@@ -1,0 +1,3 @@
+Yeah the problem is if you only did txs and swap, you might haven't qualified...the problem was you had to use paymaster and LP and such things
+
+!tip 1
