@@ -1,0 +1,3 @@
+Base, that was fast.
+
+!tip 1
