@@ -1,0 +1,3 @@
+These risks will be averted with new updates before the actual Pectra upgrade date.
+
+!tip 1
