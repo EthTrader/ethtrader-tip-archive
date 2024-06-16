@@ -1,0 +1,5 @@
+Coingecko/research section has original articles.
+
+We filter out only copy/pase contents, and entertain only original source of any given article.
+
+!tip 1
