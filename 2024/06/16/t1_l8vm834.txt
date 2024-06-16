@@ -1,0 +1,3 @@
+Those are transactions Adding or Removing assets from the liquidity pool.
+
+!tip 1
