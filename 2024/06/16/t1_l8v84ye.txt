@@ -1,0 +1,3 @@
+Support USDC, DAI too.
+
+!tip 1
