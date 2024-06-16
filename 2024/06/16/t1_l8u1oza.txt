@@ -1,0 +1,3 @@
+Rollups can't work without data availability.
+
+!tip 1
