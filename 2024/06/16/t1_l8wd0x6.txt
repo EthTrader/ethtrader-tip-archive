@@ -1,0 +1,3 @@
+\[YES\] content aggregator links should be filtered out
+
+!tip 1
