@@ -1,0 +1,3 @@
+That's how we upvote on the sub now. Normal upvotes no longer count and we have to tip a minimum of 1 which is counted as an upvote
+
+!tip 1
