@@ -1,0 +1,5 @@
+[YES]
+
+Content Aggregator News Links shouldn't be allowed.
+
+!tip 1
