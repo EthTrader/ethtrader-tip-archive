@@ -1,0 +1,7 @@
+>The SEC’s classification of staked ETH as a security hinges on applying the Howey Test, which determines whether an asset qualifies as an investment contract.
+
+More details inside (it's 4 aspects).
+
+Source: https://cryptoslate.com/why-staking-has-been-removed-from-ethereum-etfs-for-now/
+
+!tip 1
