@@ -1,0 +1,9 @@
+Just an example: This user posted cryptopanic link instead of bitcoinsystemi:
+
+[https://www.reddit.com/r/ethtrader/comments/1cx4io7/just\_in\_the\_change\_the\_sec\_wanted\_has\_arrived/](https://www.reddit.com/r/ethtrader/comments/1cx4io7/just_in_the_change_the_sec_wanted_has_arrived/)
+
+Similar to this, we have seen coinmarketcap and coinstats links, instead of the links to original articles.
+
+We will filter out all those websites that "post exact copy/pasted articles from other sites and add a link to the source below it."
+
+!tip 1
