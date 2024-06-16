@@ -1,0 +1,9 @@
+Well, there is an objective answer for this!
+
+MEXC places Tokens on an 'ST Warning' list before de-listing projects if;
+
+* *The project has sustained low liquidity with an average daily trading volume of less than 50,000 USDT for 30 consecutive days.*
+
+So there you have it. If users actually want to see a CEX listing occur, trading volume needs to reach a level that CEX's would maintain a listing for, 50k daily.
+
+!tip 1
