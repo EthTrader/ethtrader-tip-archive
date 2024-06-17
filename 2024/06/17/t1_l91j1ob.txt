@@ -1,0 +1,3 @@
+ High traffic on the blockchain, often caused by popular decentralized applications (dApps), leads to higher demand for computing power and thus increasing gas fees. 
+
+!tip 1
