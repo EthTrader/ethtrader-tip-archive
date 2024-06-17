@@ -1,0 +1,7 @@
+LINK $100
+
+ETH 10k
+
+![gif](giphy|I1nwVpCaB4k36)
+
+!tip 1
