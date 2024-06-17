@@ -1,0 +1,7 @@
+>How does crypto achieve mass adoption when most things break when activity surges?
+
+Most things break with high activity. Have you tried booking concert tickets when they go live?
+
+Anyone can suffer a DDOS attack with or without blockchain.
+
+!tip 1
