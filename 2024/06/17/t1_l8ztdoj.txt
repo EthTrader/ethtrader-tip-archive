@@ -1,0 +1,3 @@
+onchain only 3: $bucket, bitcone and don't
+
+!tip 1
