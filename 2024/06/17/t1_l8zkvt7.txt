@@ -1,0 +1,5 @@
+I did a few things on Starknet, it wasn't too bad.
+
+Just a little inconvenient because you need it's own native wallet. I don't think Rabby or Metamask is compatible. Unless thats changed.
+
+!tip 1
