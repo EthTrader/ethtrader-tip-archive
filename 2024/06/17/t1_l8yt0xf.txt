@@ -1,0 +1,3 @@
+   It could be because with T2V we have fewer downvotes on the main page and therefore the algorithm on Reddit sometimes puts some posts on the main page. I think that would be the most obvious one. 
+
+!tip 1
