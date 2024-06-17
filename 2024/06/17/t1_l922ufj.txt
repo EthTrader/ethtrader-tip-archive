@@ -1,0 +1,7 @@
+Final snapshot happens in:
+
+15d 23h 36m 39s
+
+Distribution is after that, whenever mods create and sign the multisig 
+
+!tip 1
