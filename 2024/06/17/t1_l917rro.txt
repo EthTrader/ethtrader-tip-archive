@@ -1,0 +1,5 @@
+Add = when someone adds tokens to liquidity Pool
+
+Remove = remove from LP
+
+!tip 1
