@@ -1,0 +1,3 @@
+Is it mainnet? Won't somebody think of the gas fees?
+
+!tip 1
