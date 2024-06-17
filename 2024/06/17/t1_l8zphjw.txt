@@ -1,0 +1,7 @@
+>The new staking and deposit proposal suggests that any ETH deposited will be accounted for separately and can be withdrawn at any moment.
+
+>Rocket Pool is updating its tokenomics, removing RPL as a reward for node operators and reducing inflation to 1.5% from 5%.
+
+It’s always great to see projects trying to stay competitive, this is how they stay relevant. Everyone wins, users win and the projects win.
+
+!tip 1
