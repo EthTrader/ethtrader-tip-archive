@@ -1,0 +1,5 @@
+>“For IP addresses in particular, we may temporarily process your IP address only where required for some of our Services (depending on your MetaMask settings) to provide the best possible experience for MetaMask users. This includes, for example, the prevention of DDoS attacks.”
+
+Oh no.
+
+!tip 1
