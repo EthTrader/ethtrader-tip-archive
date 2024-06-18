@@ -1,0 +1,3 @@
+>An infinite mint attack occurs when an attacker manipulates a contract’s code to continuously mint new tokens beyond the authorized supply limit.
+
+Just like I thought. Mint as many tokens as you like and dump them...hackers delight. !tip 1
