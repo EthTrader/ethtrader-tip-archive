@@ -1,0 +1,11 @@
+Perhaps, to ensure each week has a starting base.
+
+You add 1 DONUT per entry from the previous week.
+
+Eg. 5 users enter week 4.
+
+Allocate 5 DONUT to the base prize for the following week 5.
+
+This will mean a reduction in prize money, but hopefully more consistent inflow of tickets.
+
+!tip 1
