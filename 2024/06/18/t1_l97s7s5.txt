@@ -1,0 +1,3 @@
+There's one EIP that was written by Vitalik in 22 minutes, which will enable a feature that can make your wallet a smart contract for a short period.
+
+!tip 1
