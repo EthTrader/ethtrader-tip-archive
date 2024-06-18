@@ -1,0 +1,3 @@
+Still an infinite amout of coins.
+
+ !tip 1
