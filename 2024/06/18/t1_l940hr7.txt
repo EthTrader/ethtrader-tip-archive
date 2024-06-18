@@ -1,0 +1,5 @@
+>EIP-7251 — Increases the maximum effective balance for Ethereum validators from 32 ETH to 2048 ETH
+
+A game changer.
+
+!tip 1
