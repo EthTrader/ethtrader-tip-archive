@@ -1,0 +1,13 @@
+>What is a reasonable amount to charge? Do we burn those donuts or send them to treasury for future contests/dev work?
+
+Depends what perks we end up adding.
+
+If you are doing a seasonal model, I would suggest a base price of 125 DONUT per week. That's 500 per month, or 1000 for 2 months - depending on your season structure.
+
+Or peg it to $1.25 USD per week, thats your $5 a month membership.
+
+>Do we burn those donuts or send them to treasury for future contests/dev work?
+
+I would say burn them - I think we get enough into the Treasury building up each Distro.
+
+!tip 1
