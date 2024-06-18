@@ -1,0 +1,5 @@
+[yes]
+
+There's a site called decrypt that generates articles through AI. They also have original posts. So people have to be careful about which one they post.
+
+!tip 2
