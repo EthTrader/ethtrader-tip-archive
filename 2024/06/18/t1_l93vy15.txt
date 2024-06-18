@@ -1,0 +1,7 @@
+I would like to see special membership bypass the tip2vote multiplier penalty for users with less than 20k contrib, or at least reduce the penalty, maybe adding an extra 0.1 to the multiplier for however many consecutive seasons, or months users have had special membership, up to the 1.0 multiplier (although I realise that this creates an opportunity for manipulation if people make ALT accounts and tip themselves a lot.)
+
+I would love colored usernames as an option. 
+
+Also, can't we already post gifs? I don't like the idea of removing features and re-enabling them only for special members.
+
+!tip 1
