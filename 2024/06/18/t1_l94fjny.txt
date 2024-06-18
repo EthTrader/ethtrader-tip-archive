@@ -1,0 +1,5 @@
+That address is connected to Polkadot founder. He wanted to revert the transaction by proposing a Hardfork. But Ethereum community rejected the proposal because it had enough drama of blocks reversing Hardfork (EthereumClassic drama).
+
+And all those ETH in the wallet, dies, permanently.
+
+!tip 1
