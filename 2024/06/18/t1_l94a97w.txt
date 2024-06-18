@@ -1,0 +1,3 @@
+Correlation doesn't equal causation. Whale activity *might* signal a trend, but it's not a guarantee.
+
+!tip 1
