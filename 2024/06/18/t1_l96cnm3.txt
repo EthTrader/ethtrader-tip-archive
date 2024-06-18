@@ -1,0 +1,10 @@
+```
+
+
+admin->posts->delete->user("rikbona")->time(">5 days")->execute
+
+
+```
+
+
+**!tip 1**
