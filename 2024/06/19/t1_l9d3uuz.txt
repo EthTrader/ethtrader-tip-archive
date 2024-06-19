@@ -1,0 +1,3 @@
+Yes. We should move Arbitrum pool to Uniswap for easy access (both mainnet and Arbitrum)
+
+!tip 1
