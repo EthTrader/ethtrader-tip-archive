@@ -1,0 +1,1 @@
+When the price of ETH moves, every other ERC 20 token moves along with it. !tip 1
