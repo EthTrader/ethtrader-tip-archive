@@ -1,0 +1,7 @@
+Simple strategy:
+
+When market crashes, place a limit buy order very low.
+
+Now, close the charts and move out. Enjoy the nature, touch the grass.
+
+!tip 1
