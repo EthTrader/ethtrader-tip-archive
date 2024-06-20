@@ -1,0 +1,3 @@
+I think I have seen Aminok state this as well - we 100% need these sort of clarifications documented... we can't rely on user memory, and users, new and old, need to have easy access to view it.
+
+!tip 1
