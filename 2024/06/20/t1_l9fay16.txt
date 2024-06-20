@@ -1,0 +1,1 @@
+A wallet is like a internet browser.. You use Metamask (or any other ERC20 wallet) to view your holdings. They are not *in* Metamask !tip 1
