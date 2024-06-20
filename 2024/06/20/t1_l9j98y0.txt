@@ -1,0 +1,3 @@
+This EIP was written by Vitalik Buterin in just 22 minutes.
+
+!tip 1
