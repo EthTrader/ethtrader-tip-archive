@@ -1,0 +1,7 @@
+FET is an erc-20 token - as is AGIX and OCEAN.
+
+They are going to merge in July to become the ASI token, the Artificial Superintelligence Alliance.
+
+Owners of all 3 tokens will receive relative ASI tokens when the conversion takes place (Most exchanges will handle this, I assume there might be a contract self custody holder might need to use)
+
+!tip 1
