@@ -1,0 +1,5 @@
+>That assertion is now being weighed through UMA, a Polymarket partner and DeFi protocol that settles disputes using tokens. UMA’s token holders have been tasked with voting on which outcome is indeed true, a process UMA describes as its “decentralized truth machine.”
+
+This is interesting. Using the votes of another partner token to decide the result.
+
+!tip 1
