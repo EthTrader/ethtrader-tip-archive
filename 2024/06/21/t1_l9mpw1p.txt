@@ -1,0 +1,3 @@
+Ledger without any smart contract interaction. Only sending and receiving lol
+
+!tip 1
