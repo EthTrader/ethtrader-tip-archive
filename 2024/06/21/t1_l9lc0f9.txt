@@ -1,0 +1,3 @@
+It is bound to happen. When you distribute tokens to sybil accounts, they will dump it.
+
+!tip 1

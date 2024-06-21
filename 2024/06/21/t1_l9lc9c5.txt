@@ -1,0 +1,3 @@
+Yea, we should be able to get a refund on a coin when we lose!
+
+!tip 1
