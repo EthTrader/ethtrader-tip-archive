@@ -1,0 +1,3 @@
+Ledger hardware wallet, that's the only way.
+
+!tip 1
