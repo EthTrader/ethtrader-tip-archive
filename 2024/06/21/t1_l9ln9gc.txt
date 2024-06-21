@@ -1,0 +1,12 @@
+>So far, the amount of on-chain crypto donations to the Trump campaign has been small, totaling only around $59,385 as of June 17th
+
+>Donations to Trump’s U.S. Presidential campaign are accepted through Coinbase’s cryptocurrency payment service called Commerce.
+
+>This wallet address only accepts or holds USDC stablecoins. This means that any crypto donations sent to this wallet must either be in USDC or converted into USDC
+
+
+Seems they are only referring to the other coins, not the bitocins from the twins
+
+Source: https://learn.breadcrumbs.app/posts/campaign-donations-donald-trump-2024-election-blockchain
+
+!tip 1
