@@ -1,0 +1,2 @@
+I think I need to understand much better how this thing works, I've heard a lot about it but haven't really delve much into it and it seems like an interesting protocol.
+!tip 1
