@@ -1,0 +1,7 @@
+  
+From what I found in their AP [https://docs.artemis.xyz/docs/artemis-sheets/supported-metrics](https://docs.artemis.xyz/docs/artemis-sheets/supported-metrics)
+
+>  
+Daily Active Addresses - the number of unique wallet addresses sending an on-chain transaction in a rolling 24 hour period
+
+🐼 !tip 1
