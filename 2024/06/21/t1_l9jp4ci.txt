@@ -1,0 +1,7 @@
+I think the 50% reduction isn't a factor at all, and it's just t2v. 
+
+In any case, we are locked in to t2v for atleast 3 rounds before we can make a proposal about it.
+
+Personally, I'd be inclined to keep the daily multiplier at 50%
+
+!tip 1
