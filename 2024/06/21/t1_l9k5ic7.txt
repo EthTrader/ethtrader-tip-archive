@@ -1,0 +1,5 @@
+>gasless transactions, where a dapp sets an EOA to allow a third party (such as an operator or sponsor) to cover the fees for a transaction.
+
+This is big. Sponsored gas fee 👀
+
+!tip 1
