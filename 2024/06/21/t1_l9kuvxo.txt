@@ -1,0 +1,4 @@
+Never a dull moment in crypto.
+
+Nb: your tip will have to be upto 1 before it could count in the T2V system that was recently implemented.
+!tip 1
