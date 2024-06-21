@@ -1,0 +1,3 @@
+The value is 6.9k
+
+!tip 1.069
