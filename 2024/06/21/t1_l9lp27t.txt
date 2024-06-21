@@ -1,0 +1,5 @@
+How many posts can you approve per day?
+
+Only one?
+
+!tip 1
