@@ -1,0 +1,9 @@
+>What Do You Think the Next Big Feature in the ETH Ecosystem Will Be?
+
+Pectra upgrade will be big!
+
+>Pectra is the next major Ethereum upgrade, and it’s set to be an even bigger deal than Dencun was. 
+
+>Scheduled for Q4 2024 or Q1 2025, Pectra combines two previously planned upgrades: Prague (for the execution layer) and Electra (for the consensus layer).  By merging these specs, Pectra aims to bring several ambitious improvements to Ethereum, making it more flexible and optimized than ever before 
+
+!tip 1
