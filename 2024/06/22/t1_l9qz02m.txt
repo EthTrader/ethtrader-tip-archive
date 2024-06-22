@@ -1,0 +1,5 @@
+Donuts in liquidity pools do count towards your governance score.
+
+But, beware the risks of impermanent loss - there is no pure staking of DONUT, only liquidity provision. 
+
+!tip 1

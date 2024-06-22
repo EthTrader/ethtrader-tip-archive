@@ -1,0 +1,3 @@
+Now that tip status is the look of a good bronut
+
+!tip 1
