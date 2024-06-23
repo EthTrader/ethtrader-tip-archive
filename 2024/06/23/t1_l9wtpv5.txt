@@ -1,0 +1,3 @@
+Degen Mode on!
+
+^(!tip 1.001)
