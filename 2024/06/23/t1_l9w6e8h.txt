@@ -1,0 +1,5 @@
+>Token price and network are two different things.
+
+Something so basic and yet most people don't understand this.
+
+>!!tip 1!<
