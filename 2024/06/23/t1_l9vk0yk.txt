@@ -1,0 +1,3 @@
+I don't know anything about it, but it might be easier to just send your NEAR to a CEX, swap for what you want and send it back out if there are no good bridges - you can probably avoid using ETH mainnet this way too.
+
+!tip 1
