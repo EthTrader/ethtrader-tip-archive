@@ -1,0 +1,3 @@
+Which will be the Master coin?
+
+!tip 1
