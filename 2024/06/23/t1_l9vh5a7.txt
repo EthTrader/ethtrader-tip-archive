@@ -1,0 +1,5 @@
+contrib and governance are 2 different things. if you have 60k contrib but you only hold 15k donuts, your governance is 15k 🙃
+
+that's also why if you have 20k contrib but less donuts than that, your tips have a lesser weight
+
+!tip 1
