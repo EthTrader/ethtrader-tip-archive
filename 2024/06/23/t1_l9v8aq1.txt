@@ -1,0 +1,3 @@
+Quite a lot. Two most important changes that stand out is comment to vote (C2V) using the tip command and that rewards for commenting on the daily have been halved. 
+
+!tip 1 (just gave you an updoot)
