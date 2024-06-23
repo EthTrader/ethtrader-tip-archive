@@ -1,0 +1,5 @@
+>To prevent witch/DDoS attacks on the free layer, the team has deployed a whitelist authenticated by IP or ETH address ECDSA
+
+Cool stuff.
+
+⚡^(!Tip 1.01)
