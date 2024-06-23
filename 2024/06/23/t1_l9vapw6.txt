@@ -1,0 +1,3 @@
+Imagine a world where smart contracts can verify anything, anywhere. Brevis is making it happen.
+
+!tip 1
