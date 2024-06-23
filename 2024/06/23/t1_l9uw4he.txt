@@ -1,0 +1,5 @@
+>Celer Network has built Brevis, a “Zero-Knowledge (ZK) omnichain data attestation platform” that enables smart contracts to access and compute data from any blockchain.
+
+I wonder who would use this service.
+
+!tip 1
