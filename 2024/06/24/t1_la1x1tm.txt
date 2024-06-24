@@ -1,0 +1,11 @@
+Up to you.
+
+Out of range means it wont be earning any more fees until the prices return in range.
+
+Withdrawing and selling will basically mean that imperma loss becomes perma loss. 
+
+Out of range means your position will not incur any more imperma loss.
+
+If you think the Tia/ETH ratio will return to a range you have provided, just let it sit there and wait for the market to reverse again.
+
+!tip 1
