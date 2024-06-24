@@ -1,0 +1,3 @@
+Market makers and exchanges know where the stoplosses are and where the liquidations are.
+
+!tip 1
