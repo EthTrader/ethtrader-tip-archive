@@ -1,0 +1,5 @@
+!nominate
+
+Amazing stuff!
+
+!tip u/yamaniac123 10
