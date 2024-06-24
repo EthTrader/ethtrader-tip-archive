@@ -1,0 +1,3 @@
+My average cost is $2. Help.
+
+>! !tip 1 !<
