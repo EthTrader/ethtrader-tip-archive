@@ -1,0 +1,8 @@
+For reference, here's the data:
+
+||
+||
+|BlackRock USD Institutional Digital Liquidity Fund|$BUIDL|Ethereum|$481,422,165|
+|Franklin OnChain U.S. Government Money Fund|$FOBXX|Stellar; Polygon|$340,489,151|
+
+>!!tip 1!<

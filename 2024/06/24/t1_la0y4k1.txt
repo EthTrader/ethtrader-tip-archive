@@ -1,0 +1,7 @@
+The problem is when donut goes up, it flips eth by a long margin, in terms of percentage gains.
+
+Let's imagine it goes from $0.01 to $0.05. Completely feasible, happened many times before. That corresponds to a 400% increase. Eth would need to go to almost $14K to match that percentage appreciation.
+
+That's why donut LPing is not for amateurs!
+
+>!!tip 1!<
