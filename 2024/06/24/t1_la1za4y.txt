@@ -1,0 +1,9 @@
+I haven't used TraderJoe before..
+
+Maybe click ETH at top-right, current price.
+
+Then it should say current price is 1 ETH = XX Tia
+
+Then at the bottom, Min Price / Max price, should be displayed which shows your positions range.
+
+!tip 1
