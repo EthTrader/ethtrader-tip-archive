@@ -1,0 +1,3 @@
+Always use app based 2FA and never trust email links!
+
+🐼 !tip 1
