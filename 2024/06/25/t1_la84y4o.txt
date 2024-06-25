@@ -1,0 +1,5 @@
+>Digital identity infrastructure based on biometric authentication and zero-knowledge proofs — a mathematical tool that has been well-tested in the crypto industry — could allow any website to use a robust, yet privacy-preserving, means of identity validation.
+
+More tech stuff in the article.
+
+⚡^(!Tip 1.01)
