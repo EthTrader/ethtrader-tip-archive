@@ -1,0 +1,7 @@
+The network activity is low.
+
+If the network activity is low, gwei drops to encourage transaction volume as well. If gwei is low, eth burning rate is also low. And finally, if the burning rate is lower than the emissions rate, eth becomes inflationary.
+
+The exact inverse process happens if network activity is high.
+
+>!!tip 1!<
