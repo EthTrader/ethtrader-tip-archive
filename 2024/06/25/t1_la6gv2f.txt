@@ -1,0 +1,5 @@
+Thanks sir.
+
+ I read about the idea of ​​showing the unclaimed rewards in gray for unregistered users. I think it's good and it should be implemented quickly.  There may just be a hurdle there. I think it's the case that unregistered users can't receive tips, so the upvote won't count either. Does that mean you won't have any unclaimed rewards or am I wrong? 
+
+!tip 1
