@@ -1,0 +1,3 @@
+It works only with r/CC
+
+^(!tip 1.001)
