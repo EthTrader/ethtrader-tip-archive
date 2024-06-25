@@ -1,0 +1,3 @@
+Grateful for l2s like arb and base, they made transactions quite cheap and indirectly dropping gwei prices on mainnet as people flock to l2s
+
+!tip 1
