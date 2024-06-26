@@ -1,0 +1,9 @@
+I said this on the last RCP Talk, they have two choices:
+
+* they either stop burning Moons earned from advertising purposes, and allocate them to the treasury to distribute them.
+
+* they create a new token, which can be minted and managed by a multisig. Like donut. Probably airdrop it in a 1:1 ratio to OG holders too.
+
+It’s simply not possible to ensure viability of distributions and supply burns at the same time. It’s either one or the other.
+
+>! !tip 1 !<
