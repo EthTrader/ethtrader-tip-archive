@@ -1,0 +1,12 @@
+FYI: Even a CEX like MEXC has performance criteria.
+
+https://support.mexc.com/hc/en-001/articles/4407134392857-ST-Warning-Rules
+
+*To promote a mature and responsible development of the blockchain and digital tokens industry, as well as to safeguard the interests of users, MEXC will be implementing an ST Warning procedure to projects should any of the following circumstances occur:*
+
+* The daily average number of users who hold above 5 USDT worth of the project tokens in their MEXC accounts for 30 consecutive days is less than 100
+* The project has sustained low liquidity with an average daily trading volume of less than 50,000 USDT for 30 consecutive days.
+
+It's more than a case of "just pay for a listing" there are still so many things we need to improve on and build up first.
+
+!tip 1
