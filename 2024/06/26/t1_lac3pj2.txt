@@ -1,0 +1,3 @@
+Sorry u/Fredzoor, you must have 1000000 governance weight to use this command.  
+^(donut-bot v0.1.42069-millionaire)  
+!tip 1
