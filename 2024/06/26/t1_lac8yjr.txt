@@ -1,0 +1,6 @@
+No harm in users tipping DONUT in some of those subs if CommunityCurrencyBot is coded to handle DONUT in the respective sub. 
+
+Otherwise, theres nothing stopping you guys who are active in Avatar subs from awarding a small DONUT prize to users as a giveaway/raffle prize on-chain either - you could do that immediately without any dev work required. 
+
+!tip 1
+!nominate
