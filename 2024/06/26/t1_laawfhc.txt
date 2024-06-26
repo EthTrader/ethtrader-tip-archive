@@ -1,0 +1,5 @@
+!tip 50
+
+I would suggest a follow up, so the reader can be informed about the history of EthTrader's tokenomics.
+
+You would need to slightly edit the exist content too, to explain how that was the historical situation, not the current situation.
