@@ -1,0 +1,3 @@
+Gambler lost the gamble.
+
+!tip 1
