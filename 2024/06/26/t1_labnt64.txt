@@ -1,0 +1,3 @@
+How many % is the tax?
+
+!tip 1
