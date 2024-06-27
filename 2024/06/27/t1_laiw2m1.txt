@@ -1,0 +1,3 @@
+#our money is on coinbase
+
+!tip 1
