@@ -1,0 +1,5 @@
+LPs are way safer if you swap 50% of your token into eth to create the pair, instead of adding your extra eth.
+
+That way you only play with your donuts and not also with your eth
+
+!tip 1
