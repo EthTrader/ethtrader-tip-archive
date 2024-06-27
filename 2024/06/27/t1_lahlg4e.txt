@@ -1,0 +1,3 @@
+#CRYPTO = FUTURE
+
+!tip 1
