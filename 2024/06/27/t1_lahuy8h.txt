@@ -1,0 +1,5 @@
+I guess its so that if you choose are bigger range, it takes longer until your position consist entirely of donut..but in result of that you get lower rewards from the pool. 
+
+A smaller range faces this situation much quicker, but earns more rewards.
+
+!tip 1
