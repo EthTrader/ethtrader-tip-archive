@@ -1,0 +1,5 @@
+TLDR
+
+>Blast has announced the focus of its next phase, which is the creation of a full-stack chain. This second phase will include the development of desktop and mobile wallets specifically designed for crypto natives. The company believes this could potentially offer a better user experience than Metamask.
+
+!tip 1
