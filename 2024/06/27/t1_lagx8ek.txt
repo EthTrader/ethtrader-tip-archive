@@ -1,0 +1,13 @@
+Things take time.
+
+I think a lot of people spend too much time on the sub and lose track of perspective.
+
+MattG for example, was on a holiday for less than a week - and in that time people were treating all the duplicate post removals like the end of the world and drastic changes needed to be made - forgetting we had already supported the development of the AutomodApprove command. 
+
+By the end of the week the bot was up and running after Matt had a few days off. 
+
+We haven't even had 1 full round of the Tip2Vote model yet; it hasn't even quite been 2 full weeks since the announcement that we have received the Arbitrum grant.
+
+People are just wayyy too impatient.
+
+!tip 1
