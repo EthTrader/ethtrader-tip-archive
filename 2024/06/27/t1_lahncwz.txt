@@ -1,0 +1,3 @@
+Depends on the data. If CPI data bad, dump, if not crab or pamp.
+
+!tip 1
