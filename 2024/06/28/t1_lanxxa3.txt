@@ -1,0 +1,5 @@
+It’s not, you can’t price in market mechanics.
+
+It could be **partially** priced in, due to the accumulation before trading starts. This would cause a small price increase before the event, like we saw with the ETF approvals.
+
+>! !tip 1 !<
