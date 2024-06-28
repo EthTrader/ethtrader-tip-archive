@@ -1,0 +1,7 @@
+[NO] I really like the idea. However I think that we should have Contest Poll Proposals so the community decides during the governance week which contests are going to be executed next cycle and the exact amount of rewards. I think this way we can have a more controlled system to prevent exploiting it and also a dynamic way to adjust the budgets.
+
+For example, a gif contest doesnt require the same effort as a trading contest. In the gif contest the organizer will create first a contest poll proposal explaining the allocation required and the rules of the contest.
+
+What do you think?
+
+!tip 5
