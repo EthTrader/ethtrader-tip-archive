@@ -1,0 +1,3 @@
+Blobs helped Ethereum and L2 chains get very low gas fees per transaction since the last Dencun upgrade.
+
+!tip 1
