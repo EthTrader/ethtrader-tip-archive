@@ -1,0 +1,3 @@
+I know but I guess we need to find a solution. Like an algorithm, that can detect double posts or similar posts. Otherwise we have to delete pay2post for deleted posts. It´s getting out of hand. Some bronuts, including me have 10 or more deleted this round.
+
+!tip 1
