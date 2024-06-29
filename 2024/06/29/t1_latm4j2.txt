@@ -1,0 +1,1 @@
+Since we used tip2vote, it may not get up to that. The voters are limited unlike when we used the normal upvotes. !tip 1
