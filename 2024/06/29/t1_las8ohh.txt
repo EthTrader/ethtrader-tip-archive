@@ -1,0 +1,4 @@
+Quick question man, when you tip1 on a daily post, who does it go to? the automod?
+
+  
+!tip 1
