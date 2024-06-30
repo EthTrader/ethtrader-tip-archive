@@ -1,0 +1,5 @@
+Unfortunately, majority of people will tip, or not tip, based on who posted something, not what what posted.
+
+It obviously happened with upvotes and downvotes, but, without voting considerations from unregistered users, it's becomes even more noticeable.
+
+!tip 1
