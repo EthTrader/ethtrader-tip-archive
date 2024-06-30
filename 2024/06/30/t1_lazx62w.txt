@@ -1,0 +1,3 @@
+We'll definitely need to tweak the T2V a bit after the distribution results. Maybe we can bring down the required weight for tip down to 10K and remove T2V completely for the comments. Just brainstorming here.
+
+⚡^(!Tip 1.01)
