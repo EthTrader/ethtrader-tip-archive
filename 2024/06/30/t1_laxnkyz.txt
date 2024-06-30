@@ -1,0 +1,11 @@
+I'm not convinced. I like the concept, I like the idea of further rewarding quality content.
+
+But in practice, quality content, low quality content, depends on who's online as to you get tipped or not.
+
+I'd toy with the idea of splitting the comment rewards allocation of 370k DONUT into 2 pools, for example, 185k DONUT to be split by upvotes; and 185k DONUT to be distributed amongst tips.
+
+Tips would be used to further reward informative contributions, while upvotes would reward the general.
+
+However, the usual downsides to this concept of course are voting rings, manipulation and subjectivity towards what content should get tipped in addition to upvoted. 
+
+!tip 1
