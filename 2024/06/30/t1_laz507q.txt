@@ -1,0 +1,7 @@
+Based on previous occurrences, things will be implemented as soon as feasibly possible,
+
+Moderation rule changes for example, are in affect immediately. Things that require dev work, might take a few days, might take a week, might not come into affect until the next round.
+
+This is similar to how r/cc's Moon Week operates, but I agree, It'd probably make more sense running Wednesday to Wednesday, ending with the snapshot.
+
+!tip 1
