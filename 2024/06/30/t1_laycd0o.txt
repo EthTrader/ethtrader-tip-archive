@@ -1,0 +1,1 @@
+Posts with more upvotes and interactions, moves up to the top of hot posts section and gets more interaction from users. Worked better when the default upvote system was used. It's a form of vote manipulation. !tip 1
