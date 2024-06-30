@@ -1,0 +1,5 @@
+Yet! That will probably be on the cards soon if it isn't already 
+
+Do a test transaction and if it's successful save that address to your address book then you can't get caught out copying the address
+
+!tip 1

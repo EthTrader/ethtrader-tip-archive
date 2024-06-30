@@ -1,0 +1,1 @@
+Use QR code for transfers. Haven't heard about QR code poisoning. !tip 1
