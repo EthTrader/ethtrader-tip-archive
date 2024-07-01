@@ -1,0 +1,4 @@
+One needs to be technically knowledgeable to create a validator currently, right?
+
+
+**!tip 1**
