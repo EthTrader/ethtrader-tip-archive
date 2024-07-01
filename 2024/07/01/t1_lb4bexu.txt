@@ -1,0 +1,3 @@
+not providing liquidity in donut pool, but I'm providing liquidity in a single token Bitcone pool (Ichi) and on the bruh/cone one (quickswap)
+
+!tip 1
