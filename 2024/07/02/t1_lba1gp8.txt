@@ -1,0 +1,9 @@
+Since the TLDR bot is acting silly, TLDR human comes to the rescue:
+
+Chirp has teamed up with Chainlink BUILD to leverage Chainlink's Oracle services and technical support. This collaboration aims to enhance Chirp’s decentralized physical infrastructure network (DePIN), by improving security and utility. Chirp will provide its native tokens to Chainlink service providers in return for their support.
+
+As part of the BUILD program, Chirp will gain access to Chainlink Functions for transferring off-chain DePIN data on-chain, automation for secure smart contract operations, and early access to new Chainlink products.
+
+DePIN protocols, managed by decentralized communities, are becoming increasingly popular in the crypto sector due to their wide applications and use cases.
+
+>! !tip 1 !<
