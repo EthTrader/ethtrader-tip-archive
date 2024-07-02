@@ -1,0 +1,3 @@
+Gary is a puppet
+
+!tip 1
