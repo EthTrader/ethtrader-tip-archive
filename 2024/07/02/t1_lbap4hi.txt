@@ -1,0 +1,3 @@
+The proposal says >=75% but if the AI is wrong and is calculating more by mistake, hm.. I don‘t know if this is good for the post section.
+
+!tip 1
