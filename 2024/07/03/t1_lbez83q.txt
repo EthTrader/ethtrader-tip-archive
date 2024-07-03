@@ -1,0 +1,3 @@
+Theoretically, Today, in just under 12 hours. But I just did a tip status command and the bot showed me 1 received tip, so it looks like it may have happened already 🤔
+
+!tip 1
