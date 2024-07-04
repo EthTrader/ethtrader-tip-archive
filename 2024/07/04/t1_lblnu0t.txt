@@ -1,0 +1,6 @@
+Knockout!
+
+ZachXBT = 1    
+Khamzat = 0
+
+>!!tip 1.11!<
