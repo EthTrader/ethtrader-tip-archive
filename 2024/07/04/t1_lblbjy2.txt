@@ -1,0 +1,3 @@
+Also i think there is a bug for weight tips. Sometimes it changes the value . I sent you a msgs u/mattg1981
+
+!tip 1
