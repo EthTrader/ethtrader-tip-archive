@@ -1,0 +1,6 @@
+Cool stuff.
+
+More information for our tech-savvy guys here  
+[https://eips.ethereum.org/EIPS/eip-7732](https://eips.ethereum.org/EIPS/eip-7732)
+
+>!!tip 1!<
