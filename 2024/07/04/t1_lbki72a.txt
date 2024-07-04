@@ -1,0 +1,12 @@
+>Aminok has already said he would not support any reversion back to the upvote model. 
+
+I agree with Aminok on this one. If it's added back, even if it's 50-50, the downvoting will resume. Some people are still doing it, even with tip2vote in use. Imagine when it's reversed, all hell will be let loose.
+
+
+>Downside to pure T2V is it simply being a popularity contest - and someone saying thanks and you're welcome can have the exact same voting reward as someone who just spent several minutes sleuthing through the blockchain to help someone out.
+
+True, but it's better than what we had earlier. The manipulation was so bad, it turned many people against each other. Members started blocking people who they thought was against them. It also made the sub too competitive.
+
+I had reservations about tip2vote before the proposal was passed, u/aminok can attest to that, but I'm cool with it now. If the tip2vote can be removed from comments on the daily only, it will be nice. Daily discussion doesn't really need tips. The daily comments points can be reduced further and tip2vote removed for better and easy discussion. 
+
+!tip 1
