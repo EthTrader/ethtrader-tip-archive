@@ -1,0 +1,7 @@
+The real bottleneck for Ethereum is block confirmation times, which can take minutes and lead to high gas fees. EIP-7732 aims to improve scalability by reducing these confirmation times, making transactions faster and cheaper. 
+
+Think of it as the difference between getting stuck in rush hour traffic (slow confirmations) vs. cruising on a green light highway (fast confirmations). Essentially, EIP-7732 is about making Ethereum feel faster, even if the raw transaction speed doesn't change dramatically. 
+
+Still confusing?
+
+!tip 1
