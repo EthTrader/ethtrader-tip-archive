@@ -1,0 +1,5 @@
+>EIP-7732 includes modifications to the beacon chain, fork selection rules, and P2P communication. It also allows validators to play the role of builders. Builders are complex participants who build blocks to extract MEV. ePBS provides a trustless exchange between proposers and builders and enables validators to effectively utilize CPU.
+
+Bullish for validators.
+
+🐼 !tip 1
