@@ -1,0 +1,7 @@
+Aminok has already said he would not support any reversion back to the upvote model. 
+
+It's hard to think of anything else that would provide fair rewards, but with minimal manipulation. Downside to pure T2V is it simply being a popularity contest - and someone saying thanks and youre welcome can have the exact same voting reward as someone who just spent several minutes sleuthing through the blockchain to help someone out.
+
+Under the voting model truly helpful comments would usually score multiple votes. On the flipside, subject to manipulation, a user spamming good bot could easily score hundreds of donuts as well.
+
+!tip 1
