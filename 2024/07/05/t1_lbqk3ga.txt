@@ -1,0 +1,5 @@
+It's all right there in the CSV, I just cherry pick some interesting facts and post them.
+
+Load it in excel, things like the total post requires using the autosum feature. Just takes a few minutes to analyze - and sorting the data by different metrics.
+
+!tip 1
