@@ -1,0 +1,11 @@
+I've been posting a weekly update on my liquidity position as well as a general state of the Sushi.com pool - it shows week by week updates on how the position fluctuates. 
+
+As of right now, I'm quite rekt by Impermanent Loss - but the general gist is, you supply say, $50 of ETH and $50 of DONUT... then as someone wants to buy DONUT, they give you eth, you give them DONUT, now your liquidity position is rebalanced with more ETH, less DONUT.
+
+It gets complicated as the value of both assets change - but yes, if DONUT were to pump, and lots of buy orders, my position could become 0 DONUT and lots of ETH.
+
+Hope that helps xD
+
+Feel free to search my "Diving Into The Donut Pool" posts for more info - otherwise, my next update will come Monday.
+
+!tip 1
