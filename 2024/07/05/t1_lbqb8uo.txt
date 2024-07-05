@@ -1,0 +1,13 @@
+>I think the voting bonus is a bit too excessive and does more harm than good. It benefits less active users,
+
+Well, the sole purpose of the governance token is be apart of governance - iit benefits those who are active for governance as opposed to those who sell everything and can't vote; and those who don't vote.
+
+> Also, if a user doesn't vote now, they are penalized and even lose Donuts. Just my two cents.
+
+Well... they only "lose" donuts now because we're seeing the pre-numbers before the final calculation.
+
+If the CSV was done by a single entity the initial CSV would also be the final data, which would not show a "loss" of any DONUT, but the correct issuance with all the calculations applied.
+
+The ratio wouldn't "change" if it was all published in one single results file.
+
+!tip 1
