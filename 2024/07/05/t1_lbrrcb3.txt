@@ -1,0 +1,5 @@
+Only that many users that have registered for DONUT and received tip rewards.
+
+There are plenty of users who are active that are not registered for DONUT
+
+!tip 1
