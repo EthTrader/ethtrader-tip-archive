@@ -1,0 +1,3 @@
+Yeah no conclusions to make right now. Reddito’s file was calculating upvotes and not tips, so it’s basically useless afaik
+
+!tip 1
