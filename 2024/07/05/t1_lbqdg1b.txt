@@ -1,0 +1,3 @@
+We need to remove bots from distro, how the heck is donut bot number 3 when nobody is tipping it
+
+!tip 1
