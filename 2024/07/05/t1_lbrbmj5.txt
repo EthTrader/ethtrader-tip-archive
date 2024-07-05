@@ -1,0 +1,3 @@
+LPing ETH and USDC with a very tight range, monitoring 100% of the time to withdraw and deposit liquidity again if possible, making some $ with the fees
+
+!tip 1
