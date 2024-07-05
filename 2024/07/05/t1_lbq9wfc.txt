@@ -1,0 +1,5 @@
+Voting bonuses will decrease the ratio's as they are applied to the scores, but do not increase donut issuance.
+
+IE. Bigger score = lower ratio
+
+!tip 1
