@@ -1,0 +1,7 @@
+Then that’s wrong afaik… he made a mistake there
+
+It should be 80 x [post ratio x 2.5] 
+
+80 x [ 29.5 x 2.5] = 5900
+
+!tip 1
