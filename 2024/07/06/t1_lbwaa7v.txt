@@ -1,0 +1,7 @@
+#Gas Fees on Ethereum Calculation formula 
+
+>It includes three factors: gas limit, base fee, and priority fee.
+
+Gas Fee = (gas limit) x (base fee + priority fee)
+
+!tip 1
