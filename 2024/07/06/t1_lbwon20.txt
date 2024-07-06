@@ -1,0 +1,3 @@
+>According to Justin Sun’s X post on July 6, the development team anticipates launching the new solution in Q4 this year.
+
+Nothing special about gas free transfers. Nano transfers are completely gasless and free. !tip 1
