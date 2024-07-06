@@ -1,0 +1,5 @@
+We shouldn't complicate things further since T2V is just an infant and we're only starting to get used to it.
+
+Having said that, how do we implement that exactly with T2V? A simple example will help my small mind to understand it better.
+
+⚡^(!Tip 1.01)
