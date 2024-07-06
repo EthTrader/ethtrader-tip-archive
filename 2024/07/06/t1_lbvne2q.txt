@@ -1,0 +1,3 @@
+Anything less than 1 tip doesn't count as a vote. The 1 tip goes who you tip. In most cases they tip you 1 or more back. It's just the weight that varies.
+
+!tip 1
