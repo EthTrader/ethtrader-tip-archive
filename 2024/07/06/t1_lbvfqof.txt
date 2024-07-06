@@ -1,0 +1,3 @@
+How many signatures do we have now, 4?
+
+!tip 1
