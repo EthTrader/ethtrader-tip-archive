@@ -1,0 +1,3 @@
+It means your tips have almost no impact (low voting power). People who have 20k+ Governance Score (GS) have a tip weight of 1. That is, 1 tip equals 1 full vote. Your GS is the lowest between your contrib and donut count. To determine your weight, divide your GS by 20 and multiply by 1. Grind to 20k as soon as possible so you can award people full tips, not half or a fraction.
+
+!tip 1
