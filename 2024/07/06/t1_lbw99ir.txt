@@ -1,0 +1,3 @@
+>**Gas fees on Ethereum basically comprises three components: the gas limit, the base fee and the priority fee. The fee is calculated by multiplying the gas limit with the sum of the base fee and the priority fee. Together, these units make the gas fee that is utilized to add a transaction on the blockchain.**
+
+I spared you a click, you're welcome. !tip 1
