@@ -1,0 +1,33 @@
+Here is the total amount each of the winners is being awarded (calculations in brackets for those with multiple prizes)
+
+u/Buzzalu: 22,500 (2,500 + 5,000 + 15,000)
+
+u/Friendly-Airline2426: 7,500
+
+u/Kirtash93: 20,000 (7,500 + 5,000 + 2,500 + 5,000)
+
+u/PoojaaPriyaa: 5,000
+
+u/Yamaniac123: 15,000
+
+u/bvandepol: 15,000
+
+u/falk_lhoste: 15,000
+
+!tip u/Buzzalu 22500 donut
+
+!tip u/Friendly-Airline2426 7500 donut
+
+!tip u/Kirtash93 20000 donut
+
+!tip u/PoojaaPriyaa 5000 donut
+
+!tip u/Yamaniac123 15000 donut
+
+!tip u/bvandepol 15000 donut
+
+!tip u/falk_lhoste 15000 donut
+
+And last but not least, the Master of Contests, who organized and oversaw an incredible series of challenges over the last month
+
+!tip u/DBRiMatt 25000
