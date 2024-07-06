@@ -1,0 +1,3 @@
+Yes. People you tip are disadvantaged. My tips to you carry a weight of 0.6 while yours to me are 0.01.
+
+!tip 1
