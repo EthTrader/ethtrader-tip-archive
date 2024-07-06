@@ -1,0 +1,12 @@
+As discussed earlier, for now i would suggest sticking with current T2V and to keep it simple for everyone to get used to it.  
+
+However, this is worth discussing to learn its pros and cons. 
+
+I would also suggest, that quadratic implementation would be applied only; (just brain storming here)
+
+* If the tipper has a certain governance weight so it can't be misused.  
+* It can't be used on news links and comments.  
+
+!nominate
+
+⚡^(!Tip 10)
