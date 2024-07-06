@@ -1,0 +1,4 @@
+They make their own individual prices based on orders in their order books, unique to each exchange and depends which users trade
+
+
+!tip 1
