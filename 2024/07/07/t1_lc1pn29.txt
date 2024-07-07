@@ -1,0 +1,6 @@
+Here’s how to calculate it
+
+Gas Fee = (gas limit) x (base fee + priority fee)
+
+Hope that helps
+!tip 1
