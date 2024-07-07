@@ -1,0 +1,10 @@
+For more CONTRIB, governance participation will help build things up.
+
+My recent proposal stipulates;
+
+* Reward 500 CONTRIB for users who participate in 1 governance poll for that round
+
+* Reward 100 CONTRIB for users who participate in additional governance polls for that round
+
+
+!tip 1

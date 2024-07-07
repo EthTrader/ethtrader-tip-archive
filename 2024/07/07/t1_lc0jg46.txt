@@ -1,0 +1,3 @@
+Tangem supports several coins/tokens that Trezor doesn’t
+
+🙏 !tip 1
