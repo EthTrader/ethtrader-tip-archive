@@ -1,0 +1,7 @@
+[YES]
+
+[NO]
+
+[ABSTAIN]
+
+!tip 1
