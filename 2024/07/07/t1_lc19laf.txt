@@ -1,0 +1,3 @@
+Those are not 100% correlated. Gas fees prices is based on network activity. One csn exist without the other.
+
+!tip 1
