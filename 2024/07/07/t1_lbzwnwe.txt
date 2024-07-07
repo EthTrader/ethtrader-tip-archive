@@ -1,0 +1,3 @@
+I've not tried it, but sometimes if the weeth route is not there I'll just convert to Eth first to bridge over before swapping over Eth -> weEth again on Jumper
+
+!tip 1
