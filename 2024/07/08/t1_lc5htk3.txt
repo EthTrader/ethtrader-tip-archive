@@ -1,0 +1,5 @@
+>Karak introduces multiasset restaking, a new primitive in cryptoeconomic security allowing users to provide universal security in exchange for boosted rewards. Multiasset restaking also supercharges security for chains, protocols, and other decentralized infrastructure layers within the Ethereum ecosystem and beyond.
+
+https://karak.network/
+
+!tip 1
