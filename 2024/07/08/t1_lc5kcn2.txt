@@ -1,0 +1,7 @@
+Yes, both are used for restaking 
+
+EigenLayer, with its more focus on Ethereum's core infrastructure and security model.
+
+Karak (multichain staking protocol), with the range of assets and network it supports opening up more opportunities for decentralized cross-chain token swaps.
+
+!tip 1
