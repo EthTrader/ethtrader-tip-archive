@@ -1,0 +1,3 @@
+>**The main difference between sidechains and Ethereum layer 2 solutions is that while layer 2 inherits the security of the main Ethereum network,  sidechains rely on their own security.**
+
+Saved you a click. You're welcome. !tip 1
