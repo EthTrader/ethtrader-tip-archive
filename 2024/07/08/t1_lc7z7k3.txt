@@ -1,0 +1,7 @@
+There is no voting bonus for Round 138 because the current governance week ends in Round 139
+
+RayRay was a little premature with his previous governance week, which was held a week early - concluding in Round 137.
+
+That means the governance proposals we have voted on this week, are added to Round 139's CSV
+
+!tip 1
