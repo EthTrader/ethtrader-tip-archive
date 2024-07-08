@@ -1,0 +1,3 @@
+Yes, i try to keep the tip command in mind, but i do sometimes forget and need to comment again with the tip
+
+!tip 1
