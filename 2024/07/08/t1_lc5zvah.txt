@@ -1,0 +1,6 @@
+```
+admin->add("mod")->execute
+```
+
+
+**!tip 1**
