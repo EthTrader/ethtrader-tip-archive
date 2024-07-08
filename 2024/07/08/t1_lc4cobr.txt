@@ -1,0 +1,3 @@
+A coin by telegram, opposite of TON
+
+!tip 1
