@@ -1,0 +1,7 @@
+Pretty much.
+
+As we have seen with DONUT, the price has dropped even though there has been less than 2k trading volume over the last 7 days.
+
+DONUT paired with ETH (And same with MOON) will experience a bit of downward price even if there was zero trading volume, due to price determination of AMM (Automated Market Maker) Dex's liike Sushi.com
+
+!tip 1
