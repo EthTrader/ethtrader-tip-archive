@@ -1,0 +1,3 @@
+To make a new coin, we need a new scheMATIC
+
+!tip 1
