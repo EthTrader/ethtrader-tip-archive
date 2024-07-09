@@ -1,0 +1,3 @@
+>Transaction costs on layer 2 are dependent on Ethereum gas prices. Since layer-2 transactions are processed at a fraction of Ethereum’s transactions, they cost less.
+
+!tip 1

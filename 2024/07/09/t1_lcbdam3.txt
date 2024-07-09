@@ -1,0 +1,3 @@
+>stUSDT has implemented security recommendations from ChainSecurity by upgrading its contracts on June 24. The updated system is under continuous monitoring to ensure smooth and secure operation
+
+!tip 1
