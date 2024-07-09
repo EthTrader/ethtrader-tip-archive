@@ -1,0 +1,3 @@
+We learn something new every day.
+
+^(!tip 1.001)
