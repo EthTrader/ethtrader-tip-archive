@@ -1,0 +1,5 @@
+Scroll is one of the more expensive networks to use.
+
+i think most of the ZKRollups are a little more expensive then Optimistic rollups - even Linea and ZKSync used to be more expensive. 
+
+!tip 1
