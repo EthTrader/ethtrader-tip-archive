@@ -1,0 +1,3 @@
+Thanks for teaching me 
+
+^(!tip 1)
