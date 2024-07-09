@@ -1,0 +1,9 @@
+You‘re not registered to earn Donuts.
+
+Just type !register(spacebar)Ethereum adress
+
+That‘s all. 
+
+Here‘s a first start. 
+
+!tip 3 =)
