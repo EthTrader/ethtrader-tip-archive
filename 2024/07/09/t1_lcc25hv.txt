@@ -1,0 +1,5 @@
+The rewards fluctuate based on activity
+
+>Ethereum staking rewards currently average around 4-7% annually but can fluctuate depending on network activity. Here are some estimates: Staking 32 ETH (1 validator) – ~4-7% SRR = 1.6 – 2.24 ETH per year.
+
+!tip 1
