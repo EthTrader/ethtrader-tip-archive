@@ -1,0 +1,3 @@
+When it shows $2M, just withdraw it immediately. 👀
+
+^(!tip 1.001)

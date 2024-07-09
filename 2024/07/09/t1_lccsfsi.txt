@@ -1,0 +1,5 @@
+Quite a few users give a tip to unregistered users - atleast who make a post, in hopes the notification that theyve been tipped a donut gets them interested to learn more and how to register.
+
+And if they don't, you get your donut back because the tip fails to send.
+
+!tip 1
