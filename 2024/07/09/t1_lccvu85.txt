@@ -1,0 +1,3 @@
+This project will keep receiving criticism as long as it exists.
+
+^(!tip 1.001)
