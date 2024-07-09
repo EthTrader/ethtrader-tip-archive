@@ -1,0 +1,5 @@
+Nice. Your 100 ETH will turn into 103 ETH in a year!  
+or  
+You can send me 1 ETH and i will send you 2 ETH back.
+
+^(!tip 1.001)
