@@ -1,0 +1,3 @@
+Yep, scroll is a bit more expensive then the others.
+
+!tip 1
