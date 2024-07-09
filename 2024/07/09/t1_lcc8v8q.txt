@@ -1,0 +1,5 @@
+>With Passkeys Wallet, developers and users can create and fund an embedded wallet directly within the used application. According to the announcement, the process does not require users to fill in any seed phrases, browser extensions or email verifications, significantly simplifying the integration process.
+
+>“With just one click, users can create their wallet, or ‘Passkey,’ and seamlessly connect to an application, able to market-integrate in less than 10 minutes, with just a few lines of code,”
+
+Also with one click, your funds can disappear😄 !tip 1
