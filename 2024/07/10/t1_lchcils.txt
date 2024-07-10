@@ -1,0 +1,3 @@
+Wallets without start phrases are currently very risky to use and insecure. I had some and removed them.
+
+!tip 1
