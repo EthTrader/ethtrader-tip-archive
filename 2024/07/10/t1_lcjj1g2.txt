@@ -1,0 +1,11 @@
+Awesome! 
+
+You need to register a wallet on the sub to receive them and you will get them next distribution. They are distributed on ARB one 
+
+To register a wallet you do the following command:
+
+!register 'wallet address'
+
+And jobs a goodun!
+
+!tip 1
