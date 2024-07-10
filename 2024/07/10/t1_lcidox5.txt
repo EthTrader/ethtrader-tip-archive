@@ -1,0 +1,3 @@
+No meny left!
+
+^(!tip 1)
