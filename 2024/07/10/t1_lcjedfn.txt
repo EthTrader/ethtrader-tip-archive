@@ -1,0 +1,5 @@
+Agree.
+
+I doubt the whole Blockchain Trilemma will ever be resolved in a single instance, but L2's which settle back to Ethereum can provide that assistance in a scaling solution. 
+
+!tip 1
