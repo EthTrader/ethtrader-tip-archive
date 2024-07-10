@@ -1,0 +1,1 @@
+What can they do, freeze the coins? It would only work for stablecoins. BTC, ETH, XMR, they can't be frozen otherwise it would be against the core principles of crypto. The best chance is to blacklist the addresses, that way they wouldn't be able to use DEXs and CEXs. Of course it's easier said than done. !tip 1
