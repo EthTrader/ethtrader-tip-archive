@@ -1,0 +1,7 @@
+I assume your are registered with your default vault address.
+
+Seems to be the case for me anyway 😅
+
+Snapshot loads my voting weight properly
+
+!tip 1
