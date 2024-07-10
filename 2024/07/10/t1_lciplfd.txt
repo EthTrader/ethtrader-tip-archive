@@ -1,0 +1,5 @@
+It entirely depends on the staking mechanics. Is there a lock up period and how long are undelegation periods. Or epochs if they go through that path.
+
+Requiring a lockup can help prevent too much supply inflation, but that could also make STRK look better to trade short term rather than stake longer term.
+
+!tip 1
