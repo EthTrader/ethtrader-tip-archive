@@ -1,0 +1,5 @@
+Let's all tip 1 donut to vitaliks wallet with a message:
+
+#notice us
+
+!tip 1
