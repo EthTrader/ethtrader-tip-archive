@@ -1,0 +1,3 @@
+Yep, built on Solana. You can lend/borrow wrapped ETH, but apy aint juicy.
+
+!tip 1
