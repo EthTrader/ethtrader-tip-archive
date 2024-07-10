@@ -1,0 +1,3 @@
+It will need the combined marketcap of Apple, Microsoft, Google and Nvidia.
+
+^(!tip 1.001)
