@@ -1,0 +1,1 @@
+I guess technically its not a L2 now but rather a multichain system. Its supposed to give scalability and usability on Ethereum. Polygon uses its sidechains to offload transactions from the mainnet. This lowers congestion and gas fees too. Polygon was also designed to support other sidechains and then again they all interact with the mainnet !tip 1

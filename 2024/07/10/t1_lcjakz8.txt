@@ -1,0 +1,5 @@
+I'm not the most up to date with it, but my understanding is, MATIC is originally a sidechain, but the developments and transition to POL will end up being an L2...
+
+grabbed from google; * Instead of a single PoS sidechain scaling Ethereum, Polygon (MATIC) is set to become an ecosystem of zero-knowledge-powered Layer 2 chains that share liquidity with and infinitely scale Ethereum*
+
+!tip 1
