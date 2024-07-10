@@ -1,0 +1,9 @@
+![gif](giphy|EmbFdC2sZp0fLQEEg3)
+
+!tip 6.9
+
+You'll need to register a wallet to receive that tip and you'll receive it next distribution! Distributions are done on ARB one
+
+To register a wallet do the following command:
+
+!register 'wallet address'
