@@ -1,0 +1,5 @@
+The Render Coin is an ERC20 token based on the Ethereum blockchain. It serves as a means of payment for rendering graphics, animations and other computationally intensive processes. By using the RNDR cryptocurrency, artists, studios and companies can offer or purchase rendering power. 
+
+Also partnership with Nvidia, Disney and Apple.
+
+!tip 1
