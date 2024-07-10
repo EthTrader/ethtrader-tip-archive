@@ -1,0 +1,7 @@
+For those who are wondering what Stader is.
+
+>Stader is building native contracts across multiple chains including Terra, Solana, Ethereum, Near, Avalanche, Fantom etc., and building an economic ecosystem to grow and develop solutions like yield redirection-style farming with rewards, liquid staking, launchpads, gaming and more.  
+>  
+>Stader (SD) token is the native governance and value accrual token for Stader. Stader has established key mechanics that make SD tokens intrinsically tied to the Stader platform. 
+
+^(!tip 1.001)
