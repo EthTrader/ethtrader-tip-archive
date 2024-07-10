@@ -1,0 +1,5 @@
+Currently no, but I believe it's on their roadmap.
+
+Arbitrum uses ETH for gas, so there is no need to use ARB as PoS to validate transactions.
+
+!tip 1
