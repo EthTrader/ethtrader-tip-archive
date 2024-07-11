@@ -1,0 +1,3 @@
+What if you want to tip someone x5? You make 5  comments?
+
+!tip 1
