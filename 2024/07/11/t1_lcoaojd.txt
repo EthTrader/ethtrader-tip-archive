@@ -1,0 +1,3 @@
+Simple don’t issue infinite tokens and be realistic & not greedy 
+
+!tip 1
