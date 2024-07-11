@@ -1,0 +1,3 @@
+Double spending isn't working anymore on Ethereum right?
+
+!tip 1
