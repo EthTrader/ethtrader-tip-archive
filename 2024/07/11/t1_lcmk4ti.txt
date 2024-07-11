@@ -1,0 +1,3 @@
+In November 2023, the Render Network upgraded its core infrastructure from Ethereum to Solana.
+
+!tip 1
