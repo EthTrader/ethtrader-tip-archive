@@ -1,0 +1,3 @@
+Probably correct addresses, but who knows how many would be eligiible for Linea airdorp. They seem to have decent anti-sybil mechanisms and requiire things like 20 Points of Attestation on Github, Proof of Humanity checks etc.
+
+!tip 1
