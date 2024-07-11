@@ -1,0 +1,3 @@
+Is BUILD an erc20 coin?
+
+!tip 1
