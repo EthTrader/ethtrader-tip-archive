@@ -1,0 +1,3 @@
+If true, ethereum  price will be $3.3k
+
+!tip 1
