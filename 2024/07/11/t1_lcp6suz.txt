@@ -1,0 +1,9 @@
+I chose DOT over LINK and ATOM after a few months of deliberation.
+
+Maybe I didn't like the fact that LINK doesn't have its own blockchain.
+
+And staking is complicated. 
+
+ATOM has crappy tokennomics.
+
+!tip 1
