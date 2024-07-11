@@ -1,0 +1,11 @@
+Sir, now is NOT the good time to spread Sushi.com FUD! /s
+
+The good thing is they actually learned from this. They introduced a DEX aggregator. For those who don't know, a DEX aggregator combines liquidity across a bunch of exchanges, using algorithms to find the best possible routes for swaps. This gives users a more optimal price, and exposes them to a larger range of tradable tokens that were previously unavailable on their UI. The aggregator supports multi-chain operations, including cross-chain swaps, thus increasing flexibility and convenience for trading​.
+
+Another good thing is that they're always investing in user education to improve the overall user experience. Their support channels help users effectively​. The Discord support tickets are the best, imo.
+
+And when it doubt, always use revoke cash!
+
+!tip 10
+
+!pow
