@@ -1,0 +1,3 @@
+SKALE's upgrade is all well and good, but what about security? Can sidechains ever truly match the security of the Ethereum mainnet? ️
+
+!tip 1
