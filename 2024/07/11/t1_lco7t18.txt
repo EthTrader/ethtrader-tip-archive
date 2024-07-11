@@ -1,0 +1,4 @@
+Also ignoring the red candles on the chart works like a charm. 
+
+
+**!tip 1**
