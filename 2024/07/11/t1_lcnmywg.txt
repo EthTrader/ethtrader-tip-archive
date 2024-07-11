@@ -1,0 +1,3 @@
+Yes. Those big spikes and dips were caused by leveraged liquidations.
+
+!tip 1
