@@ -1,0 +1,3 @@
+In options trading, "in the money" (ITM) and "out of the money" (OTM) options are terms that describe the relationship between the current market price of an asset and the strike price of an option.
+
+!tip 1
