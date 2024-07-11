@@ -1,0 +1,3 @@
+Tipping is a tipping no matter how much the weight
+!tip 1
+!post status
