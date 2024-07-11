@@ -1,0 +1,4 @@
+The asset class that will allow tokenization of real world assets in a decentralized manner.
+
+
+**!tip 1**
