@@ -1,0 +1,9 @@
+Reposting - they are not all hacked, but could be on the firing line;
+
+They all share the same Registrar - which is the leading suspect as to how the domains were breached.
+
+Also worth noting a DNS attack only affects their websites, not their funds, not their wallets.
+
+This is just a better safe than sorry list and to be wary - most wallets recognize if you're signing into somewhere you haven't been before though, which helps identify if you are in fact on a clone website.
+
+!tip 1
