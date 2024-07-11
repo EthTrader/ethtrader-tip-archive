@@ -1,0 +1,9 @@
+>Can sidechains ever truly match the security of the Ethereum mainnet? ️
+
+Good question
+
+Achieving the same level of security is a challenge because sidechains require a bridge to link to the mainnet, which automatically brings a little vulnerability.
+
+I hope at the back Devs are doing relentless work to enhance the security.
+
+!tip 1
