@@ -1,0 +1,7 @@
+No; but they all share the registrar, squarespace, which is the leading suspicion as to why CELR and Compound were attacked. 
+
+If that is the reason, then these sites *could* be next
+
+So, for now, until the all clear is given, I would avoid those protocols as a better safe than sorry approach. 
+
+!tip 1
