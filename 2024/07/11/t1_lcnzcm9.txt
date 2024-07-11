@@ -1,0 +1,3 @@
+ETF trading might start sooner than expected.
+
+^(!tip 1.01)

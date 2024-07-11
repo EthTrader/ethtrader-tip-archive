@@ -1,0 +1,7 @@
+I stake CELR, have provided liquidity, and have used their bridge.
+
+Also, many bridge aggregators, I think like Jumper.exchange, actually use CELER bridge. 
+
+I know CELR has been exploited in the past, but their response back in 2022/23 was very quick, and very efficient - so I speak highly of them.
+
+!tip 1

@@ -1,0 +1,4 @@
+In the long term, NO.  
+It will be a success.
+
+ ^(!tip 1.001)
