@@ -1,0 +1,4 @@
+True, given there are hundreds of tokens being created everyday.
+
+
+**!tip 1**
