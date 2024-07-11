@@ -1,0 +1,9 @@
+Are you on mobile? Then use put these around the tip
+
+>!
+
+!tip 1
+
+!<
+
+All together
