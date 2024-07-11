@@ -1,0 +1,3 @@
+Multiply these numbers by 8 after two cycles.
+
+!tip 1
