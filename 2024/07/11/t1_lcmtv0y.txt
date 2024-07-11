@@ -1,0 +1,5 @@
+It's completely coincidental, but due to the timing, simply receiving moons was not sufficient - they missed out on minimum requirement of transactions by 2 rounds from memory.
+
+Users who were receiving bricks + moons qualified, users who tipped, and users who traded qualified.
+
+!tip 1
