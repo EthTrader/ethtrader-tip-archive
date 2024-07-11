@@ -1,0 +1,3 @@
+They should make a robust identity verification mechanism to ensure account ligitimacy.
+
+!tip 1
