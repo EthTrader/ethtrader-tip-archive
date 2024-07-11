@@ -1,0 +1,5 @@
+I never give unlimited token spending approval unless necessary.
+
+Rabby wallet has a built in feature to check and revoke approvals.
+
+⚡^(!Tip 1.01)

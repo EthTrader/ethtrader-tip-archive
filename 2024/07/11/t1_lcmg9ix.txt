@@ -1,0 +1,13 @@
+>How often do you use sites like Revoke Cash?
+
+Atleast once a month!
+
+>Do you make use of one time token approvals?
+
+Yep, I always make one time token approvals
+
+>Have you experienced exploits in which unlimited token approvals resulted in loss of funds?
+
+Nope and hopefully never!
+
+!tip 1
