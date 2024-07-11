@@ -1,0 +1,7 @@
+My understanding is, generally speaking OP rollups are going to be slightly cheaper and faster - especially as higher volume/transactions increase.
+
+Currently, from a user perspective, they feel very similar.
+
+Wouldn't surprise me if ZKrollups are the leader in years down the track though
+
+!tip 1
