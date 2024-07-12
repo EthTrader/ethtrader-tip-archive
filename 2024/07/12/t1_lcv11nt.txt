@@ -1,0 +1,7 @@
+Every dApp needs to be audited properly before they launch their platform.
+
+
+There's real hard earned money involved here and many people take the security aspect very lightly until something goes wrong.
+
+
+**!tip 1**
