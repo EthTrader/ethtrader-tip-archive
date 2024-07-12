@@ -1,0 +1,3 @@
+Good point. Complexity cause difficulties for adoption. To make it successful, it is necessary to make it secure and simple.
+
+!tip 1
