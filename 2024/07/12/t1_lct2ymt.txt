@@ -1,0 +1,3 @@
+Basically, is like adding multiple pilots to an airplane to ensure safer and more reliable flights. It enhances the security and decentralization of the Ethereum's staking making sure the system stays strong even if one pilot (node operator) fails.
+
+!tip 1
