@@ -1,0 +1,4 @@
+Now multiple posts can be pinned I think. What's the max limit?
+
+
+**!tip 1**
