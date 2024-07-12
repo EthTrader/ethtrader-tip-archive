@@ -1,0 +1,3 @@
+Amount for posts, comments, and so on in Donuts.
+
+!tip 1
