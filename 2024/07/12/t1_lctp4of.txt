@@ -1,0 +1,1 @@
+Mainnet for larger transactions that get staked on Kraken. Small transactions on Arbitrum and Polygon. !tip 1
