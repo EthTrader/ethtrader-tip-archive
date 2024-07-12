@@ -1,0 +1,5 @@
+>Larger swaps on the mainnet, for better liquidity and arbitrage. Smaller swaps on L2s, to save on fees.
+
+![gif](giphy|D7QvOvtAqfTti8zONJ)
+
+!tip 1

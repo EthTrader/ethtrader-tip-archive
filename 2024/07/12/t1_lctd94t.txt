@@ -1,0 +1,5 @@
+Depends on the volume.
+
+Larger swaps on the mainnet, for better liquidity and arbitrage. Smaller swaps on L2s, to save on fees. Mainly Arbitrum and Polygon for me.
+
+>! !tip 1 !<
