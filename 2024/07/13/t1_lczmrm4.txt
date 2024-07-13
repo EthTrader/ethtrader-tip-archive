@@ -1,0 +1,11 @@
+>The new comers I see here aren't registered
+
+You can still tip unregistered users so they get a notification and link to regiister if they want.
+
+If they register, great.
+
+if they don't, then you keep your donut as the tip is not executed.
+
+So, theres no reason to not tip unregistered users that seem genuine.
+
+!tip 1
