@@ -1,0 +1,3 @@
+At 3 gwei, do you wait days or weeks for your transaction to go through?
+
+!tip 1
