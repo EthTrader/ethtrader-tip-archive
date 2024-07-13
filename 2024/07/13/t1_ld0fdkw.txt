@@ -1,0 +1,17 @@
+I'll explain how the weight and T2V works and hopefully in a way that makes sense! 
+
+Firstly the most weight an upvote can have is 1 and what makes it worth 1 is having 20k contrib (or more) and the donuts to match. So with me I have over 20k contrib and over 20k Donuts so my weight for T2V purposes is 1. The fact I have more than 20k is irrelevant as the threshold is up to 20k for T2V purposes.
+
+Let's say I sold Donuts and had 10k left, I would still hold the contrib as it's non transferrable so that would make my weight worth 0.5 as I'd hold half the donuts needed to make a full weighted upvote. 
+
+The minimum required tip to be counted as an upvote is 1 so if I tipped 0.5 you would receive that half a donut at distribution but it wouldn't be worth an upvote. If I tipped you 5 you would receive the 5 donuts but it would still count as 1 upvote.
+
+Last distribution the ratio from comments and post was quite similar at about 25:1. Let's say we have the same ratios this time every upvote I dish out is worth 25 donuts plus the tip on top! 
+
+You may be wondering well where are the donuts that I'm tipping coming from? They are coming from the donuts I will receive next distribution from users upvoting me. With the ratios being so high we know that we aren't going to end up tipping more than we would receive. In fact it wouldn't come close. 
+
+Last distribution I dished out upvotes/tips like a madman and still received 22k donuts and I wasn't even in the top 10!
+
+Hope that makes sense! 
+
+!tip 1
