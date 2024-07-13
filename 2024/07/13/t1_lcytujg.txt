@@ -1,0 +1,4 @@
+Layer3 is a very bad name chosen as it confuses others in thinking if it's about Ethereum L3s.
+
+
+**!tip 1**
