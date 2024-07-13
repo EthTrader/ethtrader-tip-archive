@@ -1,0 +1,5 @@
+The tips are still executed - but you do not get the "vote reward"
+
+So, if you got 10 tips of 1 donut, you still get 10 donuts.
+
+!tip 1
