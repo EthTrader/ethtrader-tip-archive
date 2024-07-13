@@ -1,0 +1,3 @@
+Yes unlocking huge quantities at once creates volatility and dumps, must plan better strategies 
+
+!tip 1
