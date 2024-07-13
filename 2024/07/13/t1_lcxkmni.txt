@@ -1,0 +1,7 @@
+Nice
+
+Is there a quick guide somewhere to actually command CommmunityCurrencyBot?
+
+I've managed to withdraw some stuff once, but recently had no response - so assume i've done something wrong.
+
+!tip 1
