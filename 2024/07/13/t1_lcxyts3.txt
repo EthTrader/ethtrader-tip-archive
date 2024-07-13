@@ -1,0 +1,3 @@
+Since we use Tip2vote, we should burn half of the tips sent 
+
+!tip 1
