@@ -1,0 +1,3 @@
+It’s a lot more stress free, definitely. Staking is safer than liquidity provision / yield farming, because you don’t have to deal with impermanent loss. Well, the only loss you have to potentially deal with is the coin’s price depreciation.
+
+>! !tip 1 !<
