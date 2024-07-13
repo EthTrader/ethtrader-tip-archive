@@ -1,0 +1,5 @@
+>While ZAP's token distribution protocol is currently built on Blast, it looks to expand to more blockchains, starting with Base.
+
+Zap is to power the next wave of decentralized applications.
+
+!tip 1
