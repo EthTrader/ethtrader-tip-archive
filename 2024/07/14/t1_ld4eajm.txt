@@ -1,0 +1,2 @@
+Metamask, Trust wallet and many wallets offers swaps, NFT marketplace. It doesn't make them a Dex. They're trying hard to be what they're not.
+!tip 1
