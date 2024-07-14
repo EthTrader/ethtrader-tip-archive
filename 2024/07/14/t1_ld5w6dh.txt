@@ -1,0 +1,7 @@
+I use Ledger S+ and Ledger S (still alive).
+
+But for smaller amounts you can try Guarda Wallet (which offers multisig) as well as Air Gap Wallet signing transactions with an offline device.
+
+There are probably other good options out there, I'd be interested to see them.
+
+!tip 1
