@@ -1,0 +1,11 @@
+Let me explain it to you in crayons.
+
+MiCA gives clear guidelines for the issuance and trading of crypto / stablecoins. This clarity is expected to increase investor confidence, and attract institutional investors, mainly people who have their doubts about crypto.
+
+The regulations are supposed to "protect consumers", enforcing strict rules on the conduct of crypto asset service providers (exchanges). This includes requirements for transparent communication, fair trading practices, and the safeguarding of customer assets​.
+
+Then there's stablecoin regulations. Which has the purpose of preventing market manipulation and to make sure there's financial stability. Issuers (Circle, Tether, etc) will need to comply with capital requirements and standards, otherwise ban.
+
+The problem is compliance with MiCA means additional operational costs for crypto businesses. Reporting, auditing, legal services, all of this costs money.
+
+!tip 1
