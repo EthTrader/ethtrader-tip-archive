@@ -1,0 +1,4 @@
+>**In the event that you send USDC to a Blocked Address, or receive USDC from a Blocked Address, Circle may freeze such USDC and take steps to terminate your USDC Account.**
+
+Directly from their website.
+!tip 1
