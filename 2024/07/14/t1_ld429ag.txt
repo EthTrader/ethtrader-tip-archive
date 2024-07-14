@@ -1,0 +1,3 @@
+I believe it could be better regarding human readable addresses but then different layers of blockchains and different blockchains will take some effort for them to learn. 
+
+!tip 1
