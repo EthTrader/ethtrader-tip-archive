@@ -1,0 +1,5 @@
+The thing that makes ETH unique is
+
+Devs can create and deploy smart contracts on the Ethereum blockchain.
+
+!tip 1
