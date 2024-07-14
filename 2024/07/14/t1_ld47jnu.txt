@@ -1,0 +1,3 @@
+Where do we draw the line between building a tool and being responsible for its misuse?  Tough questions with seemingly no easy answers but code is neutral, right?
+
+!tip 1
