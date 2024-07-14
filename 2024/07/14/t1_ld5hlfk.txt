@@ -1,0 +1,4 @@
+It will be a generational inheritance. 
+
+
+!tip 1
