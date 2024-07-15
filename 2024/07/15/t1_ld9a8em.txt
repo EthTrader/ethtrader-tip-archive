@@ -1,0 +1,3 @@
+Someone tip this analyst 100 Donuts please.
+
+ ^(!tip 1.01)
