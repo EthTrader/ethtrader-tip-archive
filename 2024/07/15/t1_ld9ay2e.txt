@@ -1,0 +1,3 @@
+$SAND is history now. It had its glory days.
+
+ ^(!tip 1.01)

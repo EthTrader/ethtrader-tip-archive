@@ -1,0 +1,3 @@
+Its only matter of when, not if.
+
+ ^(!tip 1.01)

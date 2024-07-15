@@ -1,0 +1,5 @@
+Unpopular opinion;
+
+If you are someone who doesn't connect his wallet to websites, then you don't need a cold wallet at all.
+
+ ^(!tip 1.01)
