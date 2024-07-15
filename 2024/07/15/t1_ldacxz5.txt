@@ -1,0 +1,5 @@
+>What ever happened to the bot that is supposed to be prevent that from happening
+
+Actually it isn't! It only auto-nukes posts that aren't related to Eth or if a user posts after hitting the 3 post limit or the 30 minutes per post limit!
+
+!tip 1

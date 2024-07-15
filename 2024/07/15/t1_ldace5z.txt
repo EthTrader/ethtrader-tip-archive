@@ -1,0 +1,5 @@
+No donut rewards have been distributed, but new users have registered, and there has potentially been some buyers, or some on-chain tips received.
+
+At the very least, CommunityCurrencyBot is a new wallet address that now has DONUT xD
+
+!tip 1
