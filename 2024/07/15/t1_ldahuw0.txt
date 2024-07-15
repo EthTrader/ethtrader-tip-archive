@@ -1,0 +1,5 @@
+The actual trades (buy/sell) of tokenised assets will happen in stable coins afaik. But it will happen and settled on the Ethereum mainnet itself as its the most secure chain. People buying tokenised assets like US treasuries with millions and billions won't care about those insane fees while trading those assets.
+
+The main value of Ethereum will always be derived from it being used as a platform rather than just a token. The more the network is used the more appreciation we will see in ETHs value.
+
+⚡^(!Tip 1.01)
