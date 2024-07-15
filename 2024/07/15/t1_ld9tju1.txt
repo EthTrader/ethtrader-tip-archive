@@ -1,0 +1,3 @@
+Smaller buy orders at a time. Given there is only about 70k TVL in the liquidity pool, large orders will incur higher slippage rates. Smaller buy orders at a time can reduce the level of slippage.
+
+!tip 1
