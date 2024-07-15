@@ -1,0 +1,4 @@
+Start taking profits when it turns to greedy.
+
+
+**!tip 1**
