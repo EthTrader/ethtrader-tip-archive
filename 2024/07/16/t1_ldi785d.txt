@@ -1,0 +1,4 @@
+Accumulate when the price is low then you sell and higer price.
+
+
+!tip 1
