@@ -1,0 +1,7 @@
+7 days is probably still a but much, but most stories which are 5 or 6 days old have probably already been posted, and should be easy to remove as a Duplicate story.
+
+If the time was kept too short, we'd end up missing some stories too.
+
+7 days / 1 week feels like a fair balance.
+
+!tip 1
