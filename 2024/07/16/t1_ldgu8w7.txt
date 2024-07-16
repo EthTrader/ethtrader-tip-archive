@@ -1,0 +1,3 @@
+yes i think that's the problem there wouldn't b a place for tip command to go to until post itself get's approved to b eligible for tips & t2v, as donut bot message & pinned comment "that u can tip the post" only appears after post itself is approved, that explains why f u tip a post that doesn't have the pinned donut bot tipping comment(only appears after post itself approved) "simply nothing would happen", thanks
+
+!tip 1

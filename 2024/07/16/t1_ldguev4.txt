@@ -1,0 +1,5 @@
+Any idea if there is a Gnosis/Mainnet bridge?
+
+Users would have had to be able to send DONUT from Gnosis to Mainnet at some stage.
+
+!tip 1
