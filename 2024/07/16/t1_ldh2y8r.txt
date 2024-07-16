@@ -1,0 +1,3 @@
+ The GPU rendering network Render Token aims to develop a profitable alternative to idle GPUs, connecting artists and studios in need of GPU processing power with mining partners who make their GPU resources available to the network place. 
+
+!tip 1
