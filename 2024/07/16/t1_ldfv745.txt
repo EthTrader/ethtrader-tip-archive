@@ -1,0 +1,7 @@
+Nothing wrong with using both.
+
+I keep some of my eth mainnet alt coins on a CEX because I'm likely to trade them. No point wasting additional gas fees.
+
+If tokens are on an L2, then sure, a DEX is cheaper.
+
+!tip 1
