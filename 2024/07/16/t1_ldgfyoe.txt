@@ -1,0 +1,5 @@
+The bot can recognize dual commands, but in this instance there is no comment for the tip command to go to until after the post is approved.
+
+That's why your comment here in the daily had DonutBot respond to both commands.
+
+!tip 1
