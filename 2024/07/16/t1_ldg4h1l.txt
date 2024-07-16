@@ -1,0 +1,3 @@
+I think you might be fine because you don't have to set any token approvals for that.
+
+!tip 1
