@@ -1,0 +1,5 @@
+In general I'd steer clear of protocol tokens unless you know quite a bit about it. I got no comments on EKUBO at all.
+
+Generally speaking those tokens are for governance and liquidity pool rewards, so generally speaking they have more sell pressure than buy pressure
+
+!tip 1
