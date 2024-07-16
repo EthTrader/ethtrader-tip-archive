@@ -1,0 +1,3 @@
+Looks like the bot wallet doesn't have any arb eth to pay for the transactions at this stage.
+
+!tip 1
