@@ -1,0 +1,3 @@
+Always use revoke.cash and remove all permissions and never grant infinite permission 
+
+!tip 1
