@@ -1,0 +1,3 @@
+What guarantees does CB have that the mails won't be deleted?
+
+!tip 1
