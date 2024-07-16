@@ -1,0 +1,7 @@
+Yep. Typically, if a post has been fiiltered, the DonutBot hasn't got a pinned comment.
+
+I've made that mistake once or twice.
+
+Users need to approve, let DonutBot comment, and then tip separately
+
+!tip 1
