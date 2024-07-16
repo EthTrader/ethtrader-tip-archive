@@ -1,0 +1,3 @@
+If DonutBot has a stickied post already it would work; but sometimes it doesn't. Maybe it depends why the post was filtered in the first place.
+
+!tip 1
