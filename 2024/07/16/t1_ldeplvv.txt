@@ -1,0 +1,3 @@
+If we cancel a zero, it may be right.
+
+!tip 1
