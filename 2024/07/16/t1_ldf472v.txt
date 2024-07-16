@@ -1,0 +1,5 @@
+Since they are with u/communitycurrencybot I think the withdrawal works just the same as with the other community currencies (!withdraw...). Just make sure you have registered for donuts first.
+
+Think I have previously done a donut withdrawal like this and it went to Arbitrum one. At least that is where all my donuts are now. But I also remember them on Gnosis.
+
+!tip 1
