@@ -1,0 +1,3 @@
+At least rabby wallet has its own tool for revoking
+
+!tip 1
