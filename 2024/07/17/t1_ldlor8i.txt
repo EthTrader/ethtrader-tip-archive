@@ -1,0 +1,5 @@
+Use wallets created only for connecting to Dapps and leave them empty when you're done.
+
+Easy!
+
+!tip 1

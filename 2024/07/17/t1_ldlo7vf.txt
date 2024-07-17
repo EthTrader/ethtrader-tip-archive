@@ -1,0 +1,7 @@
+Post = 22
+
+Comment= 5
+
+A lot of commenting this both under posts and the daily
+
+!tip 1
