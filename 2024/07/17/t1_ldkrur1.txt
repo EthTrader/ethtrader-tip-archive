@@ -1,0 +1,5 @@
+Are you sure?
+
+It's 2.40 in coingecko
+
+!tip 1
