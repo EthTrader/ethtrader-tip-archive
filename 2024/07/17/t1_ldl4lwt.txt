@@ -1,0 +1,5 @@
+I think we should just have to switch to !upvote where every user upvote command stand with 1upvotes instead of the TIP2VOTE. And yes I know they'll be vote manipulation but at least, with what the mods said on the t2v, they'll be very active to detect people who are voting manipulation. I think that'll be better than t2v. 
+
+Or might use the UPVOTE command as full 1 weight upvote and still be able to use the TIP command but that'll have a full weight of 1.5 votes(that's if we love whatever the user post. Like comedy or media post for example).
+
+Sorry my English not so good. !tip 1
