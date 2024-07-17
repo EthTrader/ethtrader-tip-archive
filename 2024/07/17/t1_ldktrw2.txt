@@ -1,0 +1,4 @@
+I'm unsure how such a small downward correction lead to a huge number of longs getting liquidated. Are all of them betting on a x50 leverage or what.
+
+
+**!tip 1**
