@@ -1,0 +1,5 @@
+Tales as old as Satoshi.
+
+always do a test transaction.
+
+!tip 1
