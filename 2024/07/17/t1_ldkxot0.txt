@@ -1,0 +1,5 @@
+>Data Ownership Protocol (DOP) is a recently launched Ethereum-based solution that helps users protect their blockchain data from public view, and also enables them to selectively disclose only certain aspects of their transaction histories and balances.
+
+I like this already!
+
+⚡^(!Tip 1.01)
