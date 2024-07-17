@@ -1,0 +1,7 @@
+#What is Taiko (TAIKO)
+
+>Taiko is a fully open-source, permissionless ZK-Rollup designed to address the high transaction fees and scalability issues associated with the Ethereum network while maintaining its core properties of censorship resistance, permissionlessness, and security.
+
+https://blog.bitfinex.com/education/what-is-taiko-taiko/
+
+!tip 1
