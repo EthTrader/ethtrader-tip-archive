@@ -1,0 +1,3 @@
+Not exactly. TLXFi integrates Chainlink for automation and price feeds, not necessarily leveraged tokens. Think of it as building blocks for DeFi strategies  rather than a platform to directly gamble with leverage. Intrigued?
+
+!tip 1
