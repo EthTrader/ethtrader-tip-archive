@@ -1,0 +1,3 @@
+type "!register your_eth_address" and enjoy some donuts 😎
+
+!tip 5
