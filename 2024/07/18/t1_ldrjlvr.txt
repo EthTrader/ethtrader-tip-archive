@@ -1,0 +1,3 @@
+L2 networks typically have their own fee structure separate from the main chain token. We haven't heard all the details yet. Maybe Lumia has a unique way to integrate their token into the L2 fee system.
+
+!tip 1
