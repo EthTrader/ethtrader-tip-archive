@@ -1,0 +1,7 @@
+Certainly quite limited in terms of whats available. Nomination commands only work on the Actively pinned daily - and rely on mods to pin/sticky posts and comments. 
+
+Otherwise, the most ideal situation is to create a specific Voting post and pin that. 
+
+Poor MattG has got such a huge queue of things he's working on already without further modifying what commands DonutBot can do.
+
+!tip 1
