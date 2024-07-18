@@ -1,0 +1,5 @@
+>The attack occurred on the Ethereum and Arbitrum networks and affected 156 wallets with the “infinite approvals” option turned on. Users without this option turned on were not affected by the exploit.
+
+Glad to see only a few number of wallets were hacked in this incident.
+
+!tip 1
