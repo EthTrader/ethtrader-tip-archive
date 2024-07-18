@@ -1,0 +1,5 @@
+Their reason for migration...
+
+>**POL (Polygon Ecosystem Token) is designed to gradually replace the current MATIC token over 4 years, as part of Polygon 2.0, where Polygon evolves into a Polygon zkEVM validium with its own network of interoperable application specific blockchains.**
+
+!tip 1
