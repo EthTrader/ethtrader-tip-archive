@@ -1,0 +1,5 @@
+>There are non-OFAC compliant transactions getting processed by the more than 20 Ethereum builders. Beaverbuild shows 0.39% of its processed blocks are sanctioned, followed by Titan Builder with 1.56%. Rsync-Builder, and Flashbots are among the top without any unauthorized transactions.
+
+Does this make the USA angry?
+
+!tip 1
