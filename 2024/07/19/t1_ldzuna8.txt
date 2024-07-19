@@ -1,0 +1,5 @@
+the !withdraw command still works for all the RCC but donuts🤔
+
+I think community wallet hasn't funds for gas fee on ARB 🤔
+
+!tip 1
