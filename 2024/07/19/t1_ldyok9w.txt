@@ -1,0 +1,3 @@
+Tuesday is the first event to pass.
+
+ !tip 1
