@@ -1,0 +1,4 @@
+Happens every cycle, the activity always pumps after distribution and starts to decline as the round progresses. 
+
+
+**!tip 1**
