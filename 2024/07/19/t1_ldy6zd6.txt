@@ -1,0 +1,3 @@
+i think cold wallets : trezor then ledger, hot wallets : trust wallet then phantom
+
+!tip 1
