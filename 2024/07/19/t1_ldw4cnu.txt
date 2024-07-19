@@ -1,0 +1,3 @@
+No idea why $mode is forking
+
+!tip 1
