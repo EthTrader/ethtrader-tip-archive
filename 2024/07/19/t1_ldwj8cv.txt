@@ -1,0 +1,7 @@
+Rewards = incentives
+
+Incetives = rewards
+
+No rewards, no incentives rikky
+
+!tip 1
