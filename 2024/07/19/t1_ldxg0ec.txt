@@ -1,0 +1,5 @@
+There is 2 major upgrades set for Ethereum, (Pectra & Verkle trees) 
+
+And those are even bigger than the Dencun upgrade 
+
+!tip 1

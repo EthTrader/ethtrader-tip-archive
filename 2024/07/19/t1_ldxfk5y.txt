@@ -1,0 +1,2 @@
+They're officially supported by Scroll. The vulnerability that caused the hack came from within Scroll ecosystem.  Scroll announced it on X.
+!tip 1
