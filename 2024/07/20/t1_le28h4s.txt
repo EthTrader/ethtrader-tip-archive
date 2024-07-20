@@ -1,0 +1,3 @@
+Airports should use Etheruem network which is 100% online always.
+
+!tip 1
