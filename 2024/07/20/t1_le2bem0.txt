@@ -1,0 +1,3 @@
+Either flair or multiplier must be fixed or news articles that are based on an X tweet to be penalized 
+
+!tip 1
