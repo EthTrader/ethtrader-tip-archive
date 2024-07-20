@@ -1,0 +1,4 @@
+This will occur when you receive more tips on the comment that got nominated. 
+
+
+!tip 1
