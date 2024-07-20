@@ -1,0 +1,3 @@
+Their name is Etherfuse, but they are not present on Ethereum mainnet yet. I wonder why they moved to Base L2 first, before starting on mainnet. 
+
+!tip 1
