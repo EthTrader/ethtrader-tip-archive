@@ -1,0 +1,3 @@
+I believe having a whitelisted withdrawal address should have no delay. Meanwhile sending to an unknown address should have a 1 hour delay to better protect investors from unknown access
+
+!tip 1
