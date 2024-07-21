@@ -1,0 +1,3 @@
+Either transactions should increase or gas fees should increase. Else, Ethereum will be inflationary forever.
+
+!tip 1
