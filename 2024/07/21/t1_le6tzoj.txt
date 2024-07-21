@@ -1,0 +1,5 @@
+I would suggest nerfing news links in general to 0.5x - still higher than Media.
+
+And scrap the AI detection for news links - leaving a ban of AI on discussion posts. One of the reasons I voted against AI use was when people used ChatGPT to "explain Layer 2's" and then pass it off as original content.
+
+!tip 1

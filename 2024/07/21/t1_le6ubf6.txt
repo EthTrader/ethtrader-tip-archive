@@ -1,0 +1,7 @@
+Perhaps we should consider nerfing news links in general to 0.5x - still higher than Media.
+
+Scrap the AI detection for news links - but maintaining a ban of AI >75% on text based posts.
+
+And then blanket ban some known AI generated sources like Coinotag.
+
+!tip 1
