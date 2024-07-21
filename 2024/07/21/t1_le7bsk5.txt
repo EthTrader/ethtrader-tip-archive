@@ -1,0 +1,3 @@
+Always a possibility that some volume is artificially generated, trading bots can do this - gas fees are a small price to pay to get other users trading and increase volume.
+
+!tip 1
