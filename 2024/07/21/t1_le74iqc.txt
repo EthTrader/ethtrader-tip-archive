@@ -1,0 +1,4 @@
+Most of the time those buying for small amounts are the one's doing heavy calculations.
+
+
+**!tip 1**
