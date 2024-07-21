@@ -1,0 +1,3 @@
+It was not Coinbase’s fault, the headline is a bit misleading. The problem was a third party, a bank, that uploaded data where they shouldn’t have.
+
+>! !tip 1 !<
