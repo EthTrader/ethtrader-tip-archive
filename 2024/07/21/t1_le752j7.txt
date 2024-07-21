@@ -1,0 +1,9 @@
+We've long needed a more detailed subset of rules; this could be prevented by employing some of the basic rules r/cc also implements to curb low quality spam.
+
+7. Simple price speculation posts are not allowed. This includes posting portfolios and new price movement of a coin. Technical/charting analysis will be allowed depending on the quality.
+
+8. Include sources. All articles must provide sources of the content provided on links to news websites. Low-quality articles, plagiarism, and speculative content will be removed. If the content in the articles is not concrete, then the authors must make that clear.
+
+9. Questions and discussions which only belong in the daily discussion thread include: "rate my portfolio", "what coin should I buy?", “shill me a coin", "low-market cap coins", self-stories, etc.
+
+!tip 1
