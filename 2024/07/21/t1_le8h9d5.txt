@@ -1,0 +1,10 @@
+>My initial thought is to have Seasons (Season 1, Season 2, etc) where each season would build (or add features) upon the previous season. An example of this would be:
+
+Season 1 - Enable custom flair text
+Season 2 - All features from Season 1 + allow users to post gifs and images
+Season 3 - All features from Season 2 + allow users to post images, allow variables in custom flair text
+Season 4 - All features from Season 3 + ???
+
+According to Mattg, YES!
+
+!tip 1
