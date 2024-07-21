@@ -1,0 +1,7 @@
+It needs to get to a place where consumers are using the tech without even realizing. 
+
+
+I don't know how tcp ip stack protocols work but I can turn on a router and connect to the web. 
+
+
+!tip 1
