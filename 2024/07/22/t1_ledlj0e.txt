@@ -1,0 +1,3 @@
+Rule no1, do not keep funds on exchanges 
+
+!tip 1
