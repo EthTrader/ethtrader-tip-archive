@@ -1,0 +1,3 @@
+It would be nice to have a consolidated pool - but, many users, in particular older crypto traders, do prefer Mainnet. It wouldn't necessarily be good for the project to cut ties with Mainnet liquidity either. Given the larger trading volume on Uniswap, Mainnet liquidity could very well be outperforming impermanent loss over the last 11 weeks.
+
+!tip 1

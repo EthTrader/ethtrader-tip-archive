@@ -1,0 +1,5 @@
+The TVL on Sushi is still too low. 
+
+Would it be a good move to move mainnet liquidity to Arb1 and maintain just a single pool with higher liquidity?
+
+⚡^(!Tip 1.01)
