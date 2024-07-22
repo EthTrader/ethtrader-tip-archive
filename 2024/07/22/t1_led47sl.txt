@@ -1,0 +1,3 @@
+>Celestia is a Layer 1 blockchain, designed to be 'modular' in nature with the goal of making it easy for developers to launch their own blockchain
+
+!tip 1
