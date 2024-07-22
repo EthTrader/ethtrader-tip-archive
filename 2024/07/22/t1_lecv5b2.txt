@@ -1,0 +1,5 @@
+>when focusing on critical vulnerabilities, Veridise found that 55% (11 out of 20) ZK audits contained a critical issue compared to 27.5% (22 out of 80) of its other audits, including smart contracts, wallet integrations, blockchain implementations and relayers.
+
+Not SAFU.
+
+⚡^(!Tip 1.01)
