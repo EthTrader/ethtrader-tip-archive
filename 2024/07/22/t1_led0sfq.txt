@@ -1,0 +1,3 @@
+Friendly reminder to audit your smart contracts once in a while.
+
+>! !tip 1 !<
