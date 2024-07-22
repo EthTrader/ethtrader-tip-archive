@@ -1,0 +1,8 @@
+That was my initial suggestion. The way the Donut ecosystem is distributed now is:
+
+* (whale) Trading activity - Ethereum
+* DeFi operations - Arbitrum One
+
+And because most of the trading volume is within the mainnet, we can’t afford to shut down the LP there.
+
+>! !tip 1 !<
