@@ -1,0 +1,3 @@
+Rules must be the same and not different in every state 
+
+!tip 1
