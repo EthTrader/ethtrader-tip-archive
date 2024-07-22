@@ -1,0 +1,3 @@
+Crypto is supposed to be p2p. Any fees that aren't there out of necessity to sustain the service (such as tx fees) are contrary to this principle. Forcing people to pay something under threat of incarceration is what??
+
+!tip 1

@@ -1,0 +1,4 @@
+So the addresses are removed from the data when the balance goes to zero? 
+
+
+**!tip 1**

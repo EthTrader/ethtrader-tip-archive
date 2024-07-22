@@ -1,0 +1,3 @@
+People can still have chains in their wallet, but if balance is zero, than the addresses are not counting.
+
+!tip 1
