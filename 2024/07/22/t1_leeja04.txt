@@ -1,0 +1,3 @@
+Rugged of the tip
+
+!tip 1
