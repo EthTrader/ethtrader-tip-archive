@@ -1,0 +1,5 @@
+Voting rings? I'm not sure how one can find that out, if they exists.
+
+The way I see it : t2v made it mandatory to apply the tip command with every interaction, regardless.
+
+!tip 1

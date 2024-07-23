@@ -1,0 +1,3 @@
+Naturally. Simple minds think more rules makes things more complicated, but the problem is most of the existing rules just aren't clearly documented in one easy to refer to source. The reason why they are confused is because there are no existing expanded rules with definitions and guidelines - which reduces ambiguity about moderation.
+
+!tip 1
