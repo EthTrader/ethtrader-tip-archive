@@ -1,0 +1,11 @@
+>As a trader, I approve this message.
+
+Traders know it well!
+
+>CEXs have the best interface for trading, mostly because of the limit orders. Then there’s the spread, which is usually better on Kraken. It allows me to get the best possible price in the market.
+
+DEX are moving slowly towards that goal. You should try Jupiter DEX sometime. It has Swap, DCA, Limit orders, Value average buys and perps as well.  The slippage is dynamic and you can even adjust it. 
+
+ I wish there was something like it on Ethereum.
+
+!tip 1.01
