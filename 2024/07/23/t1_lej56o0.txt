@@ -1,0 +1,4 @@
+You're right, moving small funds on the mainnet can be expensive. This is where L2s come in handy.  
+For the past two years, I haven't used the mainnet for storing new assets. I've been transferring all my ETH DCAs from CEX to my wallet on Arbitrum.
+
+^(!tip 1.01)
