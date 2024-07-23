@@ -1,0 +1,7 @@
+Round 138: 03/07 - 30/07
+
+- Final snapshot happens in:
+
+8d 2h 39m 1s
+
+!tip 1
