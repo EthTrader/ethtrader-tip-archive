@@ -1,0 +1,3 @@
+Which program will execute first, your stop-loss (SL) or Take profit (TP)?
+
+!tip 1
