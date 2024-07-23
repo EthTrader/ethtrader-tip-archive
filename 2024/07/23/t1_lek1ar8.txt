@@ -1,0 +1,3 @@
+>3. Solution: Limiting tips/tip cap. In this solution we will decrease the weight of tips after specific amounts. I think something like this had been applied in the cryptocurrency subreddit in the past. Let's say we limit tips per day, for example first 10 tips will have 1.0 weight. Then after 10th tip every tip will have 0.8 weight till 20th tip. Then after every tip will have 0.5 weight. etc. 
+
+This is the best one I've seen so far and YEA I would vote yea for this. !tip 1
