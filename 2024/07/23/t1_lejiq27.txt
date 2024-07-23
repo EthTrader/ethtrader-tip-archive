@@ -1,0 +1,3 @@
+If it dumps, we'll see it as another opportunity to buy more.
+
+^(!tip 1.01)
