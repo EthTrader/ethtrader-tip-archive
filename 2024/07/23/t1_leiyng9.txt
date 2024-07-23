@@ -1,0 +1,5 @@
+People are tipping based on who has posted the content. Not to good quality content.
+
+And every comment, we have to use the tip command. Else, we'll be left behind.
+
+!tip 1
