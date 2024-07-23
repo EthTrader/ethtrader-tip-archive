@@ -1,0 +1,3 @@
+We still have limitations with decentralized exchanges. Sometimes it's not easy to get on-off ramp in certain regions without using a centralized exchange. But with more on-off ramp service providers joining the space, we may see that changing soon.
+
+^(!tip 1.01)
