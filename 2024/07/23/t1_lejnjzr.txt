@@ -1,0 +1,3 @@
+Yes. Making it smaller/superscript makes the actual comment stand out. Sometime spoiler code works too (Like what Friendly Airlines does)
+
+>!!tip 1!<
