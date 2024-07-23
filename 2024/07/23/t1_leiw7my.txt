@@ -1,0 +1,9 @@
+As a trader, I approve this message.
+
+CEXs have the best interface for trading, mostly because of the limit orders. Then there’s the spread, which is usually better on Kraken. It allows me to get the best possible price in the market.
+
+The way I do it is I fund the CEX account with a “bankroll”, normally something between $2-5K for trading purposes. Profits either get swapped for Eth, which I store on an external wallet, or I simply cash out and sell for fiat, if there is necessity to do so.
+
+I always say that no matter how trustworthy it is, a CEX is still a CEX. It literally holds your funds for you, thus not making it your funds anymore.
+
+!tip 5

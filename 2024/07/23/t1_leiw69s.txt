@@ -1,0 +1,3 @@
+We have implemented a cap of 3 posts per 24 hours. Also the way in which you get eligible to earn donuts does not happen by pressing upvote. Instead, we have implemented ”tip to vote”. So, now we tip instead:
+
+!tip 1
