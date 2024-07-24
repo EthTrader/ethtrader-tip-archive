@@ -1,0 +1,3 @@
+It will count 0.1 IIRC.
+
+!tip 1

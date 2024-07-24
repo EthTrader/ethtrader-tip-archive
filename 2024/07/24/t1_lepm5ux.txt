@@ -1,0 +1,3 @@
+Exactly, given it's based on tips, limiting comments itself will be tricky to implement as well, as will require computational power to determine how many comments, and what is eligible... so simply having reduced weight of tips is a logical and easier approach... still will require additional dev work though.
+
+!tip 1

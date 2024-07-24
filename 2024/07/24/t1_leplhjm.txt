@@ -1,0 +1,3 @@
+Exactly. Your current tipping weight is 0. For a full multiplier (1) you’d need 20K
+
+!tip 1
