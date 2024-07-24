@@ -1,0 +1,1 @@
+No need blocking transactions if the exchange is not experiencing any attacks except there's something they're not telling us. !tip 1
