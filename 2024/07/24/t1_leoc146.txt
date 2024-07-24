@@ -1,0 +1,3 @@
+They are well protected with a seed phrase written in a notepad, inside a folder that says "wallets" on my desktop.
+
+>!!tip 1!<
