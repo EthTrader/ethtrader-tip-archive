@@ -1,0 +1,3 @@
+Thanks for the feedback! I agree with not counting commands such as "post status", "tip status" etc. towards the cap. 
+
+!tip 1
