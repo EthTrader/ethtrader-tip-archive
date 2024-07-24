@@ -1,0 +1,3 @@
+"Since 2018, though they weren't ERC-20 tokens to start. They started out as simply numbers stored on Reddit's servers. Donuts transitioned to be decentralized in late 2019 & early 2020."
+
+!tip 1
