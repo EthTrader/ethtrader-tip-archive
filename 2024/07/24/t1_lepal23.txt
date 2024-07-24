@@ -1,0 +1,5 @@
+That has to be a mistake.
+
+Tips will always count. Comments that has below 12 chars and a tip, will be removed, but tip will be counted.
+
+!tip 1
