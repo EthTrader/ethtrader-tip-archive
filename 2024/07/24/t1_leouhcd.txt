@@ -1,0 +1,3 @@
+>Pencils Protocol acts as the native Scroll gateway for restaking and liquid staking of assets.
+
+!tip 1
