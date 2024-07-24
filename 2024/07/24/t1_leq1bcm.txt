@@ -1,0 +1,9 @@
+>I like 50 comments cap but I think we should remove "Good bot", tip status, post status, Automod commands, etc from the counting towards the cap.
+
+I think this is achieved by not worrying about comment cap specifically, but rather, comments that have been tipped.
+
+Lets say the cap is 50, you make 200 comments, but reduced rewards come in from 50th tip, rather than 50th comment.
+
+I assume that might be easier for the tooling bots to compute as well.
+
+!tip 1
