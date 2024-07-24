@@ -1,0 +1,5 @@
+>to avoid these repeated hacks.
+
+I bet they're trying their best but DeFi's decentralized nature makes patching vulnerabilities tricky. Maybe the community can play a bigger role in ethical hacking and bug bounties?
+
+!tip 1
