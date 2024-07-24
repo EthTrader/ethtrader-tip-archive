@@ -1,0 +1,7 @@
+Eth has a massive market cap, which makes it less susceptible to price changes from relatively smaller trading volumes. Yes, $1B is relatively small for eth. The total market cap is around $414 BILLION, so $1 billion represents less than 0.25% of its total market value.
+
+Then there's the liquidity factor. Eth has a massive amount of liquidity, it has tons of daily trading volumes across many exchanges. What this means is this liquidity helps absorb large trades, without significantly affecting the price.
+
+There's also another thing, which imo is what makes more sense for this case. The $1B trading volume could be balanced between buyers and sellers. The number being bought is nearly equal to the amount being sold, the net effect on price could be minimal, and buyers and sellers cancel each other out.
+
+>!!tip 1!<
