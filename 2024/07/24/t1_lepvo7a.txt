@@ -1,0 +1,6 @@
+I like 0.5x for links.
+
+I like 50 comments cap but I think we should remove "Good bot", tip status, post status, Automod commands, etc from the counting towards the cap.  
+Thanks for sharing all your concerns and possible alternatives to fix them.
+
+🐼 !tip 1

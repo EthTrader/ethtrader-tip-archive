@@ -1,0 +1,11 @@
+My only concern is that new users have a hard time integrating, but this will make it even more difficult for them.
+
+1. Posts are now limited, so that's been resolved.
+
+2. If we limit the number of tips, beginners will still suffer. Now I give advice to anyone who comments on my post or if I comment on theirs. Most users do the same. If there is a limit, beginners will not get any tips. I guarantee every user with 20k+ will think twice about who they give it to.
+
+3. Many accounts were removed with the new system. There may still be a few, but they are definitely very few. I don't know if there is a way to detect and remove them.
+
+4. What and how will new users gain from lowering the multiplier? It doesn't matter to me if it's 0.5, 0.75 or 1. But if it goes down, new users will be even more discouraged to participate.
+
+!tip 1
