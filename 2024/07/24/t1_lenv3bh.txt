@@ -1,0 +1,3 @@
+They should be the happiest people on earth right now.
+
+^(!tip 1.01)
