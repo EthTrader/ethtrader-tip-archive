@@ -1,0 +1,20 @@
+No doubt you'll get bombarded by downvotes from people thinking there are enough rules already, but it's refreshing to see some new faces hoping to improve the overall quality of the sub.
+
+You're absolutely right about the quality of the front page, a good sub has a healthy variety of content.
+
+It's probably worth looking at the expanded rules of r/cryptocurrency and implementing some of those similar rules.
+
+
+> Don't count tip chains.
+
+I guess if people stop having proper discussions, then they weren't genuine anyway. Only problem with this one is, often a parent comment can be gibberish and the child comment could contain actual information - so, excluding tips on child comments probably isn't quite a workable solution
+
+> Apply a tipping cooldown for specific users
+
+I'm not entirely convinced - there is a difference between a spammer and an active contributor, commenting gifs versus commenting well thought out discussion - again, hard to differentiate 
+
+> Limiting tips/tip cap
+
+I do like this one, reminds me of r/cc comment cap, which provided diminishing rewards on subsequent submissions after 50. 
+
+!tip 1
