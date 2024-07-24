@@ -1,0 +1,5 @@
+Oh neat, I didn't realize the brackets would close it to the whole sentence
+
+Wonder if it applies to a double superscript
+
+^^(!tip 1)
