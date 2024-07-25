@@ -1,0 +1,5 @@
+>Chainlink has taken RWAs pretty seriously.
+
+Because that’s the whole purpose of Chainlink, to being real world data onto the blockchain.
+
+>! !tip 1 !<
