@@ -1,0 +1,8 @@
+>Removed posts by the mechanism would not incur the pay2post fee.
+
+>Removed posts by the mechanism would not count towards the daily limit of 3 posts.
+
+Remove these two and every member throws caution to the wind when posting. 
+I suggest pay2post removed in this case, but the daily limit still counts.
+
+!tip 1
