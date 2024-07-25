@@ -1,0 +1,5 @@
+Expectation: 6900 DOLLARYDOOS
+
+Reality: Dumpa to 5000 DOLLARYOOS
+
+!tip 1.5
