@@ -1,0 +1,7 @@
+This would take a considerable amount of resources and time from the team. However, immediate projects are the **special memberships** and a **new interface in the dashboard for advertising**. This would be similar to the special membership UI, but for projects that seek to advertise in the r/ethtrader platform.
+
+In terms of backend work, it's relatively simple, as all they have to do is to mimic the membership smart contract, and remove all the unnecessary parts. In terms of frontend, however, it's more complex.
+
+I guess what I'm trying to say is, with proper organization this should be quite easy to achieve.
+
+>!!tip 1!<
