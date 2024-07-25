@@ -1,0 +1,7 @@
+\[YES\] I have the feeling that someone wants to implement another r/cc feature [https://cctopiclimits.onrender.com/](https://cctopiclimits.onrender.com/) 👀
+
+I would add DONUT, ZKSync/ZK, LINK, BASE, ARB to that list and maybe even airdrops.
+
+In fact if developers can get a feed of all the ETH L2s tickers so we can dynamically control this it would be cool. There must be an API that provides all the tickers that are ETH L2s for sure.
+
+🐼 !tip 1
