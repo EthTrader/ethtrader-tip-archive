@@ -1,0 +1,3 @@
+Liquidity pool is better than liquidation pool (leveraged trades)
+
+!tip 1
