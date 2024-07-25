@@ -1,0 +1,3 @@
+I'm just gonna buy some till i'm out of fiat.
+
+^(!tip 1.01)
