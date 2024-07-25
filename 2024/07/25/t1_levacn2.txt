@@ -1,0 +1,5 @@
+Point of clarification, if a post is removed by topic limiter, while it will not count towards their 3 posts in 24 hours, will it still be impacted by the current cooldown (30 minutes) - or can a user attempt reposting immediately afterwards?
+
+If no answer is currently given, it'll still be worth clarifying in the official proposal.
+
+!tip 1
