@@ -1,0 +1,3 @@
+I said 3.1k while you predicted 3k. In this case i will tip you half.
+
+!tip 5
