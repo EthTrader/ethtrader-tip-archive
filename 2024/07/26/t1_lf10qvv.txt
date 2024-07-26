@@ -1,0 +1,5 @@
+Decentralized = safe ✅
+
+Decentralized = not safe ❌
+
+!tip 1
