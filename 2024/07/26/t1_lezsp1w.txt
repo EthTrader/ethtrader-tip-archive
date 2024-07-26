@@ -1,0 +1,3 @@
+Make rules simpler. Now it's complicated
+
+!tip 1
