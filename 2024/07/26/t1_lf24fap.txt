@@ -1,0 +1,3 @@
+Also not allowing someone to directly deploy something on production could have solve the problem.
+
+🐼 !tip 1
