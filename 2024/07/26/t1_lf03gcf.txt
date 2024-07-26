@@ -1,0 +1,3 @@
+POW is more secure than POS, but it’s slower and consumes more energy
+
+!tip 1
