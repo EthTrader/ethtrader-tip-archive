@@ -1,0 +1,3 @@
+Governance score is the lesser value of your DONUT and CONTRIB balances, so, whilst having 118k CONTRIB, your governance score is just 1.2k due to your DONUT balance.
+
+!tip 1
