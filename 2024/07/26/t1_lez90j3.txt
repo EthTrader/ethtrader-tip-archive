@@ -1,0 +1,5 @@
+>The lack of a real-world anchor in PoS systems could be a weakness, making them potentially more susceptible to certain types of attacks.
+
+Saved you a click.
+
+!tip 1
