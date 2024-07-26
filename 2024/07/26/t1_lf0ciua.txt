@@ -1,0 +1,3 @@
+Seems like the numbers are decreasing. It should be fine as long as there are more inflows than outflows.
+
+>! !tip 1!<
