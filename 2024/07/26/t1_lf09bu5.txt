@@ -1,0 +1,3 @@
+Nice catch. The price change is the positive type.
+
+!tip 1
