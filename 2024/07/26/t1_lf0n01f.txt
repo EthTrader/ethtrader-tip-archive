@@ -1,0 +1,3 @@
+you still receive the donuts they are tipping you, just with 0 bonus since their weight is 0
+
+!tip 1
