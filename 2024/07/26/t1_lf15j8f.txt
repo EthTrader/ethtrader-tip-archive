@@ -1,0 +1,6 @@
+>What is Pendle (PENDLE)?
+Pendle is an innovative financial protocol in cryptocurrency that allows users to tokenise and trade future yield on Ethereum and Avalanche. Holders of yield-bearing assets can lock in future yields in advance, converting their expected earnings into liquid assets today.
+
+https://academy.swissborg.com/en/learn/what-is-pendle
+
+^(!tip 2.69)
