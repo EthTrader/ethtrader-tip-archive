@@ -1,0 +1,9 @@
+"Short for decentralized finance, DeFi is an umbrella term for peer-to-peer financial services on public blockchains, primarily Ethereum.
+
+DeFi (or “decentralized finance”) is an umbrella term for financial services on public blockchains, primarily Ethereum. With DeFi, you can do most of the things that banks support — earn interest, borrow, lend, buy insurance, trade derivatives, trade assets, and more — but it’s faster and doesn’t require paperwork or a third party. As with crypto generally, DeFi is global, peer-to-peer (meaning directly between two people, not routed through a centralized system), pseudonymous, and open to all."
+
+Read more at 
+
+https://www.coinbase.com/en-gb/learn/crypto-basics/what-is-defi
+
+!tip 1
