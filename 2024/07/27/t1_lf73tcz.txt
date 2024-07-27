@@ -1,0 +1,3 @@
+No token has enough liquidity if many people were to sell at the same time.
+
+!tip 1
