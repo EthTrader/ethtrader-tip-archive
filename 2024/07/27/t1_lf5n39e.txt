@@ -1,0 +1,13 @@
+Cons of cbdc:
+
+
+* They can put expiry dates on the money
+
+
+* Can block anyone's money
+
+
+* No privacy 
+
+
+**!tip 1**
