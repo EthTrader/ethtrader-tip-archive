@@ -1,0 +1,4 @@
+Truth be told, Lido is one of the reasons for the centralization claims.
+When a staking service controls a significant portion(36%) of the network's staked ETH , it becomes a cause for concern.
+
+!tip 1
