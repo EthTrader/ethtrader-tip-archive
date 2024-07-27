@@ -1,0 +1,4 @@
+Kamino Pools are based on concentrated liquidity market makers (CLMM) rather than automated market makers (AMM), so there is no need to set any ranges. It automatically adjusts the range according to market conditions. 
+You can read more here.https://docs.kamino.finance/v/automated-liquidity
+
+⚡^(!Tip 1.01)
