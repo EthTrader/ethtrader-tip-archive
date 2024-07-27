@@ -1,0 +1,3 @@
+This is some clean guide with easy to understand examples
+
+!tip 1
