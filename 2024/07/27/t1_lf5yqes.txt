@@ -1,0 +1,3 @@
+Source: fool.com !
+
+!tip 1
