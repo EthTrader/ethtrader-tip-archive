@@ -1,0 +1,3 @@
+[NO] mods already analyze the tips for unusual patterns
+
+!tip 1

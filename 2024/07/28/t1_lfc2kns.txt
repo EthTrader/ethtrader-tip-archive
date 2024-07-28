@@ -1,0 +1,5 @@
+I don't know you also penalize very active users which might still create valuable comments.
+
+I was thinking that maybe you can tip a user only certain amount of times each day, e. G. 5 times the same user on a day or something. That would address the two user tip chains.
+
+!tip 1
