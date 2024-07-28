@@ -1,0 +1,3 @@
+Reducing links to 0.75 multiplier solves most of the issues.
+
+⚡^(!Tip 1.01)
