@@ -1,0 +1,5 @@
+>I'd even consider some sort of dynamic diminishing returns, for example, tips 10-20 receive 0.75 multiplier, tips 21-30 receive 0.5 multiplier etc... of course downside to this is much more computational power and dev work.
+
+I also thought about something like this but couldn't be sure if this was possible to apply. Thanks for the feedback!
+
+!tip 1
