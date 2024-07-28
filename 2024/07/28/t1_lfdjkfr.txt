@@ -1,0 +1,15 @@
+>Current tipping system (t2v) is so prone to be manipulated. Some users may create alt accounts and can tip themselves hundreds of times in a day. There is nothing stopping them.
+
+The script in place to calculate the tips easily detects the percentage of tips between the users. There is no escape for the maniputors.
+
+>Another problem is tip/comment spammers. Some users spam hundreds of comments in a day. Most of those comments are low effort, 2-3 words long, GIFs comments that have zero value and low quality, AKA spam. 
+
+How does reducing the tip ratio punish the spammers?
+
+>This is important to not to punish the tip receiver, we should be punishing the tip spammer.
+So the person who tips suffers double loss? Why?
+Important thing to note here is that tipping others doesn't get you anything at all. For instance I'll be tipping a user with low governance weight (which i actually always do) even though i know that in return I'll be getting nothing. 
+  
+Also, this will again add to more complications on top of already complicated system we have in place. Give it some time to breathe till we have some data and logs, based on which we can suggest further refinements.
+
+⚡^(!Tip 1.01)
