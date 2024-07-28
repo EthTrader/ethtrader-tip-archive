@@ -1,0 +1,5 @@
+ZK-rollups are favored for their security, speed, and transparency
+
+ZK-rollups ensure all transactions are verified while keeping transaction details completely private
+
+!tip 1

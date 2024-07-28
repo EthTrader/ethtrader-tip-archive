@@ -1,0 +1,5 @@
+They are! It's a weekend, so heres the most concise google response xD
+
+*Optimistic Rollups operate on the assumption that all transactions are valid unless proven otherwise, while ZK-Rollups assume all transactions are false until proven valid.*
+
+!tip 1
