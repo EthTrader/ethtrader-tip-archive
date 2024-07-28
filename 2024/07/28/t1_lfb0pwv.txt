@@ -1,0 +1,3 @@
+LINK $100 wen?
+
+!tip 1
