@@ -1,0 +1,3 @@
+I think the best way to fix things is to flip how weight works and make those who have full weight receive a full vote and those who have lower weight get the corresponding amount on distro way. This way we dont encourage selling and discourage holding. However we must distinguish between those who sold and those who are new and that is the tricky part. I imagine we could use earned CONTRIB for that.
+
+🐼 !tip 1
