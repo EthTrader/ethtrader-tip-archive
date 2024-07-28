@@ -1,0 +1,5 @@
+As others have said hiding the Donut count is already possible but we would know when the user tips us anyway because the bot would tell us the gov weight 
+
+I'm sure you'll get a decent amount this round you've been pretty active so your weight will go up significantly 
+
+!tip 1
