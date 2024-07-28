@@ -1,0 +1,3 @@
+rules are good if they protect final users
+
+!tip 1
