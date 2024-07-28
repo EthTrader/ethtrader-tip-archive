@@ -1,0 +1,9 @@
+I get the theory, but don't think this is the appropriate execution.
+
+We shouldn't necessarily be discouraged from tipping if there is quality content worth tipping.
+
+I like the idea of a dynamic diminishing returns, but I would lean more towards a mechanic where once a user has received X amount of tips on X amount of submissions, the tips they receive start to diminish weight. However, I understand this would also be a bit complex for the devs to calculate.
+
+This would be similar to r/cc approach where after 50 comments, subsequent comments have diminishing rewards. (but no penalties)
+
+!tip 1
