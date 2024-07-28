@@ -1,0 +1,7 @@
+>Personally; I'd even consider some sort of dynamic diminishing returns, for example, tips 10-20 receive 0.75 multiplier, tips 21-30 receive 0.5 multiplier etc
+
+The diminishing should start from the 50th tip, otherwise it'll be too restrictive for active members
+
+ >! !tip 1 !<
+
+ >! !tip 1 !<
