@@ -1,0 +1,9 @@
+What I think you should do with this one is create a [SENTIMENT POLL] yourself (You don't need 20k GS to create a sentiment poll)  - to give users of the sub a chance to discuss and fine-tune the mechanics of the proposal. 
+
+I understand the idea behind it; but, a specific number of 5 might be too limiting.
+
+Personally; I'd even consider some sort of dynamic diminishing returns, for example, tips 10-20 receive 0.75 multiplier, tips 21-30 receive 0.5 multiplier etc... of course downside to this is much more computational power and dev work.
+
+But as I said, I think something this significant, you should create a sentiment poll and seek community opinions and perhaps a collectively refined idea can be developed. 
+
+!tip 1
