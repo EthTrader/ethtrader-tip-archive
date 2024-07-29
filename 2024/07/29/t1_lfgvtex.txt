@@ -1,0 +1,3 @@
+Arbitrum is pretty cheap, but yes, that's why people shouldn't withdraw from bot's too frequently. Bots often rely on some donations to help top up gas supplies.
+
+!tip 1
