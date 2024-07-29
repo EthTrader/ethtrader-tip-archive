@@ -1,0 +1,9 @@
+>Will it be an special membership for example for 1 year or we will have to buy them on seasons/monthly?
+
+Great question. This was the very first thing I exposed to the developers about the memberships, and the answer is no. Not in its current state.
+
+The developers would need to deploy a new contract, which means more work / time / energy / resources. Even IF it was possible right now, minting several NFTs, meaning several memberships, would have a very high gas cost.
+
+In any case, that's a possibility worth exploring further down the road.
+
+>!!tip 1!<
