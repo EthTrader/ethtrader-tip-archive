@@ -1,0 +1,5 @@
+>A governance attack occurs when an attacker acquires significant voting power in a DAO to manipulate the protocol for personal gain, exploiting the permissionless and tradable nature of governance tokens.
+
+This can easily happen in projects where governance can be bought. I'm glad the same cannot be done here.
+
+!tip 1
