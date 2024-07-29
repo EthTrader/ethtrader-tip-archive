@@ -1,0 +1,3 @@
+True, clicking unknown and sponsored links is full of danger. It's always better to be safe than sorry wen you are online.
+
+^(!tip 1)
