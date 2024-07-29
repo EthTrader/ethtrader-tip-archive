@@ -1,0 +1,5 @@
+It is better to verify the legitimacy of the links before clicking and avoiding the unknown links.
+
+*Better safe than sorry*
+
+^(!tip 1)
