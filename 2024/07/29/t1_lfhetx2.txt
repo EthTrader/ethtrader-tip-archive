@@ -1,0 +1,3 @@
+>Open Interest refers to the number of open long and short positions for financial instruments. A higher open interest value signifies increased confidence in an asset’s price trajectory, while a lower value is a sign of uncertainty.
+
+ >! !tip 1 !<
