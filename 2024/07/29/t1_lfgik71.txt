@@ -1,0 +1,3 @@
+Depends on the proposal. Moderation changes are easy and come into affect immediately, something that requires several hours of dev work, might take a few days, or weeks before being complete.
+
+!tip 1
