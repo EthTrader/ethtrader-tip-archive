@@ -1,0 +1,7 @@
+So we sent a whole bunch of Donuts to their CurrencyBot - thats 1 addrress.
+
+The Bot then allocates donuts off-chain, to users. 
+
+Users can then withdraw their DONUT from the bot (that same starting address) into their wallet.
+
+!tip 1
