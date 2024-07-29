@@ -1,0 +1,3 @@
+One of the first real-world use cases for Ethereum was the creation of Decentralized Autonomous Organizations (DAOs). In short, it is a type of organization that does not require a central authority
+
+!tip 1
