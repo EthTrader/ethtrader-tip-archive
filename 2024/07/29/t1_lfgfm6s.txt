@@ -1,0 +1,3 @@
+The tips usually reset a day before the snapshot
+
+>! !tip 1 !<

@@ -1,0 +1,3 @@
+Is it now accurate for comments exceeding 1k?
+
+!tip 1
