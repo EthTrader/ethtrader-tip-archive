@@ -1,0 +1,3 @@
+DAOs are more susceptible to attacks, so I wouldn't use them for long term.
+
+!tip 1
