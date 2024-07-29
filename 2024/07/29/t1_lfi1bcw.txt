@@ -1,0 +1,3 @@
+God candle next?
+
+^(!tip 1.001)
