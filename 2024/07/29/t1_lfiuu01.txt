@@ -1,0 +1,7 @@
+I didn't have time to reply properly. I think that in some oversimplified way Solana is prioritizing speed over security & decentralization while promising to improve in these areas and Ethereum is prioritizing security & decentralization over speed while promising to improve speed. 
+
+Layer 2's are a great step towards scaling but in reality quite centralized as well. Cheap, secure, decentralized and fast is somehow hard to get and somehow every major player seems to be promising to improve. Based on history I highly favor Ethereum though and the smooth change from PoW to PoS was impressive. I also get the Solana Hype though and it's really smooth, cheap and fast to use. 
+
+If they will be able to fix their security issues and really decentralize the chain in the future I'm not able to tell. 
+
+!tip 1
