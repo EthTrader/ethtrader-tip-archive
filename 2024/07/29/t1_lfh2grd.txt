@@ -1,0 +1,3 @@
+It only costs the CurrencyBot gas to send the DONUT. Theres no cost to the user claiming their DONUT.
+
+!tip 1

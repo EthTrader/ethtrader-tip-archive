@@ -1,0 +1,5 @@
+Instead of a traditional faucet, which often gets abused, if someone with the know how, could set up a bot, where you tip the bot, say 10 DONUT... a couple DONUT can get burned, and the bot sends 2 cents worth of ARB ETH.
+
+Effectively working as a trade, half off-chain, half on chain.
+
+!tip 1
