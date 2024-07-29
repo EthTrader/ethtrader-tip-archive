@@ -1,0 +1,5 @@
+I wonder how many projects use trading bots... If you were a project aiming for a listing, it wouldn't be a bad idea to set up some trading bots, spend a few bucks a day in trading fees and slippage and artificially inflate that volume xD
+
+But yes, this current pool is overall quite inactive and most of the price fluctuations are simply following ETH for the time being, until the next big thing.
+
+!tip 1
