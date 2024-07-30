@@ -1,0 +1,3 @@
+Trading is tough if you can't read the candles.
+
+^(!tip 1)
