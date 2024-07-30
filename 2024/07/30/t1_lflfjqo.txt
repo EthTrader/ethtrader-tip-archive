@@ -1,0 +1,3 @@
+The app should have the same warning as drug about not to being kept out of reach of children 
+
+!tip 1
