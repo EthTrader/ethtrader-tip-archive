@@ -1,0 +1,3 @@
+And how was the score calculated, same old fashion?
+
+^(!tip 1.01)
