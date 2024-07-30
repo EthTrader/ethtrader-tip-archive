@@ -1,0 +1,4 @@
+Don't the drops have a upper limit of how much a single address can claim?
+
+
+**!tip 1**
