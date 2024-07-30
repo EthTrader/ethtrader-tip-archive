@@ -1,0 +1,3 @@
+All have risks, even self staking, if you run your own validator and for some reason your nose goes off for some time, you’ll get penalized and there is possibility they’ll remove you out of the network 
+
+!tip 1
