@@ -1,0 +1,3 @@
+WHG = HLG (Happy Life Gains)
+
+^(!tip 1)
