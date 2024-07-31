@@ -1,0 +1,5 @@
+Great! We all have been waiting for.
+
+Release the bulls!
+
+^(!tip 1)

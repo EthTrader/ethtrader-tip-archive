@@ -1,0 +1,3 @@
+One by one, dapps on low-activity L2 chains will be shutdown. Example: ZKX protocol shutters due to lack of users.
+
+!tip 1
