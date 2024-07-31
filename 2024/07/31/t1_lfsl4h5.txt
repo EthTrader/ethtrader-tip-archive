@@ -1,0 +1,4 @@
+New round already started. Waiting for CSV now.
+
+
+**!tip 1**
