@@ -1,0 +1,3 @@
+the amount of donut tipped goes through, so you'll receive those. But with no bonus effect
+
+!tip 1
