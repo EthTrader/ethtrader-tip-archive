@@ -1,0 +1,2 @@
+Ah, my tip status has been reset. So it allready happened
+!tip 1
