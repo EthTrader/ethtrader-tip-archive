@@ -1,0 +1,4 @@
+The price of the token should have already dropped to 0 if the project itself is shutting down.
+
+
+**!tip 1**
