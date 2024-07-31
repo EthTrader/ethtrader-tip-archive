@@ -1,0 +1,3 @@
+Estimator shows 8 hours left. But snapshot has been taken.
+
+!tip 1
