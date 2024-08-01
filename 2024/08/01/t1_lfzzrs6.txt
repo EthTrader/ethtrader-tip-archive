@@ -1,0 +1,3 @@
+Yes, it's a lengthy article.
+
+^(!tip 1)
