@@ -1,0 +1,3 @@
+Polygon ZKEVM only uses Eth for gas and I think they are fully migrating there, sad to say
+
+!tip 1
