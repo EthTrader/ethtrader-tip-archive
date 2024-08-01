@@ -1,0 +1,3 @@
+Eth won't be this cheap for long!
+
+^(!tip 1)
