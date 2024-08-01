@@ -1,0 +1,3 @@
+Then soon we'll meet on the moon.
+
+^(!tip 1)
