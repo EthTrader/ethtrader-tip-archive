@@ -1,0 +1,3 @@
+Mission failed successfully.
+
+>! !tip 1 !<
