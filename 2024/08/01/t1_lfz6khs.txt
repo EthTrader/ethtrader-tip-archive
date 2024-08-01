@@ -1,0 +1,3 @@
+Happiness is not allowed here!
+
+^(!tip 1)
