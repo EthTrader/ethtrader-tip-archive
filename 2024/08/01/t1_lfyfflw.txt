@@ -1,0 +1,3 @@
+Tricky time shall pass.
+
+^(!tip 1)
