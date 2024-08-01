@@ -1,0 +1,7 @@
+CSV tomorrow
+
+4/5 weekend
+
+5/5 Tuesday
+
+^(!tip 1)

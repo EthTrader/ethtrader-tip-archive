@@ -1,0 +1,3 @@
+First we need to wait for CSV data. It´s not out yet, right? 
+
+!tip 1
