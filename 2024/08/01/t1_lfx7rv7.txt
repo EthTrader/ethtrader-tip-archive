@@ -1,0 +1,11 @@
+Entirely depends on what the foundation does with said tokens, whether they dump them themselves, or award them out for things like Grants, and when exactly token unlocks may take place. 
+
+Understandable most tokens like ARB, ZK and STRK dump after being airdropped out, and none of these tokens have yet to experience a post-halving bull run yet. 
+
+Tokenomics play a huge factor of course, as does transparency and actual use case. 
+
+But theres also a difference between a great network and a great investment, and unless there are reasons to buy a token beyond governance or speculation, it might not be the best investment. 
+
+MATIC for example, you still need to have MATIC to use for gas fees - whereas you can use the Arbitrum network without needing any ARB whatsoever.
+
+!tip 1
