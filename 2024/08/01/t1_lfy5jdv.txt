@@ -1,0 +1,3 @@
+Also a major downside for me is that you can't easily get the token in your wallet. It's a major struggle to get it from the browser to a wallet or exchange.
+Only good option is to tip it to creators...
+!tip 1
