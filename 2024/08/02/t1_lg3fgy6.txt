@@ -1,0 +1,5 @@
+>Removed an important line of code.
+
+Unbelievable! It's a hackers treat!
+
+^(!tip 1)
