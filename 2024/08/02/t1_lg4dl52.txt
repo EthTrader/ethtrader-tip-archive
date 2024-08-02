@@ -1,0 +1,3 @@
+Continuous testing. A lot is expected from them, so there's no room for error.
+
+!tip 1
