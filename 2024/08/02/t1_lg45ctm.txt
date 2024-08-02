@@ -1,0 +1,3 @@
+Something's wrong with his strategy
+
+^(!tip 1)
