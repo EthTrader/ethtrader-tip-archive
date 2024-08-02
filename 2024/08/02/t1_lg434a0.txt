@@ -1,0 +1,3 @@
+I prefer USDC
+
+^(!tip 1)
