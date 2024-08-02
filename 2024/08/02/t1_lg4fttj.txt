@@ -1,0 +1,7 @@
+Just a reminder that the ETFs have a direct impact on the coin’s price. In this case, eth.
+
+When investors buy shares of an eth ETF, the fund manager buys an equivalent amount of eth to back those shares. This increased demand for eth can consequently pump the price.
+
+The same happens when investors sell. the fund manager will sell eth, increasing the supply on the market and thus lowering the price.
+
+>! !tip 1 !<
