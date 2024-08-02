@@ -1,0 +1,4 @@
+Ability to post gifs, while non subscribers won't be able to post it.
+
+
+**!tip 1**
