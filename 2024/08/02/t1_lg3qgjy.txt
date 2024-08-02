@@ -1,0 +1,3 @@
+Yes, the pay2post fee is pegged to x2.5 the Post Ratio indefinitely
+
+!tip 1
