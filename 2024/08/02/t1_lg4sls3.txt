@@ -1,0 +1,3 @@
+But be careful about duplicate content. They’ll be removed. 
+
+!tip 1
