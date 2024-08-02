@@ -1,0 +1,3 @@
+On the other side, Linea integrates ENS for custom names.
+
+!tip 1
