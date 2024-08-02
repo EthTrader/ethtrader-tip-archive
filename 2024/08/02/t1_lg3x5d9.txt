@@ -1,0 +1,3 @@
+It's a solana-based platform for creating and trading memecoins. Creating a token on Pump. fun costs only around $3 (0.02 SOL), so basically anyone can launch a shitcoin 
+
+^(!tip 1)
