@@ -1,0 +1,3 @@
+[AutoMod] News
+
+^(!tip 1)
