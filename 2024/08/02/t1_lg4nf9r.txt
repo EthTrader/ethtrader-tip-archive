@@ -1,0 +1,5 @@
+The golden donut looks pretty cool!
+
+[YES]
+
+^(!tip 19)
