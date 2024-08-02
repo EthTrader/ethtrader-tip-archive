@@ -1,0 +1,3 @@
+These CEXs should do the right thing and adhere to rules.  The rules are there for a reason.
+
+!tip 1
