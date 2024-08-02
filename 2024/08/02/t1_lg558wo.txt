@@ -1,0 +1,3 @@
+Whale move, taking advantage of uncertainty in the market in a smart way.
+
+!tip 1
