@@ -1,0 +1,3 @@
+Then I hope in September uptrend.
+
+^(!tip 1)
