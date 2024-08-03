@@ -1,0 +1,3 @@
+Everything turns red whenever they wake up.
+
+^(!tip 1)
