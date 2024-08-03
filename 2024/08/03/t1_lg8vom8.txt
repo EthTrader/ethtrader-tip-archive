@@ -1,0 +1,5 @@
+Buy/earn back some of the DONUT you sold.
+
+Full tip weight comes with 20k Governance score (Approved user status) - and governance score is the lesser value of your DONUT and CONTRIB balances.
+
+!tip 1
