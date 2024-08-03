@@ -1,0 +1,3 @@
+I hope that inverse won't last long.
+
+^(!tip 1)
