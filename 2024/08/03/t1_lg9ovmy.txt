@@ -1,0 +1,3 @@
+Include stake
+
+!tip 1
