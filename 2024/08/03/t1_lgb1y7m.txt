@@ -1,0 +1,3 @@
+Technically speaking: The lowest it can go is 0.
+
+!tip 1

@@ -1,0 +1,3 @@
+Paperhands will run out of ETH soon
+
+^(!tip 1)
