@@ -1,0 +1,3 @@
+Bankruptcy is programmed.
+
+^(!tip 1)
