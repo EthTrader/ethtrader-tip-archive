@@ -1,0 +1,5 @@
+"This platform harnesses blockchain technology to provide transparent AI computing by leveraging idle GPU power and token incentives."
+
+can someone Explain this to me like a 5 year old
+
+!tip 1
