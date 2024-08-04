@@ -1,0 +1,3 @@
+Only eth
+
+!tip 1
