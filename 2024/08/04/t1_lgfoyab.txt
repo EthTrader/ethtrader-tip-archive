@@ -1,0 +1,3 @@
+Great! That's a big amount.
+
+^(!tip 1)
