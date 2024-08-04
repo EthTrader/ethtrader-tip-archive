@@ -1,0 +1,3 @@
+This coin should've been above $1 
+
+^(!tip 1)
