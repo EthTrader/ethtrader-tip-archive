@@ -1,0 +1,7 @@
+>SKALE Network is an L2 scaling solution for Ethereum, primarily aimed for scaling smart contracts.
+
+>how many L2s are there already? 
+
+I'm not sure the exact number, but it is close to 50 L2 networks.
+
+^(!tip 1)
