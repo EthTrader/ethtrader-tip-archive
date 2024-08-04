@@ -1,0 +1,5 @@
+>The SKALE Network is an open-source, Ethereum-native multichain network built to scale Ethereum dApps with a focus on high-throughput
+
+[link for more info](https://docs.skale.network/introduction/#:~:text=SKALE%20Network%20Community-,What%20is%20SKALE%20Network,the%20native%20gas%20token%20sFuel.)
+
+^(!tip 1)
