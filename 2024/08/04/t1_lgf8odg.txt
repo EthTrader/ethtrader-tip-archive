@@ -1,0 +1,3 @@
+True, with reasonable fees.
+
+^(!tip 1)
