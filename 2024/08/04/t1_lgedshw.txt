@@ -1,0 +1,3 @@
+If you check technical posts by other users, they are under news flair. So you can change to the news that will be fine.
+
+^(!tip 1)

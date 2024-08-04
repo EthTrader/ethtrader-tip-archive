@@ -1,0 +1,3 @@
+I normally use this to the news. This pick technical automatic though more suitable but still I use news. 
+
+^(!tip 1)
