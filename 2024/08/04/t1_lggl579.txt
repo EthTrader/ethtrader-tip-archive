@@ -1,0 +1,2 @@
+Amazing! You can still afford coffee?.
+^(!tip 1)
