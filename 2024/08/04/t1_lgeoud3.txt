@@ -1,0 +1,3 @@
+Sushi needs to works on fixing LP glitches first!
+
+^(!tip 1.01)

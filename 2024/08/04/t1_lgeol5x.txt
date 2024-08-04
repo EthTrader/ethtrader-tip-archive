@@ -1,0 +1,7 @@
+My understanding is MATIC on the PoS network will;
+
+But MATIC on Mainnet will not, unless it is in staking contracts.
+
+I need to look closer at the scheMATIC
+
+!tip 1
