@@ -1,0 +1,3 @@
+It's no coincidence. When theres no active trading volume, then DONUT will follow ETH almost exactly, due to the way automated market makers work with it's trading pair.
+
+!tip 1
