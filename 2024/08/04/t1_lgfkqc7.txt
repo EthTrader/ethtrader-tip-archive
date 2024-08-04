@@ -1,0 +1,3 @@
+Whales are getting richer.
+
+^(!tip 1)
