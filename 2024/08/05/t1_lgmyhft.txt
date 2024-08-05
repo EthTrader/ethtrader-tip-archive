@@ -1,0 +1,3 @@
+Those are the traders that have been liquidated (long/short gamblers)
+
+!tip 1
