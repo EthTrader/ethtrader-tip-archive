@@ -1,0 +1,4 @@
+Good comment, next distribution i will add a graph where you can see the average and distributions of tips given and received. 
+so you can see what 200 means compared to all users. Thanks
+
+!tip 1
