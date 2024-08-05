@@ -1,0 +1,3 @@
+e-Rupee = CBDC if I'm not wrong.
+
+^(!tip 1)
