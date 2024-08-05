@@ -1,0 +1,3 @@
+LINK is SOLID.
+
+!tip 1
