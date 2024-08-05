@@ -1,0 +1,3 @@
+>A DeFi chain abstraction protocol aims to provide seamless liquidity flow, simplify onboarding and enhance security across multiple blockchains
+
+!tip 1
