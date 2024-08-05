@@ -1,0 +1,3 @@
+Are you a honorable trader too?
+
+^(!tip 1)
