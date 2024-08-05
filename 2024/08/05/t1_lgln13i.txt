@@ -1,0 +1,5 @@
+Yes i am thinking in the same direction, people which interact normally are mostly within an ok margin, e. G. You are at -18 for rooms 139.
+
+Maybe i check where the edge cases tip to and got their tips from and show the admins if i find something.
+
+!tip 1

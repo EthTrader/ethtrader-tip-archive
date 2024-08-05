@@ -1,0 +1,9 @@
+Slightly more or less wont cause issues. 
+
+-25 / +25 is proboably pretty normal behaviour. 
+
+We cannot and should not check all the time to see if we sent and received the exact amount. That would cause an unnatural Way of tipping in the end.
+
+But -50/+50 probably is unnatural and it’s probably the major reason to why donut stopped having a good growth the past year. 
+
+!tip 1.0101
