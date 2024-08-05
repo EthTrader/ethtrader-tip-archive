@@ -1,0 +1,3 @@
+Even less than half price.
+
+^(!tip 1)
