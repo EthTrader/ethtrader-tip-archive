@@ -1,0 +1,3 @@
+A depeg occurs when the value of a stable asset strays exponentially from its pegged value. There are several reasons why this can happen, including liquidity problems, unfavorable market conditions, and regulatory crackdowns.
+
+!tip 1
