@@ -1,0 +1,3 @@
+It's nothing better to finish the crime.
+
+^(!tip 1)
