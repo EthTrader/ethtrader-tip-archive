@@ -1,0 +1,3 @@
+Sooner or later, the market will recover.
+
+^(!tip 1)
