@@ -1,0 +1,3 @@
+I see a cone, I tip
+
+!tip 6.08
