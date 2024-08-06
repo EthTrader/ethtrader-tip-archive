@@ -1,0 +1,3 @@
+Sent: https://nova-explorer.arbitrum.io/tx/0x798dc7bf1327b9387d5824e80ad8545301b1de3adaba38225dbd98f3025c0555
+
+>! !tip 1 !<
