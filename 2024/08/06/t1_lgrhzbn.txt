@@ -1,0 +1,1 @@
+Nah we just implemented a limit of 3 posts per day. I don't see why we would reduce it to 2 now. Too many changes ain't healthy imo. !tip 1
