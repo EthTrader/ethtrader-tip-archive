@@ -1,0 +1,3 @@
+I'm tired of all these hacks!
+
+^(!tip 1)
