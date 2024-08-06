@@ -1,0 +1,11 @@
+Comedy / Self Story / Mediia = 0.25x
+
+Original Context = 2.0x
+
+Everything else = 1.0x
+
+Comments posts = 1.0x
+
+Comments in the Daily Discussion = 0.5x
+
+!tip 1
