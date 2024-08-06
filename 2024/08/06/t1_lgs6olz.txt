@@ -1,0 +1,5 @@
+BAGMI = BroNut all Gonna Make It
+
+BNGMI = BroNut NOT Gonna Make jt
+
+!tip 1
