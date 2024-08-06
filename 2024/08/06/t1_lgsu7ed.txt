@@ -1,0 +1,7 @@
+0.75x is great starting point. After few rounds, we can evaluate. Nerfing to 0.25 from the get-go, might be too much.
+
+Quality over quantity
+
+[YES]
+
+!tip 5
