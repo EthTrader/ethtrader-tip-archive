@@ -1,0 +1,3 @@
+Don't wait for too long. You might miss the train.
+
+!tip 1

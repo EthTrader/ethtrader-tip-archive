@@ -1,0 +1,3 @@
+Does it ever read negative like -1?
+
+!tip 1
