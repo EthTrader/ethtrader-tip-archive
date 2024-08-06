@@ -1,0 +1,3 @@
+>After you launch the application, it immediately sends all the critical information about the computer, including all critical data and crypto wallets, to an external server
+
+So the best thing is to not launch any unknown app on your system. !tip 1
