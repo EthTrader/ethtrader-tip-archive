@@ -1,0 +1,5 @@
+FLUX, Anything Built on Ethereum Can be hosted on flux. Flux is the server and Ethereum is the software, Flux ERC-20 is the bridge! 😎
+
+Flux is not a standard type of chain / coin…. Its the backbone of other chains and is really a great support for Ethereum. A lot of stuff people are using Daily on Ethereum is “run on Flux”. 
+
+!tip 5
