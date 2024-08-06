@@ -1,0 +1,4 @@
+Ok
+But does having zero balance affect tipping?
+
+!tip 1
