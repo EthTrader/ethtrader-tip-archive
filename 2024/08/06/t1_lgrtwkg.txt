@@ -1,0 +1,3 @@
+The recovery is always as fast as the dump.
+
+!tip 1
