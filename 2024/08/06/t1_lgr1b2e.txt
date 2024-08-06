@@ -1,0 +1,3 @@
+Yup, let's check a tx.
+
+ !tip 1
