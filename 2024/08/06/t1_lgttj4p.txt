@@ -1,0 +1,7 @@
+"The Convergence team posted a message to the Ethereum network, stating it believes the attacker acted as a white hat."
+
+White hat hacker is:
+
+"A white hat hacker refers to a person who uses their hacking ability to find security vulnerabilities in software, hardware, or networks. A white hat hacker is different from a black hat hacker.  Both black and white hats hack systems, but white hat hackers do it solely for the purposes of benefiting the organization for which they work"
+
+!tip 1
