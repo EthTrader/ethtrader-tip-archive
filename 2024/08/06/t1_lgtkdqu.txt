@@ -1,0 +1,3 @@
+I think before the migration to arbitrum, the reason they didn't choose polygon was because it didn't have multisig or something. I'm not an expert though so I wouldn't know much
+
+>! !tip 1 !<
