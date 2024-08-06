@@ -1,0 +1,3 @@
+They are a black hat now.
+
+^(!tip 1)
