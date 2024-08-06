@@ -1,0 +1,5 @@
+>Zircuit aims to safeguard users from hacks with its built-in, automated AI techniques designed to protect against smart contract exploits and malicious actors
+
+Still needs to go through test of time.
+
+^(!Tip 1)
