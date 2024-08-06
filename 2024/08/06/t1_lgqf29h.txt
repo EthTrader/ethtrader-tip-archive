@@ -1,0 +1,3 @@
+That collapse was on the cards.
+
+^(!tip 1)
