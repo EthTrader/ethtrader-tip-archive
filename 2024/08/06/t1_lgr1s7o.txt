@@ -1,0 +1,3 @@
+After the dump, this was expected
+
+^(!tip 1)
