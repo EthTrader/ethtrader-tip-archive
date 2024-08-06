@@ -1,0 +1,3 @@
+2,5 full upvote weight
+
+!tip 1
