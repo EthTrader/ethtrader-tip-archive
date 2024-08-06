@@ -1,0 +1,13 @@
+Np. Uniswap used to run on flux, Ethereum nodes are currently run there, and so is Aave. Wich means… if you want to disrupt Aave just for a moment you would have to hack or DDos 6 different locations in the world at the same time… because once you shut 1 locations Down another instance of the program boots up in another flux node.
+
+Flux makes bussinesses and tools almost impossible to shut Down and 99% automated. 😅
+
+And Its waaaay cheaper than Google or Amazon cloud. 🤩
+
+!tip 1
+
+Aave is currently running 6 instances where the minimum is 3 and maximum is 100 i Think. 
+
+Flux makes sure any type of services Can be acessed at all time over the world, broken cables or power outages or Earth Quakes are no longer a issue for your bussines wether Its a standard bussines or a crypto one! 📈
+
+!tip 1
