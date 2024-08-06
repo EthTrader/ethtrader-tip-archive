@@ -1,0 +1,19 @@
+As discussed on the discord server, I was working on this proposal and recently finished writing it. But since someone else decided to post it, we can continue the discussion here.
+
+Naturally, my vote is yes. However, I think the multiplier should be even lower. From a technical standpoint, to make things simple, links should join other penalized flairs (Comedy, Self Story, Media), and be subject to a 0.25x multiplier.
+
+Posting links requires minimal effort compared to writing original content, discussions, or analysis posts. Even self story submissions require more effort than links.
+
+This is just my opinion here, but I think, currently, link spamming is the most abused method to farm Donuts, which kind of undermines the integrity of our reward system.
+
+Please note that I'm not advocating for a complete penalization of link posts. Instead, we should balance the contribution system, favoring those who invest time and effort into creating different content.
+
+This proposal will help balance the playing field for users who don't solely rely on link submissions.
+
+Also, the influx of spam and low effort link submissions clutters the feed, making it overwhelming to browse and find valuable content. High quality threads often get overshadowed by the mass volume of link posts.
+
+Example. I just scrolled through the entire sub and counted **69 posts**, of which **62 are link submissions**. This is a completely disproportionate ratio, and it should be balanced, imo.
+
+Also, this will improve the posts ratio, benefiting the entire user base as a whole.
+
+!tip 15
