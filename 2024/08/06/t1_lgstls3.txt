@@ -1,0 +1,7 @@
+If you have received 2,5 upvotes (1.0 upvote weight x 2,5) you are even with pay2post fee. 
+
+It also depends on ratio which changes everytime. So if ratio is 20 for example, you do this math: 2,5 x 20 = 50 pay2postfee
+
+Scores below 20K governance have a proportional weight (e.g., 1K governance score = 0.05 weight). 
+
+!tip 1
