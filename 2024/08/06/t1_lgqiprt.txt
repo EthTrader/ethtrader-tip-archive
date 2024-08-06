@@ -1,0 +1,9 @@
+u/LegendRXL, u/Odd-Radio-8500 not sure what are the sources you used but according to this poll [https://snapshot.org/#/ethtraderdao.eth/proposal/0xeaee2a1e561cad0ca6571c287d904eb69d3061d4d237f8b8d6aa2c5edfcbce54](https://snapshot.org/#/ethtraderdao.eth/proposal/0xeaee2a1e561cad0ca6571c287d904eb69d3061d4d237f8b8d6aa2c5edfcbce54)
+
+>We should add more such websites, for example, coinmarketcap, cryptopanic, coinstats(dot)app, etc. Moderators should have the freedom to add any future content aggregation sites to this list once the new governance poll passes.
+
+We gave the power to mods to have a more dynamic way to decide if a link is from a content aggregator or not. So without knowing the sources you used, I would say that mods applied this. 
+
+TLDR; There is no specific list, each user must know if a link is coming from a content aggregator or not.
+
+🌕 !tip 1
