@@ -1,0 +1,5 @@
+Not an L2. It supports multiple blockchains like Ethereum, Polygon, Polkadot and others.
+
+>POND is an Ethereum based token that powers Marlin, a protocol aimed at scaling peer-to-peer networks by improving communication between nodes.
+
+^(!tip 1)
