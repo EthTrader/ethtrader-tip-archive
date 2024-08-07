@@ -1,0 +1,3 @@
+No one knows what's coming next
+
+^(!tip 1)
