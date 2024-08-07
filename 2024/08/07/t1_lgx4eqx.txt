@@ -1,0 +1,2 @@
+Exchange remove low volume pairs from time to time
+!tip 1
