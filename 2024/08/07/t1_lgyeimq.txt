@@ -1,0 +1,3 @@
+Uncertainty is always here.
+
+^(!tip 1)
