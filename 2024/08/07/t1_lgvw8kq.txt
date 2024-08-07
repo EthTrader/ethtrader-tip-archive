@@ -1,0 +1,5 @@
+>Chainlink Data Streams was chosen for its uninterrupted supply of premium high-frequency market data due to its support for several high-level features, such as sub-second price resolution. This is delivered via battle-tested Oracle infrastructure that ensures the provision of a highly performant user experience without compromising its decentralization and transparency. 
+
+Name me another oracle which can beat that.
+
+^(!Tip 1)
