@@ -1,0 +1,5 @@
+>GAS = 3 gwei  
+
+Gwei was over 1k on Monday 😃
+
+^(!tip 1)
