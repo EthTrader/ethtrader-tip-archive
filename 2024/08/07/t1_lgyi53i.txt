@@ -1,0 +1,3 @@
+True, wen it looks like things are good, suddenly the worst thing pops up from nowhere.
+
+^(!tip 1)
