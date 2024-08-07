@@ -1,0 +1,3 @@
+Greed never lets me press that sell button.
+
+^(!tip 1.01)
