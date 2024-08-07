@@ -1,0 +1,7 @@
+The distro comes on arb one due to multsig capability
+
+There is the celer bridge to bridge back and forth as needed
+
+Exchanges currently only support nova moons
+
+!tip 1
