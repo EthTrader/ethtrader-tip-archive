@@ -1,0 +1,3 @@
+Mainnet is a settlement layer. Use L2 for daily transactions and dapps.
+
+!tip 1
