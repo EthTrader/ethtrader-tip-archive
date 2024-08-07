@@ -1,0 +1,3 @@
+Mostly they generate by staking tokens or providing liquidity to lending platform.
+
+^(!tip 1)
