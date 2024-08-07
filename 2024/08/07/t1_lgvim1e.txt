@@ -1,0 +1,5 @@
+>The distro comes on arb one due to multsig capability
+
+Oh I didn't know it was on arbitrum one as someone chain the distro was off chain and there's no nova gas for bot to send it On-Chain so I thought it was still on nova. Thanks for the clarification.
+
+>! !tip 1 !<
