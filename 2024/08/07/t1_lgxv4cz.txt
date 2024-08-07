@@ -1,0 +1,3 @@
+Create an empty wallet if that's the case.
+
+!tip 1
