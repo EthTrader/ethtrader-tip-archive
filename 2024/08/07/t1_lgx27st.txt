@@ -1,0 +1,15 @@
+>we could remove pay2post to balance.
+
+Honestly, this is one of the things thats absolutely vital to keeping low quality spam at bay. 
+
+>Why we don't try to implement something like
+
+https://www.reddit.com/r/ethtrader/comments/1ebukll/discussing_the_implementation_of_an_automated/
+
+Discussions already started
+
+>And maybe rebalance the ratio for comments to improve engagement? - We have very few discussions.
+
+Plenty of users contribute knowledgeable discussions on some posts - I don't see a need to change the rewards at all; but some shitty news articles simply don't have much to discuss. Makes you question why they even get tipped in the first place if they add nothing of value
+
+!tip 1
