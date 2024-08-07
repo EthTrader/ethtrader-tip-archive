@@ -1,0 +1,9 @@
+Those AI detector tools have proven to not be very accurate. The other day I made some tests through maybe 5-6 tools and their results varied from 0% to 100% AI with the same text.
+
+I think we should remove this rule, embrace the future and approach the problem from another point of view like reducing News links multiplier to even 0.25x-0.5x
+
+\[YES\]
+
+👑 !tip 1
+
+\[AutoMod\] Meta & Donut
