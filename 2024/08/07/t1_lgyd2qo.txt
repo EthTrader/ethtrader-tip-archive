@@ -1,0 +1,3 @@
+Buying these is gambling
+
+^(!tip 1)
