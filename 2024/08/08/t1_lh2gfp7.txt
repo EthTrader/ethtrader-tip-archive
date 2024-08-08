@@ -1,0 +1,3 @@
+discount= good
+
+!tip 1
