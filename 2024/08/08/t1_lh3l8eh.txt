@@ -1,0 +1,3 @@
+Exactly once a user knows how to import networks and tokens rest is easy 
+
+!tip 1
