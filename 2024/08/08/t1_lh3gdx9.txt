@@ -1,0 +1,3 @@
+2FA for a decentralised wallet. That'll be good if they didn't have access to your seed phrases 
+
+>! !tip 1 !<
