@@ -1,0 +1,3 @@
+Stripe is what Reddit use to pay avatar artist. It works pretty okay.
+
+👑 !tip 1
