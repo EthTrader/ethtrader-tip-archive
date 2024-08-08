@@ -1,0 +1,3 @@
+Maybe tornado cash should put a max cap for transactions. Like 5 ETH max, this would make laundering harder.
+
+^(!tip 1)
