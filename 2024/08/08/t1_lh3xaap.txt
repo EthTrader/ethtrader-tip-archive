@@ -1,0 +1,3 @@
+Probably from treasury or the funds held within the protocol.
+
+^(!tip 1)
