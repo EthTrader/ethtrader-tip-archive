@@ -1,0 +1,3 @@
+The market is too volatile for a decline in prices.
+
+^(!tip 1)
