@@ -1,0 +1,3 @@
+ I bought the dip, I want to buy more but I'm out of fiat.
+
+^(!tip 1)
