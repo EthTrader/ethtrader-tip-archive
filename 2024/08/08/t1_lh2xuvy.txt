@@ -1,0 +1,5 @@
+>There are three main proposals: Braid, which runs parallel instances of Ethereum consensus; FOCIL, prioritizing the first block observed by the majority; and Inclusion Lists, ensuring certain transactions are included. Researchers are divided on the best approach, but the debate indicates progress towards reducing the power of a single validator in block creation.
+
+That's the smart guy we've trusted 
+
+>! !tip 1 !<
