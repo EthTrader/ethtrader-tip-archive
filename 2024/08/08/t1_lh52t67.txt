@@ -1,0 +1,5 @@
+"Coinbase’s Vaults secure transactions using multiparty computation (MPC), whereby the private key used to sign transactions is split into multiple shares and distributed among several parties. No single party has full control of the key."
+
+This is cool
+
+!tip 1
