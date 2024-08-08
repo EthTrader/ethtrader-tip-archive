@@ -1,0 +1,5 @@
+>At least no one can just simply use to it seedphrase and log in your wallet
+
+Yeah they won't be able to login into metamask with the seed phrases because of 2FA but they're some other non custodian wallet which doesn't require 2FA to access. It's a good thing from metamask though to keep your wallet secure which will booster other wallets to follow suit if it's successful.
+
+>! !tip 1 !<

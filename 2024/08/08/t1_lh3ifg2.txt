@@ -1,0 +1,4 @@
+Wait, so if someone has approved for a smart contract then it would require 2fa before execution?
+
+
+**!tip 1**
