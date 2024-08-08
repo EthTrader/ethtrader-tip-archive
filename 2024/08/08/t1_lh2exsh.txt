@@ -1,0 +1,3 @@
+Long liquidations over. It's time for short liquidations.
+
+!tip 1
