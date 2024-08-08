@@ -1,0 +1,5 @@
+>However, to mitigate the damage caused by the exploit, the Nexera team quickly froze the remaining 32.5 million NXRA tokens in the attacker’s wallet after concluding that only $440K of the total NXRA tokens transferred were effectively compromised. Burning 32.5 million NXRA tokens was an important action aimed at supporting the stability of the Nexera ecosystem.
+
+I don't think any user was affected. 
+
+!tip 1
