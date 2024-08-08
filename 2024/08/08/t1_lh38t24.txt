@@ -1,0 +1,13 @@
+What an interesting read. This is a brief explanation to save you a click
+
+>Layer 1 blockchains form the fundamental layer in a blockchain stack. They can host secondary blockchain networks by providing them with the basic infrastructure and security needed to function.
+
+Layer 2 blockchains are built on top of L1 networks so that the network can achieve higher throughput.
+
+Layer 3 blockchains are highly customizable chains that are specifically designed for applications.
+
+Layer 0 blockchains offer an alternative to the typical L1 scaling approach. They form the base layer on which L1, L2, and L3 chains are hosted. L0 blockchains are built to act as an interoperability layer that connects all hosted chains together.
+
+But I would advice to read through it and understand how big the crypto space actually is.
+
+>! !tip 1 !<
