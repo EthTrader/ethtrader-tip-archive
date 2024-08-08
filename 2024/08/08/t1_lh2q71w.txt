@@ -1,0 +1,5 @@
+>An AI-powered penetration tester solved 88 out of 104 benchmark tests in 28 minutes. It took the best pentester in the experiment 40 hours to do the same.
+
+In a few years time, AI will take over our jobs.
+
+!tip 1

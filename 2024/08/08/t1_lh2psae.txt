@@ -1,0 +1,3 @@
+I'll DCA on Monday, it'll dump on the same day
+
+^(!tip 1)
