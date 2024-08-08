@@ -1,0 +1,3 @@
+Lol, price varies with ETH price.
+
+^(!tip 1)
