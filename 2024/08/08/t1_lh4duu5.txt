@@ -1,0 +1,3 @@
+Everything has certain risks, though this collaboration aims to provide security.
+
+^(!tip 1)
