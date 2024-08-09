@@ -1,0 +1,3 @@
+We are making whales richer 
+
+^(!tip 1)
