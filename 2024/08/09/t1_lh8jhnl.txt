@@ -1,0 +1,3 @@
+My $16 DCA won't do ETH any good.
+
+^(!tip 1)
