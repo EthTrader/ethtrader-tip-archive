@@ -1,0 +1,4 @@
+The MiCA regulation, which took effect on June 30, imposes stringent limitations on stablecoin operations across the European Economic Area. Notably, it mandates that at least 60% of reserves backing stablecoins must be held in EU bank accounts. 
+
+It will diminish the Decentralization principle 
+!tip 1
