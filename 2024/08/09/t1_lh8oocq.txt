@@ -1,0 +1,3 @@
+I can't believe it touched $10
+
+^(!tip 1)
