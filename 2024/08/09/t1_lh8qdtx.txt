@@ -1,0 +1,14 @@
+```
+if{
+
+Trading volume: 0
+Buy/Sells: 0
+ETH: +10%
+}
+```
+
+
+How much price would 🍩 pump?
+
+
+**!tip 1**

@@ -1,0 +1,5 @@
+Fractionally less than 10% or thereabouts.
+
+If no trading volume, DONUT would simply just follow ETH, because DONUT's trading pair is ETH on DEX's. 
+
+!tip 1
