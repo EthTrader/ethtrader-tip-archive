@@ -1,0 +1,5 @@
+That’s a name I ain’t seen in a while… hello there.
+
+We have ”tip to vote now” so to ”upvote” you chuck a tip.
+
+!tip 1
