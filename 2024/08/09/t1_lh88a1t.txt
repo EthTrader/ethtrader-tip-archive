@@ -1,0 +1,3 @@
+It has decreased early this round, it usually decreases after 2 weeks
+
+^(!tip 1)
