@@ -1,0 +1,3 @@
+If I've 10% of this amount, I'd stake and forget to sell.
+
+^(!tip 1)
