@@ -1,0 +1,2 @@
+Should be only $0.01
+!tip 1
