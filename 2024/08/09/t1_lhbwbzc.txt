@@ -1,0 +1,9 @@
+It's an interesting problem isn't it? Why would I ever need to use a crypto mixer unless I was doing something illegal? 
+
+Off the top of my head I can't actually think of any reason I would. Maybe someone else can give some examples 
+
+I do remember a guy who used to track stolen funds posting on rcc and showing how he tracked funds going in and then out of tornado cash. Can't remember the exact details but he broke it down and apparently traced funds to an exchange 
+
+u/kirtash93 do you remember that dude? 
+
+!tip 1
