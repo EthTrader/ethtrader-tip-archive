@@ -1,0 +1,3 @@
+Thanks to Dencun upgrade, which reduced gas fees significantly. It's good for network but not good for price.
+
+!tip 1
