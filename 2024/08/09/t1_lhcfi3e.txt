@@ -1,0 +1,3 @@
+Ethereum devs should bring balance between gas fee and burning.
+
+!tip 1
