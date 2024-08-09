@@ -1,0 +1,3 @@
+It will either go up or it will go down. Got it.
+
+^(!Tip 1)
