@@ -1,0 +1,4 @@
+
+ERC-7683it is a new standard that simplify cross-chain interactions, with more friendly user, it will be very easy to take assets from different blockchains and moving them across in a seamless way
+
+!tip 1
