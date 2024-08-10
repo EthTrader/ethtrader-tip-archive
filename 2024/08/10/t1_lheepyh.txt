@@ -1,0 +1,5 @@
+According to the article the problem is the scheduled token unlocks: 
+
+About hundreds of thousands of ETH are in the queue and are set for withdrawal today. On-chain data reveals that validators are preparing to withdraw 143,000 ETH worth nearly $350 million. Another batch of 212,000 ETH will be available for trading in the coming days, which could heap more pressure on prices.
+
+!tip 1
