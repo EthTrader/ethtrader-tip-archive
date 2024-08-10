@@ -1,0 +1,2 @@
+Let's say you are active if you send or receive 10 tips a month, then the number is around 120 accounts.
+!tip 1
