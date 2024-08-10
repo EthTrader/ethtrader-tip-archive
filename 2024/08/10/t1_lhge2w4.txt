@@ -1,0 +1,2 @@
+If only eth gas fee is as low as L2, same thing will happen to eth
+!tip 1
