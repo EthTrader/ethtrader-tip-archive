@@ -1,0 +1,3 @@
+But can't reddit system detect it? Like, if you upvote yourself with other accounts reddit can detect it form IP etc. Doesn't the same apply to tip?
+
+!tip 1
