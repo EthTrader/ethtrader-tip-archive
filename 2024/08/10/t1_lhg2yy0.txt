@@ -1,0 +1,3 @@
+Press power off button. /s
+
+^(!Tip 1)
