@@ -1,0 +1,3 @@
+Open intreset shows one part of puzzle and shouldnt be used on its own 
+
+!tip 1
