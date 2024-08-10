@@ -1,0 +1,5 @@
+also guys token burning is only official when tokens are sent to a wallet with no keys
+
+i have seen so many projects who send the token to a random wallet and dev promises that noboby has access to it and few months in and they start selling the burn wallet
+
+!tip 1
