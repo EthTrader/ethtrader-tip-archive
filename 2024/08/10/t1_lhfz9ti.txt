@@ -1,0 +1,3 @@
+And the comment is removed.
+
+ !tip 1
