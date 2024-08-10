@@ -1,0 +1,3 @@
+I have a simple solution for that. Keep the weight system as is. And to encourage newcomers, make their weightage 0.5 until they reach 20k governance power. If they sell before that, deduct weightage according to the rule.
+
+!tip 1
