@@ -1,0 +1,3 @@
+Only tips count
+
+!tip 1
