@@ -1,0 +1,3 @@
+Implement rcc rules for selling percentage and distribution or Donuts. If that's done, then [YES].
+
+!tip 1
