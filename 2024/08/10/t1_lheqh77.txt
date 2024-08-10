@@ -1,0 +1,9 @@
+This idea was discussed many times, but no one did a proposal yet :D
+
+I like the idea to burn about 25%
+
+If you tip 1 then 0.25 Donut will be burned.
+
+1000 tips are only 250 Donuts burned then.
+
+!tip 1
