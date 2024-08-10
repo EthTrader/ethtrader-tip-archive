@@ -1,0 +1,3 @@
+is the act of sending tokens to a wallet that cannot be accessed, no one has these keys, so the coins become inaccessible
+
+!tip 1
