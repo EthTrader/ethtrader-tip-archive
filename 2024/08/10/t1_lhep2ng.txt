@@ -1,0 +1,3 @@
+>The development team proactively sends a portion of SHIB tokens to a designated burn address, effectively and permanently removing them from circulation.
+
+!tip 1
