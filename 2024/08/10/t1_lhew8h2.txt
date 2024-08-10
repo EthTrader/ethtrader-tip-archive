@@ -1,0 +1,3 @@
+Then it means it went to zero.
+
+ !tip 1
