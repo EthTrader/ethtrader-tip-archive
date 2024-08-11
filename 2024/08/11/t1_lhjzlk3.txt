@@ -1,0 +1,3 @@
+Many are waiting for 1$ 
+
+^(!tip 1)
