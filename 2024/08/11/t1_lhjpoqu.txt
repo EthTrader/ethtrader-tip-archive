@@ -1,0 +1,3 @@
+You'll have to wait longer 
+
+^(!tip 1)
