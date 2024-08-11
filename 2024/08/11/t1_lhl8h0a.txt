@@ -1,0 +1,5 @@
+Controlled version of digital currency.
+
+CBDC - Offer benefits in cost of your privacy.
+
+^(!tip 1)
