@@ -1,0 +1,5 @@
+Tips still count but they don't count towards T2V
+
+For example if you got tipped 1 Donut 10 times you'd get 10 donuts but would not get 10 x post ratio 
+
+!tip 1
