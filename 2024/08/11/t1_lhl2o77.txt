@@ -1,0 +1,7 @@
+Users are going to need to read all the proposals and vote for the ones they believe fits best.
+
+For example, you could have 2 conflicting proposals regarding news links specifically, one for 0.5x and one for 0.75x. The one that is implemented is the one that has the most support. 
+
+Other times, proposals can syngerise with each other.
+
+!tip 1
