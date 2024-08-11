@@ -1,0 +1,3 @@
+A true tip machine.
+
+!tip 1
