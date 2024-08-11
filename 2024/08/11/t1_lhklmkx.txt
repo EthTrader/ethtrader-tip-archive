@@ -1,0 +1,3 @@
+Eth is now inflationary, but when the activity spikes, it'll be deflationary again
+
+^(!tip 1)
