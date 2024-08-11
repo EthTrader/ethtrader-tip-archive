@@ -1,0 +1,3 @@
+Then it will increase the quantity
+
+!tip 1

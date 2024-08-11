@@ -1,0 +1,11 @@
+Totally agree with you. Anyway, I believe the minimum characters count should be a must.
+
+Automod can easily handle it with
+
+    type: text submission
+    body_shorter_than: 500
+    is_edited: false
+    action: remove
+    set_locked: TRUE
+
+👑 !tip 1
