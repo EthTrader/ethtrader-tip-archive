@@ -1,0 +1,5 @@
+Yes, but the Pay2Post fee isn't much these days... around 40-50 donuts recently, basically it's an algorithmic cost of 2.5x the Post Reward ratio for the round.
+
+Eg. if the reward ratio is 10 donuts per "vote" - the pay2post fee will be 25 DONUT.
+
+!tip 1
