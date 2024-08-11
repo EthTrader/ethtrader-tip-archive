@@ -1,0 +1,5 @@
+>The network experienced a dramatic drop in fees following the Dencun upgrade that introduced the so-called "blobs" that are capable of significantly enhancing scalability with faster and cheaper transactions.
+
+Does this mean that we are not done with the dips?
+
+!tip 1
