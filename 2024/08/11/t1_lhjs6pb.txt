@@ -1,0 +1,3 @@
+I'd rather buy the "new shiny coins" 
+
+^(!tip 1)
