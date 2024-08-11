@@ -1,0 +1,3 @@
+Questions can be asked on Daily. If the question has more words in its description, then it will automatically be a DISCUSSION post. I think we should remove the Question flair.
+
+!tip 1
