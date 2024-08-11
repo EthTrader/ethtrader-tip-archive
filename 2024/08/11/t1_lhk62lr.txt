@@ -1,0 +1,3 @@
+By allowing users to pay gas fees in USDC, Arbitrum aims to mitigate the impact of Ethereum’s inherent volatility on its users.
+
+!tip 1
