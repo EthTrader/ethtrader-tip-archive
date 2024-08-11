@@ -1,0 +1,3 @@
+Could you tip me 1 ETH then ?
+
+ !tip 1
