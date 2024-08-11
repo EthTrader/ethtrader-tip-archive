@@ -1,0 +1,3 @@
+Is there a new rule, I'm not aware of?
+
+^(!Tip 1)
