@@ -1,0 +1,3 @@
+On ZKSync you can pay using Eth, USDC, USDT and ZKS
+
+!tip 1
