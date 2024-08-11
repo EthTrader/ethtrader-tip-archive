@@ -1,0 +1,3 @@
+Is there a rule about minimum words on a discussion post?
+
+^(!tip 1)
