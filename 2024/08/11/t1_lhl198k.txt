@@ -1,0 +1,3 @@
+Currently, low effort generic questions are being treated as discussions, but are also getting removed by mods because they should be posted in the daily. Posts like "What DEX do you use?" or "Why is ETH bleeding" should be posted as a comment/question in the daily, not as a post on the front page.
+
+!tip 1
