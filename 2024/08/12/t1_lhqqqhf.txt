@@ -1,0 +1,8 @@
+Tldr; 
+
+Restaking protocol Symbiotic has launched its devnet on the Ethereum Holesky test network ahead of a planned mainnet release later in Q3.
+
+Symbiotic allows users to deposit assets to 
+secure third-party protocols, competing with EigenLayer.
+
+!tip 1
