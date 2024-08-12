@@ -1,0 +1,3 @@
+Advantage of low gas fee is only on DEX transactions, on CEX it will increase more
+
+!tip 1
