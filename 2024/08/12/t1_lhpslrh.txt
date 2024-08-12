@@ -1,0 +1,3 @@
+>This means that Ethereum can now transfer assets and data natively with the Cosmos Hub, Polkadot, and Kusama via IBC. According to Picasso, more chains will be connected in the near future, and true to their words, Solana on IBC came on board in May.
+
+!tip 1
