@@ -1,0 +1,3 @@
+DONUT in LP is included in governance score calculations...  however, with IL, your DONUT balance could increase or decrease. (limited to CONTRIB value of course)
+
+!tip 1
