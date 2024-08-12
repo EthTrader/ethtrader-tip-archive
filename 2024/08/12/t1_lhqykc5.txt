@@ -1,0 +1,3 @@
+The tokens future is not
+
+^(!tip 1)
