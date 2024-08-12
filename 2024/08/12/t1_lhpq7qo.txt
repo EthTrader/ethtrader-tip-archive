@@ -1,0 +1,2 @@
+You can just click the link and the network will load for you. As i said it's interactive with names and everything, you can also filter by your name or zoom to nodes which look strange to you.
+!tip 1

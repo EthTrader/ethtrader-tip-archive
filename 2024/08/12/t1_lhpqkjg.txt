@@ -1,0 +1,5 @@
+ Maybe I expressed myself wrongly, but I think you know what I mean =)
+
+Users areholding 0 Donuts, but chain/token in wallet can still remain.
+
+!tip 1
