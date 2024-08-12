@@ -1,0 +1,3 @@
+Yes, whichever wallet is active, it will scan that wallet throughout all supported chains. 
+
+^(!Tip 1)

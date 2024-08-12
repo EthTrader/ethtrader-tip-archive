@@ -1,0 +1,3 @@
+Rabby seems more convenient. Don't even need to change networks. It lists out everything together and everything can be revoked in one go.
+
+^(!Tip 1)
