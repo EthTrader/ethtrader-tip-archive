@@ -1,0 +1,3 @@
+news article bearish = prices go bullish
+
+!tip 1
