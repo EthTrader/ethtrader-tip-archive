@@ -1,0 +1,2 @@
+Thanks could also make just one big table and sort by tips send, rest of data still included but not sorted by it.
+!tip 1
