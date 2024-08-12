@@ -1,0 +1,9 @@
+can you also make a graph which shows which users have traded most tips among each other like
+
+user 1 gave 290 tips to user 2 
+
+and user 2 gave 300 tips to user 1 
+
+something like this ?
+
+!tip 1

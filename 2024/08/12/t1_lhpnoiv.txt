@@ -1,0 +1,5 @@
+I can include here the amount of tips per edge and the amount of donuts send per edge, i guess.
+For example user a send 100 tips worth of 234 sounds to use b.
+
+Something like this? 
+!tip 1

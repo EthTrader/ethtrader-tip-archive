@@ -1,0 +1,1 @@
+Maybe try color node clusters. And maybe try adjusting edge weights based on tip amounts or tipping frequency. Good work OP. !tip 5
