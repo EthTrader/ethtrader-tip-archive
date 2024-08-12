@@ -1,0 +1,4 @@
+Do the wallets generally not warn when the user does something like this? 
+
+
+**!tip 1**
