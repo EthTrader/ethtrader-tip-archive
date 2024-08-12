@@ -1,0 +1,7 @@
+Taken from the source:
+
+Buterin’s transfer was made from a wallet known as “Vb 3” to his own address, “vitalik.eth.” The transaction, which incurred a modest fee of 0.1 ETH (around $270), underscores the use of multi-signature wallets for enhanced security.
+
+So it was his own wallet, he's not selling or anything,  just making his ETH more secure with multisig functionality 
+
+!tip 1

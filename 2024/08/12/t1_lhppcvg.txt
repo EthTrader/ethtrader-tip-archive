@@ -1,0 +1,3 @@
+ The week before we had a good addition of 50 addresses.  "Losing" 2 addresses does not mean that people deleted the chain and token from the wallet, it simply means that they hold 0 donuts. Only donut holders count. Not chain/token holders. 
+
+!tip 1
