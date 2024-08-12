@@ -1,0 +1,3 @@
+Sometimes it's wise to follow your gut
+
+^(!tip 1)
