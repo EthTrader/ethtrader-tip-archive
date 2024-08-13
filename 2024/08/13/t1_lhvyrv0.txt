@@ -1,0 +1,3 @@
+It's a lending platform that operates on Ethereum blockchain.
+
+^(!tip 1)

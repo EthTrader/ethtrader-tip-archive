@@ -1,0 +1,5 @@
+>Previously, wstETH could only be bridged between Ethereum and seven Layer 2 networks, including Arbitrum, Optimism, Polygon, Base, Linea, zkSync, and Mantle.
+
+Why BnB? Who uses BnB anymore? 
+
+!tip 1
