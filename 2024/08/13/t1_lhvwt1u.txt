@@ -1,0 +1,2 @@
+Makes scheduling transaction time easy
+!tip 1
