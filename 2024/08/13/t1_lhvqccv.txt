@@ -1,0 +1,3 @@
+I think the body can mention other competing tokens but not the headline.
+
+!tip 1
