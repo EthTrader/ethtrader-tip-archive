@@ -1,0 +1,3 @@
+Permissionless ZK rollup in action.
+
+!tip 1
