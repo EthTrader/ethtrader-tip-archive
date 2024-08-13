@@ -1,0 +1,5 @@
+> Higher gas demand is usually seen when there is a mass event, such as a popular NFT mint, a FOMO rally
+
+So if theres a high amount of transactions then we will notice gas spikes
+
+!tip 1
