@@ -1,0 +1,3 @@
+We need good news to change the weak sentiment in our favour.
+
+^(!tip 1)
