@@ -1,0 +1,14 @@
+Tldr
+
+>Factor 1: Demand for Gas
+Factor 2: Priority
+Factor 3: Transaction Complexity
+Factor 4: Block Size
+Factor 5: Validators/Miners
+Factor 6: Network Forks
+Factor 7: Token Standards
+Factor 8: Involvement of Oracles
+Factor 9: Wallet Settings
+Factor 10: Smart Contracts
+
+!tip 1

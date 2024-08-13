@@ -1,0 +1,3 @@
+more transaction = more gas fees
+
+!tip 1

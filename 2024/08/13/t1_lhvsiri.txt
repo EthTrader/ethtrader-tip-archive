@@ -1,0 +1,5 @@
+>Gas demand has the highest impact on the gas fee at any given point in time. Higher gas demand is usually seen when there is a mass event, such as a popular NFT mint, a FOMO rally, or a panic sell-off. However, these events occur once in a while.
+
+Well they're right, this event happens once in a while which causes higher pays in gas which has seen ETH gas get lower since the last NFTs hype
+
+>! !tip 1 !<
