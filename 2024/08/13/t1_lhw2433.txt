@@ -1,0 +1,3 @@
+Most of the L2 fees are significantly reduced after the Dencun upgrade.
+
+^(!tip 1)
