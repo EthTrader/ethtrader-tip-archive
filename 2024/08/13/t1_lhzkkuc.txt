@@ -1,0 +1,3 @@
+The scaling shouldn't hurt deflation.
+
+!tip 1
