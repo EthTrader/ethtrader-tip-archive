@@ -1,0 +1,3 @@
+Dead coin.
+
+^(!tip 1)
