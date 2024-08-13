@@ -1,0 +1,3 @@
+I just paid 0.012 gwei for a transaction on Arbitrum
+
+!tip 1

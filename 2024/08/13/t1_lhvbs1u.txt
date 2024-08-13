@@ -1,0 +1,5 @@
+I must tip you the high gwei!
+
+!tip 1.0074
+
+https://i.redd.it/34o7m2lxfdid1.gif
