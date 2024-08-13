@@ -1,0 +1,7 @@
+You earn based on number of tips collected on this sub. There is a pool allocated each month, so for example 1 donut tip for comment can give 10 more donuts at the end of the round 
+
+You won’t be able to effectively tip *yet* since you have 0 donuts 
+
+So I’ll start off by giving you some
+
+!tip 5
