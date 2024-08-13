@@ -1,0 +1,3 @@
+It has some visual bugs too. Sometimes it shows my coins are worth $0.
+
+!tip 1
