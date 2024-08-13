@@ -1,0 +1,3 @@
+Depends on the network, but if they are on the same, less than 1c
+
+!tip 1
