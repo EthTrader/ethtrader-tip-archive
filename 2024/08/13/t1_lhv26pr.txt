@@ -1,0 +1,3 @@
+They are waiting for the right time.
+
+^(!tip 1.01)

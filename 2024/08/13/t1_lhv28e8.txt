@@ -1,0 +1,3 @@
+SEC won't do it easily. 
+
+^(!tip 1.01)
