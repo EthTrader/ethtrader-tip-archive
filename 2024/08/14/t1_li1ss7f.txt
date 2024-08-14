@@ -1,0 +1,3 @@
+Now let's take #1
+
+!tip 1

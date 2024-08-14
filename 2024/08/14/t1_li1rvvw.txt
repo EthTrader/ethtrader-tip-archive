@@ -1,0 +1,8 @@
+Tldr:
+
+The upgrade will allow users to create new token trading markets without needing governance approval under the permissionless listing feature.
+To list new markets, users must deposit a governance-determined amount of USDC into a new “master liquidity pool” called MegaVault.
+
+Pay certain amount and create any token you need! 
+
+!tip 1
