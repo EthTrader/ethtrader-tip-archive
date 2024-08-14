@@ -1,0 +1,3 @@
+Crazy stat if true
+
+!tip 1
