@@ -1,0 +1,4 @@
+It's most likely due to donut being paired with ETH in the LP.
+
+
+**!tip 1**
