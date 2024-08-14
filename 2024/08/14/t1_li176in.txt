@@ -1,0 +1,3 @@
+My blue ball is never wrong, let's wait and find out.
+
+^(!tip 1)
