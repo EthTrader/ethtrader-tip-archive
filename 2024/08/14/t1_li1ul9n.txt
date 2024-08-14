@@ -1,0 +1,3 @@
+True, very vulnerable for scams.
+
+^(!tip 1)
