@@ -1,0 +1,3 @@
+>ConsenSys launched the public testnet of Linea, their Zero-Knowledge Ethereum Virtual Machine (zkEVM) L2 solution built on Ethereum.
+
+^(!tip 1)
