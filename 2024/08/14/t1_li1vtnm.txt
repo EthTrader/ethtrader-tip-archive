@@ -1,0 +1,2 @@
+Delisting always triggers panic sell
+!tip 1
