@@ -1,0 +1,3 @@
+It's hard to not look at the chart every 10 minutes
+
+^(!tip 1)
