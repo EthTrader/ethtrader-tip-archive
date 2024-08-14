@@ -1,0 +1,3 @@
+Does EVM really needs to be more user friendly? What are the benefits?
+
+!tip 2
