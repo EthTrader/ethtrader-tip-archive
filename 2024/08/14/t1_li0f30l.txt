@@ -1,0 +1,7 @@
+> Gas = 0.945207178 GWEI
+
+
+Finally got one of my long awaited answers if gas can go below 1 Gwei on mainnet.
+
+
+**!tip 1**
