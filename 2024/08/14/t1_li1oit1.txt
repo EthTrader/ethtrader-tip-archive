@@ -1,0 +1,3 @@
+I'll call it breakout when we break $4000
+
+!tip 1
