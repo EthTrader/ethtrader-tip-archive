@@ -1,0 +1,3 @@
+Web3 entry point should be very easy for new users.
+
+!tip 1
