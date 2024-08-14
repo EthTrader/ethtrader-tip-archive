@@ -1,0 +1,3 @@
+>Fifteen tokens are affected by this conversion. They are bitcoin gold (BTG), bitcoin standard hashrate token (BTCST), bitshares (BTS), district0x (DNT), groestlcoin (GRS), hegic (HEGIC), mobilecoin (MOB), monero (XMR), monetha (MTH), multichain (MULTI), navcoin (NAV), sologenic (SOLO), spartan protocol (SPARTA), symbol (XYM), and tribe (TRIBE).
+
+!tip 1
