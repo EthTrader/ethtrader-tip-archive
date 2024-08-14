@@ -1,0 +1,5 @@
+Low gas fees - low ETH burnt.
+
+High gas fees - more ETH burnt.
+
+^(!tip 1)

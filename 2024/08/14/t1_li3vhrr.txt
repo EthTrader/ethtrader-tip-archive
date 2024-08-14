@@ -1,0 +1,3 @@
+Not good enough = dump 
+
+^(!tip 1)
