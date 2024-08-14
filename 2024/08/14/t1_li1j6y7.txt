@@ -1,0 +1,3 @@
+Did you make a profit? Or are you one of us?
+
+^(!tip 1)
