@@ -1,0 +1,3 @@
+Despite some concerns about potential security risks, the EOF is expected to be part of the Pectra hard fork, marking one of the most substantial changes to Ethereum's programming environment since its inception nearly a decade ago.
+
+!tip 1

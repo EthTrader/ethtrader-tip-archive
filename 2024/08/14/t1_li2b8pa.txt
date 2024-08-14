@@ -1,0 +1,4 @@
+The new EVM Object Format (EOF) proposal aims to make the de facto industry standard Ethereum Virtual Machine more developer-friendly.
+
+  
+!tip 1
