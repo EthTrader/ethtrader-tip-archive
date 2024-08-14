@@ -1,0 +1,3 @@
+Thanks for saving me a click
+
+^(!tip 1)
