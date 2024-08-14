@@ -1,0 +1,3 @@
+Maybe author means any hardware wallet and referred it by using ledger 
+
+!tip 1

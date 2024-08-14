@@ -1,0 +1,3 @@
+Don't be shy pops show us your tips
+
+^(!tip 1)
