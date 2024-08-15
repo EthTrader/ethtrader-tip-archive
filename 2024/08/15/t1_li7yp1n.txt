@@ -1,0 +1,3 @@
+The token is launching on September 10th
+
+^(!tip 1)

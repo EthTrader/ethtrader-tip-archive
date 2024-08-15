@@ -1,0 +1,3 @@
+We are heroes, aren't we?
+
+^(!tip 1)
