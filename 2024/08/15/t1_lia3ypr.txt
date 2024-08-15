@@ -1,0 +1,3 @@
+Simple, but smart.
+
+^(!Tip 1)
