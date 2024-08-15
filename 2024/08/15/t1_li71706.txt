@@ -1,0 +1,5 @@
+It'll be cool. Maybe a golden username.
+
+!nominate
+
+^(!tip 1)
