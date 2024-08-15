@@ -1,0 +1,3 @@
+It's time to nerf news links
+
+^(!tip 1)
