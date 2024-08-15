@@ -1,0 +1,3 @@
+The bears always loose in the long run
+
+^(!tip 1)
