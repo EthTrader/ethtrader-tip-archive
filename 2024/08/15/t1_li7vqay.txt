@@ -1,0 +1,3 @@
+The next bull, as in 2029
+
+^(!tip 1)
