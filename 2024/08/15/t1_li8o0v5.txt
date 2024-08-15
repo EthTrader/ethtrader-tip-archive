@@ -1,0 +1,5 @@
+Get a cold wallet
+
+Don't tell anyone about Crypto
+
+^(!tip 1)

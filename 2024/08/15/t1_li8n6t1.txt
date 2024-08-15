@@ -1,0 +1,3 @@
+That dog is trying its best to be in the news.
+
+^(!tip 1)
