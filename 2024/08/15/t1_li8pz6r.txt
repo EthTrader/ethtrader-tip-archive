@@ -1,0 +1,3 @@
+Use an alternative wallet and not your main wallet
+
+^(!tip 1)
