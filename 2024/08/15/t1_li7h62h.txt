@@ -1,0 +1,3 @@
+A headline that aptly paint a vivid picture of the current state of things.
+
+!tip 1
