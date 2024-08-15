@@ -1,0 +1,5 @@
+The spam has been nuked
+
+The links will b nuked next.
+
+^(!tip 1)
