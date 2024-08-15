@@ -1,0 +1,3 @@
+Rule to remember never talk about crypto from anyone.
+
+^(!tip 1)
