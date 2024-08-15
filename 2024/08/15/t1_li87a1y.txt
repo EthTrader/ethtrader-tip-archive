@@ -1,0 +1,5 @@
+>The ETH burn mechanism, introduced as part of Ethereum’s London Hard Fork, previously established a deflationary pattern, but since issuance has outpaced it, ETH is now on an inflationary trajectory.
+
+This situation needs to change ASAP. 
+
+!tip 1
