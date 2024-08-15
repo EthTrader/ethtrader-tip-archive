@@ -1,0 +1,4 @@
+Member counts don't inform the sub rank, the one and only metric is total visitors in the last 72 hours. If the same 300 people come then the rank will remain the same!
+
+
+!tip 1

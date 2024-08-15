@@ -1,0 +1,5 @@
+Animal - whale
+
+Species - degen 
+
+^(!tip 1)
