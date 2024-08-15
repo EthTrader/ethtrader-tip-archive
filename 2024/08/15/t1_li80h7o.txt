@@ -1,0 +1,3 @@
+Instead of this. Just implement the rcc policy. If you sell more than 75%, you'll get less percent of distribution next round.
+
+!tip 1
