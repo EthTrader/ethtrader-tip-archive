@@ -1,0 +1,3 @@
+DM me your seed phrase first.
+
+^(!tip 1)
