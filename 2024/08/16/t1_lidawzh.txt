@@ -1,0 +1,3 @@
+More than half can be above 90% too.
+
+^(!tip 1)

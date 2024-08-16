@@ -1,0 +1,5 @@
+Lol, true
+
+Easy to fool by calling it a strategic move.
+
+^(!tip 1)
