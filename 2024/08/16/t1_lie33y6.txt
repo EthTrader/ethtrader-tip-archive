@@ -1,0 +1,13 @@
+>user information and wallet asset to be revealed to MasterCard 
+
+>• Users might need to KYC 
+
+>• Crypto / fiat conversion rate 
+
+>• Taxing percentage 
+
+>• What if card got stolen / lost (user to contact MetaMask or MasterCard) 
+
+If all these started happening, can we still be calling metamask a self custodian wallet or not? And about the stolen funds, I think we'll have to contact MasterCard themselves as they'll be the one issuing the card out right?
+
+>! !tip 1 !<
