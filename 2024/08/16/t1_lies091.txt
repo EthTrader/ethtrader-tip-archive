@@ -1,0 +1,3 @@
+He's an insider 
+
+^(!tip 1)
