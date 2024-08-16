@@ -1,0 +1,3 @@
+After it touches $2799 
+
+^(!tip 1)
