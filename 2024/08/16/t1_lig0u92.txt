@@ -1,0 +1,3 @@
+It's not complicated at all! Just the simple !withdraw command and they are in your wallet!
+
+!tip 1
