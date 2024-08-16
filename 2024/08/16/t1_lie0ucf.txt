@@ -1,0 +1,5 @@
+>Nudge will unleash a new DeFi primitive called “Re: allocation Value” that represents the economic value of users’ onchain activities, according to the company.
+
+>“Users can extract a substantial amount of this value by getting paid or ‘Nudged’ by protocols to re: allocate those scarce goods onchain,” Nudge said in a statement.
+
+^(!tip 1)
