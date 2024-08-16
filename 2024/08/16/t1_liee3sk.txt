@@ -1,0 +1,3 @@
+True, rewards are with high-risk
+
+^(!tip 1)
