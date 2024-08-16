@@ -1,0 +1,3 @@
+999 out 1000 times, this is true.
+
+^(!Tip 1)
