@@ -1,0 +1,11 @@
+DONUT is the governance token of r/Ethtrader 
+
+Find out more here https://donut-dashboard.com/#/
+
+If you register a wallet on the sub you will receive the tips plus any Donuts earned through comments and posts next distribution which is in about 12 days
+
+To register a wallet do this command 
+
+!register 'wallet address'
+
+!tip 1
