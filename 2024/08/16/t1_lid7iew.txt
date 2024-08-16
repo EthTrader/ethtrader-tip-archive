@@ -1,0 +1,3 @@
+Paying for a listing is pointless if we don't have consistent high trading volume
+
+^(!tip 1)
