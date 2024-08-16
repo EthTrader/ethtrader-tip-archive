@@ -1,0 +1,3 @@
+It goes lower whenever I buy.
+
+^(!tip 1)
