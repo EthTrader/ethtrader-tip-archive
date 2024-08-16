@@ -1,0 +1,3 @@
+>This upgrade aims to enhance security and operational efficiency within the Polygon ecosystem.
+
+^(!tip 1)
