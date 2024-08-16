@@ -1,0 +1,3 @@
+Then it's good for them.
+
+^(!tip 1)
