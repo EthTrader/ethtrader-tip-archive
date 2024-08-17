@@ -1,0 +1,4 @@
+Yes, if you generate the address through cold wallet and register it. But now you will lose the GS.
+
+
+**!tip 1**
