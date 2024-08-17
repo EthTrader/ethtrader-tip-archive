@@ -1,0 +1,3 @@
+Linkish with bulls
+
+^(!tip 1)
