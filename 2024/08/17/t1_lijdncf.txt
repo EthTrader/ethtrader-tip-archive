@@ -1,0 +1,3 @@
+Not worth it if the token keeps dumping
+
+^(!tip 1)

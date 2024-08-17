@@ -1,0 +1,3 @@
+The price keeps dumping
+
+^(!tip 1)
