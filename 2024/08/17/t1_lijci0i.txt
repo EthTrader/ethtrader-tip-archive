@@ -1,0 +1,3 @@
+LINK is linking with OnlyUp way!
+
+^(!tip 1)
