@@ -1,0 +1,5 @@
+And how can they be sent to a cold wallet?
+
+I don't think any hardware wallet supports donuts.
+
+!tip 1
