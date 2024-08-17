@@ -1,0 +1,3 @@
+Double fun!
+
+^(!tip 1)
