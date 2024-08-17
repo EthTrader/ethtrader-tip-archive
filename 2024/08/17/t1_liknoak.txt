@@ -1,0 +1,3 @@
+First rule of the crypto: You do not talk about crypto!
+
+^(!tip 1)

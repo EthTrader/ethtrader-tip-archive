@@ -1,0 +1,5 @@
+Sometimes Reddit filters out posts from certain sources. You'll see the red trash can top right hand corner if that happens
+
+Users with 60k governance can approve these posts using the !approve command 
+
+!tip 1
