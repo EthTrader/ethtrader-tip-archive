@@ -1,0 +1,5 @@
+Got wallet are metamask, safepal and coinbase wallet while cold wallet are ledger right?
+
+If we have to think about it, which one is safer? Which one is vulnerable to hacking? People say cold wallets are safe but that kinda depends.
+
+>! !tip 1 !<
