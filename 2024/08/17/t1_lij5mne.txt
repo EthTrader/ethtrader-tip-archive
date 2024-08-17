@@ -1,0 +1,3 @@
+Why not take advantage of the current price?
+
+^(!tip 1)
