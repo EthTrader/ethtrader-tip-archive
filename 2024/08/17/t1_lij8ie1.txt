@@ -1,0 +1,3 @@
+They should burn 10% per transaction/s
+
+^(!tip 1)
