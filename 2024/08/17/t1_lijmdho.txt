@@ -1,0 +1,3 @@
+True BroNuts always leave a tip
+
+!tip 1
