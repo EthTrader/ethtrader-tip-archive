@@ -1,0 +1,3 @@
+Flaky BroNut doesn’t store his seed in cold wallets
+
+!tip 1
