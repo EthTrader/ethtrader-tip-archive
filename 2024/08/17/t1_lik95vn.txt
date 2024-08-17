@@ -1,0 +1,3 @@
+Shiba is very active to keep themselves in the news these days.
+
+^(!tip 1)
