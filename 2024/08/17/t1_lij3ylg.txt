@@ -1,0 +1,3 @@
+It is better to be secure than to be scammed.
+
+^(!tip 1)
