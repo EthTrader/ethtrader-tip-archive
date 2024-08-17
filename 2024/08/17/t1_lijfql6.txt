@@ -1,0 +1,3 @@
+It seems not going to fade soon.
+
+^(!tip 1)
