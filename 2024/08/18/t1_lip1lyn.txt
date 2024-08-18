@@ -1,0 +1,3 @@
+He gave the coin spotlight
+
+^(!tip 1)
