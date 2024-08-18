@@ -1,0 +1,5 @@
+Glad you’ve seen a value 
+
+Thanks for the tip 😊 
+
+!tip 1
