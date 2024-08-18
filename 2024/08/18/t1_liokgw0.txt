@@ -1,0 +1,5 @@
+FYI If you want free donuts you can register your wallet by commenting
+
+!register [your wallet address] (without the brackets)
+
+!tip 1
