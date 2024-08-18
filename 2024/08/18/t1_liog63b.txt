@@ -1,0 +1,3 @@
+I think ZK Rollups will eventually gain more usage and interest over Optimistic rollups in the long term, ARB and BASE will of course remain popular choices.  But ZKSync seems to be one of the better ZK Rollups compared to the likes of Starknet, Taiko and Scroll.
+
+!tip 1
