@@ -1,0 +1,5 @@
+>These fees, paid in 'gwei,' a fraction of Ether, vary based on transaction complexity. Ethereum's shift to a Proof-of-Stake (PoS) system with Ethereum 2.0 has maintained the importance of gas fees, rewarding validators for transaction processing and network security
+
+![gif](giphy|3oKIPlLZEbEbacWqOc)
+
+>! !tip 1 !<
