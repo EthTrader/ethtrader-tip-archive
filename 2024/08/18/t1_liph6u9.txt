@@ -1,0 +1,5 @@
+>“Vitalik Buterin registered a new ENS domain name, “dacc .eth,” today. DACC stands for “defensive acceleration,” contrasting with the “effective acceleration” (e/acc) hotly debated in Silicon Valley. d/acc advocates for technological advancements in areas like cybersecurity and privacy protection, promoting healthier and freer governance.”
+
+Great!
+
+^(!tip 1)
