@@ -1,0 +1,5 @@
+>Coins: 15,079
+
+Don't you mean 15M ?
+
+^(!tip 1)
