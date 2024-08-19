@@ -1,0 +1,3 @@
+How much eth price needs to be for you to quit it?
+
+!tip 1
