@@ -1,0 +1,8 @@
+Ah okay so it was an AgentTesla .Net-based Remote Access Trojan.
+
+That Malware can also capture videos and screenshots to the Command and Control Server. 
+
+So if your Password manager was open once (which might be the case because you where probably quickly trying to change passwords) that might have been enough to gather your credentials.  
+
+
+!tip 1

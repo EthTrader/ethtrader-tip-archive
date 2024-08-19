@@ -1,0 +1,2 @@
+You can always compare to the data of the tip status  cmd. I assume these should be 3 times as high if you have a week like this regularly.
+!tip 1
