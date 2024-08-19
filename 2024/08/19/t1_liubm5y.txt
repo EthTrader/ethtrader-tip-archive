@@ -1,0 +1,3 @@
+We're not far from it. You should buy now
+
+^(!tip 1)
