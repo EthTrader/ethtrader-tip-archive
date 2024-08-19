@@ -1,0 +1,3 @@
+Then since Vitalik sends Eth there, we can be sure it's a trusted mixer.
+
+!tip 1
