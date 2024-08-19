@@ -1,0 +1,3 @@
+I hope farmers don't end up cooked 
+
+^(!tip 1)
