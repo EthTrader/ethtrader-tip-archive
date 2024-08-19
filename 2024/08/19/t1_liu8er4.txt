@@ -1,0 +1,3 @@
+Send it to $2K, so we can buy more.
+
+^(!tip 1.01)
