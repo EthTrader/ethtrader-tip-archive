@@ -1,0 +1,3 @@
+UAE is fast in adoption.
+
+^(!tip 1)

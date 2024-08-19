@@ -1,0 +1,5 @@
+“Imagine deploying your dapp once and having it scaled automatically across all L2s. If extra blockspace is needed, more booster rollups can be added without any additional setup work. Put another way, no significant extra work for devs, no redeployment costs, no additional worries” 
+
+This is huge 
+
+!tip 1
