@@ -1,0 +1,5 @@
+I don't get the request, could you rephrase this?
+
+Amount of tips and amount of donuts are both stated. Also to which user you gave the most tips and the most donuts.
+
+!tip 1
