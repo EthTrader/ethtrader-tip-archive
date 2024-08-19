@@ -1,0 +1,5 @@
+>Optimism is planning a hard fork named Granite to address security vulnerabilities identified by third-party auditors. This upgrade aims to enhance the OP Mainnet's fault-proof system, improving both security and performance
+
+That's a very good thing for a crypt project to do tbh
+
+>! !tip 1 !<
