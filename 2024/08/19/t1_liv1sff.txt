@@ -1,0 +1,7 @@
+So the leaderboard is showing whoever gave the most individual tips as number 1 but it doesn't mean they've given the most Donuts or even close to it
+
+My suggestion was a separate table with the leaderboard based on total Donuts tipped 
+
+For example I'm 17th but I've probably tipped more total Donuts than anyone other than Aminok
+
+!tip 1
