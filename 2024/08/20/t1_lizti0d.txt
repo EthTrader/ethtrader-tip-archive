@@ -1,0 +1,5 @@
+If the 3 hour cooldown passes is donut-bot going to take that into account?
+
+The supposed 30 minute one isn't taken into account by the bot
+
+!tip 1
