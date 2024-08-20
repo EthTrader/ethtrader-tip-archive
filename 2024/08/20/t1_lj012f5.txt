@@ -1,0 +1,3 @@
+CONTRIB, it's the number used to identify the weight of your votes in governance polls.
+
+!tip 1
