@@ -1,0 +1,3 @@
+It is a decentralized protocol that leverages zero-knowledge proofs and other advanced technologies to ensure user privacy and security.
+
+!tip 1
