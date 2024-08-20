@@ -1,0 +1,3 @@
+I agree that there must be a reason for investing such an amount.
+
+^(!tip 1)
