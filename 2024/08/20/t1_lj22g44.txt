@@ -1,0 +1,5 @@
+There is a lot of emphasis on cheap and fast.
+
+Put much more emphasis on security, it is most important!
+
+!tip 1
