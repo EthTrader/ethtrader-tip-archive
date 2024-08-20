@@ -1,0 +1,5 @@
+"private transactions tend to be more complex, and thus more gas intensive"
+
+I wonder how much more?
+
+!tip 1
