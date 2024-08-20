@@ -1,0 +1,3 @@
+Many new users will prefer layer 2s over the Eth mainnet. 
+
+^(!tip 1)
