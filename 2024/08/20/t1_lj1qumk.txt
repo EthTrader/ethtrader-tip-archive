@@ -1,0 +1,3 @@
+Linea moving in the direction that we want. 
+
+!tip 1
