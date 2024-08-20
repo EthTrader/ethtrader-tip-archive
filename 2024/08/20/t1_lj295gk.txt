@@ -1,0 +1,3 @@
+EIP-3074 is basically Ethereum saying, "Hold my beer, I'm about to get a whole lot more user-friendly."
+
+!tip 1
