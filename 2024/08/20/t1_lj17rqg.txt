@@ -1,0 +1,3 @@
+True, all promises are before the election. 
+
+^(!tip 1)
