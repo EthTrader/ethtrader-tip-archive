@@ -1,0 +1,5 @@
+!tip 50
+
+Maybe language used in documents from financial institutions is just similar to AI generated content. We could test this by putting official financial institution documents that was published before the emergence of ChatGPT through an AI detector.
+
+But I also wouldn't be surprised if employees at the companies used AI for text generation.
