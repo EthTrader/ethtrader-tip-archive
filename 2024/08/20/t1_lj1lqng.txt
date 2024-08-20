@@ -1,0 +1,3 @@
+ETHUSD pair
+1Eth = 1Eth 
+!tip 1
