@@ -1,0 +1,3 @@
+Your governance weight/voting weight which affects how many tips someone else can receive from you
+
+!tip 1
