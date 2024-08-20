@@ -1,0 +1,3 @@
+True. With EIP-1559 and further improvements we could see ETH become truly deflationary.
+
+!tip 1
