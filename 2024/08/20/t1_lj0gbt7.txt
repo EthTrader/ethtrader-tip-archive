@@ -1,0 +1,5 @@
+No BigMajor.
+
+This is different. BSV/BCH was a contentious hard fork, splitting the chain. POL migration is a planned upgrade within the Polygon ecosystem, no new coin is being created. Think of it more like Ethereum's move to Proof of Stake, not a Bitcoin Cash situation.
+
+!tip 1
