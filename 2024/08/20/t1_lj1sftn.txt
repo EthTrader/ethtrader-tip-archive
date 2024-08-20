@@ -1,0 +1,3 @@
+Transparency is more important than anything else.
+
+^(!tip 1)
