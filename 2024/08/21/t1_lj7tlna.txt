@@ -1,0 +1,3 @@
+We should look at similar dynamic formulas to calculate price that r/cc use; such as X amount of sub views in a week to determine a dynamic price - and of course, allow for our marketing manager some leeway to negotiate prices as well.
+
+!tip 1
