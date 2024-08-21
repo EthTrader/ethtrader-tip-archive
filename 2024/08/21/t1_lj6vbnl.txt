@@ -1,0 +1,4 @@
+Any idea if other L2s use parallel execution or one after another? 
+
+
+**!tip 1**
