@@ -1,0 +1,3 @@
+Upgrades won't move the price it depends on the market sentiment, which doesn't look healthy right now.
+
+^(!tip 1)
