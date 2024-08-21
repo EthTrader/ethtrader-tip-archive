@@ -1,0 +1,5 @@
+>FRTs are a type of stablecoin backed by liquid assets denominated in the same currency as the token and can be liquidated with minimum adverse price effect.
+
+That's all I needed to know. 
+
+!tip 1
