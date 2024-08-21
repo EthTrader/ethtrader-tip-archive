@@ -1,0 +1,3 @@
+China frequently changes the rule. You never know what's next.
+
+^(!tip 1)
