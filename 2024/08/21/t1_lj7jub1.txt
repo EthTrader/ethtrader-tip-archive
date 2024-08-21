@@ -1,0 +1,3 @@
+Then what will I eat?
+
+^(!tip 1)

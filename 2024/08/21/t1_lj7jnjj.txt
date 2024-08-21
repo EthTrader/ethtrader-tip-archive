@@ -1,0 +1,3 @@
+This frog will flip Shiba
+
+^(!tip 1)
