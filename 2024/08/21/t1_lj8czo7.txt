@@ -1,0 +1,3 @@
+LINK $100 is a reality.
+
+!tip 1
