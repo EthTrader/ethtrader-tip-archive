@@ -1,0 +1,3 @@
+I think it won't be considered in ETH 
+
+^(!tip 1)
