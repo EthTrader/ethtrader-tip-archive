@@ -1,0 +1,3 @@
+Only project that are "safe" are BTC & ETH. 
+
+^(!tip 1)
