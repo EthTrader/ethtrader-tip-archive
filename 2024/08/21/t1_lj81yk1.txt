@@ -1,0 +1,3 @@
+>A data oracle in crypto delivers real-world information to smart contracts, enabling them to execute based on external events like prices or weather, which blockchains can't access directly. This ensures decentralized applications can interact with off-chain data.
+
+!tip 1
