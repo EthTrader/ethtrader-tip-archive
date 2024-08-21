@@ -1,0 +1,5 @@
+29 for posts
+
+20 for comments
+
+^(!tip 1)
