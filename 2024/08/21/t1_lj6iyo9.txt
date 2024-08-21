@@ -1,0 +1,3 @@
+It's time to abandon it.
+
+^(!tip 1)
