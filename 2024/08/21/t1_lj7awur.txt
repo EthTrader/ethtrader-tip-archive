@@ -1,0 +1,3 @@
+'And I need a payment in E-T-H'. Could be ETH, but also could be not ETH.
+
+!tip 1
