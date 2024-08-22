@@ -1,0 +1,3 @@
+That wouldn't even work, scroll is a ZK Rollup and Base is an Optimistic Rollup.
+
+!tip 1
