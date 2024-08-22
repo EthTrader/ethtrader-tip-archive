@@ -1,0 +1,7 @@
+Syncswap didn't have incentives, only trading fee revenue. it was just a high APR due to 2 factors;
+
+1) Very high trading volume in the first week
+
+2) the liquidity pool TVL was still a bit on the smaller side of things.
+
+!tip 1
