@@ -1,0 +1,5 @@
+>The Tanssi Foundation, in collaboration with Symbiotic, has expanded the Tanssi blockchain infrastructure protocol to Ethereum, enabling the rapid launch of decentralized networks or Actively Validated Services (AVSs) in minutes. This initiative leverages Ethereum’s security through Symbiotic's restaking protocol, allowing developers to deploy customizable and decentralized networks quickly
+
+![gif](giphy|3oKIPlLZEbEbacWqOc)
+
+>! !tip 1 !<
