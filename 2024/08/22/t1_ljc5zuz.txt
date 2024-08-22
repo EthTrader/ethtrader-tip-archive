@@ -1,0 +1,3 @@
+Yes, prices are still good. 
+
+^(!tip 1)
