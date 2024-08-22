@@ -1,0 +1,3 @@
+As far I know, Worldcoin built on the Ethereum blockchain utilizing both L1 and L2 technologies.
+
+^(!tip 1)
