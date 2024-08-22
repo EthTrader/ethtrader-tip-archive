@@ -1,0 +1,3 @@
+I only want to be the right side.
+
+^(!tip 1)
