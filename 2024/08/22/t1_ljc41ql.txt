@@ -1,0 +1,7 @@
+This surge in private transactions, aimed at MEV protection, has led to increased gas usage per transaction and affected ETH's base fees due to the 2021 EIP-1559 upgrade. The volatility in base fees, driven by the high gas consumption of private transactions, poses challenges for network users, particularly affecting smaller builders struggling with the increased cost
+
+So, users are using private transactions with an increased gas fees, just to protect the network from MeV bots? 🙄
+Sounds unconvincing to me. 
+
+
+!tip 1
