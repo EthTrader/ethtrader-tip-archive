@@ -1,0 +1,3 @@
+Do you think we're early?
+
+^(!tip 1)
