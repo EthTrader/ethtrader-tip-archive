@@ -1,0 +1,5 @@
+This is about the standards about each ERC token 
+
+Each is designed for particular reason, the most knows so far is ERC-20 which is about crypto payment tokens 
+
+!tip 1
