@@ -1,0 +1,3 @@
+Grayscale should its dumping issues first. Thats the biggest problem right now.
+
+^(!Tip 1)
