@@ -1,0 +1,3 @@
+ERC-15000 should be launched with the aim of making ETH a stablecoin pegged to $15,000
+
+!tip 1
