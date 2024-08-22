@@ -1,0 +1,3 @@
+Or members with atleast 200k Contrib. 
+
+^(!tip 1)
