@@ -1,0 +1,3 @@
+TOKAN is a shittier version of Token
+
+!tip 1
