@@ -1,0 +1,5 @@
+Use of private transactions is needed 
+
+Burn eth 
+
+!tip 1
