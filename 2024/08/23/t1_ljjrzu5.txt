@@ -1,0 +1,3 @@
+Weren't MACs completely safe.
+
+!tip 1
