@@ -1,0 +1,3 @@
+To me seed phrases are the similar to setting up your bank account but not in a traditional way. For example, you have to set up security questions, recovery email, biometrics/passwords etc but once you're done you can select trusted devices. Same with a seed phrases, you set your trusted device to host your wallet and you're good to go. It seems really cumbersome at first but once you get past any learning curve you see the simplicity in it's complexity. 
+
+!tip 1
