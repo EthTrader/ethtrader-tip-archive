@@ -1,0 +1,3 @@
+True, high APY creates too many doubts.
+
+^(!tip 1)

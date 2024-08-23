@@ -1,0 +1,3 @@
+Release the bulls and then see the magic how it goes up.
+
+^(!tip 1)
