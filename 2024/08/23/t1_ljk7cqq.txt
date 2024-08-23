@@ -1,0 +1,3 @@
+Maybe a cold wallet that functions as hot wallet 
+
+!tip 1
