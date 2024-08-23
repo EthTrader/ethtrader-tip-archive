@@ -1,0 +1,9 @@
+Duplicate stories should get removed when Ray has time to go through them.
+
+We are waiting on Multisig approval to fund an Initiative to develop a "Topic Limiter" I believe.
+
+And in the meantime, farmers will complain that we already have too many complicated rules.
+
+Best you can do for now is not tip duplicate stories, and instead report them to  the mods so they can be removed.
+
+!tip 1
