@@ -1,0 +1,5 @@
+>who is elegible?
+
+>Ethereum core contributors include smart contract languages, execution clients, EVMs, testnets, and cryptography researchers.
+
+!tip 1
