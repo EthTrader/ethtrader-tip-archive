@@ -1,0 +1,3 @@
+Prog is on fire today.
+
+^(!tip 1)
