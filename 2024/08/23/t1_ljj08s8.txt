@@ -1,0 +1,5 @@
+We have to improve the volume before we think about paying for a listing.
+
+Since we use T2V, how about burning all the tips?
+
+^(!tip 1)

@@ -1,0 +1,3 @@
+The forecast is cloudy with a chance of sprinkles.
+
+!tip 1
