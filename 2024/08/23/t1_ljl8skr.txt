@@ -1,0 +1,5 @@
+These wallets are currently not secure, because even one deletion of cookies, and you lose access.
+
+They use Google recovery, clouds, etc. No thanks, I'll stick to the seed phrase!
+
+!tip 1
