@@ -1,0 +1,4 @@
+Transaction failures where caused by bots, not the upgrade. 
+
+
+!tip 1
