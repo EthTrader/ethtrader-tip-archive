@@ -1,0 +1,3 @@
+Then the token dumps to $1 😆
+
+^(!tip 1)
