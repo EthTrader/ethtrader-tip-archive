@@ -1,0 +1,3 @@
+I've seen some pretty blatant stuff get tipped back and forth - back and forth discussion doesn't make it a ring, but some users will only reply back to other users, or some users will be less subtle and tip things post status commands.
+
+!tip 1

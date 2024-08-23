@@ -1,0 +1,3 @@
+I haven't tipped you because your post is a duplicate. 
+
+^(!tip 1)
