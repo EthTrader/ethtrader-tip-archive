@@ -1,0 +1,4 @@
+Imagine when there's a bug in the contract and all the private data ends up in the public. 😲 
+
+
+**!tip 1**
