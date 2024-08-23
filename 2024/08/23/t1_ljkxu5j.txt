@@ -1,0 +1,5 @@
+>Symbiotic is a restaking protocol, enabling new decentralized networks and applications to secure their networks through their shared security mechanism, while allowing users to compound their interest rewards.
+
+https://www.coingecko.com/learn/what-is-symbiotic-restaking-crypto#:~:text=Symbiotic%20allows%20decentralized%20applications%20to,create%20their%20security%20systems%20independently.
+
+^(!tip 1)
