@@ -1,0 +1,3 @@
+True, this market can dump out of the blue.
+
+^(!tip 1)

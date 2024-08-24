@@ -1,0 +1,3 @@
+Nope - it was possible previously because Special Membership was a function built within the Reddit Platform itself - this is no longer the case.
+
+!tip 1
