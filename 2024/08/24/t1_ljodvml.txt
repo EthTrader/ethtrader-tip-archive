@@ -1,0 +1,3 @@
+No I think there's just a difference between CMC & Coingecko. MATIC is 20th on CMC but they don't count cryptos like STETH, WSTETH, WBTC, WETH & they have a much lower market cap for UNI. Not sure why that is.
+
+!tip 1
