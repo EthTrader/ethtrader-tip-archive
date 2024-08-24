@@ -1,0 +1,5 @@
+Vitalik: “it’s a claim that assets on the L2 are safe and can be withdrawn as long as the L1 is secure, even if 99% of the L2 nodes are malicious and colluding against you” 
+
+That is an additional confidence to hold ETH 
+
+!tip 1
