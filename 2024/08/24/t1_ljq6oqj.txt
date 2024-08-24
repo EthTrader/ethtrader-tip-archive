@@ -1,0 +1,5 @@
+>ENS works in a similar way to the Internet's DNS system and helps users to find Ethereum addresses via human-readable names, rather than complex hexadecimal characters.
+
+https://www.kraken.com/learn/what-is-ethereum-name-service-ens
+
+^(!tip 1)
