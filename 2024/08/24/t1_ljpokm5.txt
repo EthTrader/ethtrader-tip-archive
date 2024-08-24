@@ -1,0 +1,3 @@
+Since we use T2V, Burn all tips.
+
+^(!tip 1)

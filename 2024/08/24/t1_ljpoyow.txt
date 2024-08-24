@@ -1,0 +1,3 @@
+Laziness is not a good helper.
+
+!tip 1
