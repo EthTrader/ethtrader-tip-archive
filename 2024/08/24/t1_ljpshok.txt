@@ -1,0 +1,2 @@
+Only burn 1 and not anything exceeding one.
+ !tip 1

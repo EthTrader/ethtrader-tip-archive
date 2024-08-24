@@ -1,0 +1,3 @@
+Burn all tips except aminok's /s
+
+^(!tip 1)
