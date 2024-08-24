@@ -1,0 +1,7 @@
+[YES] 
+
+
+Maybe burn a percentage of the tip instead of the whole tip.
+
+
+**!tip 1**
