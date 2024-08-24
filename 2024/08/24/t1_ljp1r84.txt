@@ -1,0 +1,3 @@
+Maybe I should’ve added the header where it shows the battery percentage at 69%.
+
+>! !tip 1 !<
