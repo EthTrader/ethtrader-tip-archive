@@ -1,0 +1,3 @@
+Great! If L1 is safe, so we safe. Is it?
+
+^(!tip 1)
