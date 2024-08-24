@@ -1,0 +1,3 @@
+EURC >>> USDC >>> USDT
+
+!tip 1
