@@ -1,0 +1,3 @@
+I'm satisfied. One of my coins is up 50% in the last 2 days.
+
+^(!tip 1)
