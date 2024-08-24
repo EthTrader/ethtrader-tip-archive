@@ -1,0 +1,5 @@
+>One more thing that occurred to me: Sometimes it happens that larger quantities of Donuts are tipped because someone has done something special. How do we get around this dilemma? For example Aminok tips 1,000 Donuts to xxx person for making a special guide... This amount should be a reward and not be burned
+
+I love this a lots so instead we'll have to burn 1 and the tip over 1 will be given to the said person, or what'd you think?
+
+>! !tip 1 !<
