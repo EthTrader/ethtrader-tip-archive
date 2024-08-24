@@ -1,0 +1,6 @@
+>According to Buterin, Ether L2 inherits L1 security, meaning, assets on the L2 are safe and can be withdrawn as long as the L1 is secure.
+
+Good to know. 
+
+
+!tip 1
