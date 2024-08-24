@@ -1,0 +1,5 @@
+>A subgraph is a custom way of indexing and querying data from blockchain
+
+![gif](giphy|3owzW5c1tPq63MPmWk|downsized)
+
+^(!tip 1)
