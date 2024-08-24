@@ -1,0 +1,3 @@
+The rules aren't even complicated and the token isn't 90% down because of the new rules
+
+^(!tip 1)
