@@ -1,0 +1,3 @@
+Give me a third choice.
+
+^(!Tip 1)
