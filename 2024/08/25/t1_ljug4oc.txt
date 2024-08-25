@@ -1,0 +1,3 @@
+Looks like operation "exit liquidity must be farmed" has been engaged.
+
+!tip 1
