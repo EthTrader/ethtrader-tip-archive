@@ -1,0 +1,3 @@
+Gwei should be 69 on week days and 0.69 on weekends.
+
+!tip 1
