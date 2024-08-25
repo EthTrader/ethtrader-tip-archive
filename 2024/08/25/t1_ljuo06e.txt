@@ -1,0 +1,2 @@
+Except gas fee
+!tip 1

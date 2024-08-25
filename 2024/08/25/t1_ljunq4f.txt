@@ -1,0 +1,5 @@
+You sent 1btc and got 2 back.
+
+OK, I'm going.
+
+!tip 1
