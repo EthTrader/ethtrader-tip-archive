@@ -1,0 +1,3 @@
+Yeah, they are launching a testnet soon
+
+^(!tip 1)
