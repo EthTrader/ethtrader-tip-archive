@@ -1,0 +1,11 @@
+>\* Ongoing political attacks on encrypted messaging  
+\* Centralized identity systems and credit scores  
+\* Bugs/backdoors in insecure/proprietary operating systems  
+\* Social media - both censorship imposed on platforms by governments, and the opaqueness/centralization of algorithms made by the platforms themselves  
+\* Chokepoints in a small number of powerful countries getting more and more power to deplatform people halfway across the world from half the internet  
+\* Surveillance, deplatforming and economic domination risks from centralized AI  
+\* Similar concerns about mind-reading tech (BCI), soon to come
+
+These are the major tech threaths he mentioned if anyone wondering
+
+!tip 1
