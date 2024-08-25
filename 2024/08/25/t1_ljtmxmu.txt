@@ -1,0 +1,3 @@
+StETH= lido staked ETH
+
+^(!tip 1)
