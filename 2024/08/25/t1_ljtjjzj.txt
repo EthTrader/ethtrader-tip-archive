@@ -1,0 +1,3 @@
+I never understand on which indicators F & G index works.
+
+^(!tip 1)
