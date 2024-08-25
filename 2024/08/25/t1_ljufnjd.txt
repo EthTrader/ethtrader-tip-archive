@@ -1,0 +1,3 @@
+Hopefully, it'll be over soon
+
+^(!tip 1)
