@@ -1,0 +1,3 @@
+I mean my tips sent/received. We use T2V don't we?
+
+^(!tip 1)
