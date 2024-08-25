@@ -1,0 +1,3 @@
+$Foxy is a gem waiting to skyrocket. 
+
+!tip 1
