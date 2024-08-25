@@ -1,0 +1,3 @@
+It's easier to loose $100 than it is to make $10.
+
+^(!tip 5)
