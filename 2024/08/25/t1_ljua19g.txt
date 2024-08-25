@@ -1,0 +1,3 @@
+JasmyCoin is based on ERC-20 standards and was launched in 2021 in Japan .
+
+^(!tip 1)
