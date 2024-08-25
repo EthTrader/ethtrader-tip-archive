@@ -1,0 +1,3 @@
+It shows if you’re eligible to post or not. There’s a cap of 3 posts per account, every 24h
+
+!tip 1
