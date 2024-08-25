@@ -1,0 +1,4 @@
+The bots calculating the number of addresses in profit must have to parse through a crazy amount of data.
+
+
+**!tip 1**
