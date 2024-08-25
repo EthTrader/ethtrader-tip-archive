@@ -1,0 +1,3 @@
+Wait, $Dogs isn't live yet??
+
+^(!tip 1)
