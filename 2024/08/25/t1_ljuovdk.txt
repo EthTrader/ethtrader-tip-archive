@@ -1,0 +1,4 @@
+Gwei will likely start being below 1 Gwei regularly if the activity stays the same I guess.
+
+
+**!tip 1**
