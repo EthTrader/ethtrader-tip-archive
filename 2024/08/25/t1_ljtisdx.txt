@@ -1,0 +1,3 @@
+After selling $100M
+
+^(!tip 1)

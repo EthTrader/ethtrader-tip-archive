@@ -1,0 +1,3 @@
+History will repeat itself
+
+^(!tip 1)
