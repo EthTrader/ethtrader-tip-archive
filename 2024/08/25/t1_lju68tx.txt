@@ -1,0 +1,5 @@
+Polygon always placing itself at the top, and then performing bad
+
+really hopes it will improve over time
+
+!tip 1
