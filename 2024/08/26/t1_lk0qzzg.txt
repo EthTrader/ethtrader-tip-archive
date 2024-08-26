@@ -1,0 +1,3 @@
+This is the way my man!
+
+^(!tip 1)
