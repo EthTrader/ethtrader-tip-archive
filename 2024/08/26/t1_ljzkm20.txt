@@ -1,0 +1,7 @@
+I thought the same before, but there is a little difference.
+
+>A coin is the native currency of a specific blockchain protocol. For example, Ether (ETH) is the native currency of the Ethereum network.
+
+Tokens are that operate on an existing blockchain.
+
+^(!tip 1)

@@ -1,0 +1,3 @@
+It was below $1 just a few days ago.
+
+^(!tip 1)
