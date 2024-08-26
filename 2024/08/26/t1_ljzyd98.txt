@@ -1,0 +1,8 @@
+The full grant has a couple of targets to hit.
+
+https://www.reddit.com/r/ethtrader/comments/1df0zs0/rethtraders_treasury_is_going_to_receive_a_grant/
+
+* Reach at least 4,000 WAU (weekly active users submitting at least 1 transaction per week) for at least two consecutive weeks
+* Reach $300,000 total TVL for a 2-week period on Arbitrum
+
+!tip 1
