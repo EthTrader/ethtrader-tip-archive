@@ -1,0 +1,7 @@
+Tipping comments/posts is how the DONUT token gets distributed by the Treasury every month.
+
+Data is taken by how many tips people receive, and then DONUT is distributed based on said statistics. 
+
+I think in cones you get tokens based on how many upvotes your post gets, but in this sub, it's based on tips.
+
+!tip 1
