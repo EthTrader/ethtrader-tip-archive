@@ -1,0 +1,3 @@
+Coin = L1 , token L2
+
+!tip 1
