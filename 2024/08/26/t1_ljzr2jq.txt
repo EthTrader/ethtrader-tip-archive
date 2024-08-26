@@ -1,0 +1,3 @@
+What's the benefits and considerations to using different ranges? Might be worth a post in itself 
+
+!tip 1
