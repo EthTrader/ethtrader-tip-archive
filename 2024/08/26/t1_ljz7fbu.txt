@@ -1,0 +1,3 @@
+I can't, I've lost my seed phrase. I guess it's up to you now.
+
+^(!tip 1)
