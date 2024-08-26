@@ -1,0 +1,3 @@
+Coins are native to their respective blockchains, whereas tokens are created on existing blockchains
+
+!tip 1
