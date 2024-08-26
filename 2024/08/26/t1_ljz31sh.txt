@@ -1,0 +1,3 @@
+>Ethereum has achieved a significant milestone in client diversity, preventing any single execution client from holding more than two-thirds of the market share.
+
+!tip 1
