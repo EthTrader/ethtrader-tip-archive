@@ -1,0 +1,3 @@
+Bear or bull, hackers always eat.
+
+^(!tip 1)

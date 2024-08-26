@@ -1,0 +1,3 @@
+Is matic's downtrend over?
+
+^(!tip 1)
