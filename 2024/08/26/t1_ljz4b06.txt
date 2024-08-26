@@ -1,0 +1,3 @@
+Shiba news has been aggressively active recently.
+
+^(!tip 1)
