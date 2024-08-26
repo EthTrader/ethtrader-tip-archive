@@ -1,0 +1,5 @@
+Pre-confirmation of transaction so more speed.
+
+Or am I wrong?
+
+!tip 1
