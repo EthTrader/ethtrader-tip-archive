@@ -1,0 +1,11 @@
+It isn't compulsory but I'll explain why you see it so much. 
+
+On this sub we have DONUT as our governance token which we earn through upvotes on comments and posts. This isn't based off the classic Reddit upvote and we instead have 'T2V' (Tip 2 upvote) to tackle vote manipulation.
+
+Each tip has to be of 1 or more to count as an upvote. If I tip more than 1 it still counts as 1 upvote but you receive all the Donuts I tip too.
+
+ The Donuts we tip comes from our distribution we are going to receive. We will have a comment and a post ratio. For example if the comment ratio was 12 you would receive 12 Donuts for every comment upvote you receive 
+
+You'll need to register a wallet to receive Donuts and you should get a message on how to do that in a minute 
+
+!tip 69
