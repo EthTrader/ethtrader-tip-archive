@@ -1,0 +1,3 @@
+Coins are digital assets that operate on their own independent blockchain. Tokens are digital assets that operate on an existing blockchain network
+
+!tip 1
