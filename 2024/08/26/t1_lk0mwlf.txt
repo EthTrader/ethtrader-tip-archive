@@ -1,0 +1,3 @@
+I'll take a vacation next year! Right now, I'll hold
+
+^(!tip 1)
