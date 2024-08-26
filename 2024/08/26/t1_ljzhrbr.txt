@@ -1,0 +1,7 @@
+Quite simple.
+
+Coins, native item in the blockchain
+
+Tokens, non native items in the blockchain.
+
+🐼 !tip 1
