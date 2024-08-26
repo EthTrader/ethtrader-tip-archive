@@ -1,0 +1,3 @@
+Future will probably be like that.
+
+^(!tip 1)
