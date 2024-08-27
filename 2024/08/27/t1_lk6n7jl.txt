@@ -1,0 +1,4 @@
+Bold assumption, i dont think this is true in general. I think the people which don't tip you because you don't tip them is such a small number that implementing a feature for it would not be worth it.
+At least in the tip graph i can't see it, but i will think of a data crawl which will prove or disproves your assumption.
+
+!tip 1

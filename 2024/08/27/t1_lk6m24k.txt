@@ -1,0 +1,3 @@
+It's automatically set, I think need to change the news. What do you reckon?
+
+^(!tip 1)
