@@ -1,0 +1,3 @@
+Dogs did better than I expected.
+
+^(!tip 1)
