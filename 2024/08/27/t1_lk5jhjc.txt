@@ -1,0 +1,5 @@
+Superchain:
+
+>Network of blockchains built on a common standard codebase that share security, governance, and values.
+
+^(!tip 1)
