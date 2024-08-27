@@ -1,0 +1,3 @@
+The poll didn't pass. The system will remain as it is!
+
+^(!tip 1)
