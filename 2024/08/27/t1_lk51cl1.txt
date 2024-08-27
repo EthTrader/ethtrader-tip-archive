@@ -1,0 +1,5 @@
+>transaction failures due to increased MEV bot activity
+
+i hate mev bots
+
+!tip 1
