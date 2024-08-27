@@ -1,0 +1,3 @@
+But the end of each round is before the snapshot from what I understand so far.
+
+!tip 1
