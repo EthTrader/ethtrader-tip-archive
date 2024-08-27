@@ -1,0 +1,3 @@
+L2s fees are overall low after the Dencun upgrade.
+ 
+^(!tip 1)
