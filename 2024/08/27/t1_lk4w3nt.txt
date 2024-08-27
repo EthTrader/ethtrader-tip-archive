@@ -1,0 +1,3 @@
+I think next month things will get much clearer in which direction we are going to move.
+
+^(!tip 1)
