@@ -1,0 +1,4 @@
+Yes. As long as the token is supported by the wallet you can do it. Donuts are erc20 so it'll be fine on any cold storage wallet, other chains vary.
+
+
+!tip 1
