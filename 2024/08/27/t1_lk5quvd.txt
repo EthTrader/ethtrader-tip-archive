@@ -1,0 +1,5 @@
+>Aave Labs is integrating BlackRock's tokenized fund BUIDL into its system to enhance the GHO Stability Module (GSM). This integration will allow users to perform fixed-rate swaps between USD Coin (USDC) and GHO, mint BUIDL shares with unused USDC, and earn monthly dividends
+
+![gif](giphy|3oKIPlLZEbEbacWqOc)
+
+>! !tip 1 !<
