@@ -1,0 +1,3 @@
+All coins except BTC & ETH are shitcoins
+
+^(!tip 1)
