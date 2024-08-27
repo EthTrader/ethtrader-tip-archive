@@ -1,0 +1,9 @@
+Theres all sorts "models" you could use - the immportant thing is to make the distinction between a sidechain and a roll-up.
+
+I think Layer2 can still work in this sense, if you imagine Ethereum as a Highway, and a Layer 2 (Roll-up whiich settles to Ethereum) as suburb with roads, but ultimately has a "connecting road" back to the "Ethereum Highway".
+
+Compare that to a sidechain, which you could illustrate as a railway, which travels alongside the "Ethereum Highway" - can have similar rules and stops, but still does it's own thing.
+
+It's an interesting discussion to what the simplest and best approach for explaining is though!
+
+!tip 1
