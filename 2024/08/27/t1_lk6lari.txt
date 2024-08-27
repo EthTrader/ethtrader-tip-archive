@@ -1,0 +1,5 @@
+They shared an article that was linked in a tweet, but posted the headline of the tweet.
+
+So, they either should have posted the Tweet, with the Tweet's headline, and flaired it Media, or they should have posted the article, with the articles actual headline.
+
+!tip 1
