@@ -1,0 +1,4 @@
+correct.  Your membership will drop when you fall below 25k.  If you position then goes back up to 25k, your membership will automatically activate again.
+
+  
+!tip 1

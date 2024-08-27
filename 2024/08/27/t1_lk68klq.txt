@@ -1,0 +1,5 @@
+For LPs, membership subscriptions are automated.
+
+So if the DONUT count drops below 25K, special perks stop (temporarily). Once the balance goes back to 25K or above, they return.
+
+>! !tip 1 !<
