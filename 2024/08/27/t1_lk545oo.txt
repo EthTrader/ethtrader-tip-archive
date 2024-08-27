@@ -1,0 +1,3 @@
+Basenames are powered by ENS infrastructure but launched on Coinbase's Base network. It's basically ENS subdomains, but specifically for the Base ecosystem.
+
+!tip 1
