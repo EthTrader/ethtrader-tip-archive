@@ -1,0 +1,3 @@
+>“Activity on the leading L2s picked up immediately post-Dencun. However, the rise in transaction (txs) counts has been met with rising failure rates. The majority of the failed transactions stem from high activity addresses, likely bots. Low fees on L2s could be driving increased bot activity.” Kim tweeted on August 22.
+
+^(!tip 1)
