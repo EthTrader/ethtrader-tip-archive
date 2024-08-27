@@ -1,0 +1,5 @@
+Yeah that’s how it’s been as far as I’m concerned.
+
+U can check tip status command to see if the new round has started or not
+
+!tip 1
