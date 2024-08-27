@@ -1,0 +1,5 @@
+Nano transactions have been free since 2015. Still working till today. They found a way to deal with spam bots on their network, so your double-edged sword holds no water here.
+Even Ethereum had to deal with bots since Dencun upgrade. 
+
+
+!tip 1
