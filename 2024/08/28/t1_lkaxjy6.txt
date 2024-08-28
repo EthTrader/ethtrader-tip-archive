@@ -1,0 +1,4 @@
+There should be a service which allows employers to let employees select the cryptocurrency one would like to recieve their payment in. 
+
+
+**!tip 1**
