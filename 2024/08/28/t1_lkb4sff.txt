@@ -1,0 +1,5 @@
+no trading = no money 
+
+no money = CEX not your friend
+
+!tip 1
