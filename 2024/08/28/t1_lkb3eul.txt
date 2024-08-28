@@ -1,0 +1,3 @@
+The dip always dips more.
+
+^(!tip 1.001)
