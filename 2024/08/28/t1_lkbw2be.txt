@@ -1,0 +1,3 @@
+It is likely that a token will be introduced in the future, as decentralized networks commonly use tokens for governance or staking functions.
+
+^(!tip 1)
