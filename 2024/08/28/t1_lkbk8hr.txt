@@ -1,0 +1,7 @@
+>Starknet, a layer-2 blockchain, has rolled out a significant upgrade dubbed version 0.13.2, introducing parallel execution to its network functionality.
+
+>According to a press release shared with Cointelegraph, the update will allow Starknet to process multiple transactions simultaneously, which is noted to be the first of an L2 network on Ethereum mainnet.
+
+Nice one. 
+
+!tip 1
