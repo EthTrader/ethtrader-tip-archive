@@ -1,0 +1,14 @@
+By this offchain list, there were 15,760 tips in round 140 if my calculations are right:
+
+
+https://raw.githubusercontent.com/mattg1981/donut-bot-output/main/offchain_tips/tips_round_140.json
+
+
+
+Burning 15k Donuts per round is only $89.35 plus the large indirect cost to human attention and work power, which spirals this off exponentially due to man hours spent.
+
+
+The biggest and easiest way to create a price rise is to just buy Donuts and think about why people like us refuse to buy any and address that. Sell pressure isn't high and burning these Donuts is very high effort and quite low reward. 
+
+
+!tip 1
