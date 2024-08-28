@@ -1,0 +1,3 @@
+It shows how many times you've got rekt.
+
+^(!tip 1.001)
