@@ -1,0 +1,3 @@
+Even 1 downvote can affect the amount of users that the Reddit algorithm will show the post to.
+
+^(!tip 1)
