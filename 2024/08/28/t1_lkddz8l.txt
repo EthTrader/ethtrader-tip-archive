@@ -1,0 +1,12 @@
+>1. Connect Your Wallet: Connect your Ethereum wallet, such as MetaMask, to the Smithii platform. 
+
+>2. Enter Token Details: Choose the name and symbol for your token. 
+
+>3. Define Token Supply: Set the total supply of your token, which determines the amount of tokens that will be created. 
+
+>4. Token Creation: After reviewing your settings, click 'Create Token,' approve the transaction, and wait for your token to appear in your wallet.
+
+Easy peasy. I'll create one later.
+
+
+!tip 1

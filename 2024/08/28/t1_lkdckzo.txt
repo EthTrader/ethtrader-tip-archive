@@ -1,0 +1,3 @@
+It's a Reddit bug, I think. Your flair shows as "flair default"
+
+^(!tip 1)
