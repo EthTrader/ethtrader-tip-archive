@@ -1,0 +1,3 @@
+I have 8 different coins in my portfolio
+
+^(!tip 1)

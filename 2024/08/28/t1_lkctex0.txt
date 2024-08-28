@@ -1,0 +1,3 @@
+How many coins do you have? You seem to own a whole bunch of them. 
+
+!tip 1
