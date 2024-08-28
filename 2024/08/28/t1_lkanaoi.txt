@@ -1,0 +1,3 @@
+I'm waiting to see if I won a free membership. If I haven't, I'll buy.
+
+^(!tip 1)
