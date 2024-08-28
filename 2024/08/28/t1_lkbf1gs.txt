@@ -1,0 +1,3 @@
+I saw that coin below $1 last year, if only I was smart enough to buy.
+
+^(!tip 1)
