@@ -1,0 +1,2 @@
+Yeah. Tip status reveals that
+!tip 1
