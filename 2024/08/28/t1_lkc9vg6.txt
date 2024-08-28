@@ -1,0 +1,3 @@
+He's a trader 
+
+^(!tip 1)
