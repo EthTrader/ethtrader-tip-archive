@@ -1,0 +1,5 @@
+>We will use Ethereum Token Creator on Smithii Tools. This dApp functions as a smart contract generator, writing the necessary code for you while presenting a simple and intuitive interface.
+
+So it's like chatgpt for crypto.
+
+!tip 1
