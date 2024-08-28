@@ -1,0 +1,3 @@
+Tip status reveals that snapshots been taken
+
+!tip 1
