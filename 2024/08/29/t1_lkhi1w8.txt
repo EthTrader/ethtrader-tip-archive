@@ -1,0 +1,9 @@
+>registered wallets and volume or TVL
+
+All are important metrics and have its importance to judge the project. Like volume and registered wallets reflect the adoption and activity in the network. Like performance metrics
+
+On the other side, TVL reflects the amount of capital being utilized within the ecosystem. 
+
+TVL tells how promising the project is.
+
+^(!tip 1)
