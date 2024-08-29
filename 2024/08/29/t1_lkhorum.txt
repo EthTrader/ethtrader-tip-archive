@@ -1,0 +1,5 @@
+>Ethereum continues to lead in blockchain development activity, recording 42.8K GitHub commits in the past week, significantly ahead of competitors like SKALE and Algorand. This high level of development activity underscores Ethereum's efforts to enhance its network and maintain its position as the top smart contract platform
+
+![gif](giphy|3oKIPlLZEbEbacWqOc)
+
+>! !tip 1 !<
