@@ -1,0 +1,3 @@
+$6 would be a great entry.
+
+^(!tip 1)
