@@ -1,0 +1,3 @@
+User posts can be featured in the dashboard via the Post of the Week program.
+
+>! !tip 1 !<

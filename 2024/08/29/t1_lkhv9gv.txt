@@ -1,0 +1,5 @@
+That would probably be because of your MetaMask settings, it’s a security feature that warns you about unaudited smart contracts.
+
+Everything is fine, I believe, but maybe Matt can give you a more educated answer.
+
+>! !tip 1 !<
