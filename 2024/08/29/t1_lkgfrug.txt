@@ -1,0 +1,5 @@
+Grayscale optimistic report about ETH indicates ETH in future will be very big.
+
+#EEE 
+
+^(!tip 1)
