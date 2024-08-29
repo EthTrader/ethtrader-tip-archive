@@ -1,0 +1,4 @@
+Are you familiar with drift protocol on solana?
+BET on DRIFT is a decentralized prediction market platform built on the Solana blockchain.
+
+^(!tip 1)
