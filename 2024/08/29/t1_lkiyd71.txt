@@ -1,0 +1,3 @@
+MKR is an ERC-20 token native to the Maker Protocol. Currently #48 in CMC ranking.
+
+^(!tip 1)
