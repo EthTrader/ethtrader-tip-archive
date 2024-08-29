@@ -1,0 +1,5 @@
+AI coins are going to the moon
+
+!nominate
+
+^(!tip 1)
