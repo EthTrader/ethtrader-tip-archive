@@ -1,0 +1,5 @@
+Post Ratio 23
+Comment Ratio 13
+Pay2Post Ratio ~ 58
+
+^(!tip 1)

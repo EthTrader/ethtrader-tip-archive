@@ -1,0 +1,3 @@
+Reddit bug.
+
+^(!tip 1)

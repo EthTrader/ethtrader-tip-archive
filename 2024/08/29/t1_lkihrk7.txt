@@ -1,0 +1,3 @@
+Cons are always there. Every rule has its cons but I think the pros outweigh the cons.
+
+^(!tip 1)

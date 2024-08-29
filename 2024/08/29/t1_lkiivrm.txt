@@ -1,0 +1,5 @@
+>Things looking up!
+
+ It'll dump tomorrow. 
+
+^(!tip 1)
