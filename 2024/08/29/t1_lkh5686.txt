@@ -1,0 +1,3 @@
+It looks like the 3H cool down isn’t yet implemented from the post status command POV. But let’s see, I guess it will be live soon
+
+!tip 1
