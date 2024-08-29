@@ -1,0 +1,3 @@
+Poly is too big for BET, but things can change quickly
+
+^(!tip 1)
