@@ -1,0 +1,5 @@
+When you click on notifications to comment, you'll see your flair properly but when you log into Reddit app and browse through different subreddit and then try to comment in this subreddit, your flair will be "flair default". It has been happening here for long since the custom flair is updated after Reddit sunset. 
+
+Reason why I use the browser which doesn't have the flair default problems. I think Reddit app isn't compatible with our flairs
+
+>! !tip 1 !<

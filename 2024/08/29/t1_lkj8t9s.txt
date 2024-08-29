@@ -1,0 +1,4 @@
+Security remains a significant concern within the Web3 ecosystem, particularly for cross-chain platforms that have historically been prone to vulnerabilities due to human error and dependence on multisignature wallets.
+
+Unless they solve this problem, web3 will need longer time to be big 
+!tip 1
