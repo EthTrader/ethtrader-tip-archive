@@ -1,0 +1,9 @@
+Would need to look into things with more detail; but often, and in the past 'CEX staking' is actually more of "locked earning". 
+
+True Staking when your crypto is helping validate transactions with Proof of Stake consesus.
+
+Holding crypto on a CEX and getting crypto is kind of like a 'term deposit' or 'earn program' via the exchange.
+
+As for safety, there are different risks that come with self custody, transactions and smart contracts versus risks of holding crypto on an exchange.
+
+!tip 1
