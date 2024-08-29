@@ -1,0 +1,3 @@
+Expecting good days ahead.
+
+^(!tip 1)
