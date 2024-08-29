@@ -1,0 +1,3 @@
+If tips are reset.
+
+!tip 1
