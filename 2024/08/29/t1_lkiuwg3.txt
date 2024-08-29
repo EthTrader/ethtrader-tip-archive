@@ -1,0 +1,3 @@
+Maker (MKR) is an ERC-20 token native to the Maker Protocol. Also, a governance token. I think currently #48 in CMC ranking.
+
+^(!tip 1)
