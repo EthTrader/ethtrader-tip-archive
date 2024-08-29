@@ -1,0 +1,3 @@
+Once a dead coin, always a dead coin.
+
+^(!tip 1)
