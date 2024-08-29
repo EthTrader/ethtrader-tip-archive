@@ -1,0 +1,5 @@
+As far as I understand, it still doesn't work.
+
+But it should be automatically blocked as it is now when you exceed 3 posts in 24 hours.
+
+!tip 1
