@@ -1,0 +1,3 @@
+I guess he'll win with a good margin.
+
+^(!tip 1)
