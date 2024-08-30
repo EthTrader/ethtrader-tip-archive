@@ -1,0 +1,5 @@
+Great Major
+
+I made a record in the previous round.
+
+^(!tip 1)
