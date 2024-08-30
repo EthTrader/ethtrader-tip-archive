@@ -1,0 +1,13 @@
+Sorry BigFred. The trick is to search for individual keywords in the article. Take this headline for instance: **Nigerian SEC Issues First Crypto Exchange Licenses After Industry Crackdown**
+
+Search for **Licenses**
+
+Search for **Exchange**
+
+Search **Nigeria**
+
+Search **SEC**
+
+Any of the above individual searches using filters of **Today** or **This Week** will reveal if the article has been posted or not.
+
+!tip 6.9
