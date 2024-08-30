@@ -1,0 +1,3 @@
+I'm not sure what the gas fees are involved for executing those transactions, but, end of the day they cost gas, it's fair to reimburse our multisig signers.
+
+!tip 1
