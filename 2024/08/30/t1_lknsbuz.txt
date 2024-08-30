@@ -1,0 +1,3 @@
+#Wen Bull run will strike
+
+^(!tip 1)

@@ -1,0 +1,5 @@
+Get final data from [https://donut-dashboard.com/#/distribution](https://donut-dashboard.com/#/distribution)
+
+It´s updated and also includes voter bonus.
+
+!tip 1
