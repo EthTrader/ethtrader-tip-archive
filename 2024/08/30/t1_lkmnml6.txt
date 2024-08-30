@@ -1,0 +1,3 @@
+That's a 50 dollar coin sir
+
+^(!tip 1)
