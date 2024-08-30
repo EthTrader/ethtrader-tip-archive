@@ -1,0 +1,5 @@
+>To simplify end-user cross-chain interaction, improve liquidity efficiency.
+
+That what it says.
+
+^(!tip 1)

@@ -1,0 +1,5 @@
+>“Addressing fragmentation promises shared liquidity, gas efficiency, bridge-less bridging, seamless app upgrades, and easier L2 bootstrapping and development.”
+
+If this is achievable, then it's cool. 
+
+!tip 1
