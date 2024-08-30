@@ -1,0 +1,7 @@
+They should be flaired Link now. There was some dev work done today, so when you post news (link posts) they should automatically be flaired Link.
+
+If it doesn’t do it automatically, you should do it yourself with the AutoMod command.
+
+News flair shouldn’t be used anymore.
+
+!tip 1
