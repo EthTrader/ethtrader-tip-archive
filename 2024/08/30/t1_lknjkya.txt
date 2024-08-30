@@ -1,0 +1,3 @@
+It is because of rollup technology that aims to increase transaction throughput and reduce fees.
+
+^(!tip 1)

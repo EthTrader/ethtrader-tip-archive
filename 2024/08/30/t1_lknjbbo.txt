@@ -1,0 +1,3 @@
+Markets are simple. Price either goes up or down!
+
+!tip 1
