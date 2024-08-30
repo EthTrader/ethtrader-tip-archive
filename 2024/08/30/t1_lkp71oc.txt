@@ -1,0 +1,3 @@
+Link posts will now automatically be flaired link, but if it doesn’t you should change it to that. It guarantees the 0.75 multiplier
+
+!tip 1
