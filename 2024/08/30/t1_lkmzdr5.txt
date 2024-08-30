@@ -1,0 +1,3 @@
+Yes, they show in MM if you have left any in Gnosis Chain.
+
+^(!tip 1)
