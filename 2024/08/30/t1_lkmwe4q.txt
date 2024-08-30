@@ -1,0 +1,5 @@
+Voting bonus is applied to your Tip Score, not your DONUT earnings.
+
+This means that the more voting bonuses there are, the higher the tip scores are, which means a lower ratio.
+
+!tip 1
