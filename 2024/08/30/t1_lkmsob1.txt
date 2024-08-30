@@ -1,0 +1,5 @@
+your tipping weight is 0, so I get the 1 donut you tip me, but no bonus.
+
+my tip weigh is 1, so when I tip you, you get the 1 donut I tip you plus the whole bonus (according to round 140 ratio, the tip bonus for comments was 9 donuts)
+
+!tip 1
