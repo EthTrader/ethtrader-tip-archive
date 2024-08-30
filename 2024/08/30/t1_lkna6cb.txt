@@ -1,0 +1,3 @@
+It means that, when implemented, one can only post every 3 hours. This will lead to a more even post section with posts popping throughout the day.
+
+!tip 1
