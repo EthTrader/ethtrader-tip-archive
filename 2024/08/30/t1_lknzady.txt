@@ -1,0 +1,3 @@
+I forgot about it and had a post removed. Seems like now we have to count down 3h to be exact and not the bot command.
+
+!tip 1
