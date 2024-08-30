@@ -1,0 +1,3 @@
+Good point, makes sense to not have it fixed at a certain snapshot point. Currently i think that's the case, weights get calculated after distribution once. Maybe we need to ask matt for details.
+
+!tip 1

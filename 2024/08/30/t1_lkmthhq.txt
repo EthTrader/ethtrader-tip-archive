@@ -1,0 +1,3 @@
+Weight should be calculated based on the in/out balance of the specific wallet + other stuff but the in/out balance should be taken into account. This calculation could be run every 24h so somehow trading is allowed.
+
+🍩 !tip 1
