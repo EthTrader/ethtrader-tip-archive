@@ -1,0 +1,11 @@
+https://preview.redd.it/e0re3r9s1rld1.jpeg?width=1060&format=pjpg&auto=webp&s=30f4f60793ed6c32abab8b7f5321243c6d0d0f59
+
+from mobile, you probably don't see your own flair, which show your donuts and your contrib.
+
+contrib is the governance token, that is earned similarly to donuts, but can't be transferred, is only there to give us "governance power".
+
+in order to increase your tip weight you need to increase your contrib and donut count
+
+anyway, you get the donuts even with a 0 tip weight 😉
+
+!tip 1

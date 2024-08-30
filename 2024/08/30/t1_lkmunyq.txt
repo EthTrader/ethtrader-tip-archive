@@ -1,0 +1,5 @@
+According to the CSV I think you are getting 9 but your posts and comments are not getting any because of karma and/or age requirement
+
+[https://github.com/mattg1981/donut-bot-distribution/blob/main/out/round\_140/distribution\_summary.000.task\_01300.csv](https://github.com/mattg1981/donut-bot-distribution/blob/main/out/round_140/distribution_summary.000.task_01300.csv)
+
+🍩 !tip 1
