@@ -1,0 +1,5 @@
+I think it automatically picks and puts a link flair. I guess it programmed that way.
+
+Like, I put a news link post and flair automatically pop up link
+
+^(!tip 1)
