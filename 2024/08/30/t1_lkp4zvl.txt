@@ -1,0 +1,3 @@
+It's time to type some posts. What's the minimum range for words? Is it 200?
+
+^(!tip 1)
