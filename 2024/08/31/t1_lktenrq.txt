@@ -1,0 +1,3 @@
+Don't be shy, tell us when was the last time you made a profit.
+
+^(!tip 1)
