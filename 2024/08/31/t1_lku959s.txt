@@ -1,0 +1,3 @@
+Implementing an emergency stop button doesn't look that nice
+
+!tip 1
