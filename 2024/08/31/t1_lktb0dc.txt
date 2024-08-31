@@ -1,0 +1,3 @@
+Yes, but #6 is seen first time.
+
+^(!tip 1)

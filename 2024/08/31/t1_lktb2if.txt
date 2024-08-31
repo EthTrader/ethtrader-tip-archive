@@ -1,0 +1,3 @@
+LFG Fred
+
+^(!tip 1)
