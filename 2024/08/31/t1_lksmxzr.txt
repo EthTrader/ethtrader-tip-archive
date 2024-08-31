@@ -1,0 +1,3 @@
+Only a few are worth it 
+
+^(!tip 1)
