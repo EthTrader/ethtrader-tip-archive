@@ -1,0 +1,5 @@
+>Fear and Greed Index
+
+This index will show you where to buy and where to sell. Just do the opposite of what the market does.
+
+^(!tip 1)
