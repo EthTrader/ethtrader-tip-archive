@@ -1,0 +1,3 @@
+show me $20 first 
+
+!tip 1
