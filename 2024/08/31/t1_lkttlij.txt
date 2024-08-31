@@ -1,0 +1,5 @@
+But not all link posts were being flaired as news.
+
+So, this works.
+
+!tip 1
