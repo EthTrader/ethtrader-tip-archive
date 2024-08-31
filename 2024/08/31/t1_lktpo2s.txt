@@ -1,0 +1,4 @@
+They should create a tool that can track funds in wallets, regardless of where they go through.
+Tornado cash users won't be spared too.
+
+!tip 1
