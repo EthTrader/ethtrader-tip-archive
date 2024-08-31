@@ -1,0 +1,3 @@
+choose pairs with most liquidity like BTC , ETH
+
+!tip 1
