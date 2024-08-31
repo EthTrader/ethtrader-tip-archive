@@ -1,0 +1,5 @@
+Thats scary af... Using the sandboxed  Chromium renderer process after just visiting a website.
+
+Time to create an isolated laptop with first layer of hot wallets and only use second layer of hot wallets in the personal devices
+
+🍩 !tip 1
