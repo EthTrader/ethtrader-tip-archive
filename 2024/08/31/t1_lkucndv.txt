@@ -1,0 +1,3 @@
+Just DCA out, don't wait for a certain price point to sell your whole stack
+
+^(!tip 1)
