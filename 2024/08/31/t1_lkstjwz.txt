@@ -1,0 +1,3 @@
+In my case, he got access to unlocked bitwarden in the right time, 5 mins lock fucked me well. Then he deducted the browser wallet extensions passwords which were different but still humanly predictable or by brute force too.
+
+🍩 !tip 1
