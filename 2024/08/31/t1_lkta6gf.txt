@@ -1,0 +1,3 @@
+It's rare to see green in the red sea.
+
+^(!tip 1)
