@@ -1,0 +1,3 @@
+Unfortunately Brave is Chromium based and the problem is for Chromium but not sure if Brave has that blocked. I imagine that they have the same bug.
+
+🍩 !tip 1
