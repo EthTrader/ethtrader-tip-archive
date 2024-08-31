@@ -1,0 +1,2 @@
+Print the money and put it into crypto
+!tip 1
