@@ -1,0 +1,3 @@
+Security can be enhanced, but can never say that foolproof secure.
+
+^(!tip 1)

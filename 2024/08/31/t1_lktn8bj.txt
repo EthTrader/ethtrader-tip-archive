@@ -1,0 +1,4 @@
+I think news flair has been removed and now all outbound links will be Link flair.
+
+
+**!tip 1**
