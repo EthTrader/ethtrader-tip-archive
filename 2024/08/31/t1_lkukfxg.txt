@@ -1,0 +1,3 @@
+While restaking itself might not directly ward off hackers, it could indirectly boost security by incentivizing more users to participate in staking, thereby increasing the overall staked capital and making the network more expensive to attack.
+
+!tip 1
