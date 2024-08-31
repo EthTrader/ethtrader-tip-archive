@@ -1,0 +1,13 @@
+donuts are no longer earned through karma, but through tips.
+
+basically if you want to reward people with donuts now you can't just upvote them, but tipping them domuts too.
+
+those you tip will receive the tipped donuts + the bonus of this *Tip2Vote* system.
+
+BUT
+
+not all the users have the same tip weight. Tip weight (that varies from 0 and 1) is only = 1 if you have at least 20k governance score 
+
+not that easy to explain, I hope I helped a tiny bit at least xD
+
+!tip 1
