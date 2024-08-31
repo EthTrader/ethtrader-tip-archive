@@ -1,0 +1,4 @@
+But news tag to 0.75x limiter proposal passed right? How will donut bot know about which post is news now?
+
+
+**!tip 1**
