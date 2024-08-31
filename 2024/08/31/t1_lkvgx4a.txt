@@ -1,0 +1,3 @@
+Link and News both 0.75x weight.
+
+^(!Tip 1)
