@@ -1,0 +1,3 @@
+It's constant as ever.
+
+^(!tip 1)
