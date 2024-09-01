@@ -1,0 +1,3 @@
+The flair shows Donuts bought and earned.
+
+!tip 1
