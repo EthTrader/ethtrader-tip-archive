@@ -1,0 +1,3 @@
+A crash is coming but it won't be this hard.
+
+^(!tip 1)
