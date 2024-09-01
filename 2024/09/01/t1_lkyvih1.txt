@@ -1,0 +1,3 @@
+At least half should be guaranteed to succeed. 
+
+!tip 1
