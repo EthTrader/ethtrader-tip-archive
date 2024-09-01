@@ -1,0 +1,5 @@
+Yes, I try to do once a week transactions on their testnet
+
+I've already did most the features once, not sure if there's anything else to do. Frankly I'm not even sure if once weekly transactions are even necessary at this point but maybe at least once a month is ideal
+
+!tip 1.69
