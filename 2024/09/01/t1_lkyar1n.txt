@@ -1,0 +1,3 @@
+>Kakarot is an EVM-compatible ZK-Rollup.
+
+^(!tip 1)
