@@ -1,0 +1,5 @@
+>Kakarot is an EVM-compatible ZK-Rollup.
+
+>Because of its architecture, Kakarot is the only zkEVM rollup that’ll able to follow and even front-run upgrades to the Ethereum.
+
+^(!tip 1)
