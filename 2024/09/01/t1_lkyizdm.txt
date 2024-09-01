@@ -1,0 +1,3 @@
+News posts are now automatically tagged link, since they are link posts anyways. And this is to guarantee the 0.75x multuplier that was just voted upon, yes
+
+!tip 1
