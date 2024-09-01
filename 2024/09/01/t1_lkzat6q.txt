@@ -1,0 +1,3 @@
+But we migrated to a better chain, so it's fine
+
+^(!tip 1)
