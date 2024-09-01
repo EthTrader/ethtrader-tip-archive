@@ -1,0 +1,9 @@
+>A user lost thousands in USDT after sending them to Coinbase via the Arbitrum network.
+
+>Coinbase support says the exchange does not support USDT transactions on Arbitrum and cannot recover funds.
+
+>Community members criticize Coinbase and call for the exchange to improve its asset recovery
+
+This same thing happened to someone in RCC sending ETH to a local CEX in another chain and those CEX said they didn't support the chain despite the wallet address the same. I hope coinbase and every other CEX learn from this 
+
+>! !tip 1 !<
