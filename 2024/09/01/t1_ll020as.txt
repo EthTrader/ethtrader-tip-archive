@@ -1,0 +1,12 @@
+Hmm. I suspect it might be with the way AMBCrypto actually format their website; they seem to have more of a " scrolling feed" rather than redirecting to a new page. With a scrolling feed, that could mean when they publish a new article, the most recent article becomes on top.
+
+When I scroll down, I the URL changes.
+
+So, perhaps instead of the link you think you are copying, it defaults back to the top of the page, which is a different URL.  
+
+
+Notice on the screenshot, I have only scrolled down, not clicked any new link.
+
+https://preview.redd.it/y6d8agwfu7md1.png?width=1497&format=png&auto=webp&s=594000bbc1d766677f9c832269e9790c51eaead1
+
+!tip 1
