@@ -1,0 +1,3 @@
+Leave some for me sir
+
+^(!tip 1)
