@@ -1,0 +1,3 @@
+Customers should be compensated.
+
+^(!tip 1)
