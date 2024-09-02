@@ -1,0 +1,5 @@
+>split computational tasks into general and specialized operations for better efficiency
+
+this is for people who are actually in for the tech
+
+!tip 1
