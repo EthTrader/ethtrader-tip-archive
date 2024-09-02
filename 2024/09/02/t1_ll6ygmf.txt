@@ -1,0 +1,2 @@
+There are 2 tabels one is about sending and one about receiving dounts. Your rank in the receiving tabel is 32 ranks lower than in the sending tabel. Hence you send more than you receive in terms of tips. 
+!tip 1
