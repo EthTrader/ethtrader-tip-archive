@@ -1,0 +1,5 @@
+>A recent study highlighted concerns about Ethereum's decentralization, revealing that three builders produce over 90% of Ethereum's blocks, indicating a high degree of centralization. This centralization arises despite the introduction of a builder market mechanism through MEV-Boost auctions, aimed at addressing issues caused by Maximal Extractable Value (MEV).
+
+![gif](giphy|3oKIPlLZEbEbacWqOc)
+
+>! !tip 1 !<
