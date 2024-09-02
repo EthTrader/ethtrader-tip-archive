@@ -1,0 +1,5 @@
+Yo man you can register your wallet to earn free Donuts here simply by commenting:
+
+!register \[your wallet address\] (without the brackets)
+
+!tip 1
