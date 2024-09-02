@@ -1,0 +1,3 @@
+Probably a 15 minute delay
+
+^(!tip 1)
