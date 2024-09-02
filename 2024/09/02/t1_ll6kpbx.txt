@@ -1,0 +1,3 @@
+Some users aren't even aware that we use the link flair for news links 
+
+^(!tip 1)
