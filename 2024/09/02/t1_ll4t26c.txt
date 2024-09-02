@@ -1,0 +1,3 @@
+That'll be 3k donuts
+
+^(!tip 1)
