@@ -1,0 +1,5 @@
+[YES]
+
+even better if we exclude the *!command* from the 50
+
+!tip 1

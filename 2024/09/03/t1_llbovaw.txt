@@ -1,0 +1,14 @@
+The tip would be still be executed, but the associated rewards would not.
+
+\>  this might be too hard to implement, as I'm not even a programmer but I know it won't be easy.
+
+Yeh. It's just an idea if possible cool, if not, no worries
+
+\> If this proposal passes, to reduce the comments cap, they'll surely be alts.
+
+People using alts often slip up after time - and we have plenty of users here that could spot some suspicious patterns.  
+
+
+https://i.redd.it/7dtsl4tibmmd1.gif
+
+!tip 1
