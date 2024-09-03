@@ -1,0 +1,3 @@
+They moved from pow to pos because of cnetralization concerns and its all over again
+
+!tip 1
