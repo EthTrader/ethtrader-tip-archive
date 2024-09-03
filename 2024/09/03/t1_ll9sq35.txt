@@ -1,0 +1,3 @@
+Your funds are not safe though
+
+^(!tip 1)
