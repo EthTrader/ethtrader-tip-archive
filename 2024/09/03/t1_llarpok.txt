@@ -1,0 +1,5 @@
+>We can´t link more than 3 users in a comment right?
+
+Correct, they don't get the tag notification because of Reddit's anti-spam system.
+
+!tip 1
