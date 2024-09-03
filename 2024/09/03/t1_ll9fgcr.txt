@@ -1,0 +1,4 @@
+Once it's implemented the post would automatically get removed by donut bot if a post is made twice within 3 hrs?
+
+
+**!tip 1**
