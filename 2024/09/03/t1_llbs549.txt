@@ -1,0 +1,5 @@
+Like I discussed with Matt here, I think users can just delete those comments later on during the day, for fairness.
+
+Implementing an automated solution to do as you said, which I agree btw, means more backend work. And our devs are absolutely packed right now.
+
+>! !tip 1 !<
