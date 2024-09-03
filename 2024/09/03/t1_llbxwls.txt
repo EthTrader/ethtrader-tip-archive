@@ -1,0 +1,2 @@
+[YES] is 50 an arbitrary number or sould i run the numbers of average tips per day per user and report back?
+!tip 1
