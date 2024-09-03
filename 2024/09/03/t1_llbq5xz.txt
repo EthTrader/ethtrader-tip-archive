@@ -1,0 +1,3 @@
+I would exclude all those commands
+
+!tip 1
