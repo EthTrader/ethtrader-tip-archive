@@ -1,0 +1,5 @@
+>Ethervista is a new DEX protocol that seeks to address the shortcomings of the existing AMM model, particularly the problems of short-term token price speculation and inadequate incentives for liquidity providers. 
+
+ Sounds good.
+
+!tip 1

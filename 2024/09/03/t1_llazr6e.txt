@@ -1,0 +1,3 @@
+Same like you.
+
+^(!tip 1)
