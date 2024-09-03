@@ -1,0 +1,2 @@
+When you use the liquidity pool you pay fees, they are distributed to the providers. So it would be nice to know how much was distributed. Other than the donuts rewards they vary between each week.
+!tip 1
