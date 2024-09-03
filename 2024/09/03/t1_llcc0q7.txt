@@ -1,0 +1,3 @@
+agree, should start from highest possible for testing then decide f good enough or needs to b decreased even more
+
+!tip 1
