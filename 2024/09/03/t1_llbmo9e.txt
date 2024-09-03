@@ -1,0 +1,9 @@
+It would be wise to exclude tip status and post status comments. 
+
+Not sure if that is a lot of work for matt, im not a programmer but it should go like this
+
+If (post status & tip status) Then (dont count) Else (count+) 
+
+Im soo good at this lol 😂😂
+
+!tip 5

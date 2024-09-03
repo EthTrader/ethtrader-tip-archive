@@ -1,0 +1,9 @@
+>there used to be a karma penalty after 50 comments.
+
+More specifically. The penalty never took scores below 0, but it impacted the additional submissions specifically.
+
+For example, If I made 51 comments. I wouldn't receive a -1 hit to my rewards calculation, instead that last submission would require 2 upvotes to calculate +1. If it got no upvotes, it would simply be scored at 0, not of -1. That way you weren't penalized for going over, you were just disincentived, but good comments over the limit still had some earn potential.
+
+
+
+!tip 1

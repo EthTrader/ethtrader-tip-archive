@@ -1,0 +1,3 @@
+Honestly, tip status and post status commands should not be getting tipped in the first place!
+
+!tip 1
