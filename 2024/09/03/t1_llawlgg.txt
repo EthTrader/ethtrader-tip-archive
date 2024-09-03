@@ -1,0 +1,5 @@
+>Instead of charging a fixed percentage in tokens, Ethervista charges fees in native ETH. 
+
+not sure to understand how this should work😮
+
+!tip 1
