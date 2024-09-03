@@ -1,0 +1,7 @@
+Is it maybe a good idea to implement a different T2V system? That the reciever gets less if they sell their Donuts?
+
+Right now i got les voting power because i sold my Donuts >!needed to because i almost got liquidated on aave...!< so when i tip you, you earn less than when you tip me. 
+
+Its more fair in my opinion that the seller gets penalized, and this way it "force" people to hodl their Donuts. And that would suck for farmers who dont care about the DAO.
+
+!tip 1
