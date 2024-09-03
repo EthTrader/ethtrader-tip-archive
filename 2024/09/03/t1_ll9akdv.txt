@@ -1,0 +1,5 @@
+The market is a little better today
+
+^(!tip 1)
+
+!nominate
