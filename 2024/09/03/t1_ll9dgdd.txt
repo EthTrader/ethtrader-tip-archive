@@ -1,0 +1,3 @@
+Atleast the market is green
+
+^(!tip 1)
