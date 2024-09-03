@@ -1,0 +1,3 @@
+I see so the tokenized RWA are for buy and sell and once a transaction is complete only then will the NFT will be given/transferred?
+
+!tip 1
