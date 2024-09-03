@@ -1,0 +1,6 @@
+>The size of the fee is always set by the sender of the transaction, and they can make it zero if they choose, but whether other network participants will accept such a transaction is another matter.
+
+Didn't know it. Interesting.
+
+
+!tip 1
