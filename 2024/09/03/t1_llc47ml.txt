@@ -1,0 +1,3 @@
+Devs will enjoy the new feature to write smart contracts in various languages.
+
+^(!tip 1)
