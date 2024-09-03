@@ -1,0 +1,9 @@
+> To address this issue, I propose introducing a cap on the number of comments per user that are eligible to earn Donuts, every 24 hours.
+
+Will this work similar to how the post cooldown works (minus the removal of course) in that it's uniquely calculated per user?
+
+Or will it be more of a case that it's a sub-wide 24 hour period, eg, 12:00am UTC to 11:59pm UTC.
+
+If it's a set time-frame sub-wide, i would suggest that this specific time is not actually specified or known beyond MattG's calculations as to prevent gaming of the system.
+
+!tip 1

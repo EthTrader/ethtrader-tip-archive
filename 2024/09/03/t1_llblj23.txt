@@ -1,0 +1,11 @@
+I've thought about a comment limit in the past myself, and another brainstorm idea is, if possible, to somehow restrict it to 50 tipped comments, rather than 50 comments eligible for rewards. This might be too tricky to implement though.
+
+Reasoning behind that is that we use comments to re-flair posts and to tip content that contributes as well.
+
+Eg. I make a post, and then flair it comedy. suddenly, I'm down to 49 comments to "potentially earn rewards from" - and nobody should be tipping an automod flair command either.
+
+Not to mention  some users use to AutomodRemove command to nuke scam posts. 
+
+But, as I said, I get how that could be harder to implement and also take much more computational power and time to properly calculate.
+
+!tip 1
