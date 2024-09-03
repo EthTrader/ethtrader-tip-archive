@@ -1,0 +1,3 @@
+Scamcoin does the unlocking as well
+
+!tip 1
