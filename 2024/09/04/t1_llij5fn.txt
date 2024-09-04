@@ -1,0 +1,4 @@
+Did you take the insurance when you purchase it ?
+Could I see your ticket ?
+
+ !tip 1
