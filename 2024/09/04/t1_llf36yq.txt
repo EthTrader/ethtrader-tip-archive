@@ -1,0 +1,5 @@
+Correct, it's tied to its trading pairs.
+
+That's how AMMs function, otherwise insane arbitrage trading could take place 😅
+
+!tip 1
