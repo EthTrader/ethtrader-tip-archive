@@ -1,0 +1,2 @@
+An ERC20 token is a standard for creating and issuing smart contracts on the Ethereum blockchain..
+!tip 1
