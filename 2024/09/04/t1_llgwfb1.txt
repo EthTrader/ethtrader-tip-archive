@@ -1,0 +1,5 @@
+> or sould i run the numbers of average tips per day per user and report back? !tip 1
+
+Problem is some users are tipping hundreds of times a day, and their comments often have no substance and add little value. That's why the cap is being introduced in the first place. To try and stop the excessive volume of comments, and try to bring them back a lesser amount, with more meaning.
+
+!tip 1
