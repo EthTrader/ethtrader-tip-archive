@@ -1,0 +1,3 @@
+Nice! I'm doing my best to eliminate the tip difference this round
+
+^(!tip 10)

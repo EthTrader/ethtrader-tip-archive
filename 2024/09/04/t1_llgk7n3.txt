@@ -1,0 +1,10 @@
+Yes, I get that. Users generally tip back other users, regardless of weight.  
+
+
+What I am saying is this data does not consider users who don't get tipped in the first place.  
+
+
+So, a user makes a comment, can get ignored due to having low weight. There is no stats, because they made a top level comment, and nobody tipped them with a response.  
+
+
+!tip 1
