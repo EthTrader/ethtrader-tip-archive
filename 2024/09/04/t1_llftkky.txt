@@ -1,0 +1,3 @@
+Good educational post for newbies.
+
+^(!tip 1)
