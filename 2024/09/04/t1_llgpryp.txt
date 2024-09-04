@@ -1,0 +1,3 @@
+I'm a detective!
+
+^(!tip 1)
