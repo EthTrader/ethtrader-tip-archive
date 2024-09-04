@@ -1,0 +1,3 @@
+Still same 20 members tipping.
+
+ !tip 1
