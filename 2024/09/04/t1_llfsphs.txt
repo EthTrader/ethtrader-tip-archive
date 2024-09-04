@@ -1,0 +1,3 @@
+Coins created on Ethereum are erc tokens
+
+!tip 1
