@@ -1,0 +1,8 @@
+I did it multiple times already and posted it in the daily and on the governance pool.
+
+User with less weight than 1 in round 140
+Send 23113 tips
+Received 24882 tips
+Which means they get 1.1 tip back for every tip they send. All good.
+
+!tip 1

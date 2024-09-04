@@ -1,0 +1,7 @@
+Atleast this can debunk the theory that users with less than 20k governance scored don't get tipped back.
+
+This is just data on how many tips sent vs how many tips received?
+
+What this doesn't verify either way if they get tipped in the in the first place, or if their comments simply get ignored.
+
+!tip 1
