@@ -1,0 +1,3 @@
+True, Devs need to focus on developing good games.
+
+^(!tip 1)
