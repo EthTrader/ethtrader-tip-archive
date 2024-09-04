@@ -1,0 +1,1 @@
+You will need bot Donut and Eth, the calculation is based on the prices of the two assets as well as your range. !tip 1
