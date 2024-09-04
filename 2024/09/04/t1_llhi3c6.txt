@@ -1,0 +1,5 @@
+Interesting! Shouldn't airline be number 1 in your first list?
+
+It would be great if you do the lists for total amount of Donuts tipped as well. This doesn't always paint a full picture as someone could have tipped more Donuts that they received yet get put on a list looking like they're stingy xD
+
+!tip 1
