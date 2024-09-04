@@ -1,0 +1,3 @@
+Ethereum (or rather the EVM) is C++ based. Smart contract code that runs within EVMs can be written in Solidity.
+
+!tip 1

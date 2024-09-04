@@ -1,0 +1,3 @@
+Arb Nova didn't have multi-sig support, which we require for our DAO.
+
+!tip 1
