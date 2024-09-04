@@ -1,0 +1,2 @@
+Prices should move up
+!tip 1
