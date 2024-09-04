@@ -1,0 +1,3 @@
+Sadly no, they have already dropped PoH as their main sybil detection and adopted a kind of omnichain solution, which is going to consolidate sybil data across 15 chains or so. If I'm not wrong, the announcement was last week. Bad thing is that if you were wrongly flagged as a sybil, as many were in Wormhole because of low-liquidity chain swaps/bridges, there may be a chance of you being flagged by Linea's partner as well. Not many discussions on it yet, but that's where we are now
+
+!tip 1
