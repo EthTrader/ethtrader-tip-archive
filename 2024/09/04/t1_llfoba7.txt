@@ -1,0 +1,4 @@
+Teaching everyone basic security measures and doing proper security audits of smart contracts are the first thing that needs to be done.
+
+
+**!tip 1**
