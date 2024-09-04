@@ -1,0 +1,3 @@
+Slumptember it is!
+
+^(!tip 1)
