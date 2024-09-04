@@ -1,0 +1,7 @@
+I can see you're active on ConeHeads so I'm guessing you mean the Donuts you have off chain with the community current bot
+
+You do a withdrawal command like this !withdraw 10 DONUT
+
+And it will withdraw to your wallet registered with the bot. Typically your Reddit vault 
+
+!tip 1
