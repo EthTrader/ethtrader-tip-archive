@@ -1,0 +1,3 @@
+This might open the backdoor for people to delete their least productive comments at the end of the day and still spam more than 50 comments per day though. I think something like u/kirtash93 suggested might be better even though it means a bit more backend work. Depending on what the devs have to say as well but I think tip commands, and tip status should be automatically excluded if it's not too much work. 
+
+!tip 1
