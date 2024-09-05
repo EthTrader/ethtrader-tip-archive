@@ -1,0 +1,3 @@
+Will it get back to $600?
+
+^(!tip 1)
