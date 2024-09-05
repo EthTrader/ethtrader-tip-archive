@@ -1,0 +1,3 @@
+Degens must be happy.
+
+^(!tip 1)
