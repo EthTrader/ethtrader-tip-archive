@@ -1,0 +1,3 @@
+Are you an analyst?
+
+^(!tip 1)
