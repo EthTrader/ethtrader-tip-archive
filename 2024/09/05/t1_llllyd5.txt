@@ -1,0 +1,7 @@
+DEX good
+
+CEX bad
+
+can I have my tip now?
+
+!tip 1
