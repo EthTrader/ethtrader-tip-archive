@@ -1,0 +1,3 @@
+When will this horror end?
+
+^(!tip 1)
