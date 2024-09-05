@@ -1,0 +1,3 @@
+If we allow posts like these there is also a heavier workload for mods to manually check every article posted. I think we need to make a bot to do this or keep it as is until we have found a definitive solution.
+
+!tip 1
