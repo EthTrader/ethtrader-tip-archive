@@ -1,0 +1,3 @@
+The payment should be send to my wallet address 
+
+!tip 1
