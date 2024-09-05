@@ -1,0 +1,9 @@
+>Comment-to-vote made farming worse.
+
+Atleast there's no manipulation!
+
+What can we improve Tip2vote?
+
+!nominate
+
+^(!tip 1)
