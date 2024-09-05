@@ -1,0 +1,5 @@
+>The upgrade is designed to improve the performance of so-called EigenPods — EigenLayer’s restaking smart contracts for Ether ETH $2,413 staked on Ethereum’s Beacon Chain — by granting users greater flexibility in harvesting or reinvesting staking rewards. 
+
+That’s great 
+
+!tip 1
