@@ -1,0 +1,4 @@
+I would guess majority of the platforms use chainlink for their data feeds?
+
+
+**!tip 1**
