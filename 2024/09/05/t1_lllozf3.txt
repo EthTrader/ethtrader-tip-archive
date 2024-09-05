@@ -1,0 +1,3 @@
+>Kroma is an EVM-equivalent rollup protocol designed to scale Ethereum.
+
+^(!tip 1)

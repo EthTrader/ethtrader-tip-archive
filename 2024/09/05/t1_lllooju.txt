@@ -1,0 +1,5 @@
+CEX are more convenient but mostly require KYC thus making you prone to data leaks.
+
+DEX are hard for a beginner but doesn't require KYC and keeps you anonymous. It requires you to be more responsible with how you interact with your wallet though.
+
+!tip 1
