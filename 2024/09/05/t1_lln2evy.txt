@@ -1,0 +1,3 @@
+The voting request you made must be approved.
+
+!tip 1
