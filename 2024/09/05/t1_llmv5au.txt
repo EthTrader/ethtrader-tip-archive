@@ -1,0 +1,3 @@
+They don't want us to get to number 1
+
+^(!tip 1)
