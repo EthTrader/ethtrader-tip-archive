@@ -1,0 +1,4 @@
+Wonder how many transactions visa does per second.
+
+
+**!tip 1**
