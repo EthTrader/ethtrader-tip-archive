@@ -1,0 +1,3 @@
+That slim chance is getting slimmer by each passing day.
+
+^(!tip 1)
