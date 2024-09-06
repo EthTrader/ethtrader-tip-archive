@@ -1,0 +1,3 @@
+>However, after the MEV attack was over and gas fees were paid, the bot made just over $20 in profit. 
+
+^(!tip 1)

@@ -1,0 +1,3 @@
+I'm waiting for the "new ticker pump"
+
+^(!tip 1)
