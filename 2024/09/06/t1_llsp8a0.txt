@@ -1,0 +1,3 @@
+Soon we won't need fiat for translations.
+
+!tip 1
