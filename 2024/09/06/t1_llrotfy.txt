@@ -1,0 +1,3 @@
+They are covering some expenses 
+
+^(!tip 1)

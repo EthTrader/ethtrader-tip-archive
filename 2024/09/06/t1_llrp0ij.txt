@@ -1,0 +1,3 @@
+Yes and it‘s an ERC-20 token.
+
+!tip 1

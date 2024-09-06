@@ -1,0 +1,3 @@
+LINK my fav
+
+!tip 1
