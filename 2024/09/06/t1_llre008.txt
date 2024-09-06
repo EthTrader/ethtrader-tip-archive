@@ -1,0 +1,5 @@
+>Bonus Tiered APR rewards are provided in addition to the Real-Time APR. These bonus rewards start accruing the day after subscription, beginning at 00:00 (UTC). Rewards will be distributed daily between 00:00 (UTC) and 08:00 (UTC) to the user's Spot Wallet. The bonus rewards will be available for up to five days during the promotion period. Users can resubscribe, but the total reward duration remains capped at five days.
+
+I don't get it, the rewards are only live for 5 days? 🤔
+
+^(!tip 1)
