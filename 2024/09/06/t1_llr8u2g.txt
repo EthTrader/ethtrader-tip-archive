@@ -1,0 +1,3 @@
+Hopefully, this struggle will not last for long.
+
+^(!tip 1)
