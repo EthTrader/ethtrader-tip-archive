@@ -1,0 +1,9 @@
+Nice 👏
+
+!tip u/buzzalu 10
+
+!tip u/Kirtash93 10
+
+!tip u/Darunningdead 10
+
+^(!tip 10)
