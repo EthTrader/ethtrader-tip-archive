@@ -1,0 +1,3 @@
+Yeah, the operation was a success
+
+^(!tip 1)
