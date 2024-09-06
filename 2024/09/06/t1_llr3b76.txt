@@ -1,0 +1,5 @@
+Are you holding these for short term or long term?
+
+How high do you think these might go?
+
+^(!tip 1)
