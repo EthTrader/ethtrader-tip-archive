@@ -1,0 +1,3 @@
+This was the address of the smart contract. I realized this when I checked it in Arbiscan. That's why it's called blind signing.
+
+!tip 1
