@@ -1,0 +1,2 @@
+It should struggle and push price up
+!tip 1
