@@ -1,0 +1,4 @@
+Keeping Donuts in a hardware wallet is no different from moving other coins to the same hardware wallet. Depending on the wallet, you can use QR codes for easy transfer. 
+
+
+!tip 1
