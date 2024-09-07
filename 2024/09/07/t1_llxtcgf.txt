@@ -1,0 +1,3 @@
+Does syncswap have a token?
+
+^(!tip 1)
