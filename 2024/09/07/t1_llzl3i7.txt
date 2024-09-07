@@ -1,0 +1,3 @@
+Wen we enter in the bull ?
+
+^(!tip 1)
