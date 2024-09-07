@@ -1,0 +1,3 @@
+Coins usually pump when added to coinbase's roadmap
+
+^(!tip 1)
