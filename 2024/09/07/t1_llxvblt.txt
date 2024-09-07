@@ -1,0 +1,5 @@
+It should do. So long as it's EVM compatible and you have interact with it with a supported software like Metamask.
+
+Moons, Bricks etc should all be the same
+
+!tip 1

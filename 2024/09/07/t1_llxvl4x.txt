@@ -1,0 +1,3 @@
+When will this suffering end?
+
+^(!tip 1)
