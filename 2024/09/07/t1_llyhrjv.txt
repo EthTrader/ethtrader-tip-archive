@@ -1,0 +1,3 @@
+True, but this analyst gives a reality check.
+
+^(!tip 1)
