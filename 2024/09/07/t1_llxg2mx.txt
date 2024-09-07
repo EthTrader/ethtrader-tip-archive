@@ -1,0 +1,3 @@
+The answer is [NO]
+
+^(!tip 1)
