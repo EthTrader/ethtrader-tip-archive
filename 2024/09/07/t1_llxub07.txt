@@ -1,0 +1,3 @@
+Tip number 1: Don’t buy !!
+
+!tip 1

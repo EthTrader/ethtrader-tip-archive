@@ -1,0 +1,3 @@
+I assume this will work for any other token.
+
+!tip 1
