@@ -1,0 +1,3 @@
+I'm hoping for a green October
+
+^(!tip 1)
