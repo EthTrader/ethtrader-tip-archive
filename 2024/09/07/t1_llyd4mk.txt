@@ -1,0 +1,5 @@
+Is the rule already in effect?
+
+!tip 1
+
+!crypto Donut
