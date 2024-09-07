@@ -1,0 +1,5 @@
+>profits
+
+Can someone explain to me what this strange word means? 
+
+^(!tip 1)
