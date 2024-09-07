@@ -1,0 +1,3 @@
+That's right. Use the hardware wallet for offline storage and hot wallet for trading or connecting to dApps.  
+
+!tip 1
