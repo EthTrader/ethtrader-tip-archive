@@ -1,0 +1,4 @@
+Nowhere is SAFU. Just get a hardware wallet and seed phrase board along with it. Your private keys or seed phrase would be nowhere near your phone. 
+
+
+!tip 1
