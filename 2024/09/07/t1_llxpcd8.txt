@@ -1,0 +1,5 @@
+>Layer-2 (L2) protocols are secondary frameworks built on top of existing blockchain networks like Ethereum to enhance transaction efficiency by offloading processes from the main chain. They aim to make blockchain networks faster and cheaper while retaining security and decentralization.
+
+True, so many people needs to understand that Layer2 isn't a stand alone chain. They still revolves and depends on Ethereum chains 
+
+>! !tip 1 !<
