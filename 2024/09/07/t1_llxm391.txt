@@ -1,0 +1,3 @@
+Any seed phrase that becomes digitalized is likely to be compromised. Doesn't matter whether it was compressed to a zip file and uploaded or locked with password.
+
+!tip 1

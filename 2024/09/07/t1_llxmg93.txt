@@ -1,0 +1,3 @@
+Scary thing is hacks are becoming more sophisticated faster than tools can be developed to detect them.
+
+!tip 1
