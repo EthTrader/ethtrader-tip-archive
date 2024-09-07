@@ -1,0 +1,3 @@
+No use digitalizing private keys or seed phrases. The risk is not worth it. 
+
+!tip 1

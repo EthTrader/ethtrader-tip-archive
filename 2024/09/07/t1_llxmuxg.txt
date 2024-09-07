@@ -1,0 +1,3 @@
+Yes, of course. It works with Trezor and other cold wallets that have a screen and buttons.
+
+!tip 1
