@@ -1,0 +1,3 @@
+It's wise not to borrow 
+
+^(!tip 1)

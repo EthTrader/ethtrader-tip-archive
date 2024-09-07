@@ -1,0 +1,4 @@
+Get a hardware wallet and a seed phrase board. With the hardware wallet and seed phrase board, you won't need your private keys or seed phrase stored anywhere online. You can order one from Trezor, Safepal, Ellipal or a whole lot of others out there. Safepal is the cheapest right now for around $100, with seed phrase board. 
+
+
+!tip 1
