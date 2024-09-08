@@ -1,0 +1,6 @@
+>The Ethereum genesis block encompassed 8,893 transactions, involving the transfer of Ethers, Ethereum's currency. To fund its development, this currency was sold prior to its launch. Consequently, unlike Bitcoin, Ethereum was introduced with an initial supply of 72 million Ether.
+
+[Learn Ethereum in 2024. #3. Blocks, blockchain and consensus](
+https://jpmorais.medium.com/learn-ethereum-in-2024-3-blocks-blockchain-and-consensus-357e50b67640#:~:text=The%20Ethereum%20genesis%20block%20encompassed,supply%20of%2072%20million%20Ether)
+
+!tip 1
