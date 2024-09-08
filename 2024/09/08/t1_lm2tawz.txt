@@ -1,0 +1,5 @@
+I understand but I'm still confused. The rule needs to be clear. If macro is allowed, then it should not be removed.
+
+If erc20 tokens is allowed, then a not so famous one should be removed (example)
+
+!tip 1
