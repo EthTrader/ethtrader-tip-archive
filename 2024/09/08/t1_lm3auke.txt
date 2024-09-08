@@ -1,0 +1,5 @@
+>Ondo Finance is a cross-chain DeFi platform for the tokenization of real-world assets, including US-regulated, institutional-grade securities.
+
+>Ondo Finance launched its first tokenised product in 2023 on the Ethereum blockchain.
+
+^(!tip 1)
