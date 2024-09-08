@@ -1,0 +1,3 @@
+I think some people might be less inclined to use the network because Starknet blockchain requires it's own independent wallet addresses, which means an additional wallet software/extension, such as Argent or Bravoos. 
+
+!tip 1
