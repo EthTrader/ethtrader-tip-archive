@@ -1,0 +1,3 @@
+I had the idea of an ETH faucet for ARB One, but I don´t know if it´s in work progress.
+
+!tip 1
