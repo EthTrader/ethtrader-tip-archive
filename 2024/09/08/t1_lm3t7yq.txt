@@ -1,0 +1,5 @@
+ETH directly, which is indirectly impacted by BTC at times xD
+
+ETH's trading pair is with DONUT, so even if there is 0 trading volume, DONUT price will follow ETH
+
+!tip 1

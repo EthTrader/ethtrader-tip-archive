@@ -1,0 +1,3 @@
+It's rare for Ethereum, but we have seen a few more inflationary days.
+
+^(!tip 1)
