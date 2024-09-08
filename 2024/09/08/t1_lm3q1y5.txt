@@ -1,0 +1,5 @@
+Not an Ethereum roll-up. But it's token Ondo is based on ERC-20 standard.
+
+>Ondo Finance launched its first tokenised product in 2023 on the Ethereum blockchain.
+
+^(!tip 1)
