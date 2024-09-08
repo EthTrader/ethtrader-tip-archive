@@ -1,0 +1,3 @@
+Scam coins 
+
+^(!tip 1)
