@@ -1,0 +1,3 @@
+Hidden gem that will print WCG.
+
+!tip 1
