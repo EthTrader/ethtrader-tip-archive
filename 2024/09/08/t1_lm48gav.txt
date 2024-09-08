@@ -1,0 +1,3 @@
+I read that news but I'm not updated with the recent progress.
+
+^(!tip 1)
