@@ -1,0 +1,3 @@
+How do I set a flair with text? Do I have to type something and then submit the command?
+
+!tip 1

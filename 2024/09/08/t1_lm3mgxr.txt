@@ -1,0 +1,1 @@
+I think too many L2s create lots of challenges for L1 - Demand gets reduced for L1 transactions so they cut the fee revenue that helps secure the Ethereum blockchain. If it relies too much on L2s its gonna weaken the financial viability of L1 because its most likely gonna attract less validators. Too many L2s make Ethereum less functional !tip 1
