@@ -1,0 +1,7 @@
+Created a custom flair
+
+-> reset flair (! reset flair) command
+
+Try that. Should work 😁
+
+!tip 1
