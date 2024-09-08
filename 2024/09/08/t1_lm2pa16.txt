@@ -1,0 +1,3 @@
+An ERC-20 token for the Jupiter Project.
+
+^(!tip 1)
