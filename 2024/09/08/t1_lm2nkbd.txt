@@ -1,0 +1,3 @@
+#HOPIUM OVERDOSED
+
+^(!tip 1)

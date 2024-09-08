@@ -1,0 +1,3 @@
+Interesting! It seems like authorities are in action.
+
+^(!tip 1)

@@ -1,0 +1,3 @@
+Always. Can't say no to discounts.
+
+^(!tip 1)
