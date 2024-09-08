@@ -1,0 +1,6 @@
+>What Is a Settlement Layer? A settlement layer is a layer that essentially provides an anchor for an entire ecosystem, and establishes undeniable security as well as objective finality if anything were to happen on a different blockchain that requires arbitration.
+
+For those who doesn't know what a settlement layer is.
+
+
+!tip 1
