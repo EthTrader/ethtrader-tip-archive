@@ -1,0 +1,3 @@
+market red = warning everywhere
+
+!tip 1
