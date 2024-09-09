@@ -1,0 +1,3 @@
+Scroll Network is an interesting choice, but I can see why they would choose a ZK Rollup for this type of operation.
+
+!tip 1
