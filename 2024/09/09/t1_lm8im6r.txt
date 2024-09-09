@@ -1,0 +1,3 @@
+Decentralized applications (dApps) are digital applications or programs that run on a decentralized network rather than a single computer or server. They are built on blockchain technology and use cryptocurrency as a means of exchange.
+
+!tip 1
