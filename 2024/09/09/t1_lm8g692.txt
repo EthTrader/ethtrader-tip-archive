@@ -1,0 +1,3 @@
+0.3 ETH I think (I'm not sure)
+
+^(!tip 1)
