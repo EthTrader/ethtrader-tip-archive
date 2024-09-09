@@ -1,0 +1,7 @@
+>Use a !register <EthereumWalletAddress> command and you'll be all set up, ready to earn
+
+>Here's your first tip on the house
+
+This is nice!
+
+^(!tip 1)
