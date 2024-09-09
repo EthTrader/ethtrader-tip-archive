@@ -1,0 +1,3 @@
+The whole market's activity is plummeting.
+
+^(!tip 1)
