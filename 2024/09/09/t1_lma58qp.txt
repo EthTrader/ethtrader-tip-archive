@@ -1,0 +1,1 @@
+1 whale = 1000 consumers !tip 1
