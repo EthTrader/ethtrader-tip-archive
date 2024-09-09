@@ -1,0 +1,3 @@
+I don't think that is a smart move.
+
+(^!tip 1)
