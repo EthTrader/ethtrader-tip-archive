@@ -1,0 +1,3 @@
+That bot is insane, sometimes it pays $1 million in gas fees per day
+
+^(!tip 1)
