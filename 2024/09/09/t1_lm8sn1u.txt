@@ -1,0 +1,3 @@
+He was robbed at gunpoint
+
+^(!tip 1)
