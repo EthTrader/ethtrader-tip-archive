@@ -1,0 +1,3 @@
+Only the third reply is the expected one. Thanks
+
+ !tip 1
