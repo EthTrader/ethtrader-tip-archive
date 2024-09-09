@@ -1,0 +1,7 @@
+>Liquidity providers are getting additional donut allocation during distro right?
+
+Not exactly. Each round 150k DONUT is allocated to Sushi rewards. That 150k DONUT is then dispersed via Sushi to liquidity positions.
+
+So the distribution CSV doesn't show any liquidity rewards 
+
+!tip 1

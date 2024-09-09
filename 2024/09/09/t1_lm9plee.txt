@@ -1,0 +1,3 @@
+The bot has a github where all data is dumped in json files. The repo is open so i download the data
+and run a script.
+!tip 1
