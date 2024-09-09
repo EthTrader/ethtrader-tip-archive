@@ -1,0 +1,3 @@
+more wallet = more holding
+
+!tip 1

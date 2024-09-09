@@ -1,0 +1,3 @@
+Hold on tight and don’t abort mission before the rocket launches..
+
+!tip 1
