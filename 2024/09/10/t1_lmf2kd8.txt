@@ -1,0 +1,3 @@
+I expect it'll perform well in the better market condition.
+
+^(!tip 1)
