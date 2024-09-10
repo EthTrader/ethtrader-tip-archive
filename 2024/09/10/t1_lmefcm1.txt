@@ -1,0 +1,3 @@
+It always has to be grayscale
+
+^(!tip 1)
