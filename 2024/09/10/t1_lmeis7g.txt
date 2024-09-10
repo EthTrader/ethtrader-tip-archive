@@ -1,0 +1,3 @@
+True. It's obvious
+
+^(!tip 1)
