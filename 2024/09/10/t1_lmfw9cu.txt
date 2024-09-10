@@ -1,0 +1,3 @@
+Yesterday $DOG, Today $CAT, Tomorrow it’s $FROG 
+
+!tip 1.069
