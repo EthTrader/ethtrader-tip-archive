@@ -1,0 +1,9 @@
+The main difference is the connection to the main chain.
+
+L2s are build directly on top of the main chain (ETH) inheriting its security and other features.
+
+Sidechains are separate blockchains that connect to the main chain (ETH) using bridges. They can have their own consensus and mechanism independent from main chain.
+
+Personally I prefer L2s.
+
+🍩 !tip 1
