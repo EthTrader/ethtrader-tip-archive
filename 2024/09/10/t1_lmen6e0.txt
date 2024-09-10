@@ -1,0 +1,5 @@
+>This integration allows for the use of familiar programming languages and tools, overcoming the limitations of Ethereum's EVM and making blockchain development more accessible
+
+its now easier to develop dapps , bullish news
+
+!tip 1
