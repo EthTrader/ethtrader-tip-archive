@@ -1,0 +1,3 @@
+He'll sell next month when the market is green
+
+^(!tip 1)
