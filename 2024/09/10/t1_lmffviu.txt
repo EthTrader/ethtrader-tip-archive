@@ -1,0 +1,3 @@
+More easy to adopt!
+
+^(!tip 1)
