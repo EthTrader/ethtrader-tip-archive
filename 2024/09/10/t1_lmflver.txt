@@ -1,0 +1,3 @@
+Great job! Security should be the top priority for any wallet or app.
+
+^(!tip 1)
