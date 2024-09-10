@@ -1,0 +1,5 @@
+>The new model also includes a variable percentage of the 0.05% swap fee being used to buy back and burn Sushi tokens. Any rewards that are forfeited from xSushi or LPs withdrawing their collateral from time locks will also be burned.
+
+In 2023 they restructured their tokenomics, their supply is now deflationary.
+
+^(!tip 1)
