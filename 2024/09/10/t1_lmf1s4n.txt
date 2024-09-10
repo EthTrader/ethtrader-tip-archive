@@ -1,0 +1,3 @@
+It's easy, you can achieve that goal in a day
+
+^(!tip 1)
