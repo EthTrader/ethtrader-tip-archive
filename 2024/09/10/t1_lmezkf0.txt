@@ -1,0 +1,3 @@
+ !tip 1
+
+Thanks for this summary. Hardware wallet is the way to go.
