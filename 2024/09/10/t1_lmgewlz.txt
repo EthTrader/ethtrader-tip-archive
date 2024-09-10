@@ -1,0 +1,3 @@
+No, if they are in the polygon mesh, the conversion is automatic. I'll just wait for more clarity.
+
+!tip 1
