@@ -1,0 +1,5 @@
+Some wouldn't have, either due to not trusting the shuttle process, or simply not being that active on the sub to realise the migration even occurred.
+
+As of right now, there isn't a way to send them directly from Gnosis to Arbitrum.
+
+!tip 1
