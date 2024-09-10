@@ -1,0 +1,9 @@
+Nice educational post.
+
+>Software Wallets, also known as hot wallets: this kind of wallets run in your device (laptop, smartphone, etc) often in form of an app and are connected to the internet. They are very convenient for daily transactions or interactions with dapps, but can be a little less secure (compared to the next typology) precicely because they are connected to the internet. For example This is the kind of wallets that traders use all the time for their trading accounts.
+
+>Hardware Wallets, also known as cold wallets: They are quite the opposite from the software ones, since they store the private keys offline. That makes them extremely secure from the online threats that we all read on the news every day. One only connect them to their devices when they need to make a transaction, and that’s why they are probably not the best option for traders or users with high frequency trading needs/habits.
+
+As many people who join crypto didn't learn about this but instead started with CEX, I can say this is quite very educational and newbies should learn from it
+
+>! !tip 1 !<
