@@ -1,0 +1,3 @@
+Whale is ready to play its game.
+
+^(!tip 1)
