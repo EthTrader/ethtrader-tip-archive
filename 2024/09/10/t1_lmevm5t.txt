@@ -1,0 +1,3 @@
+I prefer more user-friendly OS.
+
+^(!tip 1)
