@@ -1,0 +1,7 @@
+Do you know you can earn free Donuts on EthTrader?
+
+Use a !register <EthereumWalletAddress> command and you'll be all set up, ready to earn
+
+Here's your first tip on the house
+
+!tip 1
