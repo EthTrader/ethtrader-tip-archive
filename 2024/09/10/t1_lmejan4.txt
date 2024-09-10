@@ -1,0 +1,3 @@
+If this proposal passes, no one will interact with users with low tip weight, it will create a tip circle.
+
+^(!tip 1)
