@@ -1,0 +1,3 @@
+Apparently those were easy to game! Even Linea is dropping them for some sort of omnichain sybil detection mechanism, a partner was announced some weeks ago but no idea how they will implement it (my guess is that they will consolidate all sybil data across multiple chains to come up with their own list)
+
+!tip 1
