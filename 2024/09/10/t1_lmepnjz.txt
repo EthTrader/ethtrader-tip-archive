@@ -1,0 +1,3 @@
+More importantly, the future is bright.
+
+^(!tip 1)
