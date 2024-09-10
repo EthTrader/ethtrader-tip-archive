@@ -1,0 +1,3 @@
+What? Who has been banned?
+
+^(!tip 1)
