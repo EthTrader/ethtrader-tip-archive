@@ -1,0 +1,3 @@
+I hope they fix it. Otherwise, we will have to do it only when the bot shows that we can currently publish.
+
+!tip 1
