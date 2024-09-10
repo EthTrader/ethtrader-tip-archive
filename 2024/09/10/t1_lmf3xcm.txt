@@ -1,0 +1,3 @@
+Recently, Shiba showed a lot of presence in the news.
+
+^(!tip 1)
