@@ -1,0 +1,3 @@
+ETH mainnet seems busy. Yesterday we had 0.89 GWEI.
+
+!tip 1
