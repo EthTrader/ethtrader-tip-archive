@@ -1,0 +1,5 @@
+I understand why they chose a ZK Rollup over an Optimistic Rollup. But I agree, Scroll is interesting. 
+
+But, when looking at ZK's, your options are  ZKSync, Starknet, Taiko, Loopring, Linea and Scroll.
+
+!tip 1
