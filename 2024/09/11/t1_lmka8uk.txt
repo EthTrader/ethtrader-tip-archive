@@ -1,0 +1,3 @@
+Ethereum Name Service, the coin
+
+^(!tip 1)
