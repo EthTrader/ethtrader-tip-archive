@@ -1,0 +1,3 @@
+Exactly never store crypto in exchanges and only use exchanges for trading and transfers.
+
+!tip 1
