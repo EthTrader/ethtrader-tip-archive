@@ -1,0 +1,4 @@
+Sub rank is just based on total visitors in the last 3 days. There's a whole bunch of indirect effects but downvotes do not change the rank.
+
+
+!tip 1

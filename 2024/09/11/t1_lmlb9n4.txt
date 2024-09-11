@@ -1,0 +1,3 @@
+I need to know more about the hamster index.
+
+>! !tip 1 !<
