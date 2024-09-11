@@ -1,0 +1,3 @@
+True, I'm staying away from small CEXes
+
+^(!tip 1)
