@@ -1,0 +1,3 @@
+Welcome, Bazooka.
+
+^(!tip 1)
