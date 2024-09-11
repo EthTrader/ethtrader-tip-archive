@@ -1,0 +1,3 @@
+Buy now or cry later
+
+^(!tip 1)
