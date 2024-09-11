@@ -1,0 +1,3 @@
+How many times have we seen this market dump on good news?
+
+^(!tip 1)
