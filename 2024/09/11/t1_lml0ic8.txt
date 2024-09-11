@@ -1,0 +1,3 @@
+Great! Then should I book my seat for a ride to the moon.
+
+^(!tip 1)
