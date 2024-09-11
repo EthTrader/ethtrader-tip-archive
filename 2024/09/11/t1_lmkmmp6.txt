@@ -1,0 +1,4 @@
+I also read somewhere that blobs per block could also be tweaked for fee changes.
+
+
+**!tip 1**
