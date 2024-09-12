@@ -1,0 +1,3 @@
+Simple ERC-20 tokens will follow their leader ETH.
+
+^(!tip 1)
