@@ -1,0 +1,3 @@
+I prefer permanent devs to one time devs.
+
+^(!tip 1)
