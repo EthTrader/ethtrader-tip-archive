@@ -1,0 +1,3 @@
+Smart contract not verified. Ignore anything related to Mpepe.
+
+^(!tip 1)
