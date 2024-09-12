@@ -1,0 +1,7 @@
+They're suggesting simplifying Ethereum's Layer 2 scaling roadmap, which some developers believe has become way too complex.
+
+From what I understand, the proposal is to consolidate the different L2s, which can be slow / expensive, into a more coordinated framework.
+
+It's actually a good idea because this would address two big problems in the ecosystem right now: inefficiency and fragmentation.
+
+>!!tip 1!<
