@@ -1,0 +1,3 @@
+Security. Which is quite important. I think larger organisations will prefer ZK rollups, which is why I'm not surprised Etherfi chose a ZK Rollup for their Visa Card.
+
+!tip 1

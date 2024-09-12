@@ -1,0 +1,5 @@
+Change in tokenomics, and I guess an overall re-brand.
+
+Polygon now is similar to ETH, in that it has unlimited max supply, but with EIP1555 gas fees will burn some supply along the way as well.
+
+!tip 1
