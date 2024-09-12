@@ -1,0 +1,3 @@
+Convenience will always be preferable to complexities.
+
+!tip 1
