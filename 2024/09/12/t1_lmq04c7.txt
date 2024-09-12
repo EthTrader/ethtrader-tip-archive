@@ -1,0 +1,5 @@
+Uh oh.
+
+u/MattG1981 has got the bot working for the 200 word requirement for text posts; but if you're submitting links as a text post and sourcing the link, it looks like it will get caught too!
+
+!tip 1
