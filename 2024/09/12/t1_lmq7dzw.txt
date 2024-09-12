@@ -1,0 +1,5 @@
+The bot is now filtering text posts that aren't 200 word long.
+
+https://preview.redd.it/21cdd45dmbod1.jpeg?width=706&format=pjpg&auto=webp&s=72dbd9ee6d0f17b99a68bd24eb43ae7611f44b41
+
+^(!tip 1)
