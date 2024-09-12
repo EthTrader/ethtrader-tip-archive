@@ -1,0 +1,3 @@
+Link posts under 200 words are blocked too, not only text posts now.
+
+!tip 1
