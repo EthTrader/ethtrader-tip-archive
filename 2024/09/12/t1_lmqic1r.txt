@@ -1,0 +1,3 @@
+Of course, it can't be a one-way traffic.
+
+^(!tip 1)
