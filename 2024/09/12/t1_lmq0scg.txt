@@ -1,0 +1,5 @@
+Plus having some dot points or a TLDR is quite helpful. Given most people don't read a full article anyway xD
+
+I wish there was a better approach, but the best approaches require more manual moderation rather than bot automation.
+
+!tip 1
