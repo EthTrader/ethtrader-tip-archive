@@ -1,0 +1,3 @@
+If it continues it will go exponential.
+
+ !tip 1

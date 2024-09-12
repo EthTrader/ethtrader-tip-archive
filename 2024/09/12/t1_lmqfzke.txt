@@ -1,0 +1,3 @@
+Won't this speed race put even more pressure on Ethereum's base layer, potentially leading to higher gas fees and network congestion?
+
+!tip 1
