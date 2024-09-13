@@ -1,0 +1,3 @@
+More and more coins are accepting staking. The last I heard from who implemented staking was Quant (QNT) a few weeks ago.
+
+!tip 1
