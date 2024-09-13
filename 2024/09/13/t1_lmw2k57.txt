@@ -1,0 +1,3 @@
+I'm just not sure why a gaming project is opting for ZK over Optimistic chain.
+
+!tip 1
