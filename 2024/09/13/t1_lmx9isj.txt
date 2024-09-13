@@ -1,0 +1,11 @@
+From the article:
+
+1. First Phase by February 2025: The initial phase of the Pectra hard fork might occur by February 2025. This phase is expected to integrate several Ethereum Improvement Proposals (EIPs) currently on Devnet 3, including:
+
+maxeb (EIP-7251): A proposal aimed at expanding Ethereum’s maximum block size.
+
+Set EOA Account Code (EIP-7702): Changes related to the execution of externally owned accounts (EOAs).
+
+Supply Validator Deposits on Chain (EIP-6110): Enhancements for tracking validator deposits directly on-chain.
+
+ !tip 1
