@@ -1,0 +1,3 @@
+Rejecting Eth will always be wrong.
+
+!tip 1
