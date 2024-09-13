@@ -1,0 +1,5 @@
+A capped supply didn't make sense, they shouldv'e made the change sooner.
+
+Now it's tokenomics are similar to that of ETH, which pays it's stakers for validating transactions, and burns tokens for spending transactions. The more the network get used, the more tokens get burned.
+
+!tip 1
