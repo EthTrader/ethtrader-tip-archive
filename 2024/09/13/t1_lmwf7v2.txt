@@ -1,0 +1,3 @@
+Buy now chill later
+
+^(!tip 1)
