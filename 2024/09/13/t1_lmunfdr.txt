@@ -1,0 +1,7 @@
+I'm sure they will come up with the right solution.
+
+We need Ethereum to both be simple enough for devs to work with, but secure and fast enough that it's not a terrible user experience.
+
+Cardano is an example of one that's complex for devs, pretty secure, but not the cheapest (or wasn't when I last looked at it)
+
+!tip 1
