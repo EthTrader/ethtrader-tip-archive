@@ -1,0 +1,3 @@
+I'll take the gold please
+
+^(!tip 1)

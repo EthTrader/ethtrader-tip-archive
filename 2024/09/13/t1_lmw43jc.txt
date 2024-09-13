@@ -1,0 +1,5 @@
+>rich
+
+What does this word mean?
+
+^(!tip 1)

@@ -1,0 +1,3 @@
+I'm planning to buy some this month.
+
+^(!tip 1)
