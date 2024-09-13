@@ -1,0 +1,5 @@
+Nah, projects wouldn't care about the price of the token. It would be about what development and security tools the chain has to offer.
+
+For example, DONUT migrated to Arbitrum One and not Arbitrum Nova, because Nova did not support our Multisig wallet.
+
+!tip 1
