@@ -1,0 +1,4 @@
+ !tip 1
+
+Ethereum is the new internet.
+At least, i hope so.
