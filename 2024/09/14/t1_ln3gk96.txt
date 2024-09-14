@@ -1,0 +1,3 @@
+Focusing solely on exchange reserves might be misleading. Aren't there other on-chain metrics, such as network activity and smart contract deployments, that could paint a more optimistic picture of Ethereum's future?
+
+!tip 1
