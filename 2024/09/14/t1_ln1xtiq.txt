@@ -1,0 +1,5 @@
+>without needing seed phrases or browser extensions
+
+This is nice. It might help reduce hacks/drains.
+
+^(!tip 1)
