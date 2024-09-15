@@ -1,0 +1,3 @@
+An "Amazon Web3" sounds convenient, but I fear it creates a single point of failure, making the entire ecosystem vulnerable to hacks or censorship
+
+!tip 1
