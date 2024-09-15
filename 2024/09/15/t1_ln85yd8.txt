@@ -1,0 +1,4 @@
+If you have a hardware wallet which you never connect online, you'll never worry about phishing links. Whenever I want to move funds, I create a new wallet and use it as a go-between to whatever destination I'm moving it to. 
+
+
+!tip 1

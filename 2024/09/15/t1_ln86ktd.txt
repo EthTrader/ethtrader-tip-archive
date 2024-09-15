@@ -1,0 +1,3 @@
+Some learn the hard way. I hope he learns from his mistake.
+
+^(!tip 1)
