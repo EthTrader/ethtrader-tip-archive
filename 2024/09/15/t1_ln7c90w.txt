@@ -1,0 +1,3 @@
+Market always follows this
+
+^(!tip 1)
