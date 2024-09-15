@@ -1,0 +1,4 @@
+An offline hardware wallet would have prevented it. No online connections, just transfer between wallets. 
+
+
+!tip 1
