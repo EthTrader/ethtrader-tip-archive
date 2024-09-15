@@ -1,0 +1,3 @@
+Token unlocks mate
+
+^(!tip 1)
