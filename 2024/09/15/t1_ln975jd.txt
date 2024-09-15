@@ -1,0 +1,9 @@
+https://snapshot.org/#/ethtraderdao.eth
+
+Text posts require 200 words, otherwise they will be deleted by automod.
+
+So, if you were somebody who would share articles as text posts, with a couple of dot-points and citing the source, you'll want to change your approach and submit links as link posts instead.
+
+And there is a 3 hour cool-down between subsequent posts.
+
+!tip 1
