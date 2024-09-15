@@ -1,0 +1,3 @@
+I think anything above 20% is already good to exit.
+
+>! !tip 1 !<
