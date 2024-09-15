@@ -1,0 +1,3 @@
+The solution to inflation is already implemented. The problem is the low use of Ethereum at the moment. As soon as demand for block space increases & transaction fees surpass 15 gwei, ETH is deflationary again.
+
+!tip 1
