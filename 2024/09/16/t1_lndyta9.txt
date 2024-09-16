@@ -1,0 +1,9 @@
+>  Will your wallet stay connected for the rewards or you don't needs to?
+
+Sorry, I'm a little confused at this question. But i'll have a go.
+
+So, to provide liquidity you do need to connect your wallet to the DEX. Then you basically sign a contract which sends your DONUT and ETH into the Pool address. You can disconnect from the DEX and continue to receive rewards, but you'll need to re-connect in order to harvest/claim them.
+
+Does that help?
+
+!tip 1
