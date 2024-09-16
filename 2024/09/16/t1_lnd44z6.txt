@@ -1,0 +1,3 @@
+Ok, I don't know about much
+
+^(!tip 1)
