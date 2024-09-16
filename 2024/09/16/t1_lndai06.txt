@@ -1,0 +1,3 @@
+That coin is lucky still exists
+
+^(!tip 1)
