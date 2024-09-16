@@ -1,0 +1,7 @@
+Boba is an OP stack Optimistic Rollup built by the Enya team as core contributors to the Boba Foundation.
+
+@L2Beat
+
+Yes, it's not as popular like other L2s.
+
+^(!tip 1)
