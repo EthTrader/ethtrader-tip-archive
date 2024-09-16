@@ -1,0 +1,3 @@
+Thanks to the reduction in L2 fees, we can now carry out transactions on Ethereum without fear of high gwei.
+
+!tip 1
