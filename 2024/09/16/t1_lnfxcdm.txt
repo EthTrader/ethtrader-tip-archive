@@ -1,0 +1,3 @@
+I like that word too
+
+^(!tip 1)
