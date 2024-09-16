@@ -1,0 +1,3 @@
+bep 20 shitcoins 
+
+!tip 1
