@@ -1,0 +1,3 @@
+Use automodremove command and ping a mod so they can ban him.
+
+🍩 !tip 1
