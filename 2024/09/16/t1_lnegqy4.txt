@@ -1,0 +1,8 @@
+>What is Solo Staking?
+>Solo staking involves users locking up their ETH in a node to participate in the network's consensus process. While this offers the highest degree of control and security, it requires technical expertise and significant resources.
+
+For those who do not know what solo staking is. 
+
+
+
+!tip 1
