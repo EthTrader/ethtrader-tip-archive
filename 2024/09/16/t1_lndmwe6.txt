@@ -1,0 +1,3 @@
+DAO rewards only account for 50 comments per user, per day
+
+!tip 1
