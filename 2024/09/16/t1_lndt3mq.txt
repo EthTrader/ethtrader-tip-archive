@@ -1,0 +1,13 @@
+No; there was no "penalty" for over-commenting, there was just "more difficulty" in earning rewards.
+
+Eg, your 55th comment on r/cc would have a -2 "spam" score
+
+This means you need 3 upvotes, to get to 1.
+
+However, in calculations, your spam score would never deduct from your actual score.
+
+This means, if you have 0, 1 or 2 upvotes, your score would be 0. If you got 3 upvotes, your score would be 1.
+
+Eventually comments would start at -25, but this would still never deduct from your earnings, it just meant you weren't making anything from those comments.
+
+!tip 1
