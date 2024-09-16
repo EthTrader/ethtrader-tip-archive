@@ -1,0 +1,3 @@
+No. You need 32 ETH to be a validator, that's different.
+
+!tip 1
