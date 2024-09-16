@@ -1,0 +1,3 @@
+Scam! Use [AutomodRemove]
+
+^(!tip 1)
