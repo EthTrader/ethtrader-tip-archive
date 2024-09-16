@@ -1,0 +1,11 @@
+BTC 3T marketcap
+
+ETH  1.3T marketcap
+
+SOL 400B marketcap
+
+TON 150B marketcap
+
+ASI 100B marketcap
+
+^(!tip 1)
