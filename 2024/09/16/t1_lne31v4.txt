@@ -1,0 +1,3 @@
+Yikes! People should be very careful before clicking anything
+
+^(!tip 1)
