@@ -1,0 +1,2 @@
+People like leaderboard you can just look at the tip data and see how is active.
+!tip 1
