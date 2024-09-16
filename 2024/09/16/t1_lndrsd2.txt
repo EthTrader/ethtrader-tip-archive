@@ -1,0 +1,5 @@
+#It's hard !!!
+
+Be realistic with optimistic 
+
+^(!tip 1)
