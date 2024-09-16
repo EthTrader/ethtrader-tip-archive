@@ -1,0 +1,3 @@
+It's better to verify the links before clicking on it.
+
+^(!tip 1)
