@@ -1,0 +1,3 @@
+Boba is an OP stack Optimistic Rollup built by the Enya. It is a multi-chain solution that can act as a layer 2 for various blockchains, including Ethereum.
+
+^(!tip 1)

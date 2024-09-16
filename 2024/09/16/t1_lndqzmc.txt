@@ -1,0 +1,64 @@
+Here’s what the author wrote 👇🏼
+
+[Governance Poll Proposal] Limit the number of comments eligible for rewards, per 24 hours
+
+## Current situation
+
+This subreddit implemented the comment-to-vote system recently, which shifted the method of rewarding Donuts from purely karma-based metrics, to a system that relies on engagement through tipping.
+
+Even though this was a step in the right direction to combat manipulation, alt accounts, and spam, the issue of comment spamming is still a problem. Many users are still submitting more than 100, and sometimes even 200 comments daily, in an attempt to maximize their rewards.
+
+This behavior is leading to a flood of low quality content, which lowers the overall value of the sub and interferes with the distribution of Donut rewards.
+
+—
+
+## Problem
+
+Despite the implementation of comment-to-vote, comment spamming is still a problem. This is driven by users trying to earn more Donuts through sheer quantity, rather than contributing with good content.
+
+The result is a ”rat race” mentality, where more people are competing harder to earn less. This is not what EthTrader should be about. As a community, we should be promoting a system that values quality over quantity, making sure that all users have a fair chance to earn without having to resort to excessive farming.
+
+—
+
+## Solution
+
+To address this issue, I propose introducing a cap on the number of comments **per user** that are eligible to earn Donuts, every 24 hours.
+
+Users would still be free to comment beyond this limit, but only the first 50 comments would be eligible to earn.
+
+This cap would encourage users to focus on the quality of their comments, rather than the quantity, thus creating a more balanced and just ecosystem for everyone.
+
+—
+
+## Advantages
+
+1. By limiting the number of eligible comments, users are incentivized to make each comment count, leading to a higher overall quality of discussion on the forum.
+2. With fewer comments, the rewards ratio per comment is going to increase. This would allow users to earn more collectively, without having to flood the subreddit with excessive comments.
+3. Users would no longer feel pressured to post large quantities of comments to maximize their earnings. This means people can spend less time on the sub, while still maintaining a fair chance to earn.
+4. This measure would help curb the excessive farming currently seen, and create a more balanced system where everyone wins, not just those who have figured out how to take advantage of the system.
+
+## Disadvantages
+
+1. Users who currently post a large number of comments every day might feel that this proposal limits their ability to earn. The goal is to create a fairer system for all.
+
+—
+
+## Conclusion
+
+EthTrader is at a critical point, where the number of farmers is increasing, but the rewards are dropping due to oversaturation and spamming. This creates a rat race mentality that is not in line with the community’s values.
+
+To promote a healthier, more balanced ecosystem, we need to implement measures that curb excessive farming. If we introduce a cap on the number of Donut-eligible comments, we can stabilize earnings and make sure that everyone has a fair chance to earn.
+
+This change is necessary to preserve the quality of the forum, and to maintain a system that rewards good contributions over pure quantity.
+
+—
+
+The choices are:
+
+* \[YES\]
+* \[ABSTAIN\]
+* \[NO\]
+
+*This proposal will remain up for a minimum of 2 days, according to the* [governance rules & guidelines](https://www.reddit.com/r/ethtrader/wiki/governance/)*. This proposal requires 2 moderators to sign it off in order to proceed to a governance snapshot vote. If approved, this proposal will automatically be queued for Governance Week.*
+
+!tip 1
