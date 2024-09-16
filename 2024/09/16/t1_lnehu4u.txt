@@ -1,0 +1,3 @@
+Buy coins that launched recently, you'll thank me later
+
+^(!tip 1)
