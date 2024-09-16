@@ -1,0 +1,3 @@
+True on any chaînes not only base.
+
+ !tip 1

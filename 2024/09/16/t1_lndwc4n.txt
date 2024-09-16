@@ -1,0 +1,3 @@
+Even 10 dollars is too much.
+
+ !tip 1
