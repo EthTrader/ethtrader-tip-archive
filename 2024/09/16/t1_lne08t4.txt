@@ -1,0 +1,9 @@
+>You can disconnect from the DEX and continue to receive rewards, but you'll need to re-connect in order to harvest/claim them.
+
+This is the answer I needed 
+
+>Does that help?
+
+Yes thanks man
+
+>! !tip 1 !<
