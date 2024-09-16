@@ -1,0 +1,7 @@
+ETF outflows = bad
+
+
+Exchange outflows = good
+
+
+**!tip 1**
