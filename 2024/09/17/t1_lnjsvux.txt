@@ -1,0 +1,4 @@
+S1 just finished and now they're doing Sybil detection which they said could take up to 4 weeks, yikes! 
+There's 14 levels in the leaderboard. We can only guess at the allocations until the Sybil detection is finished but it seems like most levels will get happy meals. Top 2 levels should get some decent rewards though. 
+
+!tip 1
