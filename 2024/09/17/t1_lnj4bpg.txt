@@ -1,0 +1,4 @@
+Every dApp should atleast start by getting a security audit first
+
+
+**!tip 1**
