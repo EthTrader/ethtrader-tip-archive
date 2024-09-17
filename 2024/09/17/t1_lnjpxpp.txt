@@ -1,0 +1,3 @@
+Farmers will be ready to farm
+
+^(!tip 1)
