@@ -1,0 +1,3 @@
+I'm eligible for a happy meal!
+
+^(!tip 1)
