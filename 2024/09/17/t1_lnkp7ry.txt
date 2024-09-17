@@ -1,0 +1,7 @@
+Post ratio 20
+
+Comment ratio 13
+
+Source? Deez
+
+^(!tip 1)
