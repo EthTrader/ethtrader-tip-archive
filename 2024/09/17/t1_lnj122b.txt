@@ -1,0 +1,3 @@
+Interesting week this, I hope we don't dump any further
+
+^(!tip 1)
