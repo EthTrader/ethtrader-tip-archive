@@ -1,0 +1,3 @@
+When I type my username it shows 0.0 earned this round.
+
+!tip 1
