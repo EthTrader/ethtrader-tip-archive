@@ -1,0 +1,3 @@
+Sell me 1 eth for $1 
+
+!tip 1

@@ -1,0 +1,5 @@
+We should remove links completely 😆
+
+x0.1 multiplier for links
+
+^(!tip 1)
