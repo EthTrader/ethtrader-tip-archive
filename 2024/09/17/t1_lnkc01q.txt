@@ -1,0 +1,3 @@
+I'm not going to put my money on it
+
+^(!tip 1)
