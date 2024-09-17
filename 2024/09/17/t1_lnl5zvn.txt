@@ -1,0 +1,3 @@
+The problem is not Layer 2s themselves. The problem is the excess of Layer 2 solutions, which Ethereum doesn't need.
+
+>!!tip 1!<
