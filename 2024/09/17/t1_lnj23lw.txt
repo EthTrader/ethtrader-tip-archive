@@ -1,0 +1,3 @@
+$gains is $gains
+
+!tip 1
