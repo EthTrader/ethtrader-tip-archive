@@ -1,0 +1,7 @@
+* 0.1x - Question
+* 0.25x - Comedy / Self Story / Media
+* 0.75x - Link
+* 1.0x - All other text post types
+* 2.0x - Original Content
+
+!tip 1
