@@ -1,0 +1,11 @@
+Hey nice work,
+
+it looks like my post tip graph is broken. It shows lines which dont have a date and go back and forth.
+
+How do you determine if something is post tipped or comment tipped? Do you use tips\_round\_141.json from the donut but? if so where do you look up what the  parent\_content\_id is.
+
+Did you see my interactive tip graph? [https://drrobbe.github.io/RedditAPIScript/](https://drrobbe.github.io/RedditAPIScript/) (Visit on desktop), currently it shows the results for round141. maybe you can integrate it with the current user selected or just create it with the data of that day. If so feel free to use the script to create it, it is also in the git repo.
+
+!pow
+
+!tip 5
