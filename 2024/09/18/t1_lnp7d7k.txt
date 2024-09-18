@@ -1,0 +1,3 @@
+I'm throwing in every fiat I get.
+
+^(!tip 1)

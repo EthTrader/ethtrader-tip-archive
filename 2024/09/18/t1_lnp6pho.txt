@@ -1,0 +1,3 @@
+Powell will decide whether we rally or not
+
+^(!tip 1)
