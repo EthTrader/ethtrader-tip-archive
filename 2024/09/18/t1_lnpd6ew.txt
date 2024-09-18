@@ -1,0 +1,3 @@
+If that happens I'll eat my ......
+
+^(!tip 1)
