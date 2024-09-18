@@ -1,0 +1,3 @@
+It's better to stay away from it
+
+^(!tip 1)
