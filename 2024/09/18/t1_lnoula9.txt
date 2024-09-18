@@ -1,0 +1,5 @@
+>It aims to provide a streamlined and efficient way for web3 developers to manage node infrastructure. Blockchain builders can focus on building their applications without the complexities associated with maintaining their nodes.
+
+Great! The best way is to make things simple.
+
+^(!tip 1)
