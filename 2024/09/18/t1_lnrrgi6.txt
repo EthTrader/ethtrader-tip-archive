@@ -1,0 +1,3 @@
+More or less they are same 
+
+^(!tip 1)
