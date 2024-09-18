@@ -1,0 +1,5 @@
+> If you have low gov score, is it against the rules to just send two or three comments for tip 1 each that then makes it up to roughly 1 full vote? 
+
+That won't work. Even if you tip a comment or post once, twice or 3 times, only 1 of those tips will be factored into rewards.
+
+!tip 1
