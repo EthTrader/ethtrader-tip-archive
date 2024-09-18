@@ -1,0 +1,3 @@
+I've never seen Binance list a token with $14m marketcap
+
+^(!tip 1)
