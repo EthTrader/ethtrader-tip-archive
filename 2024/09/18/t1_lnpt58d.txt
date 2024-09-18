@@ -1,0 +1,7 @@
+^(!tip 1)
+
+>DePIN leverages blockchain technology to incentivize the creation and maintenance of physical infrastructure through the use of tokens, smart contracts, and dApps).
+
+The below link shows what it is and how it works
+
+https://blaize.tech/article-type/overview/decentralized-physical-infrastructure-networks-depin/#:~:text=DePIN%20stands%20for%20Decentralized%20Physical,and%20maintain%20physical%20infrastructure%20networks.

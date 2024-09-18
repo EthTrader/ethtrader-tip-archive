@@ -1,0 +1,3 @@
+The daily should be excluded though
+
+^(!tip 1)
