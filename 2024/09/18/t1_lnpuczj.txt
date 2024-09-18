@@ -1,0 +1,4 @@
+Whatever's best for the safe execution of the upgrade should be done. We can't handle a bug on a huge chain such as Ethereum. 
+
+
+**!tip 1**
