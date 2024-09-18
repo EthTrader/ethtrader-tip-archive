@@ -1,0 +1,3 @@
+Since we are combating spam outside the daily, this rule(if it passes) should be enforced outside the daily.  
+
+^(!tip 1)
