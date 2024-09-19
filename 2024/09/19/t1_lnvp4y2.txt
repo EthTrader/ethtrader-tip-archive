@@ -1,0 +1,3 @@
+Theres no Arbitrum Faucet, but most exchanges allow withdrawals of ETH via Arbitrum One atleast.
+
+!tip 1

@@ -1,0 +1,5 @@
+We have no faucet for Ethereum on ETH mainnet or Arbitrum. You can just get some xdai for gnosis-chain.
+
+I wish we had a ETH faucet.
+
+!tip 1
