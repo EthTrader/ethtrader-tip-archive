@@ -1,0 +1,2 @@
+burn rate should be 3344000%  
+!tip 1
