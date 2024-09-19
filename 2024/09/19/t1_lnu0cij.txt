@@ -1,0 +1,5 @@
+There is an excellent arbitrage opportunity for Donuts going on right now, price on Gnosis (which is pegged with XDai on the Gnosis LP) is 10% lower than the price on Arb/Eth (pegged to Eth on Sushi/uniswap LP)
+
+![gif](giphy|d3mlE7uhX8KFgEmY|downsized)
+
+!tip 1.10
