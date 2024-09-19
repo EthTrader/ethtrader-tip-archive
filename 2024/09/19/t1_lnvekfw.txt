@@ -1,0 +1,3 @@
+Great prospect for future 
+
+^(!tip 1)
