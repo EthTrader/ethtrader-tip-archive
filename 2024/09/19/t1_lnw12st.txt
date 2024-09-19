@@ -1,0 +1,3 @@
+We also use tip system to upvote. Due cheaters we changed to this. Reddit upvotes are not working anymore to get Donut rewards. More than 1 tip is an full upvote.
+
+!tip 1
