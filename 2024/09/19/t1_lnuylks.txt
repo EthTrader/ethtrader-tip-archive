@@ -1,0 +1,3 @@
+An app that helps you to make quick decisions by providing analysis and new opportunities.
+
+^(!tip 1)
