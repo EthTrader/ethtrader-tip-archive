@@ -1,0 +1,5 @@
+Price on Gnosis keeping the actual price down
+
+Because the Donut on Gnosis is pegged to XDAI on the LP and not Eth, the price on Sushi and Uniswap is higher
+
+!tip 1
