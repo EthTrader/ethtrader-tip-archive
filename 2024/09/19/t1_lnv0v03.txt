@@ -1,0 +1,3 @@
+I see your point but some will still tip others even after they reach their daily cap.
+
+^(!tip 1)
