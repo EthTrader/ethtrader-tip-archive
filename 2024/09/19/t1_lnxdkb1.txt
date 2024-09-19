@@ -1,0 +1,3 @@
+Eth is green today! What bears?
+
+^(!tip 1)
