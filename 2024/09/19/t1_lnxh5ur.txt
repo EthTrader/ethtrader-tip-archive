@@ -1,0 +1,5 @@
+Unlike bricks, Moons are pretty much alive.
+
+Many are being burnt too.
+
+^(!tip 1)

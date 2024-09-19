@@ -1,0 +1,3 @@
+You need to know both for greater security, but this is only with a hot wallet. With a hardware wallet, you cannot see the private key.
+
+!tip 1
