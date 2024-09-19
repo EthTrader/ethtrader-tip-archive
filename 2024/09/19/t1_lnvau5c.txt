@@ -1,0 +1,3 @@
+The master score is $6900
+
+^(!tip 1)
