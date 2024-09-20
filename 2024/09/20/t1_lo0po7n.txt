@@ -1,0 +1,4 @@
+I think it supports 6 pinned threads now.
+
+
+**!tip 1**
