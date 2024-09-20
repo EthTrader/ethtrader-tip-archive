@@ -1,0 +1,11 @@
+It is designed for developers with a strong focus on privacy and decentralization.
+
+It uses ZK technology 
+
+>Privado ID can run on any EVM-compatible chain. At the moment, the smart contracts are deployed onto Polygon Testnet (Amoy) and Polygon PoS Mainnet.
+
+>Also Privado ID is expanding to multiple chains, including Optimism, Base, and Arbitrum.
+
+I think we should talk or post this. 
+
+🫠 ^(!tip 1)
