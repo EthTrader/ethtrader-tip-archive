@@ -1,0 +1,3 @@
+>Formerly known as Polygon ID, the digital identity platform will expand to multiple chains, including Optimism, Base, and Arbitrum, for the first time.
+
+^(!tip 1)
