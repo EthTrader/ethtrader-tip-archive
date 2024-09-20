@@ -1,0 +1,3 @@
+I really like that it only counts for tipped comments 
+
+!tip 1
