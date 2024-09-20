@@ -1,0 +1,3 @@
+Atleast the title doesn't contain the word "poised" 
+
+^(!tip 1)

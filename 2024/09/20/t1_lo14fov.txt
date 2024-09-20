@@ -1,0 +1,3 @@
+Bad stomach = dump 
+
+^(!tip 1)
