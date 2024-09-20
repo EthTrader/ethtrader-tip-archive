@@ -1,0 +1,3 @@
+It looks like it's here to stay
+
+^(!tip 1)
