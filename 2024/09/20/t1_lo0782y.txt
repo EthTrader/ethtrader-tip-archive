@@ -1,0 +1,11 @@
+>At 4 AM (SGT) on Sept 20, our team detected abnormal access to the BingX hot wallet, suspecting a hacker attack. We immediately initiated an emergency response, including asset transfers and pausing withdrawals.
+
+🔒 Only minor losses so far, and we’ve got it covered. Most assets are safe in cold wallets, with only a small portion affected in the hot wallet.
+
+To protect user funds, we’re extending recharge & withdrawal times while reinforcing security. Coins will be processed within 24 hours. We’re sorry for the inconvenience and appreciate your understanding! 
+
+Via their X account
+
+^(!tip 1)
+
+^(!tip 1)
