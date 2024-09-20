@@ -1,0 +1,7 @@
+>To address this issue, I propose introducing a cap on the number of comments per user that are eligible to earn Donuts, every 24 hours.
+
+*Users would still be free to comment beyond this limit, but only the first 50 comments would be eligible to earn*
+
+This cap would encourage users to focus on the quality of their comments, rather than the quantity, thus creating a more balanced and just ecosystem for everyone.
+
+^(!tip 1)
