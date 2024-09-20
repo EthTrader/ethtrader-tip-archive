@@ -1,0 +1,3 @@
+My gut is rarely wrong
+
+^(!tip 1)
