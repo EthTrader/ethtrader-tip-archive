@@ -1,0 +1,3 @@
+Static price after dump from $1 is the biggest issue for holders.
+
+^(!tip 1)
