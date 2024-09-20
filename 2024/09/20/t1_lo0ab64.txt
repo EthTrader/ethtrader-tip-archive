@@ -1,0 +1,3 @@
+That is another way to look at it.
+
+^(!Tip 1)
