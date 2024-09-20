@@ -1,0 +1,3 @@
+Because someone bought ETH 
+
+^(!tip 1)
