@@ -1,0 +1,5 @@
+Indeed, capital inefficiency is the major challenge for Dexs. 
+
+DEXs often depend on liquidity providers to allow trading on their platforms. When DEXs lack sufficient liquidity, users tend to migrate to CEXs, where liquidity is typically higher.
+
+^(!tip 1)

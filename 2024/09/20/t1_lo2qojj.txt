@@ -1,0 +1,13 @@
+This round
+
+Post 20.32
+
+Comment 13.69
+
+Next round (if the 50 comment rule passes)
+
+Post 20
+
+Comment 25
+
+^(!tip 1)
