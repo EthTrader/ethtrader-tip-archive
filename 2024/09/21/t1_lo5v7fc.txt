@@ -1,0 +1,5 @@
+No, snapshot will be taken in less than 5 days.
+
+Distro? Probably 10 days 
+
+^(!tip 1)
