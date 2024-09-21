@@ -1,0 +1,7 @@
+Good analysis
+
+You should write articles!
+
+"Pepe is poised for a rally, only if............"
+
+^(!tip 1)
