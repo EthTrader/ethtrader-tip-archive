@@ -1,0 +1,3 @@
+The price usually dumps after they sell
+
+^(!tip 1)

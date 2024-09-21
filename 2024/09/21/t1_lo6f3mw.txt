@@ -1,0 +1,3 @@
+True, 2% dips are ignorable 
+
+^(!tip 1)
