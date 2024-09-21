@@ -1,0 +1,4 @@
+Yes. I wonder if it will be 24 hrs from current time or based on a fixed UTC time when the comments counter would reset.
+
+
+**!tip 1**
