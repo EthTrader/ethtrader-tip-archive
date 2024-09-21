@@ -1,0 +1,3 @@
+>IMX is an Ethereum token that powers Immutable X, a L2 scaling solution for NFTs.
+
+^(!tip 1)
