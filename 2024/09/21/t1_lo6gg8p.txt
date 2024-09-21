@@ -1,0 +1,5 @@
+After depositing a wallet to Metamask, add the Arb network and token and you're good to go.
+
+The contract address and other details can be found in the CMC for example.
+
+!tip 1
