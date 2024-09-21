@@ -1,0 +1,3 @@
+True, we are always the last one to know.
+
+^(!tip 1)
