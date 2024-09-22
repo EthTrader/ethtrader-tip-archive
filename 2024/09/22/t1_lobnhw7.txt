@@ -1,0 +1,3 @@
+Number 1 is ideal
+
+^(!tip 1)

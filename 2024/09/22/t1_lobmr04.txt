@@ -1,0 +1,5 @@
+1) remove the 0.5 multiplier
+
+2) The 50 comment cap shouldn't be applied to the daily
+
+^(!tip 1)
