@@ -1,0 +1,3 @@
+AI coins will print money
+
+^(!tip 1)
