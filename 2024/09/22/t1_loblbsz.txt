@@ -1,0 +1,3 @@
+McHunt will be rich soon
+
+^(!tip 1)
