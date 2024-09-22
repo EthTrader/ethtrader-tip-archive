@@ -1,0 +1,5 @@
+Our mods are not as active as r/cc mods, maybe we can automate it?
+
+Next round, I'll make a governance proposal to autofilter every low quality website (coingape, coinmarketcap etc) I have a list of  websites that contain low quality articles.
+
+^(!tip 1)
