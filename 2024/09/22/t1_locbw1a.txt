@@ -1,0 +1,3 @@
+Does the "unreliable source" flair have a multiplier?
+
+^(!tip 1)
