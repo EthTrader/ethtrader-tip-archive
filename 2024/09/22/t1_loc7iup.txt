@@ -1,0 +1,7 @@
+Personally, I'd rather have more manual moderation than rely on automation.
+
+Rather than posts get deleted, and users fork out the Pay2Post fee for text posts that don't need 200 words, I would rather they simply flair posts that don't meet that requirement as "fluff" or "question" so they still get the 0.1x multiplier.
+
+Instead, we rely on the bot to automate that process, and its does mean we automatically cut out low effort posts altogether (Not strictly a bad thing) but it doesn't allow for new users to post their 0.1x multiplier questions. 
+
+!tip 1

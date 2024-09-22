@@ -1,0 +1,3 @@
+This month Fred
+
+^(!tip 1)
