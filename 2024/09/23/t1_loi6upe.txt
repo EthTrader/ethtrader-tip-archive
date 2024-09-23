@@ -1,0 +1,5 @@
+Man, that's a complicated question! So, I used AI to answer this one for me, I punched the liquidity pool data in and here what it says!
+
+Approximately 15,187,401 DONUT would need to be dumped, with no buy orders, to get the price down to 0.001.... however I have not factored in how many DONUTs are in the Uniswap liquidity pool on Mainnet - that would increase the answer.
+
+!tip 1
