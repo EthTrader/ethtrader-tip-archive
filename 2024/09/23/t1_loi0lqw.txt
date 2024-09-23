@@ -1,0 +1,3 @@
+I think we'll test $2.8k this week.
+
+^(!tip 1)
