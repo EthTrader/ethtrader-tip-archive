@@ -1,0 +1,3 @@
+The 50 comment rule will make life easy for us 
+
+^(!tip 1)
