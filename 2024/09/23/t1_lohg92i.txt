@@ -1,0 +1,3 @@
+>The Ethereum Virtual Machine (EVM) has emerged as one of the fundamental building blocks of blockchain engineering. EVM allows developers to write and deploy smart contracts across different platforms.
+
+!tip 1
