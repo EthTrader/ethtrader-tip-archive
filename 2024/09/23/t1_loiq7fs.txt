@@ -1,0 +1,5 @@
+>GRT is an ERC-20 token that powers The Graph, a decentralized protocol for indexing and querying data from blockchains.
+
+I also heard about it from this sub a few months ago.
+
+^(!tip 1)
