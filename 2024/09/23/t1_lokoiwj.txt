@@ -1,0 +1,3 @@
+ETH is deflationary above 15 gwei & inflationary below 15 gwei. Dencun upgrade significantly reduced the average tx fee.
+
+!tip 1
