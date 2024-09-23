@@ -1,0 +1,7 @@
+>which will be rejected at first but then it will be broken
+
+Persistence is always required!
+
+Let's see if we can actually hold 2.6k as well.
+
+!tip 1
