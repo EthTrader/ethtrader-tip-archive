@@ -1,0 +1,3 @@
+Voting is not closed yet but it looks like it'll easily pass.
+
+^(!tip 1)
