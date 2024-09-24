@@ -1,0 +1,3 @@
+What makes it hard to tell is also due to how many of the top10 tippers have less than 20k governance score, and aren't even providing full weighted tips.
+
+!tip 1
