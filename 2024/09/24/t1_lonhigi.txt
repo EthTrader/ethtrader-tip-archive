@@ -1,0 +1,3 @@
+This is the whales way!
+
+^(!tip 1)
