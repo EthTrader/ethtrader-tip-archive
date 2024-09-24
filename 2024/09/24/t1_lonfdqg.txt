@@ -1,0 +1,3 @@
+But the price is still holding nicely
+
+^(!tip 1)
