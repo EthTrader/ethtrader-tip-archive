@@ -1,0 +1,3 @@
+***!permaban \[Not enough zeros after the tip 1\]***
+
+>!!tip 1!<
