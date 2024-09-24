@@ -1,0 +1,2 @@
+Implementation needs definitely to be done. As far as i can tell the bot does not store every created comment hash of every user here, but that's what's necessary. It also will not work retrospectively since the data is missing then, you can only grab the last 1000 comments of a user. 
+!tip 1
