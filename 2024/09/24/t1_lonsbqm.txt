@@ -1,0 +1,5 @@
+Around 200 Eigen when we count Season 1 + Season 2 allocations
+
+Pre-market price fell from $8 to $3.50 per token recently
+
+!tip 1
