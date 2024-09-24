@@ -1,0 +1,9 @@
+>  The proposal outlined "plans to launch the Treasure chain as an L2 leveraging ZKsync’s ZK Stack technology, instead of Arbitrum Orbit as previously planned
+
+And in an article I previously posted
+
+> "As we advanced our own L2 solution, it became clear that ZKsync’s technology stack aligns more closely with our mission to build a decentralized gaming ecosystem capable of mass adoption."
+
+So - for whatever reasons, it seems Treasure DAO are in favour of a ZKRollup to proceed, rather than an Optimistic Rollup.
+
+!tip 1
