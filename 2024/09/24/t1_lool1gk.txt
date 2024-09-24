@@ -1,0 +1,3 @@
+]NO[ for now. The topic limiter should help cool down the link spam
+
+^(!tip 1)
