@@ -1,0 +1,5 @@
+>Backed brings real-world assets on-chain, issuing permissionless tokens that track the value of fully collateralized real-world assets, such as stocks or ETFs.
+
+https://backed.fi/
+
+^(!tip 1)
