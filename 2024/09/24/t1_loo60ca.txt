@@ -1,0 +1,5 @@
+> One option might be to increase the quorum threshold, for example, from 67% to 75% or higher. Vitalik Buterin warned, though, that this could reduce the cost of attacks, making the network vulnerable in new ways.
+
+The attacks didn't even happen and he already has a solution for them.
+
+!tip 1
