@@ -1,0 +1,4 @@
+Listing your tokens on dead chain may not be such a good idea. 
+
+
+!tip 1
