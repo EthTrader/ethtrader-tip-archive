@@ -1,0 +1,7 @@
+It's a pretty straightforward, user-friendly process.
+
+Just head over to the [dashboard](https://donut-dashboard.com/#/membership), connect your wallet, and mint!
+
+You're going to get a prompt asking you to approve DONUT spending. Just limit it to the membership price, even though it's already prefilled.
+
+>!!tip 1!<
