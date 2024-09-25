@@ -1,0 +1,3 @@
+The first 50 comments **that get tipped** (upvoted) will count
+
+^(!tip 1)
