@@ -1,0 +1,3 @@
+Yes. Tips have been reset
+
+!tip 1
