@@ -1,0 +1,3 @@
+What about tip1 comments that are getting deleted by autobot?
+
+!tip 1
