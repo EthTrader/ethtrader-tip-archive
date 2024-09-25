@@ -1,0 +1,3 @@
+yup, tip status has started again from 0, it means snapshot has been taken 😁
+
+!tip 1
