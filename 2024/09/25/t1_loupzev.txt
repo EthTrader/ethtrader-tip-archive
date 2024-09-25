@@ -1,0 +1,5 @@
+>Let´s say I do 50 comments and every comment gets 3 tips from bronuts. Do all 150 tips count then or only 50 tips?
+
+If someone tips you 1k donuts in a single tip, it counts as 1 tip.
+
+^(!tip 1)
