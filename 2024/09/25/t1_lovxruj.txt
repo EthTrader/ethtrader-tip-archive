@@ -1,0 +1,11 @@
+>Okay so it can be that 25 comments are tipped and 25 are not and then the daily cap is reached.
+
+You got it, yes that's right.
+
+>Even only ‚tip 1’ are counting as a comment, right?
+
+I'm going to clarify this detail with the devs. Technically shouldn't count but not sure if that's incorporated into the code.
+
+Assuming it's not, it's a lot more work. Either way I'll get an accurate answer soon.
+
+>!!tip 1!<
