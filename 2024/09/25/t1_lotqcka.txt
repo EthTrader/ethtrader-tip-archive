@@ -1,0 +1,11 @@
+I just look at the logo and the name and think... yeh, people gonna buy that!
+
+I literally asked a friend what they preferred between MEW and DOGWIFHAT 
+
+Of course they chose the dog, and quoted a simpson quote to me.
+
+Good ole memecoins! 
+
+That said, yes, it's worth running the contract through tokensniffer and making sure there arn't things that can be manipulated, like adjustable token tax etc...
+
+!tip 1
