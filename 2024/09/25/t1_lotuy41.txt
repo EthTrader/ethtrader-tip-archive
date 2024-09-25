@@ -1,0 +1,5 @@
+Not sure your example works. It's our first 50 comments are eligible to receive tips isn't it?
+
+So a post could get 100 x 1 tip and they'd still get the 100 'upvotes'
+
+!tip 1
