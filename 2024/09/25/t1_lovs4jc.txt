@@ -1,0 +1,5 @@
+Only comments count towards the limit, not tips themselves.
+
+So it doesn't matter if your comment gets tipped / tip-upvoted, it will count towards the daily limit of 50. And as such, any tip-upvotes you receive within the range of those 50 comments will count towards your distribution score.
+
+>!!tip 1!<
