@@ -1,0 +1,3 @@
+Post ratio should go up since less tips where spend on posts compared to last distribution.  
+Comment ratio should go down since more tips where spend on comments compared to last distribution.  
+!tip 1
