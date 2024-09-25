@@ -1,0 +1,3 @@
+Im out of fiat (pre rich)
+
+^(!tip 1)
