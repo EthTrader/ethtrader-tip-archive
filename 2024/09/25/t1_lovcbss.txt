@@ -1,0 +1,3 @@
+Tips will still be executed as tips even if the comment is ineligible for rewards.
+
+!tip 1
