@@ -1,0 +1,3 @@
+Yeah, donut is pegged to ETH 
+
+^(!tip 1)
