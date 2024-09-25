@@ -1,0 +1,5 @@
+But the snapshot has not been taken yet.
+
+Also, the rule must be applied at the start of the other round.
+
+!tip 1
