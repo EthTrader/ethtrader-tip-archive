@@ -1,0 +1,9 @@
+>Trusttoken
+
+Distrusttoken
+
+>Truecoin
+
+Falsecoin 
+
+^(!tip 1)

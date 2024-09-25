@@ -1,0 +1,3 @@
+Crypto acceptance is enabled.
+
+!tip 1
