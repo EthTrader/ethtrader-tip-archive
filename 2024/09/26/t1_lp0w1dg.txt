@@ -1,0 +1,5 @@
+>I believe the original protocol was that users are allowed to delete comments in order to manage their daily count, and that self-deleted comments wouldn't count towards the limit.
+
+Tbh if this is allowed, there's no point in making the rules then. If a deleted post submission can be counted, I guess deleted comments too should be counted
+
+>! !tip 1 !<
