@@ -1,0 +1,3 @@
+I think reddito said the tip by itself won't count because the bot will remove it
+
+!tip 1
