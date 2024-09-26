@@ -1,0 +1,5 @@
+Outcome of ETFs weren't as expected. I blame Grayscale, Ethereum Foundation and a little bit on Dencun upgrade which moved majority of activities to L2s due to drop in their transaction costs. I may be wrong through about the last part. Only time will tell how it plays out in long term. 
+
+Also Vitalik's proposal to increase blob count along with EIP 7623 seems like a good plan. Gotta wait and watch.
+
+^(!Tip 1)
