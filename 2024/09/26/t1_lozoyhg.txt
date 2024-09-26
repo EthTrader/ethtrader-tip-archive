@@ -1,0 +1,5 @@
+>hard truth is that a very small set of services consistently makes up the majority of Ethereum usage, and these sets largely revolve around speculation or simple value transfer, not necessarily the type of complex “real-world utility” use cases originally envisioned by the developers of the Ethereum Foundation.
+
+This is key and definetly a valid point.
+
+!tip 1
