@@ -1,0 +1,2 @@
+Rules should allow us to mention other coins in our post titles 
+!tip 1
