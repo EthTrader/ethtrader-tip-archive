@@ -1,0 +1,3 @@
+Allow only 1 link post per day.
+
+^(!tip 1)

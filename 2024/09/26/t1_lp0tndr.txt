@@ -1,0 +1,7 @@
+>Implement higher content standards
+
+Block all low quality news sources
+
+
+
+^(!tip 1)

@@ -1,0 +1,6 @@
+>believe the original protocol was that users are allowed to delete comments in order to manage their daily count, and that self-deleted comments wouldn't count towards the limit.
+
+
+I'm against this, users will spam 100 comments then at the end of the day, they'll delete the ones that weren't tipped lol
+
+^(!tip 1)
