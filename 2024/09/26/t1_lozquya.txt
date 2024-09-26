@@ -1,0 +1,3 @@
+”Bot stuff” doesn’t count, like !post status etc, and also ”!tip 1” doesn’t count since the automod deletes that comment automatically
+
+!tip 1
