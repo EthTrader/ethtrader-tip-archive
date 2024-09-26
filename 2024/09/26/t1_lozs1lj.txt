@@ -1,0 +1,3 @@
+Though tokenization could be the next big thing but 10T in the next 6 years can be tough.
+
+^(!tip 1)
