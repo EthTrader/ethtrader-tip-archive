@@ -1,0 +1,3 @@
+Smart farmers sell immediately then buy back after it dumps
+
+^(!tip 1)
