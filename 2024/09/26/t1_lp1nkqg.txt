@@ -1,0 +1,3 @@
+Very nice i could predict/compute quite a lot of it already. at one point i will just have also implemented the same post processing of your offchain tip csv :D
+
+!tip 1
