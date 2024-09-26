@@ -1,0 +1,9 @@
+15 users posted 75+ times for the month, that's pretty much 15 users posting the maximum each and every single day for the entire round.
+
+You can either look at increasing content standards, which means more rules for people to get confused about.
+
+Or you can reduce 3 posts per day down to 2 - which unfortunately, would be limiting in some cases.
+
+Or, instead of 3 posts per day, you look at something else like 15 posts per week - but again, that'll confuse people and require more dev work.
+
+!tip 1
