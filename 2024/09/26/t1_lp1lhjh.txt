@@ -1,0 +1,6 @@
+Long = price increase
+Short = price decrease
+
+Or am I wrong ?
+
+ !tip 1
