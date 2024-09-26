@@ -1,0 +1,5 @@
+>To spot fake USDT, verify the token's blockchain
+
+its not even that hard , matter of fact metamask will warn you about these fake usdt contracts
+
+!tip 1
