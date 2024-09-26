@@ -1,0 +1,21 @@
+Round 141 - Quick CSV Analysis  
+
+
+||Round 141|Previous Round|Difference|
+|:-|:-|:-|:-|
+|**Users on Initial CSV**|**319**|**355**|**-36**|
+|**Users on Final CSV**|**249**|**264**|**-15**|
+|**Post Ratio**|**19.98**|**16.34**|**+3.64**|
+|**Comment Ratio**|**9.59**|**9.86**|**-0.27**|
+|**Total Posts**|**2523**|**2553**|**-30**|
+|**Link Posts Dominance**|**81.37%**|**-** |**-**|
+|**Users: 50+ Posts**|**24**|**28**|**-4**|
+|**users: 75+ Posts**|**15**|**11**|**+4**|
+|**Users: 1500+ Comments**|**17**|**18**|**-1**|
+|**Users: 2500+ Comments**|**12**|**6**|**+6**|
+
+  
+Also. u/EthTraderCommunity 8.5k for Moderation?
+
+  
+!tip 1

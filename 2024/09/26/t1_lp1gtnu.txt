@@ -1,0 +1,3 @@
+The bot automatically blocks any headline that contains the word bitcoin.
+
+!tip 1
