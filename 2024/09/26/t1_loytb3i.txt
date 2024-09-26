@@ -1,0 +1,4 @@
+How many active players does the game have right now?
+
+
+**!tip 1**
