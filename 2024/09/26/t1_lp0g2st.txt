@@ -1,0 +1,5 @@
+We need to reduce links' weight to 0.50 maybe?
+
+Btw do you know what points mean in the CVS?
+
+!tip 1

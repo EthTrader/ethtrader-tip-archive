@@ -1,0 +1,3 @@
+Like Shrek once said, "Ethereum is like an Onion"
+
+^(!tip 1)
