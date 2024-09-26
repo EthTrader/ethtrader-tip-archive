@@ -1,0 +1,5 @@
+>USDe differs from traditional stablecoins by using derivative hedging strategies instead of direct fiat or asset backing. It relies on ether, bitcoin, solana and other crypto assets as collateral, with an arbitrage-based minting and redeeming system to maintain its U.S. dollar peg. It also generates yields via a cash-and-carry strategy.
+
+Seems too complicated and risky. What happens when Sol fcuks up?
+
+^(!tip 1)
