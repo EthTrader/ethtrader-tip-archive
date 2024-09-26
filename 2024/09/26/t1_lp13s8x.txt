@@ -1,0 +1,3 @@
+Sushiswap actually uses stargate to facilitate cross-chain transfers, so it is possible... but, there is either insufficient liquidity or there it is an issue with Sushi itself
+
+!tip 1

@@ -1,0 +1,4 @@
+Either there is a liquidity issue, or an issue with Sushi's cross-chain facilitation, I would suggest using either [Rhino.Fi](https://Rhino.Fi) or [Jumper.Exchange](https://Jumper.Exchange) to bridge your BASE ETH across to Arb One, and then complete the trade.  
+
+
+!tip 1
