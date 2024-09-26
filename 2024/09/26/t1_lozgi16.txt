@@ -1,0 +1,3 @@
+That guy has been a lot in the news recently.
+
+^(!tip 1)
