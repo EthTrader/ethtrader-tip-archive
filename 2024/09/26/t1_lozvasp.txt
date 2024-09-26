@@ -1,0 +1,3 @@
+I hope Uptober continues its previous years pattern.
+
+^(!tip 1)
