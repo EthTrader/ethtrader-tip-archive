@@ -1,0 +1,3 @@
+SEC always uses the delaying tactics, but they never succeed.
+
+^(!tip 1)
