@@ -1,0 +1,3 @@
+Maker (MKR) is a governance token associated with the MakerDAO and Maker Protocol, both of which are built on the Ethereum blockchain. The primary function of Maker is to manage DAI, a decentralized cryptocurrency that aims to maintain a stable value closely tied to the US dollar.
+
+!tip 1
