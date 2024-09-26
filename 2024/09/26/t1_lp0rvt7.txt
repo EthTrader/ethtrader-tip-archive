@@ -1,0 +1,5 @@
+That is why you never do your crypto stuff on regularly used device. Be it a mobile or a laptop/pc. 
+
+It's always a good idea to use an old phone for hot wallets and install nothing else on it.
+
+^(!Tip 1)
