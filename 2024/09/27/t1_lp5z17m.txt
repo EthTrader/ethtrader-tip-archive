@@ -1,0 +1,3 @@
+EIP-7623 will help with the blob feature and rollups will be more efficient. Win-Win.
+
+ !tip 1
