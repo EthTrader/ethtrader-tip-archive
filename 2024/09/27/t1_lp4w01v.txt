@@ -1,0 +1,21 @@
+>Arbitrum 14.3B
+
+Base 7.02B
+
+Optimism 6.4B
+
+Blast 1.5B
+
+Mantle&scroll 1.28B
+
+ZK 920M
+
+Linea 809M
+
+Starknet 720M
+
+Manta 597M
+
+Saved y'all a click
+
+^(!tip 1)
