@@ -1,0 +1,3 @@
+It will be unusual if we have a day without partnership.
+
+^(!tip 1)
