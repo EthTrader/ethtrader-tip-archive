@@ -1,0 +1,3 @@
+yes for eth & evm compatible chains, while for solana chain it's raydium
+
+!tip 1
