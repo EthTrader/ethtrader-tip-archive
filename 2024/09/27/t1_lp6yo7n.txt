@@ -1,0 +1,3 @@
+Every pedestrian you run over = $THEFT
+
+!tip 1
