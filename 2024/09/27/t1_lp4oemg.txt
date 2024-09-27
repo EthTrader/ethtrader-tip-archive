@@ -1,0 +1,3 @@
+Nice. This will pump starknet's price
+
+^(!tip 1)
