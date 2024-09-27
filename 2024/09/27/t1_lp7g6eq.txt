@@ -1,0 +1,3 @@
+ETH is the safest of all.
+
+^(!tip 1)
