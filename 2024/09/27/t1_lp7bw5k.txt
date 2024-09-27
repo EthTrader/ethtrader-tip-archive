@@ -1,0 +1,5 @@
+It should be called DAW (Daily Active Wallets) if we're considering the technicalities.
+
+It won't ever be possible to actually detect the actual number of users given how fast the tech is evolving where even a trading bot can manage multiple wallets.
+
+^(!Tip 1)
