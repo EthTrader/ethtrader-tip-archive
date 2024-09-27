@@ -1,0 +1,3 @@
+#High activity means nothing in these ranks. It's all about new visitors. ETH pump = ranking pump
+
+^(!tip 1)
