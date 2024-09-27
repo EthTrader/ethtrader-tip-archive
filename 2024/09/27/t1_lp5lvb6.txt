@@ -1,0 +1,5 @@
+>Vitalik Buterin, co-founder of Ethereum, is sounding the alarm on the network’s capacity limitations and advocating for an increase in the “blob count” to further scale the ecosystem
+
+Can someone explain me what is "blob count" ?
+
+!tip 1
