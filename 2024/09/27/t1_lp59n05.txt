@@ -1,0 +1,3 @@
+One day, USDC will be the number 1 stablecoin
+
+^(!tip 1)
