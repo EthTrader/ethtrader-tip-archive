@@ -1,0 +1,3 @@
+Dencun upgrade brought with it cheaper L2 gas fees due to blobs. Proto-danksharding or blobs allow for efficient storage of large amounts of temporary data from zk-rollup L2s in ETH blocks, but the space is already at 75% capacity. So if it congests further before it's addressed with an upgrade, we might see L2 gas fees rise again
+
+!tip 1
