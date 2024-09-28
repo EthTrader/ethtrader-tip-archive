@@ -1,0 +1,3 @@
+True, price needs a ton of fuel with a fire spark to rise.
+
+^(!tip 1)
