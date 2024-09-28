@@ -1,0 +1,7 @@
+20k Contib and the donuts to match is full weight
+
+We have tip 2 vote system now so regular upvotes don't mean anything in terms of Donut earnings
+
+Each tip of at least 1 counts as 1 upvote. If you tipped someone more than 1 it still counts as 1 upvote 
+
+!tip 1
