@@ -1,0 +1,3 @@
+Ok, Just give me your seed phrase, I'll handle the rest
+
+^(!tip 1)
