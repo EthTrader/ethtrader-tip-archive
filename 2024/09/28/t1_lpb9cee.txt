@@ -1,0 +1,3 @@
+True, we'll only know what is published for us.
+
+^(!tip 1)
