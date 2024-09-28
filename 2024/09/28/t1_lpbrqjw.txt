@@ -1,0 +1,3 @@
+True, it's hard to regain trust
+
+^(!tip 1)
