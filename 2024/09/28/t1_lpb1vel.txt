@@ -1,0 +1,5 @@
+Honestly i think they should never go with launching a token. Arbitrum shouldn't had had one either. 
+
+But with Polygon its a bit complicated as they used Matic for actual fees instead of ETH. Blame the idea of running a parallel Blockchain.
+
+^(!Tip 1)
