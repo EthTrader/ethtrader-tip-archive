@@ -1,0 +1,3 @@
+Depends. For text post it‘s 2.5 full tip weight to break even and for link about 3.125 full vote weight.
+
+!tip 1

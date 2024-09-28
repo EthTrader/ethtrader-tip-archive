@@ -1,0 +1,5 @@
+It's performing good, that's why
+
+Look at it's token, it's pumping
+
+^(!tip 1)
