@@ -1,0 +1,3 @@
+Shiba is insanely in the news recently 
+
+^(!tip 1)
