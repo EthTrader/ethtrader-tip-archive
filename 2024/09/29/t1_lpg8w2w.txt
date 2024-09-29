@@ -1,0 +1,3 @@
+Yes, I heard on X that a malicious domain takes over their domain and subdomains.
+
+^(!tip 1)
