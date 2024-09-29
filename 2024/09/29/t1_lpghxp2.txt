@@ -1,0 +1,7 @@
+Saved you a click
+
+#Top ten countries 
+
+Netherland, Austria, Switzerland, Germany, Finland, Luxembourg, Liechtenstein, Canada, Sweden and Spain
+
+^(!tip 1)
