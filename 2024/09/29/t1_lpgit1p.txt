@@ -1,0 +1,3 @@
+Wait for shib price to be 0.01 to retire 
+
+!tip 1
