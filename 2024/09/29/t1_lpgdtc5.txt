@@ -1,0 +1,5 @@
+Yes, it’s common for people to use burner wallets to farm a-drop over their main wallet.
+
+But might be helpful to use a wallet with at least some activity , sometimes if a wallet has zero assets/transactions in it the project might suspect it is a Sybil (if it has anti Sybil measures)
+
+!tip 1.069
