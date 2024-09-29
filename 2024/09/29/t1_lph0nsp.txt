@@ -1,0 +1,3 @@
+Shiba is doing a reasonable job these days.
+
+^(!tip 1)
