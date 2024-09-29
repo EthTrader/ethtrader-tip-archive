@@ -1,0 +1,9 @@
+The thing about airdrops is the criteria are not actually released until after a snapshot is taken. 
+
+Personally, I only use one wallet for airdrops - but some people use multiple.
+
+Some projects will put in anti-sybil and anti-bot detection.
+
+My approach is just to use 1 wallet and do things once in a while; and that's seemed to work well for me.
+
+!tip 1
