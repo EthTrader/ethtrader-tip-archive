@@ -1,0 +1,5 @@
+Uptober is around the corner.
+
+UpOnly times ahead!
+
+^(!tip 1)
