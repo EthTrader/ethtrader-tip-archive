@@ -1,0 +1,15 @@
+I'm not sure how simpler I could put this, but I'll try.
+
+I'm proposing to introduce a dynamic formula for determining advertising fees on r/EthTrader based on:
+
+1. unique monthly views (UMV)
+2. market value of DONUT (MV)
+3. multiplier (M)
+
+The formula would help us make sure that advertising costs reflect the sub’s traffic and market conditions. This would promote transparency and fairness.
+
+I'm also proposing a discount system for extended rentals.
+
+I guess TLDR: The goal is to replace outdated fixed fees and use a flexible pricing structure, while keeping fees reasonable as traffic changes
+
+>!!tip 1!<
