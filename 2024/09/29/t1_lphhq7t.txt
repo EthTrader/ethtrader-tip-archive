@@ -1,0 +1,13 @@
+Ahoy there! 
+
+If it's been over a year a lot would have changed! Check out the last CSV to see ratios https://www.reddit.com/r/ethtrader/s/f8JvXWHiW4
+
+The most significant change is us moving to 'tip 2 vote'. Classic Reddit upvotes no longer mean anything in terms of Donut earnings
+
+We now tip to upvote. For a tip to count as an upvote it must be at least 1 and anything tipped over 1 will still count as 1 upvote. The receiver will still get all the donuts you tip them though
+
+We have a weight system and for an upvote to count as 1 you must hold 20k governance (20k contrib plus the donuts to match) if you had less say 10k it would count as 0.5 of an upvote 
+
+Welcome back 
+
+!tip 69
