@@ -1,0 +1,3 @@
+What was your guess? Potato?
+
+^(!tip 1)
