@@ -1,0 +1,3 @@
+Shibarium is an L2 blockchain that enhances the Shiba Inu ecosystem.
+
+^(!tip 1)
