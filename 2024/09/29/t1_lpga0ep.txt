@@ -1,0 +1,3 @@
+Testnets are usually disappointing, hopefully, this one cooks 
+
+^(!tip 1)
