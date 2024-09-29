@@ -1,0 +1,3 @@
+It's going to be hard, don't you think?
+
+^(!tip 1)
