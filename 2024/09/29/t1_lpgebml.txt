@@ -1,0 +1,7 @@
+This is a testnet so everything is ‘free’
+
+Yes they use bera tokens
+
+Not sure if their Mainnet launches the gas fees will switch to Eth
+
+!tip 1.69
