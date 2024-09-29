@@ -1,0 +1,44 @@
+Here are crypto's top overall coins by notable development activity the past 30 days. Directional indicators represent each project's ranking rise or fall since last month:
+
+➡️ 1) 
+@dfinity
+ $ICP 🥇
+
+📈 2) 
+@chainlink
+ $LINK 🥈
+
+📉 3) 
+@hedera
+ $HBAR 🥉
+
+📈 4) 
+@optimism
+
+ $OP
+📉 5) 
+
+@cardano
+ $ADA
+
+➡️ 6) 
+@cosmos
+ $ATOM
+
+📈 7) 
+@zksync
+ $ZK
+
+📈 8) 
+@avax
+ $AVAX
+
+➡️ 9) 
+@polkadot
+ $DOT
+
+➡️ 10) 
+@kusamanetwork
+ $KSM
+
+^(!tip 1)
