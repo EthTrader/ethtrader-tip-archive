@@ -1,0 +1,3 @@
+First, we need to be listed on CEX 
+
+^(!tip 1)
