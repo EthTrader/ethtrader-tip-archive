@@ -1,0 +1,9 @@
+I spent a whole day thinking and adjusting the formula. But this was the final result, and the one that's the most reasonable, transparent and manageable imo.
+
+> Personally, I feel we could slightly increase the discount for long term rentals to encourage advertisers to commit to longer deals.
+
+Well yea, this is a poll proposal so any feedback is definitely appreciated. Any variable or value in the formula can be changed, as long as the result makes sense.
+
+What changes for the variable D (discount) do you have in mind?
+
+>! !tip 1 !<
