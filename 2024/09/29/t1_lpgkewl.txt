@@ -1,0 +1,3 @@
+Not on EVM. Currently on Solana.
+
+^(!Tip 1)
