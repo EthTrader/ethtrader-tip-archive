@@ -1,0 +1,3 @@
+They have to mint and migrate some Donuts from L1 to Arbitrum One. The wallet on Arbitrum One doesnt have enough Donuts to fund the distribution of the previous round.
+
+!tip 1
