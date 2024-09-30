@@ -1,0 +1,3 @@
+As far as I can tell, theres no functional bridge with liquidity to transfer from Gnosis to Arbitrum or Mainnet, and I don't think there is a lot of liquidity left on Honeyswap either.
+
+!tip 1

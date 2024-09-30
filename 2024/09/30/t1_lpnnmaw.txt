@@ -1,0 +1,5 @@
+It won't be in the next 2 / 3 days, as we have to mint and migrate some Donuts from L1 to Arbitrum One. Right now the wallet on Arbitrum One doesn't have enough Donuts to fund the distribution of the previous round.
+
+Just a little longer!
+
+>!!tip 1!<
