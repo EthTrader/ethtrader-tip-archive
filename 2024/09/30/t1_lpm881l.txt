@@ -1,0 +1,5 @@
+This is an implementation idea on how the Donuts are distributed, rather than a rule.  
+There is nothing the user has to do from their end if this is to be implemented. In fact, we can have a discussion to remove the Pay2Post to make it even simpler. But that might need another Poll/discussion again.  
+Appreciate the honest feedback.
+
+^(!tip 2)
