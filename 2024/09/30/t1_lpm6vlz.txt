@@ -1,0 +1,3 @@
+This proposal is meant to remove many of the earlier rules and simplify things.
+
+^(!Tip 1)

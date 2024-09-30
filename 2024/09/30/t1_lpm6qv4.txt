@@ -1,0 +1,9 @@
+So ratio would be equal for both posts and comments every round? Like:
+
+
+```
+(Post ratio + Comment ratio)/2 = Final ratio for both
+```
+
+
+**!tip 1**

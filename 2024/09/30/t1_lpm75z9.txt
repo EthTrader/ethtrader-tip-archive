@@ -1,0 +1,5 @@
+The 50 comment cap is in place to mitigate that misuse or call it a spam. 
+
+Users now have to make every comment count.
+
+^(!Tip 1)
