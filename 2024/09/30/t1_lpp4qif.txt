@@ -1,0 +1,3 @@
+Tipping like a degen. You should analyze tips from registered users to not registered users and maybe how many of them register. If possible it can bring interesting information.
+
+!tip 1
