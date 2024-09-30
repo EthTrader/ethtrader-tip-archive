@@ -1,0 +1,3 @@
+USD major ($USDm)
+
+^(!tip 1)
