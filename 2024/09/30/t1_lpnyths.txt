@@ -1,0 +1,3 @@
+That sort of coin it is
+
+^(!tip 1)
