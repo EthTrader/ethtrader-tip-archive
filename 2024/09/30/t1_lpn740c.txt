@@ -1,0 +1,3 @@
+Take a hourly snapshot instead of a daily snapshot 😆
+
+^(!tip 1)
