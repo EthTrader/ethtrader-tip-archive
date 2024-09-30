@@ -1,0 +1,3 @@
+I know one thing, buy high sell low
+
+^(!tip 1)
