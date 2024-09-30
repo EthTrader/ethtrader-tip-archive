@@ -1,0 +1,3 @@
+Pump to $1 please.
+
+^(!tip 1)
