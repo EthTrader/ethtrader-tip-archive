@@ -1,0 +1,3 @@
+Removed posts are still visible for the CSV though no? So although the post won't count the comments that received tips will still get the 'upvotes'?
+
+!tip 1
