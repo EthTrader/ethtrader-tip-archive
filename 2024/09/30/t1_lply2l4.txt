@@ -1,0 +1,4 @@
+Afaik Ethereum does not aim to collect fees. Fees are not the goal, they’re a byproduct.
+Perhaps tweaking the blob fees may be an option.
+
+^(!Tip 1)
