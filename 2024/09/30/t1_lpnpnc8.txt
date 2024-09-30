@@ -1,0 +1,5 @@
+It probably won't make too much difference at the end of the day, most bridges will charge you mainnet fees anyway to complete the bridge.
+
+Just send some ETH from whatever more convenient, either bridging from a wallet, or send it from a CEX.
+
+!tip 1
