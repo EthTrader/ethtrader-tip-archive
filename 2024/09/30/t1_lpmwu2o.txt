@@ -1,0 +1,5 @@
+There are technical limitations, more specifically the Reddit API, that do not allow us to count removed comments.
+
+Basically it's as if they never existed on the site.
+
+>!!tip 1!<
