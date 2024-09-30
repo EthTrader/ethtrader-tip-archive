@@ -1,0 +1,3 @@
+The events can be both positive and negative events. 
+
+!tip 1
