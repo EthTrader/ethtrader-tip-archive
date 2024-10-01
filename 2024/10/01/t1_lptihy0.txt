@@ -1,0 +1,5 @@
+Wait really? I thought they count. Only deleted comments like the only (!tip) command that was auto deleted by automod. 
+
+Not sure about the bot post and tip status commands though
+
+>! !tip 1 !<
