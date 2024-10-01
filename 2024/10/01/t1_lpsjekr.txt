@@ -1,0 +1,2 @@
+Polygon is cheaper and maybe faster
+!tip 1
