@@ -1,0 +1,5 @@
+>Do you like it buddy
+
+Yes - Yes I do.
+
+^(!tip 1)
