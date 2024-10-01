@@ -1,0 +1,3 @@
+If a coin you hold isn't hyped up, you won't make it
+
+^(!tip 1)
