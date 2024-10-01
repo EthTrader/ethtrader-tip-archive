@@ -1,0 +1,5 @@
+It isn't exactly free. Its gas-token free.
+
+Protocol pays for the gas upfront in native token and takes a fee from you in whatever other token you have available like USDC, Donuts, Moons etc.
+
+^(!Tip 1)
