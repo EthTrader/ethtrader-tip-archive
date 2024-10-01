@@ -1,0 +1,3 @@
+True, strict regulations are mandatory.
+
+^(!tip 1)
