@@ -1,0 +1,3 @@
+Smart move waiting for a better gas fee. I still can't believe we got under 1 GWEI in the first place. 
+
+!tip 1

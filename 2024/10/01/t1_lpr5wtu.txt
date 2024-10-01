@@ -1,0 +1,3 @@
+GAS fees were less than 1 gwei for a few weeks, and then suddenly hitting 15+ for atleast 10 days. On Layer2's, you don't really care, but on Mainnet that's several dollars worth.
+
+!tip 1
