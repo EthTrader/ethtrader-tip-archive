@@ -1,0 +1,3 @@
+I'm ready for a trip to the moon
+
+^(!tip 1)
