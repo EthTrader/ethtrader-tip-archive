@@ -1,0 +1,11 @@
+I don't have any idea, so I googled a bit and found:
+
+The cost of an ENS name is dependent on how many characters it contains:
+
+5+ characters like $5 annually 
+
+Less characters' names will be more expensive.
+
+You need to verify it's not confirmed 
+
+^(!tip 1)
