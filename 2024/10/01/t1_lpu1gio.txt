@@ -1,0 +1,4 @@
+Wait transactions have been sent to multisig?
+
+
+**!tip 1**
