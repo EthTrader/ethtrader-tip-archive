@@ -1,0 +1,3 @@
+Yep, rabby is a EVM wallet just like metamask.
+
+!tip 1
