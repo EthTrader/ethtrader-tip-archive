@@ -1,0 +1,3 @@
+If these addresses dump, then Shib will take years to revive.
+
+^(!tip 1)
