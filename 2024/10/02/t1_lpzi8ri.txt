@@ -1,0 +1,3 @@
+If they discard, the token dies.
+
+!tip 1
