@@ -1,0 +1,3 @@
+I hope they are busy in cooking something delicious.
+
+^(!tip 1)
