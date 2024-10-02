@@ -1,0 +1,3 @@
+Restaking, in the case of EigenLayer, is the act of taking staked Ethereum and repurposing it to increase security on other Protocols. Voilà ! 
+
+ !tip 1
