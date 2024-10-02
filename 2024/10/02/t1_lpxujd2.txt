@@ -1,0 +1,3 @@
+Do we really need 69 Layer 2s out there to improve scalability?
+
+!tip 1.69
