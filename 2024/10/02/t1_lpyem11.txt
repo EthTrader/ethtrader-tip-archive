@@ -1,0 +1,4 @@
+Decrease the maximum post per user are 2 posts per day and make the weight of link post to 1.0.
+
+Allow to mention other coins in post titles. As of now, even if mods says its already allowed, posts are still removed automatically if it mention other coins
+!tip 1
