@@ -1,0 +1,3 @@
+True, this kinda news fail all TAs
+
+^(!tip 1)
