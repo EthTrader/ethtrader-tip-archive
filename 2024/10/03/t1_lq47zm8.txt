@@ -1,0 +1,3 @@
+The price won't move because the supply is too big.
+
+ !tip 1
