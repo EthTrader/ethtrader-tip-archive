@@ -1,0 +1,5 @@
+Variable factors include what the initial asset deposits were and how concentrate the liquidity positions are.
+
+For example, my initial deposit was like 1.4 ETH and 383k DONUT - but as trades have occurred, the asset balances adjust (impermanent loss) - and this can differ for some users based on their liquidity concentration (range)
+
+!tip 1
