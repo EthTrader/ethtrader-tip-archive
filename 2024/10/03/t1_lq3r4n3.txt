@@ -1,0 +1,3 @@
+wait vitalik endorsement = crash? wouldnt it supposed to be other way around?
+
+!tip 1
