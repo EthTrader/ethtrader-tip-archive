@@ -1,0 +1,5 @@
+>Ethereum has facilitated the creation of nine Layer 2 (L2) economies, generating $140 million in fees over the past year. These L2 chains, built on Ethereum, have developed unique ecosystems with specific use cases, such as lending, decentralized exchanges, and gaming. Despite concerns about L2 chains cannibalizing Ethereum's fees, they have grown independently, with some achieving partial decentralization. Ethereum remains crucial for these economies, serving as collateral and a reserve asset, while also supporting early-stage projects.
+
+Credits to coin-feeds bot
+
+!tip 1
