@@ -1,0 +1,3 @@
+Don't let a missile hit you on your way out.
+
+^(!tip 1)
