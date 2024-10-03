@@ -1,0 +1,3 @@
+Ah okay so their is a way to increase tip rate. Nice to know.
+
+!tip 1
