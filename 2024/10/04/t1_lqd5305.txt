@@ -1,0 +1,3 @@
+I'd like to see some relief to tipping weights (perhaps minimum 0.1x weight for 0 donuts?) and a 0.05x for comments in the daily after 50 comments.
+
+!tip 1
