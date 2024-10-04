@@ -1,0 +1,3 @@
+They are dynamically volatile. Problem solved.
+
+^(!Tip 1)
