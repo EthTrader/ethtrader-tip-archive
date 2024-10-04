@@ -1,0 +1,9 @@
+It's cheaper then it was, but, it's still a little more expensive than some of the others
+
+As of right now;
+
+Swap on ARB costs 0.00000574 
+
+Swap on Linea costs 0.00001748 
+
+!tip 1
