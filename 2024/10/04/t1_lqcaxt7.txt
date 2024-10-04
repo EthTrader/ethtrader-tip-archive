@@ -1,0 +1,7 @@
+Try clearing cache
+
+Also, sometimes another wallet/extension plugin  might be interfering with your metamask 
+
+My phantom wallet (solana) did that for some time. Try to temporarily deactivate some plugins and see if your Metamask works
+
+!tip 1.69
