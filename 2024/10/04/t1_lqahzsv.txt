@@ -1,0 +1,3 @@
+While activity is low enough that gas fees are minimal, no ETH is burned, instead it is inflationary for this period of time
+
+!tip 1
