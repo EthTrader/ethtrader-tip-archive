@@ -1,0 +1,3 @@
+Weird, when I type on icon in my taskbar it´s just loading forever.
+
+!tip 1
