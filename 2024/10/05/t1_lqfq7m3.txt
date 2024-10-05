@@ -1,0 +1,3 @@
+I think because of the limited number of news on the weekend, that's why I need to search for something else. May be the same with the others too.
+
+^(!tip 1)
