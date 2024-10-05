@@ -1,0 +1,5 @@
+>The upgrade introduces singleton contracts, said to reduce certain gas fees by 99% and simplify liquidity pool management.
+
+Degens should rejoice!
+
+!tip 1

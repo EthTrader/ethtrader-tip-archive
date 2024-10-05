@@ -1,0 +1,16 @@
+1.1 Uniswap
+1.2. Chainlink
+1.3. Aave
+1.4. Sky (Formerly MakerDAO)
+1.5. Synthetix
+1.6. Arbitrum
+1.7. Polygon (Matic)
+1.8. The Graph
+1.9. Balancer
+1.10. Axie Infinity
+
+
+The usual geng. 
+
+
+!tip 1
