@@ -1,0 +1,5 @@
+>Singleton contracts reduce gas fees by 99% and simplify liquidity pool management.
+
+This will excite the users.
+
+!tip 1
