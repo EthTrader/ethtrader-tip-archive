@@ -1,0 +1,3 @@
+The only thing I don't like about ERC20 tokens is the high exchange withdrawal fees.
+
+!tip 1
