@@ -1,0 +1,11 @@
+Hi Marc
+
+The transition from MATIC to POL seemed to go pretty smoothly from a user-experience end. Did everything go to plan behind the scenes or were there some unexpected obstacles that had to be overcome that you can talk about?
+
+Polymarkets has been a huge dapp for Polygon in terms of use and volume - are there any other dapps built on Polygon you believe will "explode" in 2025?
+
+While it might not be the best metric to use, it is a metric - according to l2beats, the market share of Rollups is heavily dominated by ARB and BASE in particular, all Optimistic Rollups - How long do you think until ZK's start to really grow in and catch up or even flip the competition?
+
+https://preview.redd.it/z98ef8p7n1td1.png?width=1210&format=png&auto=webp&s=2c63aa48ed55cd4f3fd8b76b6138a6464c6ed3ec
+
+!tip 1
