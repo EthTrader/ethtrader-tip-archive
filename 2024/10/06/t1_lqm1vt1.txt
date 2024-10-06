@@ -1,0 +1,7 @@
+>  intputted into Google's Notebook LM or ChatGPT via some comment command, and have a bot spit back answers on these kinds of questions for us via another comment command.
+
+On that type of subject, I've been drafting a subset of "rules and points scoring criteria" to experiment with using AI to judge text based contest submissions. 
+
+I have also run r/cryptocurrency expanded rules into AI on some different content types and it has made decisions that I would have - but it really relies on having very fine tuned and detailed expanded rules and clauses.
+
+!tip 1
