@@ -1,0 +1,5 @@
+>zero-knowledge refers to a cryptographic technique. It allows someone to prove they possess certain information without actually revealing that information itself.
+
+so more privacy incoming?
+
+!tip 1
