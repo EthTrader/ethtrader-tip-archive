@@ -1,0 +1,3 @@
+reverse Cramer 
+
+!tip 1
