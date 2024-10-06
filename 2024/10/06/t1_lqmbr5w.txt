@@ -1,0 +1,3 @@
+when self execute contract?
+
+!tip 1
