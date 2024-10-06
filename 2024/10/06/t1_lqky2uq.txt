@@ -1,0 +1,3 @@
+Probably fun time has to start after some time.
+
+^(!tip 1)
