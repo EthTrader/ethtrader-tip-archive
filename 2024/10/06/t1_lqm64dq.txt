@@ -1,0 +1,7 @@
+Amusing, those movements on the charts are simply coingecko switching from Mainnet to Arbitrum price and back to Mainnet xD
+
+Mainnet is $0.005501
+
+Arbitrum is $0.005357
+
+!tip 1
