@@ -1,0 +1,7 @@
+"This is our money printer"
+
+"We just type in 99999999 with our keyboard and press "mint"'
+
+It's very simple!
+
+!tip 1.69
