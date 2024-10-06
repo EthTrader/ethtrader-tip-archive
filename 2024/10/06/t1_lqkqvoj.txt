@@ -1,0 +1,5 @@
+>A new update from the Ethereum-Optimism GitHub repository has brought in a fresh idea: the SuperchainERC20 and ICrosschainERC20 redesign. This change is a big step to make Ethereum’s ecosystem more connected and flexible, making it more attractive in the growing blockchain Layer 2 solutions world.
+
+Awesome 👏 
+
+!tip 1
