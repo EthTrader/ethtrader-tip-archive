@@ -1,0 +1,7 @@
+Was curious about what Zero-Knowledge meant and did a quick research. Here's what I found out
+
+>zero-knowledge refers to a cryptographic technique. It allows someone to prove they possess certain information  without actually revealing that information itself. This could be useful for Ethereum because it could enable transactions to be verified without revealing all the details of the transaction, potentially improving scalability and privacy
+
+Have you also learnt something new today u/Mayusuff?
+
+!tip 1
