@@ -1,0 +1,7 @@
+If you're only looking to remove the AI tolerance on it's own, I'd certainly continue to vote against.
+
+However, I would consider allowing AI generated articles if links then incurred further multiplier reduction, somewhere in the 0.3x to 0.4x range. 
+
+Still more favorably weighted over Comedy and Media, but enough of a penalty to discourage the really low quality links.
+
+!tip 1
