@@ -1,0 +1,9 @@
+According to u/Friendly-Airline2426 
+
+>Regarding last round's distribution,
+
+>We had to mint and bridge some Donuts and send them to the treasury. Delay was due to the fact that there was not enough Donuts in the Arbitrum One multisig. As such, we had to mint new Donuts on the L1, and consequently bridge them to Arbitrum One.
+
+>A signature is currently missing to execute the distribution transaction. You can expect your Donuts between today and tomorrow.
+
+!tip 1
