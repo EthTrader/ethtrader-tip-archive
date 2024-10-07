@@ -1,0 +1,3 @@
+It can wen Degens are behind any coin.
+
+^(!tip 1)
