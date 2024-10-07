@@ -1,0 +1,7 @@
+It seems the implication is that there is no limit to the amount of Ethereum topics per day, but would be limits on all tokens/topics that is not directly Ethereum.
+
+But, we will have to wait and see.
+
+Once it's immplemented, we can always vote to change topic limit thresholds as desired.
+
+!tip 1
