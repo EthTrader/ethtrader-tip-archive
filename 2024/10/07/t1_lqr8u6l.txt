@@ -1,0 +1,3 @@
+It will keep printing regardless. The rug (if it happens) wont happen for a while.
+
+!tip 1
