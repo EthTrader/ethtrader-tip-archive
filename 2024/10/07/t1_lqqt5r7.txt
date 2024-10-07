@@ -1,0 +1,3 @@
+I believe that the times you made the rename trick you were basically cancelling the old transaction and creating a new one. Just guessing here.
+
+🍩 !tip 1
