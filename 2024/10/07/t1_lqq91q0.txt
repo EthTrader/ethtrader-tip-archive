@@ -1,0 +1,3 @@
+It's time to buy the dip. Or any news about it I'm missed.
+
+^(!tip 1)
