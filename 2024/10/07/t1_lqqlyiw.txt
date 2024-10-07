@@ -1,0 +1,5 @@
+There is no way of returning from blockchain 🫠
+
+It can return if in memepool I wasn't aware. Thanks to share.
+
+^(!tip 1)
