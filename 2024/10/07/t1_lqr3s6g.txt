@@ -1,0 +1,3 @@
+Transactions can get stuck in the mempool because of low gas fees selection or other reasons. Also if the network is overloaded and you made a mistake and you are fast you can fix your mistake. However once it abandons the mempool and go to the blockchain there is no way to cancel it.
+
+!tip 1
