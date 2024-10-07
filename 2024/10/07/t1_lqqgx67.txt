@@ -1,0 +1,3 @@
+Irrespective of where the bottom is, keep DCAing.
+
+^(!tip 1.11)
