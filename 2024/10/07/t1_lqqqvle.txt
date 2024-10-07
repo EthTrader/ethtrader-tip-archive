@@ -1,0 +1,3 @@
+I have used the nonce rename trick a few times on MM for stuck transactions. Never thought that we can also use the same approach to cancel it.
+
+^(!Tip 1)
