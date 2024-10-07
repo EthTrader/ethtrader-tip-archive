@@ -1,0 +1,3 @@
+Yes, network congestion is important but also the chances of transfers getting stuck increases in that time due to gas fees because you send it with low gas fees and they instantly rise. Your transfer will probably get taken later.
+
+🍩 !tip 1

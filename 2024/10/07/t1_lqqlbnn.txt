@@ -1,0 +1,3 @@
+Yes it is but only before it reaches the blockchain, only at mempool! Just in case pasting here a more official guide [https://info.etherscan.com/how-to-cancel-ethereum-pending-transactions/](https://info.etherscan.com/how-to-cancel-ethereum-pending-transactions/)
+
+🍩 !tip 1
