@@ -1,0 +1,5 @@
+>burn highlights the high transaction volume within decentralized applications.
+
+Gas fees are in it.
+
+^(!tip 1)
