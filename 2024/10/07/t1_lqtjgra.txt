@@ -1,0 +1,5 @@
+Great Idea, we should implement this. Ideally without a Governance Poll, like with topic limiter.
+
+!nominate
+
+!tip 1
