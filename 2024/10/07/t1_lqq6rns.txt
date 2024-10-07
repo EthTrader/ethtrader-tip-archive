@@ -1,0 +1,5 @@
+In case you're wondering, PyPI is a platform for sharing Python packages. Also, Several packages on PyPI are specifically designed to work with Ethereum. 
+
+Btw, stay safe out there guys
+
+!tip 1
