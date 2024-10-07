@@ -1,0 +1,6 @@
+>A new Ethereum Improvement Proposal (EIP-7781) aims to reduce block times from 12 to 8 seconds, increasing Ethereum's throughput by 50%.
+
+Nice proposal. I don't think anyone will notice the difference though. 
+
+
+!tip 1
