@@ -1,0 +1,5 @@
+>Aims to reduce block times from 12 to 8 seconds, increasing Ethereum's throughput by 50%.
+
+Great! Ethereum is on fire by keep improving things.
+
+^(!tip 1)
