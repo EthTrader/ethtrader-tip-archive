@@ -1,0 +1,3 @@
+50 comments cap shouldn't apply here. It should be a separate distribution pool with less ratio. Would that be a good solution?
+
+!tip 1.69
