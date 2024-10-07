@@ -1,0 +1,3 @@
+Yeah exactly. Need to switch on a setting in MM to add custom nonce. You change the new transaction nonce same as the stuck one and proceed.
+
+^(!Tip 1)
