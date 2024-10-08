@@ -1,0 +1,9 @@
+Ah fair.
+
+It's also because it's based on voting weight.
+
+So, if I vote for post A, and Buzza votes for post B. 
+
+Post B will be ranked higher, because Buzza has more governance score than me.
+
+!tip 1
