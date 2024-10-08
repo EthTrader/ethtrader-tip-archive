@@ -1,0 +1,7 @@
+> Idk why they aren't adding new multisig members
+
+It's amusing because you actually need Multisig approval to add new multisig guardians.
+
+It appears there are 2 wallets waiting to be approved as guardians xD
+
+!tip 1
