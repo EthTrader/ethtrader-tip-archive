@@ -1,0 +1,5 @@
+>I just need to catch a late night time where gwei drops near 6 between now and march, which should be possible.
+
+This is the way
+
+^(!tip 1)
