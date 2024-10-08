@@ -1,0 +1,3 @@
+Perhaps limiting links directly would be simpler.
+
+!tip 1
