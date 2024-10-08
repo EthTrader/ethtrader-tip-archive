@@ -1,0 +1,3 @@
+Arbitrum taking the Polygon approach when it comes to price action.
+
+^(!tip 1.23)
