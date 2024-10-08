@@ -1,0 +1,5 @@
+Is that
+
+>!Bulls are around the corner!<
+
+^(!tip 1)
