@@ -1,0 +1,3 @@
+I'm a big fan of making the sub clean but I don't like how the topic limiting is being executed.
+
+^(!tip 1)
