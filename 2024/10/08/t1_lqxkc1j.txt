@@ -1,0 +1,3 @@
+That's safe, as you thought.
+
+^(!tip 1)
