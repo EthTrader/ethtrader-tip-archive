@@ -1,0 +1,5 @@
+In addition to posts that are filtered out from limits not incurring a Pay2Post fee, it seems that users who are posting prematurely, within 3 hours or a 4th post of the day, are not being charged either.
+
+So, a lot of wasted pay2post fees will be reduced.
+
+!tip 1
