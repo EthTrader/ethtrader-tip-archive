@@ -1,0 +1,3 @@
+If USDT depegs for some reason, we're screwed.
+
+^(!Tip 1)
