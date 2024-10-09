@@ -1,0 +1,3 @@
+>COTI V2 solves this by enabling end-to-end encryption across Web3 applications. As an EVM-compatible L2, COTI V2 provides a developer-friendly ecosystem that has fast and scalable access to Ethereum.
+
+^(!tip 1)
