@@ -1,0 +1,7 @@
+> Still no idea why both categories had different allocations to start with.
+
+Given the differenced in devs and the differently handling of reward distributions compared to Bricks and Moons, I presume this was 2019 EthTraders way of having a 2x multiplier on posts for example - but from the original inception, something that was retained with changes over time.
+
+Except from the tip2vote change, we haven't really had an 'overhaul' of anything originally set from 2018/19
+
+!tip 1
