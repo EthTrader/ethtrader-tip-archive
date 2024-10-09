@@ -1,0 +1,11 @@
+I mean, whats the worst that can happen at this stage, right? xD
+
+The idea is that because post rewards are so much greater than comment rewards, and comments are now capped at 50 eligible for rewards, that is half the reason why link spam is so prevalent. You can still earn more donuts from posting 1 link then you would making 10 comments - but all these other rujles, like the topic limiter, the cooldown are to try and mitigate link spam.
+
+I think this approach would be simpler, and without the confusion of actual moderational rules.
+
+This proposal wouldn't have any impact on rules or moderation, it only changes the balance of rewards.
+
+And clearly, the uproar in the last few days has been about the moderation itself.
+
+!tip 1
