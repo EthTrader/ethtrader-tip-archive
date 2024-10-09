@@ -1,0 +1,3 @@
+Actually, posts that are removed by the limiter don't count in the 3 post/24hr limit
+
+^(!tip 1)
