@@ -1,0 +1,5 @@
+with the *post status* command we can summon the bot and know when we are eligible to posts since there are a few rules right now.
+
+we can only make 3 posts in a 24h window, at least 3h once from another
+
+!tip 1
