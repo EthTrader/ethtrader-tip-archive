@@ -1,0 +1,5 @@
+Maximum number of donuts to win, eg 25k.
+
+If you win 30k this round then 5k is burnt. This will add extra value in my opinion.
+
+!tip 1
