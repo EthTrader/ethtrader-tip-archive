@@ -1,0 +1,3 @@
+How was Top Limiter implemented without Governance vote? Many are asking this here. We didn‘t know about topic limiter numbers and so on.
+
+!tip 1
