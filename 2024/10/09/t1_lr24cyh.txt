@@ -1,0 +1,3 @@
+It's only a cold wallet, but you have to be careful there, too. I don't know if staking with multisig is possible.
+
+!tip 1
