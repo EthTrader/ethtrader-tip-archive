@@ -1,0 +1,11 @@
+My crazy suggestion would be a 3 part proposal..
+
+With the comment limits, and the posting restrictions, there is less need to rely on tip2vote for fair distribution.
+
+However, posting is still worth too much relative to comments, which is why tip2vote was especially required.
+
+Therefore, I would also suggest combining to Post and Comment rewards into  a single allocation, this means there is just 1 ratio for all.
+
+This will reduce the significance of post vote manipulation as we saw it.
+
+!tip 1
