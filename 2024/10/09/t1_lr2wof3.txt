@@ -1,0 +1,13 @@
+> The 50 comment cap is only affecting 10 people. why would we change rewards for them all of a sudden.
+
+Thank you for being constructive.
+
+Im saying I agree with the 50 comment cap, what I'm also suggesting is the merging of the reward pools would make it simpler to do things like implement a 0.1x multiplier for links.
+
+Because the post rewards are so much greater than the comment rewards, that is why we see things like link spam, even with the current 0.75 multiplier and associated pay2post fees.
+
+Because we now have both comments and posts being limited, a single rewards pool would simplify the processes and allow for easier balance changes with multipliers. This proposal is only intended to work in conjuction with u/Buzzalu proposal to revert back to upvotes (in case that passes)
+
+But, as it stands, and the evidence I have seen in the last 48 hours, I'll not be supporting a proposal to revert back to upvotes for rewards either - but i believe, if it did pass, this change would help disincentive post spamming.
+
+!tip 1
