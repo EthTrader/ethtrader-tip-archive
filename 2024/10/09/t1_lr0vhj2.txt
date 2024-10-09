@@ -1,0 +1,7 @@
+Sushi.com has started to implement cross-chain swaps.
+
+Jumper.Exchange and Rhino.Fi are my go to bridges I played around with while airdrop farming. Celer bridge was also pretty reliable.
+
+These days, pretty much anything I do is either on ZkSync or Arbitrum so I tend to stick with Koi.finance and Syncswap, or Sushi.com and Camelot.exchange for my needs.
+
+Welcome to EthTrader, where the subs governance token is DONUT - !tip 1
