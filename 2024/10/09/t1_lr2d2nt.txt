@@ -1,0 +1,6 @@
+\[YES\] I believe even with the vote manipulation, updoot/downdoot tested feature for bigger social companies like Meta, Tuenti, Reddit, etc is a better solution for engagement, fun, and everything and other solutions to mitigate manipulation must be taken.
+
+Regarding the cap I think it should be dynamically calculated and taking in count the last percentile of earners to control over farming benefiting the rest that do not farm so the distribution is more decentralized. Something similar to this [https://np.reddit.com/r/CryptoCurrency/comments/u34ppv/ccip\_029\_dynamic\_karma\_cap/](https://np.reddit.com/r/CryptoCurrency/comments/u34ppv/ccip_029_dynamic_karma_cap/) that was implemented in r/cc long time ago and that I am trying to get implemented now too.
+
+  
+🍩 !tip 6.9
