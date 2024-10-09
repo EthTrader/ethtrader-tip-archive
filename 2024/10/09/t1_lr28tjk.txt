@@ -1,0 +1,3 @@
+$40 is reachable
+
+^(!tip 1)
