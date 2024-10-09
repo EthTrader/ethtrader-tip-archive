@@ -1,0 +1,5 @@
+[NO] 
+
+Tip 2 Vote is good. Just make minimum tip weight of 0.1 and focus on incentives not restrictions.
+
+!tip 1
