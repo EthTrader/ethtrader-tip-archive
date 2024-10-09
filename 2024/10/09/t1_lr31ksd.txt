@@ -1,0 +1,3 @@
+Above $50 it's fine 
+
+^(!tip 1)
