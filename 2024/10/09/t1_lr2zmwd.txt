@@ -1,0 +1,3 @@
+It's time to nuke all rules!
+
+^(!tip 1)
