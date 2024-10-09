@@ -1,0 +1,5 @@
+Actually, I like the idea (reward allocations into 1 pool)
+
+[YES]
+
+^(!tip 1)
