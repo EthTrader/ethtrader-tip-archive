@@ -1,0 +1,5 @@
+ZKSync Era is the main one.
+
+ZKSync Lite was like the Arbitrum Nova equivelent, not sure if it's actually used anymore - but it was part of testnet beta work, butg I haven't kept up to date with ZKSync Lite at all.
+
+!tip 1
