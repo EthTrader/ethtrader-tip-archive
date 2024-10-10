@@ -1,0 +1,2 @@
+Should they cap the governance power to only 100k per user regardless of how much donuts they have?
+!tip 1
