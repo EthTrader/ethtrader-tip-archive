@@ -1,0 +1,3 @@
+To avoid this I just noted the news sources that usually get nuked and avoid it.
+
+^(!tip 1)
