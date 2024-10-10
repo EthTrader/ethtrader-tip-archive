@@ -1,0 +1,3 @@
+LayerZero left most users happy after it launched (but initially some people complained about their Sybil hunting, which eventually worked out very well to reward real users)
+
+!tip 1.69
