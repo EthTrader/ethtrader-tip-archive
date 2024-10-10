@@ -1,0 +1,3 @@
+Any reason we had only 10 hour window for the submissions? What about the people who fall in different timezone?
+
+^(!Tip 1)
