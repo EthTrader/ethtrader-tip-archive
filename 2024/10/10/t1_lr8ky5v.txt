@@ -1,0 +1,2 @@
+do you know how can I "delete" my custom flair and only show my holdings and my contrib? 
+!tip 1

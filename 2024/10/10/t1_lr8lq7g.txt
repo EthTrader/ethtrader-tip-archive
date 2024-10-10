@@ -1,0 +1,3 @@
+Staking options (LRT, LST etc...)
+
+!tip 1.34
