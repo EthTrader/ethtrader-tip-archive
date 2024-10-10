@@ -1,0 +1,3 @@
+u/lordciders . How many scroll did you earn for Staking BNB?
+
+^(!tip 1)
