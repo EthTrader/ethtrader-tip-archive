@@ -1,0 +1,4 @@
+Out of the loop, has the token been launched?
+
+
+**!tip 1**
