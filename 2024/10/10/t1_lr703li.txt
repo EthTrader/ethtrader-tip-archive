@@ -1,0 +1,3 @@
+The first iteration of ZKsync was ZKsync 1.0 it was named "ZKsync Lite".  But its limitations led to the development of a new iteration known as ZKSync 2.0, which is now referred to as "ZKSync Era."
+
+^(!tip 1)
