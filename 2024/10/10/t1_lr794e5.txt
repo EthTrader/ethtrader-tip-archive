@@ -1,0 +1,3 @@
+Eth has been struggling all year.
+
+^(!tip 1)
