@@ -1,0 +1,3 @@
+Exactly, since this rule was implemented I've had only 1 post removed. I had to improvise.
+
+^(!tip 1)
