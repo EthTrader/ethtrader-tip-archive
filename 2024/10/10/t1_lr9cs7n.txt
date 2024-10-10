@@ -1,0 +1,3 @@
+If that's the case the rule should just be nuked
+
+^(!tip 1)
