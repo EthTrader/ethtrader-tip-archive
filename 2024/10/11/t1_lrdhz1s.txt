@@ -1,0 +1,3 @@
+Time will tell how much promising it is
+
+^(!tip 1)
