@@ -1,0 +1,4 @@
+Lead by example. How many tips have you given today? 
+
+
+!tip 1
