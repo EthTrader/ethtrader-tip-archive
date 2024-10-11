@@ -1,0 +1,3 @@
+Not completely. You need to do stuff which cost transaction fees. You get rewarded for activity on the chain.
+
+!tip 1
