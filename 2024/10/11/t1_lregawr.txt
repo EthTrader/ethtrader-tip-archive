@@ -1,0 +1,5 @@
+>LayerZero has launched its cross-chain interoperability protocol on the Unichain testnet, developed by Uniswap, to enhance decentralized finance. This integration allows developers to explore Unichain and test projects across over 90 blockchains, improving accessibility and flexibility in the DeFi ecosystem
+
+![gif](giphy|3oKIPlLZEbEbacWqOc)
+
+>! !tip 1!<
