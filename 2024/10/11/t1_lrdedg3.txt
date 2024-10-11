@@ -1,0 +1,3 @@
+It seems many countries are following the US and cutting rates.
+
+^(!tip 1)
