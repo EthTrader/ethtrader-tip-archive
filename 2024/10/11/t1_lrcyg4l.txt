@@ -1,0 +1,3 @@
+ETC will decline if eth fails
+
+!tip 1
