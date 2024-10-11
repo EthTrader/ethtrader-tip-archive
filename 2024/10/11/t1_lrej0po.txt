@@ -1,0 +1,4 @@
+The price always moves right in a chart. Whenever you find it moving left, run.
+
+
+**!tip 1**
