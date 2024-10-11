@@ -1,0 +1,2 @@
+Low burn rate and transaction is not on mainnet
+!tip 1
