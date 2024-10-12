@@ -1,0 +1,5 @@
+>Researchers at Checkmarx discovered malware on the Python Package Index (PyPI) that steals private keys and sensitive data.
+
+scammers getting smarter day after day
+
+!tip 1
