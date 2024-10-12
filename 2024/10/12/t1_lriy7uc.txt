@@ -1,0 +1,3 @@
+More liquidity, less price impact on bigger buys and sells.
+
+^(!Tip 1)
