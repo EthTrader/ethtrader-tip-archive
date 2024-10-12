@@ -1,0 +1,3 @@
+True, all risks and rewards (if any) are ours.
+
+^(!tip 1)
