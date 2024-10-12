@@ -1,0 +1,7 @@
+If we keep seeing problems on each proposals that pass, then we'll have so many proposals every round which will even complicate things more and more. 
+
+We can just leave the rules the way it is for now. I don't think there's problems with the current rules as it has been improved on in dashboard.
+
+Let continue with the rules for few rounds and if there's any problems, we can work to fix that. For now I'm not seeing any problems with the limiter as well
+
+>! !tip 1!<
