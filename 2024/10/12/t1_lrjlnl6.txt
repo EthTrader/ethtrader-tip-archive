@@ -1,0 +1,3 @@
+Avoid being greedy helps a lot.
+
+^(!Tip 1)
