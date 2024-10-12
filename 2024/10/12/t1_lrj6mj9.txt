@@ -1,0 +1,3 @@
+True, sooner or later, they've got to face the music.
+
+^(!tip 1)
