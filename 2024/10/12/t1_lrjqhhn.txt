@@ -1,0 +1,7 @@
+Donuts have been on Mainnet for 5-6 years, and only on Arbitrum for 6-7 months or so. so there simply are a LOT more donuts on mainnet. The liquidity pool itself has a bit more TVL, but it's more the fact that these mainnet traders simply don't have donuts on Arbitrum to trade.
+
+The only DONUTs that made it to Arbitrum were either awarded from the last several distirubtions, or were bridged across from Gnosis network.
+
+The only way to bridge DONUT from mainnet to Arbitrum is via the official bridge, which iirc, takes 7 days to complete.
+
+!tip 1
