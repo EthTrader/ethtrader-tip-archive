@@ -1,0 +1,3 @@
+Everyone who registers is elegible?
+
+^(!tip 1)
