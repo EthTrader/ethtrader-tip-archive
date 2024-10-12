@@ -1,0 +1,3 @@
+Hopefully I did it correctly. I wasn’t given the wallet connect option I just connected with metamask and signed the transaction. 
+
+!tip 1
