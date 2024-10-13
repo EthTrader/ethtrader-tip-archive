@@ -1,0 +1,5 @@
+>Rollups, an Ethereum Layer-2 solution, were specifically mentioned by Buterin as one of the main ways that this change will be implemented.
+
+Didn't this Layer2 solutions one of the causes of price declined?
+
+>! !tip 1!<
