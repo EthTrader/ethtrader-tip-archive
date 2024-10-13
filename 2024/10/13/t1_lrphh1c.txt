@@ -1,0 +1,3 @@
+Soon we may be in a time when the liquidity can be used across chains. This might solve majority of the low liquidity related issues.
+
+^(!tip 1.23)
