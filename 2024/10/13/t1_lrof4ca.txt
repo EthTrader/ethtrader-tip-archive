@@ -1,0 +1,3 @@
+The topic limiter could simply limit link posts in total as well. Doesn't need to be scrapped.
+
+!tip 1
