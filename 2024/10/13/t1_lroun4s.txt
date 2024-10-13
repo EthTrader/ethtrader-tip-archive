@@ -1,0 +1,3 @@
+PEOPLE token is associated with the DAO, intended to serve as a governance token.
+
+^(!tip 1)
