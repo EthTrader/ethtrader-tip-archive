@@ -1,0 +1,7 @@
+I've been brainstorming how to run a donut trading contest myself - something like users fund a completely new wallet with 0.25 ETH and 5000 DONUT - and the winner is who holds the most DONUT at a certain time, like in a  month or so.
+
+Of course, gotta keep track of the address transactions to ensure theres no cheating etc.
+
+But, it's an idea I've been trying to fine-tune to run as an official content.
+
+!tip 1
