@@ -1,0 +1,3 @@
+Maybe crypto will have to move faster in being quantum protected... I know Satoshi included some code in Bitcoin
+
+!tip 1
