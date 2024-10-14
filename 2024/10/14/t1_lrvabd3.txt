@@ -1,0 +1,3 @@
+The incentive to provide liquidity and get rewards ended since we migrated to Arbitrum One. We also swapped liquidity from Gnosis chain to ARB One.
+
+!tip 1
