@@ -1,0 +1,3 @@
+I think they have their own oracle [https://docs.morpho.org/morpho/contracts/oracles/](https://docs.morpho.org/morpho/contracts/oracles/)
+
+🍩 !tip 1
