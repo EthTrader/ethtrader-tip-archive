@@ -1,0 +1,5 @@
+Hopefully this week we can see 100 users sending tips too!
+
+Thanks for the weekly insights Doc!
+
+!tip 1.6969
