@@ -1,0 +1,5 @@
+The co-founder of Ethereum, Vitalik Buterin, addressed the issue of transaction fees on layers 1 and 2 of the network. As the blockchain nears its technical limits, Buterin outlines paths to maintain a balanced and accessible ecosystem.
+
+Copy and paste 
+
+!tip 1
