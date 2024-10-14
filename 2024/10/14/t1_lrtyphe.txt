@@ -1,0 +1,3 @@
+Invesror's guide is a good resource to evaluate tokenized assets in the Web3. Otherwise, tokenizing everything can result in confusion among investors.
+
+^(!tip 1)
