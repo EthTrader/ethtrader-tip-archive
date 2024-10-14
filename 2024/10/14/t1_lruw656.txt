@@ -1,0 +1,4 @@
+The bot weighs the info on the article and chooses the one that fits the article best. 
+
+
+!tip 1
