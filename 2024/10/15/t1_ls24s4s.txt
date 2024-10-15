@@ -1,0 +1,4 @@
+Hey if you're gonna be participating, you'll definitely need a private RPC. Visit [GetBlock.io](http://GetBlock.io) to get a fast private RPC for free!   
+Good luck farmers 🤞
+
+!tip 1
