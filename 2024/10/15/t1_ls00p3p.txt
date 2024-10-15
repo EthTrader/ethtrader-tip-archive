@@ -1,0 +1,3 @@
+The markets are being indecisive these days.
+
+^(!tip 1.01)
