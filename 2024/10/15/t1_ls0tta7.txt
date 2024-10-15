@@ -1,0 +1,3 @@
+Or a cashier at the groceries.
+
+^(!tip 1.01)
