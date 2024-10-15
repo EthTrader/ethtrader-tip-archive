@@ -1,0 +1,3 @@
+Does the trading volume on Eth mainnet affect the rewards on the ARB pool?
+
+!tip 1.69
