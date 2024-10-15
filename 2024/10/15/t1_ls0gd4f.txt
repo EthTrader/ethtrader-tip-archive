@@ -1,0 +1,5 @@
+I googled and found that info
+
+>It's an ERC-721 non-fungible token (NFT) that represents locked AERO and grants governance rights.
+
+^(!tip 1)
