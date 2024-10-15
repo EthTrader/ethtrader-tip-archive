@@ -1,0 +1,4 @@
+Right now op stack is more used in development but I think zk would get adopted soon too due to its privacy aspects.
+
+
+**!tip 1**

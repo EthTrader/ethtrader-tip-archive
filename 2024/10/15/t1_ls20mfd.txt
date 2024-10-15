@@ -1,0 +1,4 @@
+Why is it always ledger when it comes to hardware wallets getting compromised?
+
+
+**!tip 1**
