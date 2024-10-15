@@ -1,0 +1,3 @@
+Your vote has been registered.
+
+^(!tip 1.01)
