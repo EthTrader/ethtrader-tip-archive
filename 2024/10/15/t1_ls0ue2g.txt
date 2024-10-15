@@ -1,0 +1,3 @@
+Just follow the trends and RSI indicator. Works better than everything else for small trades.
+
+^(!tip 1.01)
