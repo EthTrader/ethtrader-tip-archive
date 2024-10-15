@@ -1,0 +1,4 @@
+[YES]
+
+Today will be another *green* day 
+!tip 1
