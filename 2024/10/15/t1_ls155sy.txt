@@ -1,0 +1,7 @@
+Just like the command indicates, it represents a tip that's being sent. The "1" is the amount of Donuts being tipped. In this case, it's one.
+
+DONUT is this subreddit's native token.
+
+You can learn more in depth about what I just explained by reading [this thread](https://www.reddit.com/r/ethtrader/comments/1ftnx4t/megathread_comprehensive_guide_to_rethtrader/).
+
+Right now, I'm tipping you one Donut: !tip 1
