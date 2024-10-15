@@ -1,0 +1,3 @@
+Tether has been growing at a faster than expected pace. This sometimes seems scary.
+
+^(!tip 1.01)
