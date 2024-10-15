@@ -1,0 +1,5 @@
+>Ethereum could lower the staking requirement from 32 ETH to just 1 ETH, democratizing access for individual stakers.
+
+Interesting! It'll encourage more Solo stakers.
+
+^(!tip 1)
