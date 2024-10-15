@@ -1,0 +1,4 @@
+ OP is cheaper  but slower, and ZK-Rollups are faster but more complicated.
+
+
+!tip 1
