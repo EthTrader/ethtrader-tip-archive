@@ -1,0 +1,7 @@
+L1 = settlement layer
+
+
+L2 = transactional layer
+
+
+**!tip 1**
