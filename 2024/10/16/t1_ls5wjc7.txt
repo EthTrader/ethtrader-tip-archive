@@ -1,0 +1,3 @@
+winrate all depends how far back you see the history of trades
+
+!tip 1
