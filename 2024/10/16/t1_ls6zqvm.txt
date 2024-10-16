@@ -1,0 +1,3 @@
+True, never buy the already pumped coins
+
+^(!tip 1)
