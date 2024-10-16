@@ -1,0 +1,3 @@
+Trading limit is 10 it will likely never be full. Topic limiter has been improved drastically 
+
+!tip 1
