@@ -1,0 +1,4 @@
+EF should be more responsible and prevent dumping their stack every few days as it creates unnecessary FUD in the markets.
+
+
+**!tip 1**
