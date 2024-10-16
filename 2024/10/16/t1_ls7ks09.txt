@@ -1,0 +1,7 @@
+>are trying to break the triangle pattern
+
+Its stuck in triangular maze
+
+![gif](giphy|TlK63EQQyENX6a46qME)
+
+^(!Tip 1)
