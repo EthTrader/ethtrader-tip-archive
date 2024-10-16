@@ -1,0 +1,3 @@
+Steady low gwei is all we need for both Ls.
+
+!tip 1
