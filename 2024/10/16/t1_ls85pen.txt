@@ -1,0 +1,2 @@
+Even lot still has lower than 1 eth
+!tip 1

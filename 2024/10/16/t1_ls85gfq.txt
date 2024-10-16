@@ -1,0 +1,3 @@
+I'm unfamiliar with cc though, how would you track it down and then get a name from a wallet address? 
+
+!tip 1
