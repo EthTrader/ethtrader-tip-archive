@@ -1,0 +1,3 @@
+As expected, Lido is the largest participant.
+
+^(!tip 1)
