@@ -1,0 +1,5 @@
+They're Chainlink's rival - except, I don't think I had seen anything about them since 2021.
+
+They do the oracle thing to try and connect real world data to smart contracts.
+
+!tip 1
