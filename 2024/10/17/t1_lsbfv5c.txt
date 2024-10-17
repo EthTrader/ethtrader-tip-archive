@@ -1,0 +1,5 @@
+>for over 100,000 transactions per second (TPS) across Ethereum's mainnet
+
+100k transaction /sec?? whats the current speed of transactions
+
+!tip 1
