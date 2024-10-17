@@ -1,0 +1,3 @@
+The problem is if Ethereum becomes too dependent on L2s to scale.
+
+!tip 1
