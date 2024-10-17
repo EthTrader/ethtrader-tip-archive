@@ -1,0 +1,3 @@
+ETH is "decentralized"
+
+^(!tip 1)
