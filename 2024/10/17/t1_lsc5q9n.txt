@@ -1,0 +1,3 @@
+Strict rules makes it pretty hard for the issuers.
+
+^(!Tip 1)
