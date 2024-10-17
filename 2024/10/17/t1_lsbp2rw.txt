@@ -1,0 +1,7 @@
+>The team assured that all ticket holders will receive an email and full refund.
+
+At least after postponing, they did the right thing 
+
+^(!tip 1)
+
+^(!post status)
