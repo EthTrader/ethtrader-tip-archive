@@ -1,0 +1,3 @@
+I'm "Shocked"
+
+^(!tip 1)

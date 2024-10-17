@@ -1,0 +1,3 @@
+Expect nothing less from a clown
+
+^(!Tip 1)
