@@ -1,0 +1,3 @@
+Yes, they fixed the bug yesterday. So it's fine now.
+
+^(!tip 1)
