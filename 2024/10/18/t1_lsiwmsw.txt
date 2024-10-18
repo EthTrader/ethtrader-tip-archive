@@ -1,0 +1,4 @@
+Does EthOS support all the functionalities of a mobile OS?
+
+
+**!tip 1**
