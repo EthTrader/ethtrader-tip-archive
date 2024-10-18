@@ -1,0 +1,3 @@
+> Sei combines EVM with parallel execution and a 'Twin Turbo' consensus for rapid transactions.
+
+Sei is the bOmb. !tip 1
