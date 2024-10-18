@@ -1,0 +1,3 @@
+The next thing should be to hit all-time high prices, right ?
+
+^(!tip 1)
