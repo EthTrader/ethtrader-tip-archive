@@ -1,0 +1,3 @@
+I would like to avoid WLD and its chain
+
+^(!tip 1)
