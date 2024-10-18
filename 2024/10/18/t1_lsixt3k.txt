@@ -1,0 +1,3 @@
+Yes, EthOS is built upon GrapheneOS which is a privacy/security focused mobile OS.
+
+🍩 !tip 1
