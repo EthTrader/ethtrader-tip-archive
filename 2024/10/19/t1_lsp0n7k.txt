@@ -1,0 +1,3 @@
+Redirecting users to a malicious site is evil af.
+
+!tip 1
