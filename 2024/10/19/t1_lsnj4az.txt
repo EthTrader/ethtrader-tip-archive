@@ -1,0 +1,9 @@
+>Derivatives are agreements set between two or more parties that can be traded on an exchange or over the counter (OTC).
+
+>For example, if you buy a positional stock in the cash market, you can buy a Put option in the derivative market. If the stock tumbles in the cash market, the value of your Put option will increase. Hence, your losses will be minimal or nil.
+
+
+I hope it helps. 
+
+
+!tip 1
