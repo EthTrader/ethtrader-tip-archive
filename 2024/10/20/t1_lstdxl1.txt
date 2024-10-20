@@ -1,0 +1,3 @@
+It's gotta be bitcoin then
+
+^(!tip 1)
