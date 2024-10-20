@@ -1,0 +1,5 @@
+I'd still avoid WLD 
+
+^(!tip 1)
+
+!post status
