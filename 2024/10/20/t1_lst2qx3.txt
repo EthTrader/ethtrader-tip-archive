@@ -1,0 +1,5 @@
+>Flash Loans: Aave has introduced flash loans that enable borrowing instantly with repayment happening within the same transaction, thus providing an opportunity for arbitrage and sophisticated financial manoeuvres.
+
+I remember first hearing about flash loans and reading about it in more detail but it went straight over my head 
+
+!tip 1
