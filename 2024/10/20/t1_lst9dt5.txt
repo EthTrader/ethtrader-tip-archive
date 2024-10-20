@@ -1,0 +1,3 @@
+Memecoins have no token unlocks, no VCs, and no private sales
+
+^(!tip 1)
