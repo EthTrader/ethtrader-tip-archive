@@ -1,0 +1,5 @@
+>Ultimate Digits has integrated Chainlink's Cross-Chain Interoperability Protocol (CCIP) to enhance the cross-chain functionality of its virtual number NFTs across six blockchains: Arbitrum, Base, BNB Chain, Ethereum, Metis, and Polygon
+
+At this rate every project will have chain-link integration 
+
+!tip 1
