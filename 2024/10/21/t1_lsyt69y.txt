@@ -1,0 +1,3 @@
+It should break the $3k level as soon as possible so we can take a sigh of relief.
+
+^(!tip 1)
