@@ -1,0 +1,5 @@
+Could you include next week a profit loss graph in $ over all weeks? Maybe with eth and donut pirce graphs included. You only state the current loss / win  in $, would be nice to see over time. 
+
+!tip 1
+
+!pow
