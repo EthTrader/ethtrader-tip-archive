@@ -1,0 +1,3 @@
+Reducing validator requirements should reduce its centralization.
+
+!tip 1
