@@ -1,0 +1,5 @@
+>It uses **optimistic** concurrency control to manage data integrity and offers a Solidity library to reduce transaction conflicts.
+
+Is that a reference to one of my favorite L2s Optimism? 
+
+!tip 1
