@@ -1,0 +1,3 @@
+FOMO triggers 
+
+^(!tip 1)
