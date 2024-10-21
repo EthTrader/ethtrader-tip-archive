@@ -1,0 +1,3 @@
+We might need Ethtrader Sentiment update as well for this week.
+
+^(!tip 1.01)

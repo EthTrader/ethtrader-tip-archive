@@ -1,0 +1,3 @@
+What now? Trading peanuts?
+
+^(!tip 1.01)
