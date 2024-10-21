@@ -1,0 +1,11 @@
+Down $40 currently.
+
+The -$1200ish is the impermanent loss experienced without factoring in the rewards - in other words, the value change since the initial asset balances.
+
+Then once I add the rewards, the performance of the pool is "only" at a $40 loss.
+
+(It was at a nearly $400 gain last week, until the recent DONUT sales)
+
+Perhaps I should re-order it so the IL is listed first, then the rewards second.
+
+!tip 1
