@@ -1,0 +1,3 @@
+At this stage, many projects are just trying to shove AI into Blockchain without thinking much.
+
+^(!tip 1.01)
