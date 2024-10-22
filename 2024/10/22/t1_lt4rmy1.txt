@@ -1,0 +1,4 @@
+Buddies are people which give you the most of their tips.
+You tip unregistered users which does not count for buddies. The others had a very nice tip spread overall, unlike the mods analysis showed.
+
+!tip 1

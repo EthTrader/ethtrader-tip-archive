@@ -1,0 +1,3 @@
+True, top security and performance are the most important parts of any chain or network.
+
+^(!tip 1)
