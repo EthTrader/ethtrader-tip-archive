@@ -1,0 +1,3 @@
+He has money to lose, we don't.
+
+^(!tip 1.01)
