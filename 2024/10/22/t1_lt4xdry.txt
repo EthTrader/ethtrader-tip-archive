@@ -1,0 +1,3 @@
+Unlike USDT and Solana , ETH transfers cant be frozen
+
+!tip 1
