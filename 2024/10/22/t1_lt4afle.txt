@@ -1,0 +1,3 @@
+Yes, faster transaction without compromising the security.
+
+^(!tip 1)
