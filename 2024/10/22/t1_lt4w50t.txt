@@ -1,0 +1,3 @@
+Due to ongoing sells, a number of liquidity positions are out if range now and been depleted of ETH, which means crazy slippage rates for selling donuts
+
+!tip 1
