@@ -1,0 +1,4 @@
+There are cases that it works but it's not the norm. I wouldn't count on it
+
+
+!tip 1
