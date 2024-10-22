@@ -1,0 +1,3 @@
+That is why, never access protocols from Google search. Always confirm the links multiple times.
+
+^(!tip 1.01)
