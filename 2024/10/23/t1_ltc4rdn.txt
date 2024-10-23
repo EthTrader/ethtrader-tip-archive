@@ -1,0 +1,18 @@
+So much for calling it crypto !tip 1
+
+>Utility Tokens - Represent things that provide utility
+
+>Governance Tokens - Represent votes
+
+>Network Tokens - Represent stake and are used for gas on a blockchain
+
+>Meme Tokens - Represent nothing, just fun
+
+>Stable Tokens - Represent a pegged fiat currency unit
+
+>Proof of Work Tokens - Represent work done.
+
+>Security Tokens - Represent some contract between a company and a person.
+
+>Equity Tokens - Represent a share in a corporation.  
+etc.
