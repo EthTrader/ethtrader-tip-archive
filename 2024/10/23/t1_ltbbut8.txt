@@ -1,0 +1,3 @@
+20% tax is still higher than my liking.
+
+^(!tip 1)
