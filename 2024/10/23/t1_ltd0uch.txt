@@ -1,0 +1,3 @@
+Another day, we are moving in the opposite direction.
+
+^(!tip 1)
