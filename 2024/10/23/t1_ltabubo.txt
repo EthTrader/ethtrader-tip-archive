@@ -1,0 +1,5 @@
+>While higher blob fees increase network revenue, they also raise transaction costs on Ethereum L2s.
+
+I hate blob fees already. Wen EIP-7742?
+
+!tip 1
