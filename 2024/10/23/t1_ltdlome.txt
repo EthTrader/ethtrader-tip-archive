@@ -1,0 +1,3 @@
+Everything within 80% margin is still balanced i would say. Maybe next distribution analysis i will split the data between tips for posts and for comments.
+
+!tip 1
