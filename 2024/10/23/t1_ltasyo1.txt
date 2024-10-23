@@ -1,0 +1,5 @@
+"Christine Kim, EIP-7742 will create a mechanism for the Ethereum consensus layer to “dynamically” set the blob gas target and max values, optimizing for blob-carrying transactions and improve network scalability in the upcoming Pectra fork."
+
+Pectra is early in next year right?
+
+!tip 1
