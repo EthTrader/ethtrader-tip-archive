@@ -1,0 +1,3 @@
+Indeed, macros play a vital part.
+
+^(!tip 1)
