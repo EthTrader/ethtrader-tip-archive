@@ -1,0 +1,3 @@
+Making new records seems like a usual thing for Base.
+
+^(!tip 1)
