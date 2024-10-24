@@ -1,0 +1,5 @@
+\* Sell you Donuts on Gnosis for DAI.  
+\* Use Hop Protocol to Bridge DAI from Gnosis to Arbitrum.  
+\* Swap DAI and buy Donuts again.
+
+!tip 1.01

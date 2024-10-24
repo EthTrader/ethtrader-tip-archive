@@ -1,0 +1,3 @@
+Apple L2s fees would be more than mainnet.
+
+^(!tip 1.01)
