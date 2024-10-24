@@ -1,0 +1,3 @@
+Total price: 20 dollars.
+
+!tip 1
