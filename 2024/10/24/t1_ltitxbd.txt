@@ -1,0 +1,2 @@
+Increase burn rate by 100000%
+!tip 1
