@@ -1,0 +1,3 @@
+Buy when its red.
+
+^(!Tip 1)
