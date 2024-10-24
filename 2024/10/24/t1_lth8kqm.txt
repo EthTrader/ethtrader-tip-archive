@@ -1,0 +1,5 @@
+>Base, an Ethereum Layer 2 platform incubated by Coinbase, will implement permissionless fault proofs on Oct. 30 — **aiming to decentralize the network and eliminate single-entity control**.
+
+With this, BASE will cement it status as the King of L2s. Is ARB planning the same?
+
+!tip 1
