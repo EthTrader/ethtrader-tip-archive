@@ -1,0 +1,3 @@
+It's nice to know that Ink is part of the Optimism Superchain.
+
+^(!tip 1)
