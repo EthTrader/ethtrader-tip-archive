@@ -1,0 +1,3 @@
+It's better to resign instead of being forcefully kicked out.
+
+^(!tip 1)
