@@ -1,0 +1,3 @@
+Send Worldcoin to zero.
+
+^(!Tip 1)
