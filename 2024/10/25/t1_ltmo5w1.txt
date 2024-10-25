@@ -1,0 +1,3 @@
+Yes, it operates on the Base L2 blockchain.
+
+^(!tip 1)
