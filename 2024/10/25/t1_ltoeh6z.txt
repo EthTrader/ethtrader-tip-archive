@@ -1,0 +1,7 @@
+>This metric shows in which location the search term was most popular. It's important to note that Google has a way of calculating this value in a way that takes into account the population of the region. According to Google, "A higher value means a higher proportion of all queries, not a higher absolute query count. So a tiny country where 80% of the queries are for "bananas" will get twice the score of a giant country where only 40% of the queries are for "bananas"."
+
+>Top 5 countries searching for \"Ethereum\"
+
+Tbh I don't think Google searches in region has anything to do with it you're interested. Some might just be searching about how to kill ETH price
+
+>! !tip 1!<
