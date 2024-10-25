@@ -1,0 +1,18 @@
+Round 142 - Quick CSV Analysis
+
+||Round 141|Previous Round|Difference|
+|:-|:-|:-|:-|
+|**Users on Initial CSV**|**228**|**319**|**-91**|
+|**Users on Final CSV**|**199**|**249**|**-50**|
+|**Post Ratio**|**26.83**|**19.98**|**+6.85**|
+|**Comment Ratio**|**19.24**|**9.59**|**+9.65**|
+|**Total Posts \*\***|**1675**|**2523**|**-848**|
+|**Link Posts Dominance**|**N/A**|**81.37%**|**N/A**|
+|**Users: 50+ Posts \*\***|**17**|**24**|**-7**|
+|**users: 75+ Posts \*\***|**6**|**15**|**-9**|
+|**Users: 1500+  Comments \*\***|**0**|**17**|**-17**|
+|**Users: 2500+ Comments \*\***|**0**|**12**|**-12**|
+
+**\*\* Reddito's data did not include several banned users comment/post stats**
+
+!tip 1
