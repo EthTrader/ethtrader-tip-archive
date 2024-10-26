@@ -1,0 +1,3 @@
+Unfortunately, it's the truth.
+
+^(!tip 1)
