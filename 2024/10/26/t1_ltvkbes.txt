@@ -1,0 +1,3 @@
+True, low fees is a blessing.
+
+^(!tip 1)
