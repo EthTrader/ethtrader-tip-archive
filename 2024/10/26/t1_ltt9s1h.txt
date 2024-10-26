@@ -1,0 +1,3 @@
+Stake to make extra.
+
+^(!tip 1)
