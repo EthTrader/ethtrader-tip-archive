@@ -1,0 +1,3 @@
+Lowering the solo validator minimum to 2.4 ETH with this, that's incredibly useful at least while we wait for Vitalik to reduce it to 1 ETH ![img](emote|t5_37jgj|32645)
+
+!tip 1
