@@ -1,0 +1,3 @@
+The way forward for others.
+
+^(!tip 1)
