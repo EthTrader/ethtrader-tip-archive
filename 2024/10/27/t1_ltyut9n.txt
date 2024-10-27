@@ -1,0 +1,5 @@
+>Soneium is set to upgrade its blockchain network from the Ecotone version to the **Optimism OP** Stack version Granite, along with Fjord updates.
+
+There ain't no effective gas reduction solution like OP solutions right?
+
+!tip 1
