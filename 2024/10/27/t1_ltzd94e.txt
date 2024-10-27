@@ -1,0 +1,5 @@
+You can just delete yourself without the command;
+
+but otherwise its [ AutomodRemove ] minus the spaces
+
+!tip 1
