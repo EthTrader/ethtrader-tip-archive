@@ -1,0 +1,3 @@
+No problem ! It is an open-source instruction set architecture (ISA), has been making waves in the world of computer architecture. “RISC-V” stands for Reduced Instruction Set Computing (RISC) and the “V” represents the fifth version of the RISC architecture.
+
+ !tip 1
