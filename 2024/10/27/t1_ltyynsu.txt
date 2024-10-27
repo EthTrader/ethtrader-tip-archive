@@ -1,0 +1,3 @@
+Customers will be waiting for long time. Their turn always comes last and most of the time nothing is left.
+
+^(!Tip 1)
