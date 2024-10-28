@@ -1,0 +1,3 @@
+I expect it to get better depending on market conditions however we should bolster incentives for new users (perhaps a minimum tipping weight like 0.1?) or it might be aversive
+
+!tip 1
