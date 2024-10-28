@@ -1,0 +1,5 @@
+In case if they sold, then it's bad.
+
+If they withdraw to hold for long-term, then it's good.
+
+^(!tip 1)
