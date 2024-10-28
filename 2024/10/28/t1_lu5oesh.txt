@@ -1,0 +1,3 @@
+Correct, nominate only works on the actively pinned daily.
+
+!tip 1
