@@ -1,0 +1,3 @@
+Renzo (REZ) is a liquid restaking protocol built on EigenLayer.
+
+^(!tip 1)
