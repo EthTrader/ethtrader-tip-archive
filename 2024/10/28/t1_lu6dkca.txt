@@ -1,0 +1,3 @@
+The bad thing about this token is that only a few holders hold a big quantity of WLD.
+
+^(!tip 1)
