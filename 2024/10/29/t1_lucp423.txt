@@ -1,0 +1,3 @@
+Holding is fruitful.
+
+^(!tip 1)
