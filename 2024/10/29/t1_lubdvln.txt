@@ -1,0 +1,3 @@
+Anything below $3K is a discount.
+
+^(!Tip 1)
