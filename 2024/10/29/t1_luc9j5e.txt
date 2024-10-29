@@ -1,0 +1,3 @@
+Average Joe should be able to use it.
+
+ !tip 1
