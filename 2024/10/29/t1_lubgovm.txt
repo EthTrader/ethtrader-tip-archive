@@ -1,0 +1,3 @@
+It is just following BTC.
+
+ !tip 1
