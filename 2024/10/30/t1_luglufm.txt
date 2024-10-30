@@ -1,0 +1,7 @@
+The thing that people don’t realize is that REAL INTEREST RATE matters, i.e the rate of interest after deducting inflation.
+
+ETH inflation for 2024 is around 0.20% (coinmarketcap data) but the yield is 2.70% (binance), so real interest rate is positive because yield is higher than inflation
+
+Meanwhile DOT inflation in 2024 is 19.7% (coinmarketcap data) but the yield is 10% (binance), so real interest rate is negative because yield is lower than inflation
+
+>!!tip 1!<
