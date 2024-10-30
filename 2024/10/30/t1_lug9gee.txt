@@ -1,0 +1,3 @@
+Lower that official validator minimum and things should improve!
+
+!tip 1
