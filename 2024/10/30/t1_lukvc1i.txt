@@ -1,0 +1,4 @@
+I did the same on another chain, created a token and used it with 3 friends to send us moms (name of the token). Took me about 10 minuets to set it all up.
+The only issue with this is that you need to provide liquidity for a trading pair otherwise nobody can get your token. If you set up the lp in a funny way you can be a billionaire on paper in seconds. 
+
+!tip 1
