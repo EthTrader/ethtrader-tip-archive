@@ -1,0 +1,3 @@
+It is the indication that bulls are coming.
+
+^(!tip 1)
