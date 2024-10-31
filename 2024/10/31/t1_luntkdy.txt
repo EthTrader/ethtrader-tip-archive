@@ -1,0 +1,3 @@
+Sometimes, I think they kept the rules unclear purposely.
+
+^(!tip 1)
