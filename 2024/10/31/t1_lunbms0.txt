@@ -1,0 +1,5 @@
+>The attack was a supply chain attack on the Lottie Player library, affecting websites using the library
+
+Isn't it scary how sophisticated these hackers have become?
+
+!tip 1
