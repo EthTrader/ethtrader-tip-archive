@@ -1,0 +1,3 @@
+At least we are in a better place then we were a month ago.
+
+^(!tip 1.01)

@@ -1,0 +1,3 @@
+Let the gamblers gamble!
+
+^(!tip 1.01)
