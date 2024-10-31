@@ -1,0 +1,3 @@
+But when is the next batch of coin being available ?
+
+ !tip 1
