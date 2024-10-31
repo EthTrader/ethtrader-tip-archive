@@ -1,0 +1,3 @@
+Sure, but it shouldn't take indefinite time.
+
+^(!tip 1)
