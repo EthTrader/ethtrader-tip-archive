@@ -1,0 +1,3 @@
+Bulls should push
+
+!tip 1
