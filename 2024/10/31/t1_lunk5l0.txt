@@ -1,0 +1,7 @@
+Fault proofs eh?
+
+*Based on an optimistic worldview, fault proofs operate on the assumption that Layer 2 data is valid until proven otherwise during a “challenge period” that typically spans seven days. If a fault-proof is generated during this period, the flagged transactions are eliminated from the batch.*
+
+I look forward to watching the next couple of years develop between Optmistic and ZK rollups.
+
+!tip 1
