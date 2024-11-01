@@ -1,0 +1,3 @@
+Because of smart contracts, which are essentially self-executing programs on the ETH blockchain 
+
+!tip 1
