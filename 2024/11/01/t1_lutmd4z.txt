@@ -1,0 +1,5 @@
+You needs to register your non custodian wallet address to be able to receive donuts. So that you can tip.
+
+Let me give you your first tip... You'll receive it after you registered 
+
+!tip 1
