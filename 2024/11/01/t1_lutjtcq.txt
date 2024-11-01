@@ -1,0 +1,5 @@
+Last time we migrated, it didn't end well in terms of exposure.
+
+The reason we migrated to Arbitrum was because of its DAO  features. Not sure if OP stack / superchain can fulfill that options to enable Ethtrader voting mechanism.
+
+^(!Tip 1)
