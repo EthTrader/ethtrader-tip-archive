@@ -1,0 +1,3 @@
+Whatever amount they burn, they always need more to burn.
+
+^(!tip 1)
