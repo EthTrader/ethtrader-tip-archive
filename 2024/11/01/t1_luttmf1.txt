@@ -1,0 +1,7 @@
+I suppose we don't need to migrate persay, but could expand
+
+That way distro and multisig remains on arbitrum and we just gain another chain
+
+Downside is spreding liquidity pretty thin. And costs 
+
+!tip 1
