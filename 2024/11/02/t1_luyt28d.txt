@@ -1,0 +1,5 @@
+Climb only if 
+
+Buy >>> Sell
+
+^(!tip 1)
