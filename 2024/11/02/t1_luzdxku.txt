@@ -1,0 +1,3 @@
+I'd say all except BTC
+
+^(!tip 1)
