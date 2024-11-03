@@ -1,0 +1,2 @@
+Cry coin.
+!tip 1
