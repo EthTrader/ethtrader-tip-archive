@@ -1,0 +1,3 @@
+I mostly stick with the USDT and USDC.
+
+^(!tip 1)
