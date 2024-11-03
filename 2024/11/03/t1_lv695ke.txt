@@ -1,0 +1,3 @@
+Then its time to buy more.
+
+^(!Tip 1)
