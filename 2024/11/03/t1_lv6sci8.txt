@@ -1,0 +1,3 @@
+This time we are going to do the right thing. Buy low, Sell high.
+
+^(!tip 1.01)
