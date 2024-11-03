@@ -1,0 +1,3 @@
+It'll take a while, but we'll reach there.
+
+^(!tip 1)
