@@ -1,0 +1,3 @@
+Flaws in a system that are taken advantage of = exploits.
+
+!tip 1
