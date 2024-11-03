@@ -1,0 +1,3 @@
+DCA doesn't care if it goes down or up.
+
+^(!Tip 1)
