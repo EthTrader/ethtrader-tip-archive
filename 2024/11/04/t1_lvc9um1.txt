@@ -1,0 +1,3 @@
+Betteridge's law states that headlines phrased as questions can usually be answered with "no". It's not a foolproof rule, but it highlights a tendency for sensational headlines to be misleading.
+
+!tip 1
