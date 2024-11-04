@@ -1,0 +1,3 @@
+My expenses to run the house give me the idea of what's going on.
+
+^(!tip 1)
