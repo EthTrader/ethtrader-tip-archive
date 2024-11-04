@@ -1,0 +1,3 @@
+First $3k, then double it.
+
+^(!tip 1)

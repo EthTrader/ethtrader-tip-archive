@@ -1,0 +1,3 @@
+Tomorrow is going to be exciting!
+
+^(!tip 1.01)
