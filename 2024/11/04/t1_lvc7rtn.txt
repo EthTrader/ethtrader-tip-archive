@@ -1,0 +1,3 @@
+USDT is too big to accept 
+
+^(!tip 1)
