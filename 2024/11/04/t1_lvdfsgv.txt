@@ -1,0 +1,3 @@
+Tokenization - built on Ethereum !tip 1
+
+>Swift today released results from a new series of experiments that show its infrastructure can seamlessly facilitate the transfer of tokenised value across multiple public and private blockchains. 
