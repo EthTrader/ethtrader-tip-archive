@@ -1,0 +1,5 @@
+L2s are underlying protocol.
+
+Sidechains operate independently with their own security and mechanism.
+
+^(!tip 1)
