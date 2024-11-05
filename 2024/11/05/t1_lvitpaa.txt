@@ -1,0 +1,1 @@
+Multichains cause liquidity fragmentation which is not ideal if you wanna scale - Here theyre presenting cross chain as an alternative because theyre simpler !tip 1
