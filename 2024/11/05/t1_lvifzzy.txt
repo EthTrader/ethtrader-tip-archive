@@ -1,0 +1,5 @@
+>Key changes include reducing the Ether required to run validators from 32 to 1, enhancing interoperability between layer 2s, and implementing an encrypted mempool to protect users. Transaction verification will become easier, and Ethereum's transaction history will be optimized for efficiency
+
+So does that mean the gwei will reduce?
+
+>! !tip 1!<
