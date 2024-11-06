@@ -1,0 +1,3 @@
+Still at juicy price!
+
+^(!tip 1.01)
