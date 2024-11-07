@@ -1,0 +1,3 @@
+> With the use of infrastructure offered by Aethir, developers can leverage high-performance GPUs without paying massive costs. This increases the accessibility of advanced computing to a broad range of developers.
+
+Nice one. !tip 1
