@@ -1,0 +1,3 @@
+The whale becomes an even bigger whale.
+
+^(!tip 1)
