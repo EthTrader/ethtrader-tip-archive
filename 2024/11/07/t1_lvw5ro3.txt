@@ -1,0 +1,3 @@
+I like that bank account better!
+
+^(!tip 1.01)
