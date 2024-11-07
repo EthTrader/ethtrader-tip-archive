@@ -1,0 +1,3 @@
+I'd like higher than $4k
+
+^(!tip 1)
