@@ -1,0 +1,3 @@
+Should we still trust tether for printing out of thin air?
+
+!tip 1
