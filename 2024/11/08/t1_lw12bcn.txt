@@ -1,0 +1,3 @@
+It's time for crypto.
+
+^(!tip 1)
