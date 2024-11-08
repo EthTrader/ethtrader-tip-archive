@@ -1,0 +1,5 @@
+As long as you know where the APY comes from!
+
+In this case, it's KOI finance allocating their ZK rewards to their liquidity pools.
+
+!tip 1
