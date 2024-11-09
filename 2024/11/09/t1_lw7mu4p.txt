@@ -1,0 +1,3 @@
+It's time for POL to raise the price.
+
+^(!tip 1)
