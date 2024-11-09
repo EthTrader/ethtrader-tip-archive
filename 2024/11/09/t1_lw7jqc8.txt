@@ -1,0 +1,3 @@
+That's great, the victims' funds have been returned.
+
+^(!tip 1)
