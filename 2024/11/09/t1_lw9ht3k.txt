@@ -1,0 +1,3 @@
+LINK deserves above $20
+
+^(!tip 1)
