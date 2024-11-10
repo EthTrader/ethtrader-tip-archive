@@ -1,0 +1,3 @@
+Stake n then restake. Show something other than Ethereum that can do this.
+
+!tip 1
