@@ -1,0 +1,3 @@
+The walk should be fast.
+
+!tip 1
