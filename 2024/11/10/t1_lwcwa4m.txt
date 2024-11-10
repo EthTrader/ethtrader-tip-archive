@@ -1,0 +1,3 @@
+Yes, it's an ERC-20 token and the current price is around $24.3
+
+^(!tip 1)
