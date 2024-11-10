@@ -1,0 +1,7 @@
+It follows eth and btc like everything else
+
+!tip 1
+
+!post status 
+
+!topics
