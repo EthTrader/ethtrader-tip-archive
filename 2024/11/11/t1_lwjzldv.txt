@@ -1,0 +1,4 @@
+Also this feature is limited to game-issued assets, but Immutable plans to expand it to IMX, USDC and ETH. 
+
+  
+!tip 1

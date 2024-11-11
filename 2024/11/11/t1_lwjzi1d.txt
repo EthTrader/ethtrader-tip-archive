@@ -1,0 +1,13 @@
+Save your click
+
+# 4 Economic Events
+
+CPI
+
+Initial Jobless Claims
+
+PPI
+
+US Retail Sales
+
+^(!tip 1)
