@@ -1,0 +1,3 @@
+Utility makes it easy to adopt the technology 
+
+^(!tip 1)
