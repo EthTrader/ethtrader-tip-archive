@@ -1,0 +1,13 @@
+DONUT's trading pair is with ETH.
+
+That means, if there is absolutely 0 volume/trades of DONUT,  if ETH increases, so too shall DONUT, when ETH drops, DONUT drops too.
+
+This is why looking at the DONUT/ETH ratio is important if you want to trade successfully. 
+
+When DONUT's are bought with ETH, the DONUT/ETH ratio changes so that 1 ETH provides less DONUT. 
+
+When DONUT's are sold for ETH, 1 ETH will be able to purchase more DONUT.
+
+Hope that helps paint a picture.
+
+!tip 1
