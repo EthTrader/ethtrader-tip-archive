@@ -1,0 +1,11 @@
+The more concentrate a position (with a tighter range) the higher priority those assets have in being used in trades, that means higher proportion of rewards that come from the trading fees utilized.
+
+Lets say I have 1 ETH and 100k DONUT in a trading range of 400k-450k DONUT.
+
+Someone else has 1 ETH and 100k DONUT in a full range position.
+
+If the current ratio is at 425k DONUT, and someone wants to buy 20k DONUT, my liquidity is a greater percentage of the assets within that range, and so while everyone will earn some fees, I would earn the most fees.
+
+But the trade off for that is, larger price swings can render the position out of range, so now it's not earning any trading fees until the range is restored.
+
+!tip 1
