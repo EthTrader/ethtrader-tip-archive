@@ -1,0 +1,3 @@
+Removed last week already, replaced by top3 interactions + percentage of all your tips.
+Change log is in the post from last week. 
+!tip 1
