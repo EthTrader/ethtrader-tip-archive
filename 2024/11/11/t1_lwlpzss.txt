@@ -1,0 +1,3 @@
+AUSD now powers AggLayer on Polygon, optimizing crosschain liquidity and eliminating token bridges.
+
+!tip 1
