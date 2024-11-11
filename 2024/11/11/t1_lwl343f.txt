@@ -1,0 +1,5 @@
+Forget the tech aspect, what matters is:
+
+It will help eth rollups (blockchain layers) communicate quickly and securely. It should make it easier for for apps to communicate across other ecosystems but cheaper too. 
+
+!tip 1
