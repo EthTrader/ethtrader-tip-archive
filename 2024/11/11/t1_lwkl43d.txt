@@ -1,0 +1,15 @@
+Thanks you so much for the explanation. It somewhat helped me paint a picture.
+
+>That means, if there is absolutely 0 volume/trades of DONUT, if ETH increases, so too shall DONUT, when ETH drops, DONUT drops too - because it is tied with its trading pair.
+
+I understand this but I couldn't understand the logic behind it. How can the price increase of Ethereum increase the price of donuts, even though there is 0 volume/trades? I mean how their prices are tied with each other?
+
+Doesn't there have to be an actual inflow of money for the price of the donut to go up?
+
+If Ethereum hits $10k (like 3x gains) donuts make 3x gains as well even tho with 0 volumes in Donuts? 
+
+I mean where that money/increase in value comes from? Shouldn't there be actual money inflow into donuts?
+
+I hope I could express myself clear.
+
+!tip 1

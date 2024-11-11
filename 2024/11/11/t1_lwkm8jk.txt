@@ -1,0 +1,11 @@
+> I mean how their prices are tied with each other?
+
+Via the trading pair. Because DONUT only has a trading pair with ETH, it basically shares a relative peg.
+
+> If Ethereum hits $10k (like 3x gains) donuts make 3x gains as well even tho with 0 volumes in Donuts?
+
+If 1 ETH gives you 500k DONUT, as per the pools available liquidity.
+
+If 1 ETH is pumps to 10k - that 1 ETH will still only purchase 500k DONUT... therefore the value of DONUT must increase, relative to the trading pair it is tied to.
+
+!tip 1
