@@ -1,0 +1,13 @@
+Still a very low rate of inflation
+
+May 5th ETH supply: 120,097,745 ETH 
+
+November 10th ETH supply: 120,423,059 ETH
+
+189 days an increase of 325,314. Convert to yearly increase = 366/189 x 325,314 = 629,973
+
+629,973/120,097,745 = 0.52% annual inflation
+
+Last I checked SOL inflation is more than 10%
+
+!tip 1
