@@ -1,0 +1,5 @@
+I've pow'd some stuff of yours in the past, but in the early days, my CONTRIB was much lower, that my POW didn't get you into the top 4 xD
+
+PoW weight is based on governance score, capped at 500k.
+
+!tip 1
