@@ -1,0 +1,1 @@
+Tracks price movement of 50coins. !tip 1
