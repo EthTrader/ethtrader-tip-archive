@@ -1,0 +1,3 @@
+It's likely to cross. Bulls are in full command.
+
+^(!tip 1)
