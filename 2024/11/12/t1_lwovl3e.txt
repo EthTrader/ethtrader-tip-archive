@@ -1,0 +1,5 @@
+It can, bulls are unstoppable.
+
+^(!tip 1)
+
+^(!post status)
