@@ -1,0 +1,3 @@
+$LINK should be worth at least $100.
+
+!tip 1
