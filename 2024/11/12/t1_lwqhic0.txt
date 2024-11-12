@@ -1,0 +1,3 @@
+Profit taking incoming!
+
+^(!tip 1)
