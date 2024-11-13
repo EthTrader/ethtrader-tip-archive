@@ -1,0 +1,3 @@
+What happened to test transaction and sending in smaller amount but more transactions?
+
+!tip 1
