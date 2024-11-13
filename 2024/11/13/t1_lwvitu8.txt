@@ -1,0 +1,3 @@
+Paper hand whale
+
+^(!tip 1)
