@@ -1,0 +1,7 @@
+Nop, it is  btc
+
+!tip 1
+
+!post status 
+
+!topics

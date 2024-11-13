@@ -1,0 +1,5 @@
+The Beam Chain won't entail any immediate changes to Ethereum, or even anything radically different from what's already on the chain's roadmap. It does, however, propose a major change to how Ethereum's future upgrades are organized.
+
+Amazing to see how devs are working on innovations that will shape Ethereum's future. This is what makes Ethereum a long term leader.
+
+^(!tip 10)
