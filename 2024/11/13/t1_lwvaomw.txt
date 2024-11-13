@@ -1,0 +1,5 @@
+ >Recent data shows 49% of Ethereum's outflows, valued at $5.3 billion, have moved to Sui. This shift is driven by Ethereum's high fees and scalability issues, while Sui's novel consensus mechanism and low-latency performance offer appealing alternatives.
+
+Yet some people argue that we don't need L2s. Isn't that hilarious? 😂
+
+!tip 1
