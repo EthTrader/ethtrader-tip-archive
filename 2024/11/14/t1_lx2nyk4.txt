@@ -1,0 +1,3 @@
+It's better to live a simple normal life.
+
+^(!tip 1)
