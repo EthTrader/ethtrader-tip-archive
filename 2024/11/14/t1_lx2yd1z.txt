@@ -1,0 +1,5 @@
+>According to this research, certain trading methods on Ethereum’s rollups—off-platform systems that handle high transaction volumes faster—can leave users vulnerable to unfair trading practices.
+
+That's the point of concern for users and they must be aware of such potential risks.
+
+^(!tip 1)
