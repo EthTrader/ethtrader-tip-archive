@@ -1,0 +1,3 @@
+Bad timing to have these sort of issue with a wallet, phantom should do better
+
+!tip 1
