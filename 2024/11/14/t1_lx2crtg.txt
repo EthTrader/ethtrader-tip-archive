@@ -1,0 +1,3 @@
+It's an indication of bulls arrival in the market.
+
+^(!tip 1)
