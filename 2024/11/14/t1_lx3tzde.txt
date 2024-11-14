@@ -1,0 +1,3 @@
+Bulls are here, so they are alive again.
+
+^(!tip 1)
