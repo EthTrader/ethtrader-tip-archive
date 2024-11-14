@@ -1,0 +1,3 @@
+Somehow, Pudgy Penguins is able to be in the news.
+
+^(!tip 1)
