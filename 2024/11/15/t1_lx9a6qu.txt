@@ -1,0 +1,5 @@
+#HODL 
+
+Soon, we'll climb the mountain.
+
+^(!tip 1)
