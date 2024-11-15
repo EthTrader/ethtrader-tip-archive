@@ -1,0 +1,3 @@
+The whales are collecting their profits.
+
+^(!tip 1)
