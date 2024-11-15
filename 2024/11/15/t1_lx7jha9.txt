@@ -1,0 +1,3 @@
+We can't have more bullish news than this.
+
+^(!tip 1)

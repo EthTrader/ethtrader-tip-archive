@@ -1,0 +1,5 @@
+*2025 is the year of ETH*
+
+#EEE
+
+^(!tip 1)
