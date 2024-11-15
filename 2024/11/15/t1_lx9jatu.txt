@@ -1,0 +1,5 @@
+With gas fees at 29 gwei... there is no cheapest way xD
+
+Otherwise, probably a EIGEN to USDC trade on Uniswap, and then Rhino.fi or Jumper to bridge USDC from mainnet to base.
+
+!tip 1
