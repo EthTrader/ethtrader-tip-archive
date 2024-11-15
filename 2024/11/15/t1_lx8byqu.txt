@@ -1,0 +1,3 @@
+Thanks to the Topic Limiter - DOnutBot subtracts fees **after** a post has become visible. That means for those filtered out by Reddit don't incur a posting penalty until approved.
+
+!tip 1
