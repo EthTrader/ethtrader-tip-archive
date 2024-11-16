@@ -1,0 +1,3 @@
+This is the LINK way!
+
+^(!tip 1)
