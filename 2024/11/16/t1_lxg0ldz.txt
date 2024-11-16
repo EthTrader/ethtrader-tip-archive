@@ -1,0 +1,5 @@
+This is a GOLD comment lol
+
+!tip 6.9
+
+!nominate
