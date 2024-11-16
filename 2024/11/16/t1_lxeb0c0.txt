@@ -1,0 +1,3 @@
+Exchanges know they can make good money by listing it.
+
+^(!tip 1)
