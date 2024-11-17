@@ -1,0 +1,7 @@
+You can bridge them using Hop Exchange 
+
+https://app.hop.exchange/#/send?sourceNetwork=gnosis&destNetwork=arbitrum&token=DAI
+
+Try a small amount first.
+
+^(!Tip 1)
