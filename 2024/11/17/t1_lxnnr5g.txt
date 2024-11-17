@@ -1,0 +1,3 @@
+Yet we are going to need to understand what threat quantum computing poses to encryption, for crypto and the entire tech industry and every device that uses encryption, online or offline.
+
+!tip 1
