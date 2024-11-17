@@ -1,0 +1,3 @@
+I thought it's an article but it actually looks like code
+
+>! !tip 1!<
