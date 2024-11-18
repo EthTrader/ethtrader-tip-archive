@@ -1,0 +1,5 @@
+>customers said all withdrawal channels had been frozen
+
+This is bad
+
+^(!tip 1)
