@@ -1,0 +1,3 @@
+Thanks Matt. I ended up using Hop protocol as referred to from the official Arbitrum Bridge. Did some reading up on it & after finding a guide on Coingecko I felt confident enough to use it. All worked fine. Thanks for the options you gave my good man.
+
+!tip 1
