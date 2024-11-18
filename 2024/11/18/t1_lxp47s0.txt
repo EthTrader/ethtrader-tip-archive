@@ -1,0 +1,3 @@
+It's time for POL to make a move towards $1
+
+^(!tip 1)
