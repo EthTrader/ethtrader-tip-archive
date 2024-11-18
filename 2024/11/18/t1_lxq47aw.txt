@@ -1,0 +1,7 @@
+Celer bridge doesn't have an option to bridge ETH. I used it for Moons to but ETH doesn't work strangely.
+
+The official ARB bridge also doesn't offer to bridge ETH from Nova to One. Instead it refers me to a third party service called "Hop".
+
+I'm trying to be cautious and an unsure community doesn't help the anxiety. 😅
+
+!tip 1
