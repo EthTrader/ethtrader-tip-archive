@@ -1,0 +1,5 @@
+The other day I used Celer to bridge some Moons from ARB One to ARB Nova and worked like a charm [https://cbridge.celer.network/](https://cbridge.celer.network/)
+
+I believe you can also use the official ARB bridge but not sure if you have to wait some days [https://bridge.arbitrum.io/](https://bridge.arbitrum.io/)
+
+🍩 !tip 1
