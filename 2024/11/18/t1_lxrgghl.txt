@@ -1,0 +1,3 @@
+Retailers are happy with ETH in their wallets!
+
+^(!tip 1.01)
