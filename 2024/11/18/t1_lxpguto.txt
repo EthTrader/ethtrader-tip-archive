@@ -1,0 +1,3 @@
+True, *2025 is the year of bulls*
+
+^(!tip 1)
