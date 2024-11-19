@@ -1,0 +1,3 @@
+> Starknet v0.13.3 reduces blob gas fees, enhancing Ethereum Layer 2 scalability and transaction cost efficiency.
+
+Can someone smarter than me confirm that this will cause less ETH to be burned !tip 1
