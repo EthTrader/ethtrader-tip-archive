@@ -1,0 +1,3 @@
+Hope someone picks up your query but apart from that, try send a test transaction of $1 and see if it goes through
+
+!tip 1
