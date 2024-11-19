@@ -1,0 +1,3 @@
+Slowly but surely adoption is sliding in.
+
+^(!tip 1.01)
