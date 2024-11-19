@@ -1,0 +1,3 @@
+The mantra ain't working anymore.
+
+^(!tip 1.01)
