@@ -1,0 +1,4 @@
+It should be legal
+
+
+!tip 1
