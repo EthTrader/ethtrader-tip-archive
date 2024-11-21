@@ -1,0 +1,3 @@
+It's an emphatic revival.
+
+^(!tip 1)

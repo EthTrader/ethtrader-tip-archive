@@ -1,0 +1,3 @@
+The advantage of how deeply centralised their software is is that it is more difficult to hack and the Devs can replicate the vulnerabilities more easily
+
+!tip 1
