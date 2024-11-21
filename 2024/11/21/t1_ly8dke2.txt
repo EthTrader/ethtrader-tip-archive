@@ -1,0 +1,3 @@
+I absolutely agree. Achieving global decentralized consensus between all nodes in split seconds seems already a logically impossibility, especially when you consider everything that can be build on top of a blockchain. So the value will accrue on the **most decentralized & secure** **settlement layer**. The best applications will be build on the L2s & potentially even L3s utilizing this security.
+
+!tip 1
