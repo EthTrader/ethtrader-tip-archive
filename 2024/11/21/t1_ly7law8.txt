@@ -1,0 +1,6 @@
+Only 8 users have given more than 1000 tips  
+44 users have given less than 100 tips  
+
+With only 70 senders and 93 receivers, still the difference between number of tips are huge!
+
+^(!Tip 2.22)

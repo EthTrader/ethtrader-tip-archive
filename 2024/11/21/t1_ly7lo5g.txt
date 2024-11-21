@@ -1,0 +1,5 @@
+Well, the current top10 appears to be far better spread compared to the spread of the banned users.
+
+Naturally, as the total number of tips reduces, you'll see higher percentages, but I guess comparing to previous numbers, when you have a user sending 15% of their 3000 tips to one user, is a different picture to a user sending 15% of their 100 tips to one user.
+
+!tip 1
