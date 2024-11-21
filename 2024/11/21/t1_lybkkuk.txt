@@ -1,0 +1,7 @@
+Users with 20k governance score can use the pow command to nominate a post as "post of the week"
+
+The top 4 post of the week, posts, at the end of the week, are listed on the Donut Dashboard
+
+The posters also receive additional CONTRIB as a reward
+
+!tip 1
