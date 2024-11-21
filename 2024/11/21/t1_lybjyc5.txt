@@ -1,0 +1,11 @@
+Correct. what airline did
+
+Register a new empty wallet to airline account
+
+Register old existing wallet with CONTRIB to new Marc account
+
+Then delete airline account
+
+Migration complete
+
+!tip 1
