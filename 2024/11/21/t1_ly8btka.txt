@@ -1,0 +1,3 @@
+Blockchain trilemma can only be solved through layer chains. Some time in future Solana will face same scalability issue and will have no option than to go with L2s. There are already few projects in work.
+
+^(!Tip 1)
