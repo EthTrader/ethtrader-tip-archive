@@ -1,0 +1,3 @@
+Even though you won't spend gas for a swap, MM will probably take a fee which could be higher than the gas price lol.
+
+!tip 1
