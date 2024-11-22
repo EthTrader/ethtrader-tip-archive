@@ -1,0 +1,5 @@
+>The Dencun update, which included EIP-4844 or Proto-Danksharding, reduced Ethereum's base fee burn rate by allocating block space for layer-2 networks, leading to lower transaction fees and increased ETH issuance
+
+Interesting 
+
+>! !tip 1!<
