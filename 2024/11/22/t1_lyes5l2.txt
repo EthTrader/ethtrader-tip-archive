@@ -1,0 +1,3 @@
+Self custody is the way to go, we can't trust a CEX and should only use them to buy or sell.
+
+!tip 1
