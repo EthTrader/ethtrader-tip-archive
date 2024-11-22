@@ -1,0 +1,18 @@
+Round 143 - Quick CSV Analysis
+
+Link Post dominance no data recorded
+
+||Round 143|Round 142|Difference|
+|:-|:-|:-|:-|
+|**Users on Initial CSV**|**236**|**228**|**-8**|
+|**Users on Final CSV**|**164**|**198**|**-34**|
+|**Post Ratio**|**38.48** |**26.83**|**+11.65**|
+|**Comment Ratio**|**37.1** |**19.24**|**+17.86**|
+|**Total Posts**  |**1696**|**1675**|**+21**|
+|**Link Posts Dominance**|N/A|**88.46%**|N/A|
+|**Users: 50+ Posts**  |**19**|**17**|**+2**|
+|**users: 75+ Posts** |**7**|**6**|**+1**|
+|**Users: 1500+  Comments** |**0**|**0**|**-0**|
+|**Users: 1000+ Comments**  |**6**|**14**|**-8**|
+
+!tip 1
