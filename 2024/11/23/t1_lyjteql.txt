@@ -1,0 +1,3 @@
+Playing smartly is the gwei!
+
+^(!tip 1)
