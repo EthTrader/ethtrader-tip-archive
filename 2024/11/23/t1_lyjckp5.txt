@@ -1,0 +1,3 @@
+Polygon always doing something, but still price doesn't move.
+
+^(!Tip 1)
