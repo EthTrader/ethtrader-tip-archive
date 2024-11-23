@@ -1,0 +1,6 @@
+>Kesh compared the web3 concept of verifiable cross-chain identity to the web2 world.
+“With my Apple ID, I can connect to multiple applications; it’s the same principle for the LEI with a legal entity identifier – I can connect and identify myself across different platforms,” he said.
+
+This is one of the most comprehensive definition/application of cross-chain identity/Interoperability out there. It's time this feature becomes the gwei.
+
+!tip 1
