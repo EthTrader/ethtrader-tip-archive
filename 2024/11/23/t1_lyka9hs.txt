@@ -1,0 +1,11 @@
+>**BCN: What is decentralized data crowdsourcing, and how does it differ from traditional data collection methods?**
+
+>**IB:** Traditionally, companies collect data from its users/customers using the product or service provided. To utilize the data collected for AI, companies employ data scientists and other specialists to clean and annotate the data. The traditional methods of collecting and preparing data are efficient for large companies with many users and lots of money. However, for smaller and medium sized companies, scaling its data needs will be tough.
+
+>Decentralized data crowdsourcing is sourcing raw data or data preprocessing through a large network of digital workers who are willing and able to provide the data or preprocessing work. Companies or developers can, without having users or in-house data scientists, place a bounty for data tasks from a general pool of digital workers or specialists to perform data work. This enables companies to scale without needing to spend an immense amount of money and time toward hiring in-house.
+
+Sometimes we must take our gaze away from the boobs we love & just read the article. :)
+
+This helps against feeling ignorant too. :))
+
+!tip 1
