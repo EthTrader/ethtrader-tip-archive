@@ -1,0 +1,3 @@
+True, the whole game is about wen
+
+^(!tip 1)
