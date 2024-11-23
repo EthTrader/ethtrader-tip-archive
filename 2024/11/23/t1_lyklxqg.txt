@@ -1,0 +1,3 @@
+Rule to remember: Never talk about crypto with family.
+
+^(!tip 1)
