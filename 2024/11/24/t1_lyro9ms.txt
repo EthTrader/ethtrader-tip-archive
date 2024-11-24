@@ -1,0 +1,5 @@
+Both Brave and Chrome are built on the open-source Chromium browser engine (which also powers Edge, Opera, and Vivaldi). So they’ll have a similar look and functionality.
+
+A lot more information here [https://brave.com/compare/chrome-vs-brave/#:\~:text=Both%20Brave%20and%20Chrome%20are,a%20similar%20look%20and%20functionality.](https://brave.com/compare/chrome-vs-brave/#:~:text=Both%20Brave%20and%20Chrome%20are,a%20similar%20look%20and%20functionality)
+
+🍩 !tip 1
