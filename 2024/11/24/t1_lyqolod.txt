@@ -1,0 +1,3 @@
+This is terrible and shouldn't be used, it's not real crypto.
+
+!tip 1
