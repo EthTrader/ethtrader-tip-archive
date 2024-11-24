@@ -1,0 +1,5 @@
+We could maybe open the shuttle from gnosis to Arb again for users which did not migrate when migration was happening. One shuttle per account or something. This could be proposed to the community to vote on in governance week.
+
+We already have incentive liquidity also on mainnet. I don't want to open gnosis again to get a third option.
+
+!tip 1
