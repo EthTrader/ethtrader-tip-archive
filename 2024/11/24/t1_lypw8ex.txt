@@ -1,0 +1,5 @@
+>Traditional cross-chain swap methods often rely on centralized bridges, which pose significant security risks, or decentralized solutions, which can be complicated to use.
+
+They aim to simplify this.
+
+!tip 1
