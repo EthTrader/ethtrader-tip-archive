@@ -1,0 +1,5 @@
+I think at this stage incentivising Gnosis isn't worth it. We've already migrated to ARB one and distro is done on ARB one
+
+I think we'd benefit from more liquidity on ARB rather than spreading it even thinner. Even if we incentivised Gnosis it isn't going to lead to much liquidity anyway
+
+!tip 1
