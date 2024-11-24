@@ -1,0 +1,3 @@
+Always better to have something backed by other than USD
+
+^(!tip 1.01)
