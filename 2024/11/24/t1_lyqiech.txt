@@ -1,0 +1,3 @@
+Probably a delay in the bot recognising the governance score for weight purposes 
+
+!tip 1
