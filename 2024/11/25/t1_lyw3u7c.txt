@@ -1,0 +1,3 @@
+The question is, "Are you prepared?"
+
+^(!tip 1.01)
