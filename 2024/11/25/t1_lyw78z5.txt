@@ -1,0 +1,3 @@
+Is there any use case for this coin?
+
+!tip 1
