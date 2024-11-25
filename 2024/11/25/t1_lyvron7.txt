@@ -1,0 +1,3 @@
+I like this analysis, but numbers are not great. Only 21 users send 100 plus tips.
+
+^(!tip 1)
