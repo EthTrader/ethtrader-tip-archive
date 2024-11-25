@@ -1,0 +1,3 @@
+Thanks, here i count only registered user or users which register in this round. Tips given on deleted content are logged so i count them, i grap the data directly from the bot feed.
+
+!tip 1
