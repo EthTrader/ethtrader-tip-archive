@@ -1,0 +1,3 @@
+Bull time for exchanges too
+
+^(!tip 1)
