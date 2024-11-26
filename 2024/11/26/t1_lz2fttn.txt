@@ -1,0 +1,3 @@
+This creates a bridge with the banking system, so it's good for adoption.
+
+!tip 1
