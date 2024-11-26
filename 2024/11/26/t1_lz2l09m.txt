@@ -1,0 +1,3 @@
+OKX is the name of the exchange or wallet. I don't think it's an abbreviation, but I need to confirm.
+
+^(!tip 1)
