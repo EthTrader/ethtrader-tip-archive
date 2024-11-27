@@ -1,0 +1,3 @@
+The tip system has replaced the upvote system to calculate how much donuts you get during the distribution
+
+!tip 1.06946
