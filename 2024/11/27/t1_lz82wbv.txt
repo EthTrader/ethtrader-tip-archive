@@ -1,0 +1,5 @@
+> I am not sure how we could lose 1 user on the 20k contirb count, since contrib cant be moved. Will look into the logs to see what happened here...
+
+Depends how you have collected your data, but I suspect this is the case of u/Friendly-Airline2426 account, who registered a new wallet with 0 CONTRIB, deleted his account and then registered is wallet with CONTRIB to a new reddit account.
+
+!tip 1

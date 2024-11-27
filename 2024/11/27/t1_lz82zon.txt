@@ -1,0 +1,3 @@
+Simple answer is YES it can be 
+
+^(!tip 1)
