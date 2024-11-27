@@ -1,0 +1,3 @@
+0.25 cud be too low. Maybe 0.5x will be the better multiplier 
+
+!tip 1
