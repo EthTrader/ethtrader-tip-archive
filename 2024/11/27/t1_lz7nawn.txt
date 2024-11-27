@@ -1,0 +1,3 @@
+Finally a judge that makes some sense.
+
+^(!tip 1.01)

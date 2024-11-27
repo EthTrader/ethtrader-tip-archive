@@ -1,0 +1,3 @@
+Interoperability will be the most important factor for any protocols to move ahead in coming months. Without it they'll just be stuck. 
+
+^(!tip 1.01)
