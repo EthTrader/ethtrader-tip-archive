@@ -1,0 +1,3 @@
+Wallet connect should’ve sent a few tokens to everyone and made everyone happy.
+
+!tip 1
