@@ -1,0 +1,5 @@
+>The court determined that immutable smart contracts are not property and cannot be sanctioned, which is seen as a victory for privacy advocates. This ruling allows developers to create smart contract protocols without fear of sanctions, provided they don't charge fees. The decision is expected to positively impact the DeFi ecosystem, particularly on Ethereum.
+
+This is some good as W for privacy devs 
+
+>! !tip 1!<
