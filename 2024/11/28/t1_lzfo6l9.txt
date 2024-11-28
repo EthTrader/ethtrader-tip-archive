@@ -1,0 +1,3 @@
+The activity seems too low on Arbitrum compared to what it was in Gnosis.
+
+^(!Tip 1)
