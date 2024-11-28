@@ -1,0 +1,5 @@
+ENS coin is an ERC-20 token
+
+>It translates blockchain addresses into human-readable names, making it easier to send and receive cryptocurrencies.
+
+^(!tip 1)
