@@ -1,0 +1,3 @@
+Classic scenario: Their government will increase taxes.
+
+!tip 1
