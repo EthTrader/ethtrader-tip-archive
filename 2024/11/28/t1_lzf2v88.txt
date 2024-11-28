@@ -1,0 +1,7 @@
+Yes, not sure which is the requirement right now. I think that if you have 20k CONTRIB (I dont remember well this number) and equivalent in DONUT you can.
+
+Its called Powered users. This way, people that is around that now the flair rules better can help newbies.
+
+Currently, Reddit ⬆️ doesnt count towards DONUT distribution. We must do it with the following command to prevent vote manipulation.
+
+🍩 !tip 1
