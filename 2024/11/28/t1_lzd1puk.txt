@@ -1,0 +1,3 @@
+Time shall tell if its implementation is strict
+
+!tip 1
