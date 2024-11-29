@@ -1,0 +1,5 @@
+>MetaMask users can now send any digital asset from their MetaMask wallet by simply typing a FIO Handle, rather than having to copy and paste long, complex public wallet address, FIO Handles replace cumbersome wallet addresses with recognizable names like “bob@wallet”, providing a much simpler and secure method to interact across any and all blockchain networks.
+
+We are finally getting to the era where DeFi will be as simple as send text messages right?
+
+!tip 1
