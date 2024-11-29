@@ -1,0 +1,5 @@
+Yes
+
+>The recent upgrade has significantly increased CIAN's TVL, with FBTC and WETH accounting for about 80% of the total.
+
+^(!tip 1)
