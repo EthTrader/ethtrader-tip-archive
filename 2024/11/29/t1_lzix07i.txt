@@ -1,0 +1,5 @@
+>In essence, USDE is a synthetic stablecoin that keeps its peg through a mix of spot crypto holdings and short positions in margined perpetual contracts.
+
+Sounds like it could be risky 🤔
+
+!tip 1
