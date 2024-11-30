@@ -1,0 +1,3 @@
+Yes, prohibited to withdraw in self custody wallets.
+
+^(!tip 1)
