@@ -1,0 +1,3 @@
+VB doesn't raise alarms unless when necessary right?
+
+!tip 1
