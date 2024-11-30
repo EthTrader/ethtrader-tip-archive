@@ -1,0 +1,3 @@
+It is starting now!
+
+!tip 1.0069
