@@ -1,0 +1,6 @@
+Optimistic Rollups assume transactions are valid unless proven otherwise, relying on fraud proofs.
+
+ZK Rollups use cryptographic proofs to verify transactions instantly without needing trust.
+
+
+!tip 1
