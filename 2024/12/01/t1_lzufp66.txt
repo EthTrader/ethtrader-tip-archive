@@ -1,0 +1,3 @@
+Good indicator to get an idea about buying and selling.
+
+^(!tip 1)
