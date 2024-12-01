@@ -1,0 +1,4 @@
+Topic limiters were a bad decision in retrospective.
+We should have nuked link rewards instead.
+
+!tip 1
