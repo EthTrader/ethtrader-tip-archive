@@ -1,0 +1,3 @@
+It's bull time
+
+^(!tip 1)
