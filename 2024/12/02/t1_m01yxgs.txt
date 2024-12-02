@@ -1,0 +1,2 @@
+Media sees anything below 0% as crash
+!tip 1
