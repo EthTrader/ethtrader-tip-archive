@@ -1,0 +1,3 @@
+My scoops are for $10 only.
+
+^(!tip 1)
