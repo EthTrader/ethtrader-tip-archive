@@ -1,0 +1,3 @@
+Depends on what type of control we're talking about here.
+
+!tip 1
