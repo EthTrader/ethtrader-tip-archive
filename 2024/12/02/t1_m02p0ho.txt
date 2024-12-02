@@ -1,0 +1,3 @@
+And if you want to roll back a mistakenly sent transaction just Ctrl+Z
+
+🍩 !tip 1
