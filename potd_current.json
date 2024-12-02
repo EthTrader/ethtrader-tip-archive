@@ -1,0 +1,57 @@
+{
+    "last_update": 1733122861,
+    "last_update_week": 49,
+    "winners": [
+        {
+            "rank": 1,
+            "nominations": 3,
+            "weight": 987964,
+            "week_number": 48,
+            "post": {
+                "post_id": "t3_1h0zjlm",
+                "author": "DrRobbe",
+                "reddit_upvotes": 6,
+                "title": "Registered User changes in round 143",
+                "tips": 14,
+                "tips_amount": 118.02669,
+                "url": "https://redd.it/1h0zjlm",
+                "created_date": "2024-11-27 08:14:31",
+                "flair": "Meta & Donut"
+            }
+        },
+        {
+            "rank": 2,
+            "nominations": 1,
+            "weight": 333781,
+            "week_number": 48,
+            "post": {
+                "post_id": "t3_1h1b2un",
+                "author": "whodontloveboobs",
+                "reddit_upvotes": 179,
+                "title": "$5k Ethereum is inevitable - Market Analysis",
+                "tips": 11,
+                "tips_amount": 11.06907,
+                "url": "https://redd.it/1h1b2un",
+                "created_date": "2024-11-27 18:23:41",
+                "flair": "Technicals"
+            }
+        },
+        {
+            "rank": 3,
+            "nominations": 1,
+            "weight": 32370,
+            "week_number": 48,
+            "post": {
+                "post_id": "t3_1gzgq1n",
+                "author": "DBRiMatt",
+                "reddit_upvotes": 12,
+                "title": "Diving into the Donut Pool: Week 28",
+                "tips": 11,
+                "tips_amount": 12.23569,
+                "url": "https://redd.it/1gzgq1n",
+                "created_date": "2024-11-25 11:28:17",
+                "flair": "Meta & Donut"
+            }
+        }
+    ]
+}
