@@ -1,0 +1,3 @@
+Mom likes ETH!
+
+^(!tip 1.01)
