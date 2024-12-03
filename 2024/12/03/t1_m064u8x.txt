@@ -1,0 +1,3 @@
+ETPs are a bigger because they include  ETFs, ETNs (Exchange-Traded Notes), and ETCs (Exchange-Traded Commodities).
+
+!tip 1
