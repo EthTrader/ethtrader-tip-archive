@@ -1,0 +1,3 @@
+This is just the minimum level
+
+!tip 1.0069
