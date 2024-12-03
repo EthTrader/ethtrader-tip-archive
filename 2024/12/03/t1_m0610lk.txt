@@ -1,0 +1,3 @@
+Crucial day tomorrow.  It'll decide in which direction we head.
+
+^(!tip 1)
