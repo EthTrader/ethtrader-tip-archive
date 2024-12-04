@@ -1,0 +1,5 @@
+>The lockout was attributed to using a VPN during the transaction, which Coinbase flagged as a security measure. 
+
+It's important to ensure that all transactions adhere to the platform's terms and security protocols to prevent any repercussions.
+
+^(!tip 1)
