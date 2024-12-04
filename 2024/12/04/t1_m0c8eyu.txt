@@ -1,0 +1,5 @@
+>“Users should meticulously avoid signing blockchain transactions without thorough scrutiny and simulate transactions beforehand to ensure they don’t authorize malicious activities inadvertently,”
+
+It's something to do with not carrying out due diligence
+
+!tip 1
