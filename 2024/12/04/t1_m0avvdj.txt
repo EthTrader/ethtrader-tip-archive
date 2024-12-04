@@ -1,0 +1,5 @@
+That's impressive! It shows a high number of transactions.
+
+^(!tip 1)
+
+^(!post status)
