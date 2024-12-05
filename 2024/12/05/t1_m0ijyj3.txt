@@ -1,0 +1,3 @@
+True, money is the key to many things.
+
+^(!tip 1)
