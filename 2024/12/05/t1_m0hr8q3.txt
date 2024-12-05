@@ -1,0 +1,3 @@
+Bulls are in full swing.
+
+^(!tip 1)
