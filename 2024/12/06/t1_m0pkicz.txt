@@ -1,0 +1,3 @@
+This indicates potential economic challenges ahead.
+
+^(!tip 1)
