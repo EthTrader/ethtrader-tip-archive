@@ -1,0 +1,5 @@
+> The first is Polygon AggLayer, expected to go live before end of year. It’s a cross-chain protocol that allows independent chains to share liquidity, users, and states, creating a seamless network of sovereign blockchains. In short, it’ll allow users to access liquidity from multiple sources seamlessly across the Ethereum ecosystem as if they were using a single chain.
+
+Let's see how this pans out ay!
+
+!tip 1
