@@ -1,0 +1,7 @@
+More chances [YES]
+
+Less chances [NO]
+
+My vote [YES]
+
+^(!tip 1)
