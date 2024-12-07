@@ -1,0 +1,9 @@
+This is good stuff !tip 1 -  From their blog:
+
+>The Rewards v2 upgrade proposes an expansion to platform rewards functionalities introducing several powerful enhancements:
+
+>**Operator-Directed Rewards**: AVSs can reward Operators based on performance or custom logic
+
+>**Variable Operator Fees**: Operators can set their own fee rates per AVS, providing economic flexibility and attracting diverse participation
+
+>**Batch Rewards Claiming**: Stakers and Operators can claim multiple rewards in a single transaction, reducing gas costs
