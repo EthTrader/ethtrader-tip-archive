@@ -1,0 +1,3 @@
+I'd like to see more than 40%
+
+^(!tip 1)
