@@ -1,0 +1,3 @@
+Once the TPS on Ethereum is increased this shouldn't be an issue in the future. As long as mainnet remains the final settlement layer for L2s, it should be fine if I'm not wrong.
+
+^(!Tip 1)
