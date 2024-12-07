@@ -1,0 +1,3 @@
+Batch rewards claiming, this should reduce crash
+
+!tip 1
