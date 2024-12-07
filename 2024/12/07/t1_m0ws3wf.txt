@@ -1,0 +1,1 @@
+From what I understand this makes it easier to connect Layer 2s and for them to communicate with each other? !tip 1
