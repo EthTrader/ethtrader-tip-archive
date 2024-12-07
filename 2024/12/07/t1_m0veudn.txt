@@ -1,0 +1,3 @@
+The Shib dev should concentrate on fixing the Shib supply first. 
+
+^(!Tip 1)
