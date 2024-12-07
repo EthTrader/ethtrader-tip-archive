@@ -1,0 +1,3 @@
+Eventually, ETH has to win.
+
+^(!tip 1)
