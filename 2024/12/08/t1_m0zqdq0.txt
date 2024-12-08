@@ -1,0 +1,3 @@
+^(Wouldn't be a bad move. Make sure you don't go too deep.)
+
+^(!tip 1.01)
