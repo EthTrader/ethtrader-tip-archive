@@ -1,0 +1,3 @@
+Decentralized IDs > Centralized IDs
+
+^(!tip 1)
