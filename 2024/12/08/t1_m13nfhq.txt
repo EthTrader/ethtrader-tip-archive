@@ -1,0 +1,7 @@
+Yea, I can transfer and hold them on the hardware wallet. I already sent some moons to the new address.
+
+And also yes, it’s pretty much my “governance power” (which is the lesser value of DONUT+CONTRIB) that I want to migrate. The reason why I didn’t send the Donuts yet is because if I do, I lose my governance weight by separating the Donuts from the CONTRIB.
+
+You need CONTRIB for your votes to count in DAO polls, regardless of how many DONUT you have. I hope I’m making sense.
+
+!tip 5
