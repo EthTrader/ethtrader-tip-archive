@@ -1,0 +1,3 @@
+True, luck must be at your side
+
+^(!tip 1)
