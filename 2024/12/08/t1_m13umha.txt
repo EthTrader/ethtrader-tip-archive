@@ -1,0 +1,5 @@
+[YES]
+
+But which hardware wallet ?
+
+ !tip 1
