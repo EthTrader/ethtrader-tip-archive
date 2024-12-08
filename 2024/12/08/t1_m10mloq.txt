@@ -1,0 +1,4 @@
+only if not paid in a $ fixed value, but in a token fixed one!
+
+
+!tip 1
