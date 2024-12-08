@@ -1,0 +1,3 @@
+Would you mind telling us the coins you hold??
+
+!tip 1
