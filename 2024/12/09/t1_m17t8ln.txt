@@ -1,0 +1,5 @@
+It's actually `!tip 1` , where `!tip` is the command and the number is the amount of DONUT being tipped.
+
+You can earn DONUT tokens by participating in this subreddit. They're pretty much internet points you get for your posts and comments. Internet points that can also be traded.
+
+See this guide to learn more about DONUT, governance, and everything related to [r/EthTrader](https://www.reddit.com/r/EthTrader/): [https://www.reddit.com/r/ethtrader/comments/1ftnx4t/megathread\_comprehensive\_guide\_to\_rethtrader/](https://www.reddit.com/r/ethtrader/comments/1ftnx4t/megathread_comprehensive_guide_to_rethtrader/)
