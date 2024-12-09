@@ -1,0 +1,9 @@
+> Is that increase in TVL due to increase in ETH and Donut prices, or more positions has been added?
+
+99% due to increased prices - theres only been about $300 worth of added assets into the LP
+
+> Currently, in don't know where I stand in terms of Donut incentives from the Pool
+
+Rewards are still being rewarded according to the UI, but there appears to be an error in the harvesting page... probably need to lodge a ticket to Sushi support to get them to fix it xD
+
+!tip 1
