@@ -1,0 +1,3 @@
+It's only the top100 from last week, since only 53 people send tips last week it is also all users.
+
+!tip 1
