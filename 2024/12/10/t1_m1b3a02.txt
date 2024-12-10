@@ -1,0 +1,3 @@
+Time will tell if it is a good move or not.
+
+^(!tip 1)

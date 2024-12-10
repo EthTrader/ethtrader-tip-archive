@@ -1,0 +1,3 @@
+It seems everyone wants to launch their own chain in the name of improving scalability.
+
+^(!tip 1)
