@@ -1,0 +1,5 @@
+>Superchain is **an interconnected ecosystem of Layer 2 (L2) networks built using Optimism's OP Stack**. It enhances Ethereum's scalability by linking multiple L2s, reducing fees, and speeding up transactions through optimistic rollups. Superchain isn't just another Layer 2 solution.
+
+Source: [https://www.quillaudits.com/blog/blockchain/superchain](https://www.quillaudits.com/blog/blockchain/superchain)
+
+🍩 !tip 1
