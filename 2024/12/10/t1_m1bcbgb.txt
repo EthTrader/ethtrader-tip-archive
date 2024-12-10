@@ -1,0 +1,7 @@
+While these things ARE powerful they aren’t an immediate danger to crypto (not yet). 
+
+They could *potentially* break the math behind Bitcoin and Ethereum in the future, but it won't be easy nor quick. Some crypto projects are already working on "quantum-proof" upgrades to stay safe. 
+
+tldr: funds are still SAFU
+
+!tip 1
