@@ -1,0 +1,3 @@
+It's bad to lost funds in that manner.
+
+^(!tip 1)
