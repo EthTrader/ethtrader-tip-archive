@@ -1,0 +1,5 @@
+HODL is the gwei!
+
+^(!tip 1)
+
+^(!post status)
