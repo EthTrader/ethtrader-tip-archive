@@ -1,0 +1,3 @@
+It's tough after that recent dip in the prices.
+
+^(!tip 1)
