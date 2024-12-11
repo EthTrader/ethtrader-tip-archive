@@ -1,0 +1,5 @@
+“There are no LPs (liquidity providers) on QuickSwap Liquidity Hub via Ethereum. This means that there is a minimum transaction size of $75, subject to change depending on the GWEl price”.
+
+Is there any incentive from quickswap so the minimum transaction will be reduced in order to attract more users? Because currently the minimum transaction will only be reduced if the GWEI is lower
+
+!tip 1
