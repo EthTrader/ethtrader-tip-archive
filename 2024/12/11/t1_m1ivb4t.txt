@@ -1,0 +1,3 @@
+History tends to repeat itself in the cyclic manner.
+
+^(!tip 1)
