@@ -1,0 +1,3 @@
+Even 1% chance is enough to believe 
+
+^(!tip 1)
