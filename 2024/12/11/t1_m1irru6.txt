@@ -1,0 +1,3 @@
+With Ethereum’s planned upgrades like sharding and scalability improvements, there’s a shot at lower gas fees. But, it still depends on demand and how efficiently the network scales. So, it’s possible...
+
+!tip 1
