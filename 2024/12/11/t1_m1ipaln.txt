@@ -1,0 +1,7 @@
+If quorum is reached, then whatever the leading option is will be the winner.
+
+Users who vote abstain simply add to quorum.
+
+If 60% of votes are abstain, 25% vote yes and 15% vote no, then the YES will pass, assuming quorum is met.
+
+!tip 1
