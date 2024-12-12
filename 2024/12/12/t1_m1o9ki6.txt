@@ -1,0 +1,3 @@
+If it reaches $50, I'll be proud of myself to invest in it.
+
+^(!tip 1)
