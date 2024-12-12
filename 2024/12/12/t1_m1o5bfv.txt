@@ -1,0 +1,3 @@
+True, Chainlink is making good progress.
+
+^(!tip 1)
