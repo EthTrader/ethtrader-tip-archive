@@ -1,0 +1,3 @@
+Stricter rules will be useless without proper enforcement
+
+!tip 1
