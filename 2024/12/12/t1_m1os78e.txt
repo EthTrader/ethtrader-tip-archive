@@ -1,0 +1,5 @@
+Great!
+
+More good days are ahead.
+
+^(!tip 1)
