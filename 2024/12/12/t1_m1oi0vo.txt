@@ -1,0 +1,5 @@
+Not quite; supplying/lending ETH for people who borrow.
+
+It's a neat little way to earn a bit more without paying mainnet gas fees or requiring a super large amount.
+
+!tip 1
