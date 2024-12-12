@@ -1,0 +1,3 @@
+Today belongs to Link.
+
+^(!tip 1)
