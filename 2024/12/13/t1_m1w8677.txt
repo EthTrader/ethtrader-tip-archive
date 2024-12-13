@@ -1,0 +1,10 @@
+Your wallet is perfectly registered and eligible for Donuts.
+
+You have 2.1K Donuts spread across Gnosis and Arbitrum.  
+See your wallet below.
+
+https://arbiscan.io/address/0x5200fb9312D1d512b1cae9F552693930DAF275d6
+
+https://gnosisscan.io/address/0x5200fb9312D1d512b1cae9F552693930DAF275d6
+
+^(!Tip 1)
