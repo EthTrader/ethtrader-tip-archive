@@ -1,0 +1,3 @@
+True, limited funds is the main issue to handle in such situations.
+
+^(!tip 1)
