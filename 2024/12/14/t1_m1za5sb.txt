@@ -1,0 +1,3 @@
+I think it's a right move.
+
+^(!tip 1)
