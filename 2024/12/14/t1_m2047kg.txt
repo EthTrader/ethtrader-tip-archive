@@ -1,0 +1,9 @@
+The things that stood out to me are:
+
+* Hyperchains: Infinite scaling through parallel, customizable chains.
+* Account Abstraction: Pay gas fees with any token for smoother transactions.
+* zkPorter: Ultra-low fees with off-chain data availability for faster, cheaper transactions.
+
+What do you guys look forward to?
+
+!tip 1
