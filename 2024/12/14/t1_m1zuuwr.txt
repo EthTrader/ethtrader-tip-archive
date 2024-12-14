@@ -1,0 +1,3 @@
+EMA seems to be the easiest and widely used indicators for price actions.
+
+^(!Tip 1)
