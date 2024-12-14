@@ -1,0 +1,9 @@
+>Any reason to prefer one over the other? 
+
+Mostly for the smooth interface and built-in token approval revoke feature. Also if you need to add additional wallets you can do it using seed phrase whereas in Metamask the additional wallets can only be done with a private key.
+
+>I've only ever tried metamask.
+
+Try Rabby and you'll know why is it a good option.
+
+^(!Tip 1)
