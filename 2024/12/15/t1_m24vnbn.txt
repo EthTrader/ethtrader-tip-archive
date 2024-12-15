@@ -1,0 +1,6 @@
+\> A user needs to transfer funds from the Ethereum mainnet to the Layer 2 network to use Layer 2 fully, which is complex. This requires education, tools, and a smoother user experience to encourage wider adoption
+
+  
+if a user aready has/buy/use eth, isn't that big deal to move to a L2
+
+!tip 1
