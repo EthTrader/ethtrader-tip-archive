@@ -1,0 +1,13 @@
+#Polygon PoS	
+
+>Polygon PoS leverages a PoS consensus mechanism and Plasma framework to create a sidechain.
+
+#Polygon zkEVM
+
+>Polygon zkEVM features a zk-rollup architecture that leverages zero-knowledge proofs to provide an L2 solution on top of Ethereum.
+
+The link below describes in detail the similarities, differences and use cases.
+
+https://developers.moralis.com/whats-the-difference-between-polygon-pos-vs-polygon-zkevm/#elementor-toc__heading-anchor-9
+
+^(!tip 1)
