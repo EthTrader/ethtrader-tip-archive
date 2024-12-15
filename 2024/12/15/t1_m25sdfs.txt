@@ -1,0 +1,5 @@
+The title says it all.
+
+I agree that Tokenization is the inevitable future.
+
+^(!tip 1)
