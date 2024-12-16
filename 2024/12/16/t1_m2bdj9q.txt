@@ -1,0 +1,3 @@
+He knows exactly what we know.
+
+^(!tip 1)
