@@ -1,0 +1,7 @@
+>Tokenized bonds are a digital representation of traditional bonds that can be held and traded on a blockchain.
+
+>The immutable nature of blockchains aims to promise a tamper-proof recording of ownership and transaction history of these tokens.
+
+It will help to provide transparency and trust in the process.
+
+^(!tip 1)
