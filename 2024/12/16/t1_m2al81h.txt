@@ -1,0 +1,3 @@
+Why do these numbers keep declining for sending and receiving tips. I thought last was the lowest.
+
+^(!tip 1)
