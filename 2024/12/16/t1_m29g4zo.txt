@@ -1,0 +1,7 @@
+Why do you want ETH on Mainnet? 
+
+You can try app.rhino.fi - but typically, you will need a higher amount of ETH to cover the fees of sending to mainnet.
+
+Typically the way these bridging services will operate is; you send OP ETH to their pool from your wallet. Their pool will send Mainnet ETH to your wallet, so even though you are sending from an L2, they will take out a deposit to cover the mainnet fee.
+
+!tip 1
