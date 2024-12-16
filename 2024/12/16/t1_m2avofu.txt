@@ -1,0 +1,3 @@
+Na it's 52 tippers, but the last share a rank since they all tipped just once.
+
+!tip 1
