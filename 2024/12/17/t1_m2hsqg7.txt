@@ -1,0 +1,3 @@
+The coin which I don't hold any.
+
+^(!tip 1)
