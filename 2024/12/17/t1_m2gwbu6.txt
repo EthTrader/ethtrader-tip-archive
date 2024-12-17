@@ -1,0 +1,5 @@
+Can someone explain the risks? What could be affected by the risk? Is it limited to Bridged stablecoins, Polygon or AAVE?
+
+Sorry for the many questions but I have supplied some WETH & some POL to AAVE on Polygon. I'd like to avoid surprises, so I should understand the risks.
+
+!tip 1
