@@ -1,0 +1,3 @@
+Generates yield to depositors.
+
+!tip 1

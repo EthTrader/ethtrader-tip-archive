@@ -1,0 +1,5 @@
+>Barnabas Busa proposed removing the ability for validators to change the block gas limit. 
+
+I never knew this is even a thing 
+
+>! !tip 1 !<
