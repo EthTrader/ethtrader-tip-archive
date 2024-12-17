@@ -1,0 +1,3 @@
+Coinbase must have a lavish lunch.
+
+^(!tip 1)
