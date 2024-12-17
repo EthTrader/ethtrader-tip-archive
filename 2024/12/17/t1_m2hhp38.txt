@@ -1,0 +1,3 @@
+Wait so since they can't remove the gas limit, gas will be higher??
+
+!tip 1

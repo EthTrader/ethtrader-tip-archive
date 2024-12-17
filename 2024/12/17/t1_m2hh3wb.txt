@@ -1,0 +1,3 @@
+Link is the new Swift.
+
+ !tip 1
