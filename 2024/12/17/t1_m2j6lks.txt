@@ -1,0 +1,5 @@
+You can use SmolReFuel to so a Donut to ETH swap without using ETH as gas. Gas will be settled in Donuts.
+
+Check this guide https://www.reddit.com/r/ethtrader/s/aKvJRXGNiw
+
+^(!Tip 1)
