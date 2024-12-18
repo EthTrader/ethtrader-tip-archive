@@ -1,0 +1,9 @@
+> What will you do if some entries get the same number of votes? Check contrib or split?
+
+If tied for winning, each submission/nominator will be awarded the bonus 1000/250
+
+> Also what's the idea if multiple people proposed the same topic, also split?
+
+When 2 people both nominated the same post, such as Tip2Vote by Aminok, the user that had the top upvoted submission was dubbed the nominator. This also just happened to be the person who nominated first on each occasion - each nomination has received a response in the nomination thread stating they nominated a finalist, were a valid nomination or were an ineligible nomination.
+
+!tip 1
