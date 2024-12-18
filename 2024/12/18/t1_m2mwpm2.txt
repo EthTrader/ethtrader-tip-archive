@@ -1,0 +1,5 @@
+Before everyone gets too excited with the ratios; on one hand, these estimates do not include tip weight and multipliers, as DrRobbe mentioned.
+
+But the ratio will also in fact, be reduced, due to Voting bonuses that get applied. For those who voted on governance proposals, this is a good thing. For those that forgot, you'll see lower ratio and no voting bonus benefits.
+
+!tip 1
