@@ -1,0 +1,13 @@
+> I'm still trying to learn, the more I do the more interested I get
+
+You're gonna make it! Many people arn't interested in learning!
+
+I guess either way, you're risking your assets with a protocol, which means the ETH is not in your wallet, instead you have an NFT that represents how much ETH you have, or a smart contract token etc...
+
+My preferred staking method is via Everstake.one or you can do so via Exodus Wallet.
+
+Theres always Coinbase and CDC for "cex staking" - which has the benefit of not gas fees, but the risk of being on a CEX.
+
+There is also Etherfi as well.
+
+!tip 1
