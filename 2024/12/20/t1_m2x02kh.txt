@@ -1,0 +1,7 @@
+Reddito data provides the raw Data, and the "donut calculations" are based on the old school upvotes. And I don't think factor in multipliers and tip weight
+
+The final CSV uses the data collected from Reddito, and then factors in the tipping data, which is what actually reflects rewards. And the various multipliers and tip weight 
+
+So you need to be tipped if you are to receive rewards
+
+!tip 1
