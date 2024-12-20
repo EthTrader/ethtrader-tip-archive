@@ -1,0 +1,3 @@
+Blood is everywhere. It's time to unzip the bags to load again.
+
+^(!tip 1)
