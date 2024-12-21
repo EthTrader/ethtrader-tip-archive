@@ -1,0 +1,5 @@
+Every week, we heard about a new L2 launch.
+
+I don't know the exact count, but it must be close to 90.
+
+^(!tip 1)
