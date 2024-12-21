@@ -1,0 +1,5 @@
+Ah yes, the ole Inverse Cramer!
+
+It works 100% of the time, 50% of the time xD
+
+!tip 1
