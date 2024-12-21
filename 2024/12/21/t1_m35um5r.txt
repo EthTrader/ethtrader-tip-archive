@@ -1,0 +1,2 @@
+Even 1% is considered as crash
+!tip 1
