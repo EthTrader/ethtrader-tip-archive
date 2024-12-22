@@ -1,0 +1,10 @@
+* 20k / 60k DONUT (Plus associated CONTRIB) gives users "approved user status" - granting them some Moderation powers.
+* DONUT (Plus associated CONTRIB) can be used to vote in DAO governance proposals
+* DONUT can be used to subscribe to special membership within the sub, perks include posting/commenting GIFS and Images etc
+* DONUT can be used to rent the subs banner
+* DONUT can be used to advertise in the Daily Discussion pinned comment
+* DONUT can be used to host AMA/Advertise as a pinned post.
+
+That probably covers it, the main use case is towards advertising rights within this community.
+
+!tip 1
