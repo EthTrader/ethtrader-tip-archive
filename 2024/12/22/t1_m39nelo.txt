@@ -1,0 +1,3 @@
+The target is for ETH to have 69x of Bitcoin's on-chain users
+
+!tip 1.69
