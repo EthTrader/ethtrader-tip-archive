@@ -1,0 +1,3 @@
+I guess the simple reason is that the overall supply of ETH in circulation is still significant enough to offset the deflationary impact of the burning mechanism.
+
+^(!tip 1)
