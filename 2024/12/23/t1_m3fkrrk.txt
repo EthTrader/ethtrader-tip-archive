@@ -1,0 +1,3 @@
+Coins whose value stay the same.
+
+!tip 1
