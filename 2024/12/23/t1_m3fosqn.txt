@@ -1,0 +1,2 @@
+Anything above 1% is explode or crash
+!tip 1
