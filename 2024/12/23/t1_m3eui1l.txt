@@ -1,0 +1,5 @@
+So there are about 6300 active Ethereum nodes. 
+
+I am curious to see how this number changes if node the validator requirement gets dropped to 1 ETH.
+
+!tip 1
