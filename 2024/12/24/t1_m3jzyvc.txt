@@ -1,0 +1,5 @@
+“All newly upgraded frxUSD stablecoins will be backed by stablecoin tokens (USDe, USDC, sDAI), CDPs in Fraxlend, and cash equivalent RWA assets from custodians,”
+
+![gif](giphy|4EFfs0K9mBhxuy8piu|downsized)
+
+!tip 1
