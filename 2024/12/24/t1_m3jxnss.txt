@@ -1,0 +1,3 @@
+Hackers are very clever to trap us. So, always be cautious.
+
+^(!tip 1)
