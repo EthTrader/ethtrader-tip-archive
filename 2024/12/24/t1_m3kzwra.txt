@@ -1,0 +1,5 @@
+>Every time someone mints an NFT, trades one, or transfers it, they’re using Ethereum. This pumps network activity and generates gas fees, which directly benefit validators and contribute to the network’s security.
+
+No doubt 👍
+
+!tip 1
