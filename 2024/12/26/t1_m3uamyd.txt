@@ -1,0 +1,3 @@
+Whales are busy playing their games.
+
+^(!tip 1)
