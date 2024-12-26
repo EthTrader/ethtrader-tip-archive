@@ -1,0 +1,3 @@
+I hope soon red days will turn into green days.
+
+^(!tip 1)
