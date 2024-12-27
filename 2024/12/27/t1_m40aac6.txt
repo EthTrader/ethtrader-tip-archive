@@ -1,0 +1,3 @@
+This means volatility. Are we looking at an upward or downward volatility?
+
+!tip 1
