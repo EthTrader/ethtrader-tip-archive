@@ -1,0 +1,3 @@
+Do we really need a tool to know if a token like squid V2 is an honeypot ?
+
+ !tip 1
