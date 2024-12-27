@@ -1,0 +1,5 @@
+Parallel transfers look easy but its not that easy to sync them in the end. I think they will require to add "layers" on validation steps or something like that so you can validate transactions until X% of trust in parallel and then those prevalidated transactions go to a one line where are fully validated. The problem is what to do when something goes wrong, etc.
+
+Anyway I will let the experts work on it unless u/vbuterin hires me xD
+
+ 🎅🍩 !tip 1
