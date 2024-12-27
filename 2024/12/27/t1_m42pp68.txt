@@ -1,0 +1,3 @@
+[YES] But I would add MEME and Video/Image flairs to topic limits alone itself. To prevent flair and title collapsing with other kind of topics. For example a meme flair with ETH in the title I would make the code take as priority the flair instead of the title to prevent this.
+
+!tip 1
