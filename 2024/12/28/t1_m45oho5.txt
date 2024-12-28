@@ -1,0 +1,4 @@
+So i guess the stake should be a stack in the Titel.
+My bad.
+
+!tip 1
