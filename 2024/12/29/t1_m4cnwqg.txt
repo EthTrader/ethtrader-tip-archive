@@ -1,0 +1,3 @@
+I think this is wrong. I understand that the only way Ethereum can scale is through L2s, but there should be some more king of direct action on Ethereum itself.
+
+!tip 1
