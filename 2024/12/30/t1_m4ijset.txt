@@ -1,0 +1,3 @@
+Nice guide for the beginners
+
+^(!tip 1)
