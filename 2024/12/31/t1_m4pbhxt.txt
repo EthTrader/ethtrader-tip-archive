@@ -1,0 +1,3 @@
+Any MiCA compliant stablecoin 
+
+EURC ^(!tip 1)
