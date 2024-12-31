@@ -1,0 +1,3 @@
+This is the way to deal with illegal things.
+
+^(!tip 1)
