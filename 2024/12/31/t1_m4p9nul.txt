@@ -1,0 +1,3 @@
+More convenient is to convert it into another stablecoin.
+
+^(!tip 1)
