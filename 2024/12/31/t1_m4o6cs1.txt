@@ -1,0 +1,3 @@
+I think after the upgradation the gas fee will be further reduced, so lower transaction fees may affect the ETH burned per transaction unless it is counterbalanced by more network activity or transactions.
+
+^(!tip 1)
