@@ -1,0 +1,3 @@
+>While guessing a private key is meant to be a statistical improbability, the hacker managed to uncover 732 private keys linked to 49,060 transactions.
+
+Not sure if extreme luck or really bad private keys - !tip 1
