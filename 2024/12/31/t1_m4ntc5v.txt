@@ -1,0 +1,2 @@
+correct. Quick intel, Go plus and [honeypot.is](http://honeypot.is) works the same like tokensniffer and you can also use tokensinffer on dextools  
+!tip 1
