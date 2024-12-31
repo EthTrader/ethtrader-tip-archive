@@ -1,0 +1,5 @@
+Another great tool to highlight.
+
+If I'm not wrong, it's more or less the same as Token Sniffer to evaluate the legitimacy of the token ?
+
+^(!tip 1)
