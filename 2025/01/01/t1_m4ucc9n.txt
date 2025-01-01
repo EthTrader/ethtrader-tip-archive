@@ -1,0 +1,3 @@
+Change of name doesn't change their functions right?
+
+!tip 1
