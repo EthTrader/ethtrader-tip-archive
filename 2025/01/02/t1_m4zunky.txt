@@ -1,0 +1,3 @@
+It's good to know you did the right thing.
+
+^(!tip 1)
