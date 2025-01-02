@@ -1,0 +1,11 @@
+More tips :
+
+
+1. Only use money you can afford to lose.  
+2. Beware of fake wallets disguised as real ones with 1,000 holders; they could be devs' wallets.  
+3. Ensure liquidity is locked and the contract is burned.  
+4. Check if the community is active and the devs have a good website and Discord.  
+5. Avoid buying from honeypot contracts.
+
+
+!tip 1 
