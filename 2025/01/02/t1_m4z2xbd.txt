@@ -1,0 +1,5 @@
+I hope one day I apply these patterns to my coins and see them respond as expected.
+
+Thanks for keeping us educated.
+
+^(!tip 1)
