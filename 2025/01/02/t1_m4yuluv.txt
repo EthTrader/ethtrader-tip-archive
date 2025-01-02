@@ -1,0 +1,3 @@
+Despite the December downturn, the overall year is not good.
+
+^(!tip 1)
