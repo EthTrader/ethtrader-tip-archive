@@ -1,0 +1,3 @@
+Reddit should work on their bug so that user can be able to quote text post in the comments 
+
+>! !tip 1 !<
