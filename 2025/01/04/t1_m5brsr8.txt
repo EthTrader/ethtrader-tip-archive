@@ -1,0 +1,3 @@
+LINK at $22 or $24 actually means nothing to me. I needs it to break at $56 before I offload this shit
+
+>! !tip 1 !<
