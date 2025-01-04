@@ -1,0 +1,3 @@
+It's good to see the green market.
+
+^(!tip 1)
