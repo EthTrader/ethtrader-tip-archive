@@ -1,0 +1,5 @@
+>why banks aren't using public blockchains
+
+Whether banks say or not, we all know the most likely reason is the lack of control due to the permissionless nature of public blockchains.
+
+^(!tip 1)
