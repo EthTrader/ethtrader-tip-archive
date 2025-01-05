@@ -1,0 +1,5 @@
+Locking up ETH in stakin contracts means losing liquidity, which can hurt in volatile markets. Active traders probably don't like this as trading often yields higher short-term returns than staking rewards.
+
+Since I prefer staking, I think we are better off with the merge. 
+
+!tip 1
