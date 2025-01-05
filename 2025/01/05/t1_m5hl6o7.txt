@@ -1,0 +1,3 @@
+The effect of cheap transactions in L2s. 
+
+L2s has been a big blessing to the Ethereum ecosystem. !tip 1
