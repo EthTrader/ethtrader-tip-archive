@@ -1,0 +1,3 @@
+Arrest and put them all in the jail.
+
+^(!tip 1)
