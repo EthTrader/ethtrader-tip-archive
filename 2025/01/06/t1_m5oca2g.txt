@@ -1,0 +1,3 @@
+Computer Systems tend to be layered. Think BIOS, Operating System, Programs & Extensions. At the base they are designed for stability, at the top they are designed for performance and ease of use.
+
+!tip 1
