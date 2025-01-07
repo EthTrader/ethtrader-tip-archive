@@ -1,0 +1,3 @@
+Another coin rise which I don't own.
+
+^(!tip 1)
