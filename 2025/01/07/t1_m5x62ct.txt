@@ -1,0 +1,12 @@
+Yes, you read it right but I am not sure if it applies to every chains or just polygon ones right now. I will paste you some sources with interesting data. Maybe you can find something there.
+
+[https://x.com/0xPolygon/status/1753011230602830071](https://x.com/0xPolygon/status/1753011230602830071)  
+[https://docs.polygon.technology/](https://docs.polygon.technology/)
+
+In one of the docs I found this
+
+>The AggLayer currently connects chains built with Polygon CDK, a developer toolkit for designing ZK-powered Layer 2s. The long term goal for the protocol is to be flexible enough to provide interoperability among a growing range of blockchain architectures, including L2s, appchains, and non-EVM chains.
+
+So the goal is to expand as much as possible.
+
+🍩 !tip 1
