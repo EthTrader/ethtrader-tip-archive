@@ -1,0 +1,3 @@
+True, all want to be linked with the LINK.
+
+^(!tip 1)
