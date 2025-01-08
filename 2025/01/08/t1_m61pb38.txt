@@ -1,0 +1,3 @@
+I think it’s fair to say that Optimism hasn’t received the spotlight it deserves, largely due to the success and growing prominence of Base and Arbitrum.
+
+^(!tip 1)
