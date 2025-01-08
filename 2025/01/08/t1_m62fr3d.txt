@@ -1,0 +1,5 @@
+[Yes]
+
+People who write their posts would always have zero AI likelihood score in all three. Except in rare cases where it will be a 10-20% spike because the detectors aren't perfect themselves. 
+
+!tip 1
