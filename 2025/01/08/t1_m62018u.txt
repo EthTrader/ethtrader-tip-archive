@@ -1,0 +1,11 @@
+[YES]
+
+But my suggestion is:
+
+Only use 2 tools: zerogpt and quillbot
+
+If either one shows AI, remove. So no need tie breaker.
+
+(Like the excel OR function instead of AND function)
+
+!tip 6.9

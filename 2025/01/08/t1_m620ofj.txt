@@ -1,0 +1,3 @@
+I dont like just relying on 2 because I have noticed that Quillbot and ZeroGPT use different internal algorithms to detect AI. Quillbot is good to detect some type of AI and ZeroGPT for other type of AI. This is why third tool that basically compares 8 tools is necessary.
+
+🍩 !tip 1
