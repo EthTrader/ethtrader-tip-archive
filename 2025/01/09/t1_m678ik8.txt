@@ -1,0 +1,3 @@
+Yes :) since i saw your other commit, donuts will be send to your in about 1 week when distribution ends on arbitrum. You can also start using the tip command directly tipped donuts will be deducted from the earnings, like this:
+
+!tip 1
