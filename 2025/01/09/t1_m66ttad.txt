@@ -1,0 +1,5 @@
+>involving an address (0xa76b...e81c) which was liquidated for 1.49K WETH, valued at approximately $5.22 million, following a drop in ETH price to $3,200. As of January 7, this address had cumulatively supplied 573 WBTC and 1.49K WETH while borrowing 45.92 million USDT. Post-liquidation, the address now supplies 573 WBTC and borrows 38.37 million USDT.
+
+Crypto is a gamble afterall 
+
+>! !tip 1 !<
