@@ -1,0 +1,5 @@
+>**Op-Succinct** is an innovative combination of **Optimistic Rollup (Op)** and **Zero-Knowledge Proofs (ZK)**, leveraging the **SP1 zkVM** to introduce cryptographic proof systems into the Ethereum Layer 2 ecosystem. Developed through Succinct's ZK expertise, this system enhances Ethereum scalability by delivering low-cost, fast-finality, and highly secure rollups.
+
+Looks promising but not a fan of the name. I cant even say it loud xD
+
+🍩 !tip 1
