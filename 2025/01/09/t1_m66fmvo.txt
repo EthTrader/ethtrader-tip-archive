@@ -1,0 +1,3 @@
+Whale sell-offs trigger panic selling and the rest we know.
+
+^(!tip 1)
