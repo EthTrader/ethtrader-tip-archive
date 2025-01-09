@@ -1,0 +1,5 @@
+! register status
+
+You need to remove the space between the ! and r
+
+!tip 1

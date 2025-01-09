@@ -1,0 +1,3 @@
+Soon, GG value will be nothing.
+
+^(!tip 1)
