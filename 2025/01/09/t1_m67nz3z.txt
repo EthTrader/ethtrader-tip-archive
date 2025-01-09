@@ -1,0 +1,3 @@
+Great, simplicity makes things easy to adopt.
+
+^(!tip 1)
