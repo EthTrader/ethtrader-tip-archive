@@ -1,0 +1,5 @@
+Tbh this is a great post. It's funny how most eth investors don't know how to track gwei for purchasing Eth at lower transactions. 
+
+I would suggest if possible, we can create a bot that'll keep announcing gwei cost every 30mins in daily 
+
+>! !tip 1 !<
