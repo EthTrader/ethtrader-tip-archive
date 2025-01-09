@@ -1,0 +1,5 @@
+Perhaps, but that is also the trade off between transparency and simplicity.
+
+Many users, would use reddit normally, giving upvotes etc, but only those with deeper understanding of donuts and all the various commands will do things like a !tip 1
+
+or a pow command.
