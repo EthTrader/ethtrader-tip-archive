@@ -1,0 +1,5 @@
+Rule to remember: You never lose money if you just Hodl.
+
+#Stay strong!
+
+^(!tip 1)
