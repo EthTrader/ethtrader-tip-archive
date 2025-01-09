@@ -1,0 +1,3 @@
+Great write up. What did you use to make the graphs? Am I seeing some matplotlib?
+
+!tip 1.0
