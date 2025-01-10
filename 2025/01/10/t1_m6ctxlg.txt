@@ -1,0 +1,3 @@
+VB doesn't speak unnecessarily. So, people better take these warnings serious or we risk a machine takeover right?
+
+!tip 1
