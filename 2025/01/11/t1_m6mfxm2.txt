@@ -1,0 +1,1 @@
+The only technicalities you need to understand is line. Line either go up or down - !tip 1
