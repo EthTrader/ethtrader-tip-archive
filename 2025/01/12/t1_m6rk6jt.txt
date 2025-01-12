@@ -1,0 +1,11 @@
+thanks a lot for your thoughts and support!
+
+to clarify, the funding sources might involve the sale of a few DONUT, but we’re going to make sure we minimize that as much as possible. so the impact would be pretty small. on that note, we either sell to invest in DONUT’s future and development, or hold and risk stagnation. that's why the ethereum foundation sells ether.
+
+that being said, we have 2.5k ARB from the arbitrum foundation grant that we plan to use, along with some ether from LP fees. and we're expecting some stablecoins to help cover costs as well.
+
+the 1.1M DONUT from gnosis would be a last resort. we’re aware of the need to balance these sales carefully, that's why we'll be diversifying the treasury over time to reduce reliance on DONUT sales.
+
+regarding the donation wallet topic, i think that’s a great suggestion! if anyone wants to contribute, they can simply donate to the treasury, though our focus is on creating a self-sustaining model so that we don’t have to rely on external donations, and it's been working so far.
+
+!tip 10
