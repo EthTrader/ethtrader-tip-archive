@@ -1,0 +1,3 @@
+Conducting a smart contract audit is an excellent step to establish the long-term trust for the project.
+
+^(!tip 1)
