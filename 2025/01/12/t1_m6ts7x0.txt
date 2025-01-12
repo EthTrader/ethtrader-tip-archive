@@ -1,0 +1,3 @@
+Hopefully, a big green candle.
+
+^(!tip 1)
