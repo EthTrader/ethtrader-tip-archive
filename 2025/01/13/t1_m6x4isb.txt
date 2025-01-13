@@ -1,0 +1,3 @@
+It seems volatility never rests.
+
+^(!tip 1)
