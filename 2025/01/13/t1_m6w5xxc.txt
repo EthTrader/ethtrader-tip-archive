@@ -1,0 +1,3 @@
+Then, bypassing this rule for special entities is the way.
+
+^(!tip 1)
