@@ -1,0 +1,3 @@
+Yes, today I saw the polygon one for example. Better, less work. Probably just add some sort of exception list variable in the code to check if name is in list, allow post image or otherwise. Whatever they have developed for it.
+
+🍩 !tip 1
