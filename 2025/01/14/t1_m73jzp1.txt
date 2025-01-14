@@ -1,0 +1,3 @@
+As usual, Ethereum is the leading network.
+
+^(!tip 1)
