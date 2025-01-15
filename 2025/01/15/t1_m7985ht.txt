@@ -1,0 +1,7 @@
+>The integration will allow users to swap tokens directly within Ledger Live while maintaining control of their assets 
+
+Big.
+
+!tip 1
+
+!post status
