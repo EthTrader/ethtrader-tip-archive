@@ -1,0 +1,3 @@
+Exactly! The most powerful indicator to reverse prices.
+
+^(!tip 1)
