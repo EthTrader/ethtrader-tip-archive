@@ -1,0 +1,3 @@
+The last 3 rounds my predictions where lower than what the actual ratio, because of all the multiplers and rules. I pretty confident that these a lower bounds of the ratio.
+
+!tip 1
