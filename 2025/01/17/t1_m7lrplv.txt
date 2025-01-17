@@ -1,0 +1,3 @@
+Lowering the threshold is a brilliant idea. I hope that in case if this proposal is accepted, it doesn't overload the network or add complexities.
+
+^(!tip 1)
