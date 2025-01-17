@@ -1,0 +1,3 @@
+Simplifying things is best for speedy adoption.
+
+^(!tip 1)
