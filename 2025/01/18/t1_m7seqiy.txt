@@ -1,0 +1,3 @@
+The article focuses on scalability, but your point about maintaining Ethereum's deflationary nature. I understand it is a crucial aspect that needs balancing as we consider increasing blob space.
+
+!tip 1
