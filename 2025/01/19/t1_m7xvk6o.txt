@@ -1,0 +1,17 @@
+. Green
+
+. Green
+
+. Red
+
+. Green
+
+. Red
+
+. Red
+
+. Green
+
+. 3600
+
+!tip 1
