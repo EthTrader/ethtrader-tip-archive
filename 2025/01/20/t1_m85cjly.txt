@@ -1,0 +1,3 @@
+Degens follow the flow of money.
+
+^(!tip 1)
