@@ -1,0 +1,3 @@
+Transaction fees should be going down not up
+
+!tip 1
