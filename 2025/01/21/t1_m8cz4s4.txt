@@ -1,0 +1,5 @@
+It's part of the Polygon PoS architecture but no idea if it is actually possible make it available in the POL network with some sort of development. However here you have a good [post ](https://www.reddit.com/r/0xPolygon/comments/1f9yj5m/to_clarify_some_questions_about_staking_pol_after/)talking about it telling something about it 
+
+>The staking process for securing the Polygon PoS network involves staking POL on Ethereum. This is part of the Polygon PoS architecture where validators stake their tokens on Ethereum to participate in consensus on the Polygon PoS chain
+
+🍩 !tip 1
