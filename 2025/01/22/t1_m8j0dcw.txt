@@ -1,0 +1,3 @@
+It is a hint of green LINK days ahead.
+
+^(!tip 1)
