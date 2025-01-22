@@ -1,0 +1,15 @@
+I would bridge all the ETH to an L2 in one go to save on fees.
+
+My 2 preferred networks are Arbitrum and ZKSync. 
+
+I would have to recommend Arbitrum One because many exchanges do support Arbitrum deposits/withdrawals, so, should you ever need to send to a CEX, Arbitrum will probably save you another bridging transaction.
+
+What app to use? The top ones are all much of a muchness, probably comes down to what User Interface you prefer.
+
+I tend to use Uniswap and Sushiswap for most other networks, but I favour Koi Finance for ZkSync.
+
+Unless you're talking a huge amount of ETH, if you use Uniswap or Sushiswap, you're not going to run into any liquidity issues with an ETH / USDC trading pair.
+
+Welcome to EthTrader, feel free to register your EVM address to earn our governance token, DONUT.
+
+!tip 1
