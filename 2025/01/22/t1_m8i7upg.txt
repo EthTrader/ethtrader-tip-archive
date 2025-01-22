@@ -1,0 +1,3 @@
+Trust link to effectively handle anything thrown at it.
+
+!tip 1
