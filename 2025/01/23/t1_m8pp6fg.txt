@@ -1,0 +1,13 @@
+https://www.reddit.com/r/ethtrader/comments/1cua3hx/governance_poll_proposal_overhaul_donut_rewards/
+
+Here is the original proposal you can read.
+
+Previously, $DONUT was awarded to users who received upvotes. This was subject to manipulation, downvotes, alt accounts, etc, which could be achieved anonymously.
+
+Tip2Vote now means that in order to reward another user DONUT from the DAO, you must send that user a tip of alteast 1 DONUT.
+
+Voting weight also means that new accounts can't just be created and award the "full weight" of a Vote to another user, instead they must slowly build towards 20k Governance score for their tips to have full weight.
+
+Example. For asking this genuine question, I will reward you with a tip as well.
+
+!tip 1
