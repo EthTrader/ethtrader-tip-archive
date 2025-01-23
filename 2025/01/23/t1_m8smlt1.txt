@@ -1,0 +1,5 @@
+>ERC-7779 is a new token standard for Ethereum that aims to enhance interoperability, secure wallet transitions, and simplify storage management. Building on previous Ethereum Improvement Proposals like EIP-7702, it introduces a unified framework for smart accounts and externally owned accounts (EOAs).
+
+That's nice
+
+>! !tip 1 !<
