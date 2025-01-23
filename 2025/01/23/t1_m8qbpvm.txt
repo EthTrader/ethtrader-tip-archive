@@ -1,0 +1,3 @@
+A staking requirement of 1 ETH is too low and probably won't happen, at least soon. Lido is by far the most dominant liquid staking protocol. It has a big role in Ethereum, especially because it's a staking-driven ecosystem.
+
+!tip 1
