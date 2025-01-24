@@ -1,0 +1,5 @@
+That is odd. I saw one transaction sending 1400 DONUT to another wallet? The rest was just token approval and revoke signings.
+
+Actual dev assistance might be required xD
+
+!tip 1
