@@ -1,0 +1,2 @@
+They only highlight reducing gas fee through L2s not trying to solve it on mainnet
+!tip 1
