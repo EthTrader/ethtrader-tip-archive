@@ -1,0 +1,3 @@
+I think the bot updates database etc every 8h so it might take a while.
+
+!tip 1
