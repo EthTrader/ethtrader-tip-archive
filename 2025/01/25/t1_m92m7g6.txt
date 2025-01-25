@@ -1,0 +1,3 @@
+It's time to hide. Otherwise, big trouble.
+
+^(!tip 1)
