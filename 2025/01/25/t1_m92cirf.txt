@@ -1,0 +1,3 @@
+The truth is nobody knows anything.
+
+^(!tip 1)
