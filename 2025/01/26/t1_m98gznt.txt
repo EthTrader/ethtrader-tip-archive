@@ -1,0 +1,3 @@
+It will limit your profits to +$200 (in this example), but also limit your losses to -$100, so it is quite a safe trade! I used similar data to real ETH options trading on Deribit for expiry 28 February 2025, but because the numbers were ugly and full of decimals so I changed the numbers to make it look nicer for the chart.
+
+!tip 1
