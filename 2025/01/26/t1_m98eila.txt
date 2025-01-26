@@ -1,0 +1,5 @@
+Eth price $3334.35
+
+Congrats, close one 
+
+!tip 100
