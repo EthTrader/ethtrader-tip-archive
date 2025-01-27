@@ -1,0 +1,5 @@
+You have to be a special membership to be able to edit your flair, then you use your custom phone emoji to make the flair after you've subscribe to the membership. And you can only use the donut dashboard to subscribe 
+
+Example: ! flair(the-flair and the ! will be together though without the - inbetween) 🍩 0 / ⚖️ 0
+
+>! !tip 1 !<
