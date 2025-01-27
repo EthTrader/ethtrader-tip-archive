@@ -1,0 +1,5 @@
+> In terms of developing code, human will always be required because someone needs to read what AI writes and decide that it is what you want for the feature.
+
+That's cool, programming is one of the jobs I thought AI would replace, but this makes a lot of sense.
+
+!tip 1

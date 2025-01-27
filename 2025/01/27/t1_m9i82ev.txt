@@ -1,0 +1,5 @@
+I work as a Software Engineer and in private stuff like banking it will take quite a time to let us devs use AI unless its totally private and the server is under the bank control (currently they blocked the access to all kind of AI)
+
+In terms of developing code, human will always be required because someone needs to read what AI writes and decide that it is what you want for the feature.
+
+🍩 !tip 1
