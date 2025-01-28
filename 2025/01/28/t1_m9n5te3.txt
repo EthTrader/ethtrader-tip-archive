@@ -1,0 +1,3 @@
+It's time to grab some cheap ETH 
+
+^(!tip 1)
