@@ -1,0 +1,3 @@
+I think 99% of coins are unnecessary.
+
+^(!tip 1)
