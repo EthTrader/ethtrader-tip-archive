@@ -1,0 +1,17 @@
+Over time we shall explore more but the most important things to monitor for options are:
+
+A: At-the-money volatility
+
+B: 25-Delta Call Option Volatility
+
+C: 25-Delta Put Option Volatility
+
+Key analysis:
+
+1. RISK REVERSALS: Which way the market participants want to protect more, upside or downside. Formula = (B - C). If number is POSITIVE, market bias is up (calls more expensive than puts). If number is NEGATIVE, market bias is down (puts more expensive than calls)
+
+2. BUTTERFLY: How much more expensive out-of-the-money calls and puts are compared to the at-the-money options. Formula = \[(B+C)/2 - A\]. This shows us whether the market thinks the moves up or down will be fast and rapid, or smooth. HIGH NUMBER = fast and rapid moves expected. LOW NUMBER = slow and smoother moves expected.
+
+Will continue to share more!
+
+!tip 1.69
