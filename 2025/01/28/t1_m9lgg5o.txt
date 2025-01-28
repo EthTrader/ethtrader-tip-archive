@@ -1,0 +1,5 @@
+At what amount do you consider someone a whale? I could check and include it next month.
+
+Also note that this is only checking registered users and their address, someone which bought on another address is not included.
+
+!tip 1
