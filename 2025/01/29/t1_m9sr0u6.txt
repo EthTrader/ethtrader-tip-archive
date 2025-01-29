@@ -1,0 +1,5 @@
+The irony being, it's my governance score that put you ahead of me!
+
+Given PoW's are sorted by weight, if I PoW 4 posts, and someone of lesser governance score pows mine, or even if 2 people of lower scores PoW mine... I still wouldn't get the top 4 spot xD
+
+!tip 1

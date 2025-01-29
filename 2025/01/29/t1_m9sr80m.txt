@@ -1,0 +1,9 @@
+> Only users which have more than 20k Donuts&Contrib can vote, once a day, by including !pow into a comment on a post.
+
+And for those wondering, 20k governance score required to use the PoW command, and a PoW nomination caps at 500k.
+
+So, if Aminok PoW'd someone, it would have a 500k score, despite his millions of Governance power.
+
+!tip 1
+
+!pow
