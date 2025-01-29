@@ -1,0 +1,5 @@
+Whilst somewhat true, because DONUT has its trading pair with ETH, DONUT will increase or decrease its price as ETH moves.
+
+Unfortunately - if you pay attention to my series about the liquidity pool, you will still see that DONUT has been bleeding to ETH over the last few months as well due to the imbalance of buys compared to sells
+
+!tip 1
