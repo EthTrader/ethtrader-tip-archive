@@ -1,0 +1,8 @@
+I can see 27,556.3023 DONUT delivered 34 hours ago in your wallet, same number as in the Final CSV [https://github.com/mattg1981/donut-bot-distribution/blob/main/out/round\_145/distribution\_summary.000.task\_01300.csv](https://github.com/mattg1981/donut-bot-distribution/blob/main/out/round_145/distribution_summary.000.task_01300.csv)
+
+Your wallet [https://arbiscan.io/address/0x5ce03C34F851066DA7a7392526a7EC4F81790e1D#tokentxns](https://arbiscan.io/address/0x5ce03C34F851066DA7a7392526a7EC4F81790e1D#tokentxns)
+
+Transaction: [https://arbiscan.io/tx/0x04e3d4129c40f4a69176d69653acb94fa79bc4ffb905bc52ebe6acaa3c823a14](https://arbiscan.io/tx/0x04e3d4129c40f4a69176d69653acb94fa79bc4ffb905bc52ebe6acaa3c823a14)
+
+  
+🍩 !tip 1
