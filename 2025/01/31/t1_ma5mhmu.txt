@@ -1,0 +1,3 @@
+Base doesn’t slow down in dominance 
+
+!tip 1
