@@ -1,0 +1,3 @@
+> These attackers use phishing emails, spoofed calls, and other deceptive tactics to trick victims into revealing private keys or login credentials. Once they gain access, they drain wallets, move funds, and take control of accounts.
+
+This isnt Coinbases fault - if anything they can educate their customers and send regular emails saying they never ask for keys or call their customers basically to spread awareness. I get scam DMs every day and at least once a week on email I just know its fake because my exchanges never contact me lmao - !tip 1
