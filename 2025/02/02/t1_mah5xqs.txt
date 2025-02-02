@@ -1,0 +1,5 @@
+"only 2.4 ETH".
+
+Max I can do is 0.24
+
+!tip 1
