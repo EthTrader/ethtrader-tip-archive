@@ -1,0 +1,5 @@
+Rollups are definitely much cheaper than Mainnet, for sure. That's obviously other part of the big challenge with developing Ethereum - improving scalability, trying to keep gas prices low, maintaining speed and security.
+
+Beats me how they actually manage it! xD
+
+!tip 1
