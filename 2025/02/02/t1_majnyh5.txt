@@ -1,0 +1,7 @@
+My understanding is ZK rollups offer higher security factors and would allow for better privacy.
+
+Optimistic rollups are easier to implement and develop.
+
+This is why I've been speaking positively about ZK Rollups for the last 18 months :D
+
+!tip 1
