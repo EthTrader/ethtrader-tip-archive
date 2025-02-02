@@ -1,0 +1,3 @@
+Normally within 8h when the bot updates. If it does not happen you should ping mattg.
+
+!tip 1
