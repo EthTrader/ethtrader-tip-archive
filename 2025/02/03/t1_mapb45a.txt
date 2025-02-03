@@ -1,0 +1,3 @@
+ you send the most tips to one person every week, only the person changes.
+
+!tip 1
