@@ -1,0 +1,3 @@
+It's better to pay because taxes are inevitable.
+
+^(!tip 1)
