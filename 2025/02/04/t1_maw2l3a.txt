@@ -1,0 +1,3 @@
+Yes it operates as an ERC-20 token
+
+^(!tip 1)
