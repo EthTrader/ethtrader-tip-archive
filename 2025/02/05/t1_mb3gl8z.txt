@@ -1,0 +1,9 @@
+There is no withdrawal command;
+
+DONUT's (both the tips sent/received, and the contributor rewards) are distributed on-chain every 4 weeks to your registered address. 
+
+Round 146 is will conclude on the 11th, and then the distribution should generally occur within 2-5 days.
+
+Welcome to EthTrader!
+
+!tip 1
