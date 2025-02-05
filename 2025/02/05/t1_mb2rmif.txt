@@ -1,0 +1,3 @@
+Let's first make a new ATH, then 5-digits magic figure.
+
+^(!tip 1)
