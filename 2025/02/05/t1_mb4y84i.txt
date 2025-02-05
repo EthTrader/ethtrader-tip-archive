@@ -1,0 +1,3 @@
+Being available in other chains doesn't mean that they are native from those chains. Technically speaking USDT and USDC cannot leave their native chain in the sense that their originally issuance remains tied to it. However they can expand to other blockchain issuing "new" versions of the token on different chains. The other tokens are somehow wrapped versions of the original one.
+
+🍩 !tip 1
