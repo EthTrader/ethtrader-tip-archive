@@ -1,0 +1,5 @@
+>Bitcoin PoW Mining Pools is relatively simple with a few large dominant segment that suggest a small number of mining pools control the majority of Bitcoin's hash rate
+
+Well I think people prefer simplicity than something too complicated to understand tbh
+
+>! !tip 1 !<

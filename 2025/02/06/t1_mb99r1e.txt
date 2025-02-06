@@ -1,0 +1,3 @@
+It’s great that Bitcoin has a strong competitor in the form of Ethereum.
+
+^(!tip 1)
