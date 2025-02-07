@@ -1,0 +1,3 @@
+These are the most important rules to keep your wallet safe.
+
+^(!tip 1)
