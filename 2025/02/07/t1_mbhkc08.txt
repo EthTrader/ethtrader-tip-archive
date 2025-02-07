@@ -1,0 +1,5 @@
+>Polygon CDK Performance Test: 50K TXNs in 46s, 1000+ TPS
+
+Impressive! I hope it can sustain this performance.
+
+^(!tip 1)
