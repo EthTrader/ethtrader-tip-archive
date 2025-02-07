@@ -1,0 +1,3 @@
+Balancer operates as an Automated Market Maker (AMM), allowing users to set up liquidity pools.
+
+^(!tip 1)
