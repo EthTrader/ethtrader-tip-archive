@@ -1,0 +1,3 @@
+Crypto logic never fails in these scenarios.
+
+^(!tip 1)
