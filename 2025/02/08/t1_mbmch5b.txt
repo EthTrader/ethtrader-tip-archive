@@ -1,0 +1,5 @@
+I'm ready for the ride.
+
+Let's go!
+
+^(!tip 1)
