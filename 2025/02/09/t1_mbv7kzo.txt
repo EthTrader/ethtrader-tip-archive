@@ -1,0 +1,5 @@
+Look at the last two charts: if the market goes up after you have bought put options and hedged the downside, you will earn less profit then if you didn’t buy the options. This is shown by the smaller green bus for the strategies where you buy the options versus the one where you didn’t do anything.
+
+You can think of options like Insurance: for example you buy Car Insurance, you pay a premium. If you get into a car accident you can receive a huge payout that will cover the cost of all the damages. If you don’t get into a car accident that premium is lost, and hence you are poorer by that premium amount which you would have saved if you didn’t buy the insurance. 
+
+!tip 1
