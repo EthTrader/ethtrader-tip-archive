@@ -1,0 +1,3 @@
+Insane amount!
+
+^(!tip 1)
