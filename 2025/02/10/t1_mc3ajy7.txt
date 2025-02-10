@@ -1,0 +1,11 @@
+Your moons are on Arbitrum Nova network - and Sushi.com does not allow cross-chain swaps for Nova.
+
+So; either way, it's going to involve a few steps.
+
+The simplest way would be to sell your moons via Sushi.com for ETH
+
+Use https://app.hop.exchange/#/send?sourceNetwork=nova&destNetwork=arbitrum&token=ETH to bridge your ETH from Arbitrum Nova to Arbitrum One
+
+Use Sushi.com to buy DONUT 
+
+!tip 1
