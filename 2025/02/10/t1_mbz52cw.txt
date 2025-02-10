@@ -1,0 +1,2 @@
+Yes, you could get on it when you use tip at the end of your comment, like this
+!tip 1
