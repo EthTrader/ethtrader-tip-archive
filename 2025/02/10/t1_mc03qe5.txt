@@ -1,0 +1,3 @@
+Can you also see how much volumn is actually available? Because your position is also locked but out of range. If a lot major positions are out of range there is not much left to swap with?
+
+!tip 1
