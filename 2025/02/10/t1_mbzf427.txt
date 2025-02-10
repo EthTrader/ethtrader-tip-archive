@@ -1,0 +1,3 @@
+The data shows us that the received users greater than sent ones
+
+!tip 1
