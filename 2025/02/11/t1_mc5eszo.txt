@@ -1,0 +1,3 @@
+Must be USDC and Dai
+
+!tip 1

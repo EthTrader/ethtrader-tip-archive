@@ -1,0 +1,3 @@
+True, Ethereum is king of the blockchains.
+
+^(!tip 1)
