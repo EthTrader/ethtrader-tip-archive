@@ -1,0 +1,3 @@
+Expect to see $3000 on March and $4000 on April
+
+!tip 1
