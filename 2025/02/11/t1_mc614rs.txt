@@ -1,0 +1,3 @@
+True, growth is the key to long-term success.
+
+^(!tip 1)
