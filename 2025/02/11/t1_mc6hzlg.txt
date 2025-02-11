@@ -1,0 +1,5 @@
+>Raspberry Pi 5 Can Now Run an Ethereum Node - But Only on the 16GB Mode
+
+This makes decentralization more accessible.
+
+^(!tip 1)
