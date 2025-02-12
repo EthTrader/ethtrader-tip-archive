@@ -1,0 +1,2 @@
+Always red, when eth green?
+!tip 1
