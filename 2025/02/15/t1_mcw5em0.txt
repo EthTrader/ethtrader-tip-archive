@@ -1,0 +1,3 @@
+Insane stuff! It's time to launch our own token.
+
+^(!tip 1)
