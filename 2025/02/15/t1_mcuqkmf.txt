@@ -1,0 +1,7 @@
+Sadly, we currently have 10 guardians. Marc and myself were the most recently added one late last year... and that took a couple of weeks because the multisig has to approve adding/removing new guardians xD
+
+Once we were added, that was when transactions started to get signed and executed promptly - there was instances where a transaction was completed and executed within a few hours!
+
+Unfortunately it seems we are back to only having 4 active guardians.
+
+!tip 1
