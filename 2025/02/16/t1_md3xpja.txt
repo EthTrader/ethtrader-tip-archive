@@ -1,0 +1,5 @@
+>A sequencer is a crucial component in Ethereum rollups, responsible for ordering, executing, and aggregating off-chain transactions before publishing them on the main Ethereum blockchain
+
+Wouldn't know this if I didn't read the article 
+
+>! !tip 1 !<
