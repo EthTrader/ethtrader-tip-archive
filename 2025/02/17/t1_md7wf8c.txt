@@ -1,0 +1,3 @@
+Because the tip command isn't straight forward at all. And they don't want to bother. They are just bystanders.
+
+ !tip 1
