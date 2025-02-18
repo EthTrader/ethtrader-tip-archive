@@ -1,0 +1,3 @@
+Does the tool itself qualify as a use case too
+
+!tip 1
