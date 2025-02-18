@@ -1,0 +1,4 @@
+I proposed this in another post but we could burn every donut which is tipped if the tip amount is 1 or less. If the amount is higher than 1 donut we still burn 1 donut or burn 5% of the tipped amount :)
+Mostly the value of the tip is not important but the ratio is.
+
+!tip 1
