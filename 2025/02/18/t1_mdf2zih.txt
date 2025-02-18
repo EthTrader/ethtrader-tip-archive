@@ -1,0 +1,9 @@
+Looks like it is an scam according to token sniffer. I always use if to check a token first [https://tokensniffer.com/token/eth/6qf0vonqxpzqiha2p04jd3xcc10edzsszj9zjuzpo1cvo2x2sd1nqzfzdxss](https://tokensniffer.com/token/eth/6qf0vonqxpzqiha2p04jd3xcc10edzsszj9zjuzpo1cvo2x2sd1nqzfzdxss)
+
+It has this warning
+
+**WARNING:** This token was flagged due to evidence of a bug, hack, or scam:
+
+* Exploit #095: Contains signature of serial scammer #38
+
+🍩 !tip 1
