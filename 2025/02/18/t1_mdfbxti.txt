@@ -1,0 +1,3 @@
+Expanding the range is good for adoption.
+
+^(!tip 1)
