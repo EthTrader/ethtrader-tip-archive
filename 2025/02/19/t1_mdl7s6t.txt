@@ -1,0 +1,5 @@
+“Died”
+
+The ICO price was less than $1
+
+!tip 1
