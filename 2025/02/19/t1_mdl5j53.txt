@@ -1,0 +1,3 @@
+Another stablecoin, we already many.
+
+^(!tip 1)
