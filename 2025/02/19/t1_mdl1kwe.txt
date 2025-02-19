@@ -1,0 +1,3 @@
+The market sentiment is bearish.
+
+^(!tip 1)
