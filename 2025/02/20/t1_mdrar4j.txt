@@ -1,0 +1,12 @@
+* Step 1: Swap Moons to ETH on Nova Network 
+* https://www.sushi.com/arbitrum-nova/swap?token0=0x0057Ac2d777797d31CD3f8f13bF5e927571D6Ad0&token1=NATIVE
+
+* Step 2: Bridge ETH from Nova to Arbitrum One
+* https://app.hop.exchange/#/send?sourceNetwork=arbitrum&destNetwork=nova&token=ETH&amount=
+
+* Step 3: Buy DONUT with Arbitrum One ETH
+* https://www.sushi.com/arbitrum/swap?token0=NATIVE&token1=0xF42e2B8bc2aF8B110b65be98dB1321B1ab8D44f5
+
+Even if you decide you want to get your MOONS back, they exist on Arbitrum One as well - so it's not a bad idea to move your asset away from Arbitrum Nova network.
+
+!tip 1
