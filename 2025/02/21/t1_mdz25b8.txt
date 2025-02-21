@@ -1,0 +1,3 @@
+Life cycle of a trader
+
+^(!tip 1)
