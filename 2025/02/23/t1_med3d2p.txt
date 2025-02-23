@@ -1,0 +1,3 @@
+Lower it to 16 and more will spin up their own validators and increase decentralisation. 
+
+!tip 1
