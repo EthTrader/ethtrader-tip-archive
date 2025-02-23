@@ -1,0 +1,3 @@
+I think Ethereum already has a lot of validators, so lowering the amount of ETH staking further could put additional strain on the network and increase overhead.
+
+^(!tip 1)

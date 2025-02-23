@@ -1,0 +1,3 @@
+Yield would also reduce in that case, right?
+
+!tip 1
