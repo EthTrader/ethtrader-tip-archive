@@ -1,0 +1,10 @@
+The hack you mean?
+
+If that so, Bybit multisig members said they were watching the right transaction in a legit safe.global multisig third party site. This is why https://app.safe.global/ services are temporarily paused.
+
+However the hacker achieved to make the UI look right but made them sign a malicious contract to make him win access to the wallet and drain it.
+
+This shows that Bybit had a bad security measure because when you have to do things like this you can rely on third party and external tools, you have to build them from scratch and hold them in an internal network so nobody has access to it. Coinbase and other CEXs have this tool. This makes it more secure because hacker would need to gain access to your internal server and you have full control of the security there.
+
+  
+🍩 !tip 1
