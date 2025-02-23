@@ -1,0 +1,7 @@
+This has been a very sophisticated hack and the resources "invested" by the hackers to make it happen do not worth to steal our $25 worth ETH xD
+
+But yes, there is always a risk. For example if you download a malicious Metamask extension or any other fake app you could experience this.
+
+I think you are also forgetting that what we call "wallet" are just blockchain viewers tools where we load our seed phrase (the real wallet) so if this software is malicious or infected, this can happen.
+
+🍩 !tip 1
