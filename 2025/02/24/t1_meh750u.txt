@@ -1,0 +1,3 @@
+Safe wallet have suspended services due to ByBit hack, and seeing as EthTrader DAO uses Safe Wallet for it's multisig - I guess it's a wait and see for now!
+
+!tip 1
