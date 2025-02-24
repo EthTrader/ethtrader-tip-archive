@@ -1,0 +1,6 @@
+*However of the 42 user 37 user had a tip weight less than 1. and less than 20k contrib.*  
+*Users with less than 20k contrib send 663 tips and received 399 tips.*
+
+Evidence suggests that many of the regulars users who engage in regular tipping, sell off their DONUT, and in turn reward others less weight of DONUT, while those newer to the system, as established by their low CONTRIB, don't get tipped as often.
+
+!tip 1

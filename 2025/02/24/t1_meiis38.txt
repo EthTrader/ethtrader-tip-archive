@@ -1,0 +1,3 @@
+We could always import Berachain as a custom network on Rabby, but now it's automatically added if there are assets there. Praise Rabby! xD
+
+!tip 1
