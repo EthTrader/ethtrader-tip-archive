@@ -1,0 +1,5 @@
+>Ethereum's Pectra upgrade faced issues on the Holesky testnet, failing to finalize transactions due to configuration errors in execution clients
+
+Well it's a good thing it's still on testnet btw
+
+>! !tip 1 !<
