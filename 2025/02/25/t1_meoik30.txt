@@ -1,0 +1,3 @@
+Stable mainnet requires ongoing testnet
+
+!tip 1
