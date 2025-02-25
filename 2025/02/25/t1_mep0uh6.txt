@@ -1,0 +1,3 @@
+It's good that they found the bug on Holesky before deploying on the main net.
+
+!tip 1
