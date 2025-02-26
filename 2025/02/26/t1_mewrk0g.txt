@@ -1,0 +1,7 @@
+\>Poseidon is basically an algebraic hash function that is gaining traction due to its innovative design tailored to zero-knowledge (ZK) proof systems. Unlike the traditional hashing algorithms which rely on Bitwise operations
+
+  
+It relies on a CEX operations?
+
+  
+!tip 1
