@@ -1,0 +1,3 @@
+Media websites get their sources from Twitter, and Twitter gets its sources from analytics platforms.
+
+!tip 1
