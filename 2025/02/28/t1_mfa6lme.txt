@@ -1,0 +1,9 @@
+Looks like things are starting to be like before [https://app.safe.global/transactions/queue?safe=arb1:0x439ceE4cC4EcBD75DC08D9a17E92bDdCc11CDb8C](https://app.safe.global/transactions/queue?safe=arb1:0x439ceE4cC4EcBD75DC08D9a17E92bDdCc11CDb8C) after the services down etc.
+
+I guess that as soon it becomes stable they will create the multisig.
+
+Would be great to have an official input from the mods (maybe I missed it)
+
+!mods
+
+🍩 !tip 1
