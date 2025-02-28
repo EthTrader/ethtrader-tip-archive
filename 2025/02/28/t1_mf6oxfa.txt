@@ -1,0 +1,3 @@
+This is huge. To put things in perspective, average human blink takes 300-400ms. So 200ms block time is faster than a blink.
+
+!tip 1
