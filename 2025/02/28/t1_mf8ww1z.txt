@@ -1,0 +1,3 @@
+Conehead = 10 ETH
+
+!tip 1
