@@ -1,0 +1,15 @@
+Great concept, I know in the past you've opened up the brainstorm of Proof of Eth for earning DONUTS too...
+
+I kind of like Idea #2 - because, you could expand on this as well.
+
+Not only can Holding certain thresholds of ETH in your EthTrader registered wallet grant you a voting weight multiplier, but you could also look at ETH thresholds for your DONUT **earning** multiplier as well.
+
+Obviously fine-tuning can be tricky as you've mentioned, but, hypothetically (and just throwing numbers for sake of example) , 1 ETH in your wallet could provide an x2 on your Governance/Voting power, but also x1 on your DONUT earning.
+
+0.5 ETH could grant you an x1.5 on your Voting power, but also a 0.8x on your DONUT earning.
+
+This would mean those that don't hold Ether would be slightly negatively impacted on their potential token earnings.
+
+!tip 1
+
+!nominate
