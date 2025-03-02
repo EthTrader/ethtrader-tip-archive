@@ -1,0 +1,3 @@
+True, as long as there’s yield, capital is never far behind.
+
+^(!tip 1)
