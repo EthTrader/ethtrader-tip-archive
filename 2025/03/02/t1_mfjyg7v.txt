@@ -1,0 +1,1 @@
+If the random algorithm is secure and the system is added without creating vulnerabilities then it could be a good idea - !tip 1
