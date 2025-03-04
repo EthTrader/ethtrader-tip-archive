@@ -1,0 +1,3 @@
+This is a good example for others to prevent them from attempting to install such illegal ATMs
+
+^(!tip 1)
