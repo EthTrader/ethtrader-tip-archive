@@ -1,0 +1,3 @@
+I thought the Donut cap thing would be implemented in this current round. Is it yet to pass?
+
+^(!tip 1)
