@@ -1,0 +1,3 @@
+Sentiment down = buy signal.
+
+!tip 1
