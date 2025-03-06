@@ -1,0 +1,2 @@
+Good coinbase 
+!tip 1
