@@ -1,0 +1,5 @@
+I have rather bound it to the liquidity pool since you also need to put ETH in it and it's directly verified by default.
+
+Otherwise I don't like that I need to verify that I have a certain amount of ETH somewhere if it is more than 0.01ETH
+
+!tip 1
