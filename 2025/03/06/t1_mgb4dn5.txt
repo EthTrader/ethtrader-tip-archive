@@ -1,0 +1,3 @@
+Pectra is aimed to improve the network performance by enhancing scalability, security and staking efficiency.
+
+^(!tip 1)
