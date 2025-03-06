@@ -1,0 +1,3 @@
+So we would have to own 1 ETH to have a full tipping weight? I don't like this because not everyone can afford that. What if my ETH is staked on a CEX for example?? It would be better to provide liquidity in DONUT/ETH liquidity pools instead.
+
+!tip 1
