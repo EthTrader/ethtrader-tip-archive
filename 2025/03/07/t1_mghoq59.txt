@@ -1,0 +1,3 @@
+This can't shake long-term holders.
+
+^(!tip 1)
