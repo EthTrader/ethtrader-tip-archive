@@ -1,0 +1,5 @@
+Safe wallet still not running flawlessly.
+
+Hopefully we can complete the transaction before the next snapshot xD
+
+!tip 1
