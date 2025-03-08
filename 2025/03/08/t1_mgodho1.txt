@@ -1,0 +1,3 @@
+Cool in theory, but tokens that eventually have no trading volume will still get booted regardless.
+
+!tip 1
