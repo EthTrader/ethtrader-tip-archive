@@ -1,0 +1,3 @@
+Today’s your lucky day! Look, 5 donut just entered your wallet!
+
+!tip 5
