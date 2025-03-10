@@ -1,0 +1,3 @@
+I introduced it because of the ban wave and tip circles. Currently I see no need for that, since the 15 active people are basically a tip circle.
+
+!tip 1
