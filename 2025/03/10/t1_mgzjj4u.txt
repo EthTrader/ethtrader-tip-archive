@@ -1,0 +1,3 @@
+Because the data is taken for the past week, distribution 147 from the bot logs. Not the distribution logs of 146.
+
+!tip 1
