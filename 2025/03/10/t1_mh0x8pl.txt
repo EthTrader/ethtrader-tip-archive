@@ -1,0 +1,3 @@
+Bears currently dominate the market.
+
+^(!tip 1)
