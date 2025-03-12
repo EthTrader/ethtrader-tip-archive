@@ -1,0 +1,3 @@
+No receive tip anymore :(
+
+>! !tip 1 !<
