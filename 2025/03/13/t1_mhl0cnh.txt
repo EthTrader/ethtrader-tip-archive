@@ -1,0 +1,2 @@
+As long as its not valued at 0, its still alive 
+!tip 1
