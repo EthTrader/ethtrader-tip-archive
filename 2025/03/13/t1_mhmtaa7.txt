@@ -1,0 +1,3 @@
+The direction will dictate the direction of my jump, although in the case of the latter, I will be applying a scaling coefficient of about 9000.
+
+!tip 1
