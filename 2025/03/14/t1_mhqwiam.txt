@@ -1,0 +1,3 @@
+Yep, it had not come up previously, but the original proposal to revert from a 250 flat rate for Pay2Post, moving to a dynamic pay2post fee, had specified 250 would be the maximum cost.
+
+!tip 1
