@@ -1,0 +1,6 @@
+>Developers proposed launching a new testnet, Hoodi, to replace Holesky for testing validator exits and ensuring network stability. The meeting also discussed the timeline for Hoodi's rollout, the Pectra mainnet launch
+
+The pectra mainnet took time fr
+
+  
+!tip 1
