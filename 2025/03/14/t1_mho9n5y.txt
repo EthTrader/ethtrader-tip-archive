@@ -1,0 +1,5 @@
+>The data is based on upvotes only, nothing to do with tip to vote
+
+I don't get this
+
+>! !tip 1 !<
