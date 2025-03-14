@@ -1,0 +1,6 @@
+> Hoodi is designed to closely mimic Ethereum's Mainnet, providing a stable environment for testing validator exits,
+
+Pectra seems to be lots work for the developers
+
+  
+!tip 1
