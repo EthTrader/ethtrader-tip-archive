@@ -1,0 +1,5 @@
+Contest rewards have already been submitted and sitting at 3/5 on the Multisig
+
+Might have to wait a bit longer for final CSV - I believe Reddito's data is required first before MattG's code can be run to determine the Tip2Vote calculations - which would be why Reddito's post always comes first.
+
+!tip 1
