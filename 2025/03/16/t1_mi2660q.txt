@@ -1,0 +1,5 @@
+
+
+Eth price was 1927.52
+
+!tip 100
