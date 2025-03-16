@@ -1,0 +1,3 @@
+I'm good with even Mac. Something is better than nothing.
+
+^(!tip 1)
