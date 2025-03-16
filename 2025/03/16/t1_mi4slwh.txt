@@ -1,0 +1,3 @@
+The money printer is back to its old tricks again.
+
+^(!tip 1)
