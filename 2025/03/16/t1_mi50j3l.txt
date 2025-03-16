@@ -1,0 +1,6 @@
+>The article argues that KYC (Know Your Customer) requirements contradict the core principles of cryptocurrency, which are decentralization, privacy, and freedom from control. It highlights risks such as data breaches, identity theft, exclusion of individuals without IDs, and censorship by exchanges.
+
+KYC are still good for CEX to know the customers who's actually gaming the system
+
+  
+!tip 1

@@ -1,0 +1,6 @@
+> A new ransomware group, 'Mora\_001,' is exploiting two Fortinet authentication bypass vulnerabilities (CVE-2024-55591 and CVE-2025-24472) to deploy a custom ransomware strain called SuperBlack. The attack chain involves gaining 'super\_admin' privileges, creating admin accounts, stealing data, and encrypting files for double extortion
+
+HACKERS ARE ONE OF THE ONLY PEOPLE IN PROFITS ALONGSIDE INSIDERS
+
+  
+!tip 1
