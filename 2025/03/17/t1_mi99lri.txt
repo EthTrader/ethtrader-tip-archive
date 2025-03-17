@@ -1,0 +1,3 @@
+Worst case we retest 1.7k and won't go below right?
+
+!tip 1
