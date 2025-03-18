@@ -1,0 +1,5 @@
+>Using stablecoins USDe and USDtb for transaction fees
+
+First time using stablecoins that isn't either tether's or circle's
+
+>! !tip 1 !<
