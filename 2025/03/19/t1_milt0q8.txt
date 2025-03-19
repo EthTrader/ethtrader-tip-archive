@@ -1,0 +1,13 @@
+>What are these undistributed donuts actually comprised of?
+
+Mainly from users who were site-wide or sub banned, or didn’t meet the account requirements for that round.
+
+Also Pay2Post is essentially a tax, it doesn’t directly translate into Donuts. Instead, when you post, a portion of x DONUT is deducted from your distribution score for that round.
+
+>I also assume, for example, [u/Kirtash93](https://www.reddit.com/user/Kirtash93/) earns 100k DONUT from the distro, and is capped at approx 42k, those 60k will get burned if this is implemented?
+
+With the new earnings cap and the way the distribution ratio works, those excess tokens wouldn’t be burned. Instead, they would be redistributed among other users.
+
+The cap is designed to benefit less active users while penalizing aggressive farming, making the distribution more balanced.
+
+!tip 5

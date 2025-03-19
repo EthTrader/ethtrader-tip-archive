@@ -1,0 +1,7 @@
+We can't technically mint new tokens whenever we want.
+
+The smart contract controller operates on a timer, which mints exactly 20,880,000 DONUT when the treasury runs out of reserves. After that, new tokens can only be issued again after exactly one year.
+
+So, it's inflation, but controlled inflation, I guess.
+
+!tip 5
