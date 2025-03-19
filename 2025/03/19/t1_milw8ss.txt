@@ -1,0 +1,5 @@
+Cool idea!
+
+[YES]
+
+^(!tip 1)
