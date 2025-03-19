@@ -1,0 +1,1 @@
+No theyre still testing. Holesky isnt viable anymore for this because it takes a lot of time to remove validators !tip 1
