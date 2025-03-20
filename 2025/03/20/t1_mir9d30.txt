@@ -1,0 +1,6 @@
+Fully distribution of remaining donuts will be much harder to implement. For example you cap the people and then distribute the left overs, with that someone else could get over the threshold, then your would need to apply the same logic again.
+Just burn leftovers should be minimal coffee changes.
+
+Regardless of what is implemented if u/mattg1981 is interested I could also review the code changes.
+
+!tip 1
