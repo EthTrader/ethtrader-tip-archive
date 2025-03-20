@@ -1,0 +1,5 @@
+If a single protocol gains too much control, the trust issues will raise in a trustless system.
+
+*Risky for decentralization*
+
+^(!tip 1)
