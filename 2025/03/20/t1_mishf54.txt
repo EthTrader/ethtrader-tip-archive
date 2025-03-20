@@ -1,0 +1,6 @@
+>Upgraded [u/donut-bot](https://www.reddit.com/user/donut-bot/) to automatically remove image and video posts from non-subscribers, as per [ETIP - 109 Make Images & Video posts an exclusive perk for r/EthTrader Special Membership subscribers](https://snapshot.box/#/s:ethtraderdao.eth/proposal/0x50d978e578f91edad3d9e015dfa1191a0b2cf4dfc000619e2555a0a9ba7900b1). NOT DEPLOYED YET!
+
+ I thought donut bot automatically remove gif and images of non premium users whenn the proposal passes until I started seeing unregistered users posting images and gif
+
+  
+!tip 1
