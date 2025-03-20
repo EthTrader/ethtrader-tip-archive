@@ -1,0 +1,5 @@
+I'm not entirely sure what you mean.
+
+Donut-bot removes comments with GIFs from non-subs, but it hadn't been upgraded to remove image / video posts (from non-subs), until now.
+
+!tip 10

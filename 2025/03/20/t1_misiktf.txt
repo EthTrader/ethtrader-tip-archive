@@ -1,0 +1,5 @@
+[YES] But I think we should start sharing and estimating grants according to the time and effort that a change or changes could require after a transparent estimation from part of the dev in charge of doing it.
+
+This way we can prevent for granting too many DONUT for maybe just a change in a code that requires a condition change of 5 minutes or something that could require 40 hours of work.
+
+!tip 1
