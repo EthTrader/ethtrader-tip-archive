@@ -1,0 +1,7 @@
+Any of your EVM addresses , whether you use Rabby or Metamask etc.
+
+The tipping command rewards posters and commenters with DONUT and CONTRIB, which are governance tokens for EthTrader.
+
+If you register, you'll get this freebie too! 
+
+!tip 1

@@ -1,0 +1,5 @@
+Looks like you need to register your EVM address before you can send or receive DONUT tips.
+
+Here's a little incentive!
+
+!tip 1.69
