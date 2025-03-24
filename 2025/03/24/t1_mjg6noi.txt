@@ -1,0 +1,3 @@
+We only want the ETH price to go up. Then everything will be fine automatically.
+
+^(!tip 1)
