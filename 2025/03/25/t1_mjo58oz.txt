@@ -1,0 +1,3 @@
+It assigns a bit of a crytocurrency used to measure and encourage contributions to this sub to the user getting tipped. This crypto is called DONUT, if you feel like registering an ethereum wallet and collecting a bit.
+
+!tip 1
