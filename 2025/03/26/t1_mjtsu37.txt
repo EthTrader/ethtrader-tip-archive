@@ -1,0 +1,3 @@
+I hope everything goes smoothly as planned.
+
+^(!tip 1)
