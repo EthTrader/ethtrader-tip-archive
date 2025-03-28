@@ -1,0 +1,2 @@
+Eth > gold
+!tip 1
