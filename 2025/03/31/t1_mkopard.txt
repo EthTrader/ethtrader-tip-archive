@@ -1,0 +1,3 @@
+It's in struggling mode while moving up.
+
+^(!tip 1)
