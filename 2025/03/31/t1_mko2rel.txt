@@ -1,0 +1,3 @@
+Why is it that most of the time it's always a vulnerability in the contract that was exploited? >.> Don't they get audited??
+
+!tip 1
