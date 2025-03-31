@@ -1,0 +1,3 @@
+History doesn’t repeat, but it sure does rhyme.
+
+^(!tip 1)
