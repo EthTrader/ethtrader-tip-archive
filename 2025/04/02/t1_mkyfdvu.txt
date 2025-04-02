@@ -1,0 +1,3 @@
+Then forget Hodl forever 
+
+^(!tip 1)
