@@ -1,0 +1,3 @@
+I don't think CNOT can be removed but I'm not a tech savvy so let hope if there's anyone who have ideas about it 
+
+!tip 1
