@@ -1,0 +1,2 @@
+When he wants to sell his eth to fund for the operation, he doesnt have sufficient eth to pay for the gas fee
+!tip 1
