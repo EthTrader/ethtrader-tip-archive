@@ -1,0 +1,3 @@
+True, eyes don't lie
+
+^(!tip 1)
