@@ -1,0 +1,3 @@
+Grab the opportunity as sale is on
+
+^(!tip 1)
