@@ -1,0 +1,4 @@
+Eth price now: $1552.57
+
+
+!tip 100
