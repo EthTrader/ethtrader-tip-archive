@@ -1,0 +1,7 @@
+>The malware replaces copied crypto wallet addresses with the attacker's address, potentially redirecting funds. It also sends infected device data to hackers via Telegram and can self-delete if antivirus software is detected. Most victims are in Russia. Kaspersky advises downloading software only from trusted sources to avoid such threats.
+
+Russian Russian Russian 
+
+Wow
+
+>! !tip 1 !<
