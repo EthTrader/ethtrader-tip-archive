@@ -1,0 +1,3 @@
+The weak always fold. We are not weak right?
+
+!tip 1
