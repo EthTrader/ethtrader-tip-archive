@@ -1,0 +1,3 @@
+NFT marketplaces = exchange xD
+
+^(!tip 1)
