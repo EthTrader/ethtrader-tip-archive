@@ -1,0 +1,3 @@
+I saw it because I keep a copy of the bot output on my end, when I update I see the diff. Some tips then change from to unregistered to registered.
+
+!tip 1
