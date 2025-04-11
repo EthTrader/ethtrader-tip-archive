@@ -1,0 +1,5 @@
+yea, but for this round we’ll need to handle the burn manually, since matt hasn’t yet added the extra step in the distribution process to send the difference to the burn address on arbitrum one.
+
+still confirming with the others, but if the math checks out, we’ll be burning **294,362.9009 (\~294.4k)** donuts this round.
+
+!tip 10

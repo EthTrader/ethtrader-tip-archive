@@ -1,0 +1,7 @@
+contests / events are a separate transaction in multisig.
+
+the data in this csv is inherent to post and comment rewards only.
+
+just checked, you actually earned 200 donuts (+contrib) this round from events.
+
+!tip 10
