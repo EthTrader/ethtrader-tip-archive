@@ -1,0 +1,5 @@
+Native wallet "Yoroi" can help find stake pools; 
+
+Otherwise; everstake.one/staking/ is a platform/organization that hosts a range of validators for various cryptocurrency, including Ethereum, Polygon and Celer, as well as some competing blockchain networks. 
+
+!tip 1
