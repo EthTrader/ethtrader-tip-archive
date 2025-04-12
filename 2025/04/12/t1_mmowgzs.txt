@@ -1,0 +1,5 @@
+RIP, that sucks! 
+
+An expensive lesson, but testnets should never require sending funds across, the whole point is to 'beta test' a network with testnet tokens of no value. 
+
+!tip 1
