@@ -1,0 +1,9 @@
+You don't need to connect your wallet to anything here, to register for the EthTrader DAO you simply need to use the command prompt so the bot can add your address to it's database.
+
+Example shown. Obviously, you use your address after the register command.
+
+https://preview.redd.it/761jb26bslue1.png?width=820&format=png&auto=webp&s=736b9071b8fd3394dbd6bc24968f27ac678af574
+
+Welcome!  
+  
+!tip 1
