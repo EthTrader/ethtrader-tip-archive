@@ -1,0 +1,3 @@
+You welcome! You just need to use !register <address> command in a comment replacing <address> with your wallet address 
+
+!tip 1
