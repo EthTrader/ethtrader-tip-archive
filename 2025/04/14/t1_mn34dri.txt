@@ -1,0 +1,2 @@
+Even if its stable at least eth is safe
+!tip 1
