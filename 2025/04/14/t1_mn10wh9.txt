@@ -1,0 +1,3 @@
+Stay alert and never open the unknown links.
+
+^(!tip 1)
