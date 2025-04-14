@@ -1,0 +1,9 @@
+In time, more and more users might feel more confident in playing with DeFi.
+
+I recently tipped an unregistered user, but they did not register as they only held their ETH on CEX, did not have a valid wallet to register with. 
+
+I was the same; I first stumbled across EthTrader a few years ago, but never registered because I didn't understand it xD
+
+Eventually, I started playing around with Moons and my reddit vault was my first DeFi wallet address.
+
+!tip 1
