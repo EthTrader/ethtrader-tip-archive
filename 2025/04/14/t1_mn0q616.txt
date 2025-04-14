@@ -1,0 +1,5 @@
+>The malware, distributed via compromised npm packages like 'pdf-to-office,' scans systems for wallets and injects malicious code to redirect transactions to attacker-controlled addresses.
+
+This is why test transaction is always important. At least one gets to know of they are compromised
+
+!tip 1
