@@ -1,0 +1,16 @@
+>Hence the question: “Does something that costs 1 USD in some stablecoin on an L2 feel free?”
+
+I guess this also depends on the actual base cost of the transaction.
+
+I guess with credit cards, often fees are based on a percentage of the transaction. EG, Spend $100, incur a $1.60 fee, spend $200 and incur a $3.20 fee.
+
+With crypto, if your transaction is $10, but it costs you $1, that would not feel "free", but if your $10,000 transaction costs $1, it would.
+
+With L2 fees being so low, I often do test transactions first, but on mainnet, I have ignored a test transaction, because I didn't want to spend a few dollars twice.
+
+I guess a lot of people don't realize that every day visa/mastercard transactions come with fees, but majority of businesses wear the cost of those fees themselves, or those fees are priced into the gross profit of the service/products, rather than highlighting, this is the cost of your product, and this is the card fee associated - this can also result in people using cryptocurrency thinking, oh, I don't want to pay gas fees, I can just pay by card with fiat.
+
+Being a business owner myself, with L2 fees being as cheap as they are, I guess I do consider them "free" or atleast dirt cheap! xD
+
+
+!tip 1
