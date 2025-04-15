@@ -1,0 +1,7 @@
+Oof, another big blunder.
+
+>The exploit appears to be linked to a price oracle issue, allowing manipulation of asset prices
+
+No idea how this even happens though, assuming that's a Chainlink Oracle too.
+
+!tip 1
