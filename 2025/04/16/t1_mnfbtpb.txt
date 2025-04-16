@@ -1,0 +1,3 @@
+I've often read about MEV bots claiming thousands in funds/gas, but certainly never experienced anything like it myself.
+
+!tip 1
