@@ -1,0 +1,10 @@
+Yes, aminok is around but not so active. Anyway, according to the data [https://github.com/mattg1981/donut-bot-distribution/blob/main/out/round\_148/distribution\_summary.000.task\_01300.csv](https://github.com/mattg1981/donut-bot-distribution/blob/main/out/round_148/distribution_summary.000.task_01300.csv) you will get
+
+||
+||
+|DONUT|CONTRIB|
+|936.6398|947.133|
+
+This cycle hasn't been sent yet [https://app.safe.global/transactions/queue?safe=arb1:0x439ceE4cC4EcBD75DC08D9a17E92bDdCc11CDb8C](https://app.safe.global/transactions/queue?safe=arb1:0x439ceE4cC4EcBD75DC08D9a17E92bDdCc11CDb8C)
+
+🍩 !tip 1
