@@ -1,0 +1,5 @@
+* Special membership owners are allowed to make donut and Ethereum trains in the daily.
+* Special membership owners automatically enter in a raffle to win a free special membership for next round. Winner becomes ineligible for next cycle raffle.
+* Special membership owners can gift 2 weeks special membership trial to any user once every cycle. A user cant get more than once this trial (this would require more dev work for sure)
+
+🍩 !tip 1
