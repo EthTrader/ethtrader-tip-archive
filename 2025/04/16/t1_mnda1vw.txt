@@ -1,0 +1,5 @@
+>The app verifies posts by proving ownership of a company email without revealing personal information. Workers from organizations like Ethereum Foundation and universities have used the platform to support privacy solutions.
+
+Interesting... But will. User data be safe in their hand? 
+
+!tip 1
