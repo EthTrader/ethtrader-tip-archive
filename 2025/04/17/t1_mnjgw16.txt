@@ -1,0 +1,2 @@
+government: money money  
+!tip 1
