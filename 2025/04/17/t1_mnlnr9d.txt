@@ -1,0 +1,5 @@
+Like this?
+
+^(🍩 !tip 1)
+
+You need to put \^ before the text. Its called superscript [https://support.reddithelp.com/hc/en-us/articles/360043033952-Formatting-Guide](https://support.reddithelp.com/hc/en-us/articles/360043033952-Formatting-Guide) I read that if you use \^() with parenthesis it doesn't work properly in old reddit.
