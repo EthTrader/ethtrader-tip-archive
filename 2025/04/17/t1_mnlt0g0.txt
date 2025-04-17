@@ -1,0 +1,7 @@
+The godfathers of crypto:
+
+* Monero
+* Bitcoin
+* Ethereum
+
+!tip 1
