@@ -1,0 +1,3 @@
+It's a clear indication of slowdown in on-chain activity.
+
+^(!tip 1)
