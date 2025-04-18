@@ -1,0 +1,3 @@
+TL;DR: It was a deliberate strategy to shift transactions to L2s, boosting scalability and easing congestion on the Ethereum mainnet.
+
+^(!tip 1)
