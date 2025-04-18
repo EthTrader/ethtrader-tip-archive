@@ -1,0 +1,1 @@
+Arbitrum and Base batching millions of transactions into Ethereums secure forge is exactly how its built to work - !tip 1
