@@ -1,0 +1,3 @@
+And should not compare different things.
+
+^(!tip 1)
