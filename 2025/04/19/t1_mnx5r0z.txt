@@ -1,0 +1,3 @@
+Chainlink is not a L2 sir. It's a decentralized oracle network that gives external data to smart contracts on other blockchains. Chainlink operates in a different layer, it's not supposed to scale transaction processing like L2s.
+
+^(!tip 1)
