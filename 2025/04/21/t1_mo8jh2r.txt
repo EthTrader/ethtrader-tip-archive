@@ -1,0 +1,3 @@
+Interesting times ahead.
+
+^(!tip 1)
