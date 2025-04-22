@@ -1,0 +1,3 @@
+At least we're up 1.4% today.
+
+^(!tip 1)
