@@ -1,0 +1,1 @@
+10x contract size limit is huge for developers - and getting rid of multi-contract setups is gonna save so much gas and audit pain. Better dApps will pull more talent to Ethereum - but I wonder if bigger code means more exploits down the line. In any case - Ethereum is cooking ![img](emote|t5_37jgj|55215) !tip 1
