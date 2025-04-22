@@ -1,0 +1,3 @@
+Welcome, register your wallet to earn some DONUTs too.
+
+^(!tip 1)
