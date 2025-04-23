@@ -1,0 +1,3 @@
+Pulling data only wen necessary means fewer on-chain transactions, which may reduce gas expenses.
+
+^(!tip 1)
