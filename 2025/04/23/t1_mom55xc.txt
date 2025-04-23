@@ -1,0 +1,3 @@
+It can be used as store of value.
+
+^(!tip 1)
