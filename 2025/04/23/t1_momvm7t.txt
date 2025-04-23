@@ -1,0 +1,6 @@
+>By integrating Chainlink Data Feeds, Data Streams, and the Cross-Chain Interoperability Protocol (CCIP) on its testnet, Monad aims to support advanced decentralized applications with over 10,000 transactions per second, near-zero gas fees, and 0.5-second block times.
+
+Chainlink is doing pretty well with their collaboration during this bear market
+
+  
+!tip 1

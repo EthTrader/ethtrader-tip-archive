@@ -1,0 +1,6 @@
+>MegaETH reaches 1.7 Ggas/s in testing, with parallelization enabling theoretical capacity above 50 Ggas/s — higher than any blockchain ever built.
+
+ETH ecosystem is huge
+
+  
+!tip 1
