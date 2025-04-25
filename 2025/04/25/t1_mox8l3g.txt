@@ -1,0 +1,7 @@
+It won't be decreasing ETH's demand, as transactions will still require ETH,  it's just that Metamask will be handling it. Still, it'll be a nice feature to have. Ultimately, it'd still be cheaper to have ETH, as Metamask will be adding a couple of extra fees to cover the service.
+
+Rabby already does something similar with their "gas station" which you can top up with fiat/USD via Playstore and Applepay.
+
+Either way, it can add the convenience factor.
+
+!tip 1
