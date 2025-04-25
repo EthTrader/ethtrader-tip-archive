@@ -1,0 +1,6 @@
+>“As we continue this work, we expect to identify changes that need to be made in-protocol to support a higher gas limit. This implies adding more EIPs to Fusaka, even though the fork scope is final.”
+
+Too much development on ETH but sadly mo9st investors aren't in for the tech
+
+  
+!tip 1
