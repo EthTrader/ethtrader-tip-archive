@@ -1,0 +1,3 @@
+Now this is a good way to end the week. Great news.
+
+^(!tip 1)
