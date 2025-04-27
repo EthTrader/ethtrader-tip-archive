@@ -1,0 +1,3 @@
+Ethereum is ready.
+
+^(!tip 1)
