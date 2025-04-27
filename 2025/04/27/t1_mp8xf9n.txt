@@ -1,0 +1,20 @@
+Fair question - there has actually been quite a bit of work done in the last 12-18 months.
+
+That last spike near the end of 2024 was around the time of discussions to move DONUT onto Arbitrum network, a larger, more used layer2. This move was complete around December 2023/Jan 2024.
+
+The last 6 months or so has also seen some other big changes to distributions and roadmap for DONUT;
+
+This proposal looked at creating a DONUT DAO with long term plans to move beyond r/EthTrader 
+ https://www.reddit.com/r/ethtrader/comments/1i8smzx/governance_poll_proposal_establish_the_donut_dao/
+
+Monthly updates are being posted as well, you can look through the post history or follow 0xMarcAurel for updates as well
+
+https://www.reddit.com/r/ethtrader/comments/1jo7soa/donut_monthly_report_march_recap_updates/
+
+Of course, some of these developments, such as contract audit, Arbitrum migration and Donut-bot developments came at the cost of sending treasury DONUT as payment for the work, which in turn resulted inn the sale of DONUT.
+
+However, recent proposals have also been supported to help reduce the inflationary nature of DONUT with more means to burn the minted supply, which will hopefully reduce some sell pressure going forward.
+
+The DONUT team is only a small team, so developments might not happen as fast as how some crypto operates and get themselves listed and dump immediately thereafter, but the next 12 months should be interesting to watch again now thatg most of the major expenses are already done.
+
+!tip 10
