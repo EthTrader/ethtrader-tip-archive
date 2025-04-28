@@ -1,0 +1,6 @@
+Actually I don't get it so the value you state in initial deposit is not the value calculated with the current price? 
+It should always be initial crypto times current price, and current value should be current crypto times current price plus rewards and fees with current price.
+
+Hence impermanent loss is the difference between initial and current. Just don't state initial value with the price when you entered.
+
+!tip 1
