@@ -1,0 +1,5 @@
+That looks wrong, did you swap initial position and current position, or is the bug in the table in the bottom?
+
+You are 30$ in profit I think, since current is more than initial.
+
+!tip 1
