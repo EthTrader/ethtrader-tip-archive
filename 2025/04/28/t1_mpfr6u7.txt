@@ -1,0 +1,5 @@
+Cool, that's some sort of achievement to send tips to 50 users 😲.
+
+This means tips to unregistered users counted as well. I'll try then.
+
+^(!tip 1)
