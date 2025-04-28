@@ -1,0 +1,3 @@
+Will you now also include your win/ loss and rewards/ fees calculations of your position in the pool?
+
+!tip 1
