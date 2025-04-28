@@ -1,0 +1,14 @@
+Ok i think we wont reach a conclusion here :D.
+
+Tell me where i am wrong, please, with a current price 1,810.28 ETH & 0.002002 DONUT
+
+|Initial Position with current price|Current position with Current price||
+|:-|:-|:-|
+|0.151ETH \* 1,810.28 = **273,35** |0.219079 \* 1,810.28 = 396.59||
+|152,416DONUT \* 0.002002 = **305.14**|105,275DONUT \* 0.002002 = **210,76**||
+|ALL= **578.49**|ALL=**607,35** ||
+
+So if you just hold you would have **578.49** which is less than **607.35** \+ fees/rewards so you are in profit!!!  
+That is what i wanted to say in the initial comment, you calculate Current Price - Initial Price and not the other way around like you do.
+
+!tip 1
