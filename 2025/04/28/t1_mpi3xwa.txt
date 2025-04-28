@@ -1,0 +1,16 @@
+\> Edit: It has been a while that i argued with a stranger over the internet, still not fun :D
+
+It's helping me get to the correct answer, coz man, this shit is complicated! xD
+
+I can't seem to figure it out; my Imperma Loss is always showing as a negative number (which is normal in most cases, only very rare moments would it be a positive number)
+
+I've thrown in a couple of extra data fields....
+
+so... my Imperma Loss formula was =(B5+D5)-D13 \[ =(Initial ETH Value + Initial DONUT Value) - Current LP Value...
+
+I've switched it to =D13-(B5+D5)
+
+https://preview.redd.it/pzq95j9ymlxe1.png?width=982&format=png&auto=webp&s=6df76b04e4c9024d5439bf4f255827982420d4c3
+
+  
+!tip 1
