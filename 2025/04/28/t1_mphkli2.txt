@@ -1,0 +1,13 @@
+True, it appears that's an irrelevant and confusing field to include.
+
+I'm not actually calculating total performance, just Imperma loss vs Yield.
+
+That leaves me with this table...
+
+https://preview.redd.it/6dk95x5j5lxe1.png?width=808&format=png&auto=webp&s=40a614f9be547a2be56e92426d9942d3c20e0501
+
+Perhaps, I need to figure out how to add 2 more fields which will also show total performance, as even if ETH pumped to 3k and DONUT pumped at the same ratio, my current table would not show those gains, just the IL factor.
+
+Want me to try and see if I can figure that out as well?
+
+!tip 1
