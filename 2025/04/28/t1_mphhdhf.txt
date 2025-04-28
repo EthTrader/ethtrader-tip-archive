@@ -1,0 +1,14 @@
+That's the tricky beast that is Impermament Loss
+
+Initial Value: is based on the current price of the initial deposts
+
+Current Value: is based on the current price of the current position 
+
+Impermanent Loss: Is the difference between the value of holding the assets outside the pool and the current value of your liquidity pool holdings
+
+Even though the current value is greater than the initial value, I would have been in a better position by holding them individually rather than in the pool, this is where the $-28 comes in.
+
+If my position was to return to 0.151 ETH and 152416 there would be no impermanent loss, and the overall performance would be the yield gain.
+
+
+!tip 1
