@@ -1,0 +1,3 @@
+Biased article.
+
+^(!tip 1)
