@@ -1,0 +1,3 @@
+Exactly, I made a post about this last Friday. Bitcoin's security depends on miners and if miners can't cover the operational costs then Bitcoin gets compromised.
+
+^(!tip 1)
