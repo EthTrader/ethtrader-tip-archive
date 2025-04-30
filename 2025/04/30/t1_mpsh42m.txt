@@ -1,0 +1,3 @@
+Not your seed phrase, not your wallet.
+
+^(!tip 1)
