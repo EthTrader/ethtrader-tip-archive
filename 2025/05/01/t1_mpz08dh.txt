@@ -1,0 +1,3 @@
+The clarity in rules and regulations is all we need.
+
+^(!tip 1)
