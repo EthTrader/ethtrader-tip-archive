@@ -1,0 +1,3 @@
+We all want the same thing in the end.
+
+^(!tip 1)
