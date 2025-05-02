@@ -1,0 +1,3 @@
+Some of them can extract value from Ethereum, yes. Especially if there is hundreds of them.
+
+^(!tip 1)
