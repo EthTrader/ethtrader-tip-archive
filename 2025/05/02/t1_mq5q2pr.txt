@@ -1,0 +1,3 @@
+Technically eth is still first. Only price isn't there yet.
+
+ !tip 1
