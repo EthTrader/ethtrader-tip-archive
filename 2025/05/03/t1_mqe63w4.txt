@@ -1,0 +1,1 @@
+Simpler fork rules - STARK based protocols - and changing from EVM to RISC-V for 100x zero knowledge proof gains. This is good for Ethereums resilience !tip 1
