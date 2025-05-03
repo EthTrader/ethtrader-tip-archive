@@ -1,0 +1,3 @@
+Right now, he can only advice them to pray.
+
+^(!tip 1)
