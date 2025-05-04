@@ -1,0 +1,9 @@
+For people wondering about comments with "!tip", the `!tip` command allows users to tip DONUT, this subreddit's native token. **!tip** is the command and **[number]** is the amount of DONUT being tipped.
+
+So:
+
+`!tip 1` means someone is tipping you 1 DONUT.
+
+r/EthTrader has a unique rewards system, where community participation earns you DONUT. Donuts are exclusive, tradable internet points.
+
+To learn more about Donuts and tipping, please see this [beginner's guide](https://www.reddit.com/r/ethtrader/comments/1ftnx4t/megathread_comprehensive_guide_to_rethtrader/?utm_source=reddit&utm_medium=usertext&utm_name=ethtrader&utm_content=t1_m6o5xx3).
