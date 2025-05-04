@@ -1,0 +1,3 @@
+'MEGA' Bull can do that
+
+^(!tip 1)
