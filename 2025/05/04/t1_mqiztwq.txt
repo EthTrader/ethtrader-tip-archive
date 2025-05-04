@@ -1,0 +1,3 @@
+Thankfully stables remain stable (not volatile) they can regulate or delay it as much as they like. I'm not worried.
+
+!tip 1
