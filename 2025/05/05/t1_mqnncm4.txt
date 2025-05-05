@@ -1,0 +1,7 @@
+**The next raffle; Sharing the Sprinkles #3, will be held on the next tip Weekly Leaderboard for 250 bonus DONUT/CONTRIB for users who have sent tips to more than 50 different users.**
+
+Thanks DrRobbe for providing the data!
+
+!tip 25
+
+!pow
