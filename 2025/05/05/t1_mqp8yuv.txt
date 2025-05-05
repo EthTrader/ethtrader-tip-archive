@@ -1,0 +1,7 @@
+I'm confident it will be deployed by June, at least a beta version.
+
+There's always more stuff I want to add, but if I keep waiting for it to be “complete” it will never launch. So I'll probably release an initial version and upgrade it over time.
+
+Right now, I'm working on the blog. After that it's just the whitepaper and a few final touches.
+
+!tip 5
