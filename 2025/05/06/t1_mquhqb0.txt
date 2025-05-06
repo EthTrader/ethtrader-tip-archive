@@ -1,0 +1,3 @@
+We can't hear better news than this.
+
+^(!tip 1)
