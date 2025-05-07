@@ -1,0 +1,11 @@
+Here is an overview; https://www.reddit.com/r/ethtrader/wiki/donuts/
+
+but, TLDR
+
+$DONUT is a "proof of participation" type of token, they are earned via receiving tips for your contributions to r/EthTrader.
+
+Every 28 days, data is published, and $DONUT is distributed to users that have been active within the community on the Arbitrum One network.
+
+You can consider it tokenized Reddit karma, which also serves as a governance token should the community propose changes to the rules of the sub etc.
+
+!tip 1
