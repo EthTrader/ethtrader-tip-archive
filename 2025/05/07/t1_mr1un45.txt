@@ -1,0 +1,7 @@
+For my fellow lazy readers:
+
+* This will boost staking flexibility - it will raise validator limits from 32 ETH to 2048 ETH
+* Enhances Layer 2 scalability with EIP-7691s blob throughput increase. EIP-7702 also simplifies wallets via account abstraction
+* Its a big step for usability and efficiency
+
+I think its gonna be great for ETHs adoption - !tip 1

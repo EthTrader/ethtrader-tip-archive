@@ -1,0 +1,1 @@
+Yep it brings zero knowledge proofs to life with better performance - shorter programs and fewer constraints. Its already verifying Ethereum blocks. Its a big step for verifiable computation across chains. Its good for Bitcoin even ![img](emote|t5_37jgj|55213) !tip 1
