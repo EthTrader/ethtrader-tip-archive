@@ -1,0 +1,6 @@
+>Ethereum has placed zero-knowledge proofs at the center of its long-term scaling roadmap. Meanwhile, Bitcoin requires them to natively scale, and now Google has begun exploring ZK for its identity verification systems
+
+If google is at it, it definitely ZK gonna boom
+
+  
+!tip 1
