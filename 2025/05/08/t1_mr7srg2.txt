@@ -1,0 +1,5 @@
+Burned
+
+https://arbiscan.io/tx/0x1737d468830635e15414c9ef07df94272e9217aeab901194eee63ccfd7989a29
+
+^(!tip 1)
