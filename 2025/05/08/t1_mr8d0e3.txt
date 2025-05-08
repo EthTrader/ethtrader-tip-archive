@@ -1,0 +1,3 @@
+This is great, user accounts can now act like smart contracts for transactions so we no longer need ETH for gas. This is even on L2s now, amazing. I think adoption is going to increase a lot now.
+
+^(!tip 1)
