@@ -1,0 +1,6 @@
+>Linea, a zero-knowledge layer-2 network built on Ethereum by Consensys, is now covering layer-2 gas fees for users bridging assets from Ethereum mainnet using its native bridge
+
+Nice but you still have to pay for mainnent gas fees.... It's a nice development though
+
+  
+!tip 1
