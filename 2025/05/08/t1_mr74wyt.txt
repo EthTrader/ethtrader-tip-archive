@@ -1,0 +1,10 @@
+# How to buy DONUT?
+
+Quite simple, you can buy DONUT on different chains like Ethereum and Arbitrum One.
+
+* Ethereum network: At Uniswap [https://app.uniswap.org/swap?outputCurrency=0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9](https://app.uniswap.org/swap?outputCurrency=0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9)
+* Arbitrum One network: At SushiSwap [https://www.sushi.com/arbitrum/swap?token0=NATIVE&token1=0xF42e2B8bc2aF8B110b65be98dB1321B1ab8D44f5](https://www.sushi.com/arbitrum/swap?token0=NATIVE&token1=0xF42e2B8bc2aF8B110b65be98dB1321B1ab8D44f5)
+
+https://preview.redd.it/xg1m1uv0uhze1.png?width=810&format=png&auto=webp&s=8fc64be11d2954f71012aa12a81b6216389f0250
+
+🍩 !tip 5
