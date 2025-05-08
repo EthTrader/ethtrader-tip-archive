@@ -1,0 +1,6 @@
+>The Ethereum Pectra upgrade, featuring EIP-7702, enhances account abstraction accessibility, allowing existing user accounts to temporarily act as smart contracts. Wallets like Ambire and Trust Wallet have implemented these features, enabling users to pay gas fees in tokens other than Ether, bundle multiple actions, and access cross-chain functionality
+
+This is huge
+
+  
+!tip 1
