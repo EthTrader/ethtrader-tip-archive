@@ -1,0 +1,3 @@
+Nice facility for travellers!
+
+^(!tip 1)
