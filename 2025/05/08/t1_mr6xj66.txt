@@ -1,0 +1,3 @@
+The advice will soon change to ' Go get some Ethereum and thank me later '.
+
+!tip 1
