@@ -1,0 +1,3 @@
+Tokenization is the next evolution of asset ownership.
+
+^(!tip 1)
