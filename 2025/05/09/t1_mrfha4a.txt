@@ -1,0 +1,3 @@
+Ethereum is too big for Solana to match.
+
+^(!tip 1)
