@@ -1,0 +1,3 @@
+It's a smart move for stability.
+
+^(!tip 1)
