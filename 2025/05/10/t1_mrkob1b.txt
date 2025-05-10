@@ -1,0 +1,7 @@
+I have currently 10k donuts in it and the equal amount of ETH.   
+You can just start with 1k or even less, here: [sushi.com/arbitrum/pool/v3/0x65f7a98d87bc21a3748545047632fef4d3ff9a67](https://www.sushi.com/arbitrum/pool/v3/0x65f7a98d87bc21a3748545047632fef4d3ff9a67)
+
+  
+If you dont have enough ETH for the pair you swap one 1k donuts for ETH and then add 1k donuts with the ETH to the pool, so the hole investment would cost you 2k donuts.  Then you can monitor rewards and generates fees for a month and see if it fits you. Also it helps the community to have a deep liquidity pool.
+
+!tip 1
