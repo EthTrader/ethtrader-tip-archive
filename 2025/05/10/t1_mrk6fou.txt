@@ -1,0 +1,3 @@
+I really think $3,000 will happen this month.
+
+^(!tip 1)
