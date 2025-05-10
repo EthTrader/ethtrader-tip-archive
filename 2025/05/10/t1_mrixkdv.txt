@@ -1,0 +1,7 @@
+A quick summary 
+
+Reddit Community Points are points given out by subreddits for various things, primarily for activity in their sub. For your contributions to this sub, you will receive the Cryptocurrency token $DONUT every 28 days after a calculation of total activity and your contribution. You will also earn these Donuts from competitions, contests, from people tipping you etc. you could also buy some(and sell too)!
+
+Please go through the wiki at the beginning of the subreddit to get all info. I think the command to get started is !register <your-wallet-addr>
+
+!tip 1
