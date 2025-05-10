@@ -1,0 +1,9 @@
+Rabby wallet is showing Arbitrum network
+
+Trading view is showing Ethereum Mainnet
+
+This price difference is because of different trading volume, liquidity levels and limited arbitrage opportunity (lack of bridge between the two networks)
+
+DONUT has been on Mainnet for several years, but has only been on Arbitrum for about 1.5 years, so there liquidity and supply levels are less. (For now, new DONUT are distributed on Arbitrum)
+
+!tip 1
