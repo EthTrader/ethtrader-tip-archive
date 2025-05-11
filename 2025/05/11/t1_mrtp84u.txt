@@ -1,0 +1,6 @@
+> The Ethereum Pectra upgrade, launched on May 7, introduces new features but also a critical vulnerability allowing hackers to drain wallets using only an offchain signature
+
+How tf is this even possible?
+
+  
+!tip 1
