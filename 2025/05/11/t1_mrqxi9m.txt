@@ -1,0 +1,5 @@
+To expand on that, all the tips are settled and tip rewards are calculated and distributed every 28 days - the next snapshot should be 3rd of June.
+
+In anycase, here's a few to get you started! Welcome!
+
+!tip 10
