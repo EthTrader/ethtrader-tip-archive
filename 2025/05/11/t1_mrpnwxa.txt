@@ -1,0 +1,5 @@
+Classic strategy! 
+
+Buy low and hold to sell high.
+
+^(!tip 1)
