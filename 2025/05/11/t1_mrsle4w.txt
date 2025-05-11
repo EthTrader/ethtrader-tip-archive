@@ -1,0 +1,5 @@
+They just work for the best bidder, like mercenaries.
+
+Maybe it can be interesting to create an "Unreliable Source" flair, then build a list of sources so the bot automatically flairs those links to that flair if the domain is in the list (same multiplier regarding donut stuff).
+
+🍩 !tip 1
