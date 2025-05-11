@@ -1,0 +1,3 @@
+Eth price was $2461.6
+
+!tip 100
