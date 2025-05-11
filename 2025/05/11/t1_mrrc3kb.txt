@@ -1,0 +1,3 @@
+Bitcoin as a whole has limited capabilities. I love Bitcoin but we need to be reasonable here.
+
+^(!tip 1)
