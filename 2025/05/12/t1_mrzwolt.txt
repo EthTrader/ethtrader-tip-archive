@@ -1,0 +1,6 @@
+>Ethereum co-founder Vitalik Buterin proposed replacing the Ethereum Virtual Machine (EVM) with the RISC-V 
+
+Lots of chain depends on EVM, like binance. Will RISC-V be compatible with those chains?
+
+  
+!tip 1
