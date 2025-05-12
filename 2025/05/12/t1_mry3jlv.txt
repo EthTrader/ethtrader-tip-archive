@@ -1,0 +1,5 @@
+>why does vitalik buterin want it for ethereum smart contracts
+
+Possibly, he envisions RISC-V as a future platform to power the execution of Ethereum smart contracts.
+
+^(!tip 1)
