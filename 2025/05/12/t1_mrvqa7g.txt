@@ -1,0 +1,5 @@
+Without a bridge between networks that is less likely to happen, while both are still paired with ETH,  they'll each maintain their own ratios.
+
+If there was a bridge however, then there would be arbitrage trading oppurtunity and that would help keep the prices closer together.
+
+!tip 1
