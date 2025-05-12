@@ -1,0 +1,8 @@
+All good, you get the donuts you get tipped + plus all donuts for the upvote via the tip CMD. E.g. a tip 1 of mine will give you 1 dount from me and about 150 donuts from the next distribution.
+
+So with just one tip you will never be out of donuts to tip.
+Everything is computed in 4 weeks, then the surplus of dounts will be send to your wallet. 
+
+Just tip along :)
+
+!tip 1
