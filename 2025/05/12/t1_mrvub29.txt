@@ -1,0 +1,5 @@
+We had a bridge for Gnosis to Arbitrum - but that has since closed.
+
+At this stage, I don't think there any any functional bridges with liquidity between any of the networks.
+
+!tip 1
