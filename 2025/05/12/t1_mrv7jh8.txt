@@ -1,0 +1,6 @@
+>Ledger's Discord server was compromised on May 11 when a moderator's account was hacked, allowing a malicious bot to post scam links urging users to reveal their seed phrases. Some users reported being muted or banned while trying to report the breach. Ledger confirmed the incident was isolated and has strengthened its Discord security
+
+If you're a crypto discord mod, I guess you'll need a 2FA
+
+  
+!tip 1

@@ -1,0 +1,10 @@
+**Receive Leaderboard**
+
+|No.|Name|Received tips|% of all tips Received|received from x user|Received Donuts|Most tips received from|
+|:-|:-|:-|:-|:-|:-|:-|
+
+
+Woah we got received leaderboard this time, NICE :)
+
+  
+!tip 10
