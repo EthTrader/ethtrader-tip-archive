@@ -1,0 +1,9 @@
+You can see it in your flair or watching your address 0x726D7a896cC7F301Dfecd0E04A0F1E857462a2fD at Arbitrum One, Ethereum or Gnosis (we migrated from that one)
+
+* You have 6.9 DONUT on Gnosis chain (you will need to sell it, then migrate and then buy them back on ARB one or Ethereum) [https://gnosisscan.io/address/0x726D7a896cC7F301Dfecd0E04A0F1E857462a2fD](https://gnosisscan.io/address/0x726D7a896cC7F301Dfecd0E04A0F1E857462a2fD)
+* Nothing on Ethereum Network [https://etherscan.io/address/0x726D7a896cC7F301Dfecd0E04A0F1E857462a2fD#tokentxns](https://etherscan.io/address/0x726D7a896cC7F301Dfecd0E04A0F1E857462a2fD#tokentxns)
+* 90.55578 DONUT on Arbitrum One explorer [https://www.arbiscan.io/address/0x726D7a896cC7F301Dfecd0E04A0F1E857462a2fD](https://www.arbiscan.io/address/0x726D7a896cC7F301Dfecd0E04A0F1E857462a2fD)
+
+And next distro 10 DONUT more + the equivalent to 1 tip upvote on the distro.
+
+🍩 !tip 10
