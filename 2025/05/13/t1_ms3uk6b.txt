@@ -1,0 +1,7 @@
+Sure. I think this link explains it best, particularly under the section 'Voting system and tips': [https://www.reddit.com/r/ethtrader/comments/1ftnx4t/megathread\_comprehensive\_guide\_to\_rethtrader/](https://www.reddit.com/r/ethtrader/comments/1ftnx4t/megathread_comprehensive_guide_to_rethtrader/)
+
+From my understanding, the more you contribute to the community and get tipped by others, your Governance score goes up with each round (a month long). Here, tipping DONUT replaces normal karma. Unlike reddit karma it is weighted so users with higher karma (Governance score) give more karma (tip) than newer users like you and me with each vote (tip).   
+  
+As we are involved in the community over future rounds our Gov score will raise and our karma/tips will be worth increasingly more until we hit 20k Gov and we'll be fully weighted.
+
+!tip 1
