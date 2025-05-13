@@ -1,0 +1,3 @@
+Thank you! Does the tip only work in that format?
+
+^(!tip 1)
