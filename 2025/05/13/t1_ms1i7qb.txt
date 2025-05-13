@@ -1,0 +1,5 @@
+The number of users holding more than 20k Donuts has decreased by 2 in each of the last two rounds. This metric should ideally be growing, but instead, it’s trending downward. 
+
+I'm also wondering whether this drop is due to price fluctuations or a deeper loss of trust 🤔 
+
+^(!tip 1)
