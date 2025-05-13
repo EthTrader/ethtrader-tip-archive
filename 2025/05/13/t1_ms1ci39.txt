@@ -1,0 +1,3 @@
+Entries close when the Daily for the 14th is posted (12am) - the chart checks will occur 12 hours after that.
+
+!tip 1
