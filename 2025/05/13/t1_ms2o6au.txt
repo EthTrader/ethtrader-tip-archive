@@ -1,0 +1,7 @@
+Oh trust me, that was a huge problem here too.
+
+We eventually developed a more transparent approach, rewards are actually based on the tips rather than upvotes or karma. This means you can't remove a tip somebody has received, and it also provides transparency if a user only tips the content of another user.
+
+Welcome to EthTrader!
+
+!tip 1
