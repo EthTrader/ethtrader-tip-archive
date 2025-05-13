@@ -1,0 +1,3 @@
+It is due to the tip system. People are lazy, i think.
+
+ !tip 1
