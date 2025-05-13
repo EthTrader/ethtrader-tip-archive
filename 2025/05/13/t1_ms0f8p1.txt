@@ -1,0 +1,5 @@
+True that L2 has cheaper fees, but the main reason for the price difference is the Sushiswap pool has less liquidity available compared to Uniswap. There are more people selling on Sushiswap as well (Due to reward distributions being awarded on Arbitrum)
+
+No new DONUT is entering Mainnet, but new DONUT is entering Arbitrum. Hopefully we get a partnership with a bridging service soon - if there is an easy way to bridge DONUT between networks, then the price gap will close.
+
+!tip 1
