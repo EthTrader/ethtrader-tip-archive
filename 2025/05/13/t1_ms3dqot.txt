@@ -1,0 +1,7 @@
+Thank you!
+
+Could you explain to me why some tips have (weight:0) and others have (weight:1)?
+
+I took a quick look around, but I didn't find that specific info. I'll have to wait until I leave work so I can read more about it.
+
+!tip 1
