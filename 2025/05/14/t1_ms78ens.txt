@@ -1,0 +1,5 @@
+It sounds like clipboard hacking/hijacking or address poisoning. Do scan your device for malware.
+
+I don't really know if exchanges can help, but do reach out to Coinbase support before the wallet moves the funds. Also check if the wallet is active, and/or if there's a large number of incoming transactions. You can likely guess if you made a mistake or if you were attacked. Good luck
+
+!tip 1
