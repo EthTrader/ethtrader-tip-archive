@@ -1,0 +1,7 @@
+You just need to learn some extra rules but I get you. All those mechanism exist to prevent the sub being flooded by duplicated topics and spam.
+
+For gifs, media and meme posts you need an special membership you can purchase here [https://donut-dashboard.com/#/membership](https://donut-dashboard.com/#/membership) (it expires)
+
+Regarding topic limits you can check them here [https://donut-dashboard.com/#/topiclimits](https://donut-dashboard.com/#/topiclimits) or using !topics command in a comment (not sure if it is topics or topic)
+
+🍩 !tip 1
