@@ -1,0 +1,7 @@
+The scales and number represents your CONTRIB.
+
+When you earn DONUT you also earn CONTRIB, a non-transferrable token with no dollar value.
+
+Your "Governance Score" is the lesser number of your DONUT and CONTRIB - eg, how many votes you have in EthTrader governance proposals.
+
+!tip 1
