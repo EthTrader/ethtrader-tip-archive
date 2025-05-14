@@ -1,0 +1,7 @@
+Welcome to EthTrader!
+
+Have 5 to get you started!
+
+All tips and subsequent rewards are calculated and then settled every 28 days - so you won't receive any on-chain until June.
+
+!tip 5
