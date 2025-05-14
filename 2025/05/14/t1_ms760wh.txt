@@ -1,0 +1,5 @@
+!register status
+
+the bot can tell you yours
+
+!tip 1
