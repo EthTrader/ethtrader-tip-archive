@@ -1,0 +1,5 @@
+Tokenization is the future!
+
+#EEE
+
+^(!tip 1)
