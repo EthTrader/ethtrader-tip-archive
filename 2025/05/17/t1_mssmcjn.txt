@@ -1,0 +1,3 @@
+I will gladly buy at anything below $3,000.
+
+^(!tip 1)
