@@ -1,0 +1,10 @@
+> Suman, who stored his funds in a Trezor hardware wallet, was tricked into entering his seed phrase on a fake website after receiving calls from scammers posing as Coinbase security staff. 
+
+Pasting your Trezor seed phrases for a CEX too is risky. And he was supposed to know that imo.
+
+>The incident followed a data breach at Coinbase, where attackers bribed customer support staff in India to access sensitive user information. Coinbase plans to reimburse affected users up to $400 million.
+
+Damn, it's not easy at all. They can't know their employee will betray them. Damn this is really hard
+
+  
+!tip 1
