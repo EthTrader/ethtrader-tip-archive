@@ -1,0 +1,3 @@
+What I do not understand is how he simply gave away his seed phrase, Coinbase would never ask you for your seed phrase. He had his stash in a Trezor wallet.
+
+^(!tip 1)
