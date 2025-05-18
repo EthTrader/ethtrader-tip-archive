@@ -1,0 +1,3 @@
+HODL = Financial freedom 
+
+^(!tip 1)
