@@ -1,0 +1,3 @@
+We can't really tell if/when the bottom is in, DCAing is gwei.
+
+!tip 1
