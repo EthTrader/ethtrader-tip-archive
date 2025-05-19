@@ -1,0 +1,3 @@
+Never use you main wallet to connect with third parties.
+
+!tip 1
