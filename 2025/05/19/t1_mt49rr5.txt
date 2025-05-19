@@ -1,0 +1,5 @@
+Well, tip 1 is equivalent to reddit "upvote" and then all the tips are used to calculate a ratio to distribute DONUT taking a count the tips each user gets with some rules etc and also taking in count the CONTRIB (a governance token that you can only get being active in the community, it has no price).
+
+In this case if you tip you someone your tip wont count towards the cycle because you need a minimum CONTRIB to get a full weight but still your tip is sent to the other user. I mean, you get the raw tip amount + something it is calculated with other stuff.
+
+🍩 !tip 1
