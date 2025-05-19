@@ -1,0 +1,3 @@
+The events such as customer data breaches are a big concern and highlight the need for strong security protocols.
+
+^(!tip 1)
