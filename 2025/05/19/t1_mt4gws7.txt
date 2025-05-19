@@ -1,0 +1,11 @@
+Here is the thread with a guide to Donut-Bot
+
+[https://www.reddit.com/r/ethtrader/comments/17q24e7/introducing\_donutbot\_register\_and\_tip\_commands/](https://www.reddit.com/r/ethtrader/comments/17q24e7/introducing_donutbot_register_and_tip_commands/)
+
+And a complimentary image
+
+https://preview.redd.it/vu7ndod6xq1f1.png?width=1069&format=png&auto=webp&s=4d04b4b5cac4a46149addce82c6966c8fc8a6582
+
+Welcome to EthTrader!
+
+!tip 5
