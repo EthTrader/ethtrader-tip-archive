@@ -1,0 +1,3 @@
+True I only evaluate user, tip and price data...
+
+!tip 1
