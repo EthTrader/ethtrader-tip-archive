@@ -1,0 +1,3 @@
+Welcome, you forgot to add what you want to tip ^^
+
+!tip 1
