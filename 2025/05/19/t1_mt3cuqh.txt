@@ -1,0 +1,7 @@
+Since its always the same person winning maybe we can redesign this contest?
+
+If it is not to difficult everybody can enter the lottery but the probability you get is based on the number of how many different users you tip, e.g. kirtash would get 113 tickets and i would get 21, etc.
+
+So there would be an incentive to tip multiple different people to increase your chance of winning.
+
+!tip 1
