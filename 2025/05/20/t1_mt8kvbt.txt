@@ -1,0 +1,7 @@
+Burned
+
+https://arbiscan.io/tx/0x9de6cf2895d8dee91eba98c2271fc69ee892cc41073f6798803c266392b1d1e8
+
+No luck of consecutive 7s
+
+^(!tip 1)
