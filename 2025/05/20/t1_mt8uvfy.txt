@@ -1,0 +1,7 @@
+\[Yes\] this is essential.
+
+How does donut bot and your system work together?
+
+I thought the donut bot already collects all the comments and data in mattgs DB. Is mydonuts holding the algorithm who to compute the distribution with the collected donut data? Is there a gitHub, similar to the one for the donut bot? 
+
+!tip 1
