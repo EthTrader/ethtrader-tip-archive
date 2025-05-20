@@ -1,0 +1,5 @@
+Happy cake day and yes, this should be rewarded and maintained. 
+
+However I really suggest to migrate this functionality to the donut dashboard or to the upcoming new site, depending the vision of the team. Basically to just reduce costs in the long term. Of course this code migration and integration into the new site should come with another payment.
+
+🍩 !tip 1
