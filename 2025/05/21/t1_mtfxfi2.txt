@@ -1,0 +1,5 @@
+Fortune favours the Brave!
+
+It's a good browser.
+
+^(!tip 1)
