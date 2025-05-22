@@ -1,0 +1,3 @@
+Will wait for link at it's ATH before starting to DCA out.
+
+!tip 1
