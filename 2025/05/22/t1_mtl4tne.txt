@@ -1,0 +1,3 @@
+The problem is, even if you didn't store funds on Coinbase, but simply used them as an exchange, your identity and data information could have been leaked.
+
+!tip 1
