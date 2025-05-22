@@ -1,0 +1,9 @@
+DONUT is a token distributed in this community for making comments and posts. When someone tips like this
+
+!tip 5
+
+and you register with your publick wallet address you will get that donut and the equivalent in the distribution taking in count the comment ratio.
+
+This token can also be bought in Uniswap in Ethereum network and in Sushiswap in Arbitrum One
+
+🍩 !tip 1
