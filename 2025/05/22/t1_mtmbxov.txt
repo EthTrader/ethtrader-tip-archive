@@ -1,0 +1,3 @@
+Yes, we do it every cycle to make calculations easier and save in gas fees. There was a time that tips used to go on chain too but I believe that bot died xD
+
+🍩 !tip 1
