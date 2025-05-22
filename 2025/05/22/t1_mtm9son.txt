@@ -1,0 +1,6 @@
+>The Graph has integrated Chainlink's Cross-Chain Interoperability Protocol (CCIP) to enable cross-chain transfers of its native token, GRT. This integration allows GRT to be bridged across blockchains like Solana, Arbitrum, and Base
+
+More institution seems to be using LINK CCIP for cross chain transactions. Same with Trump's WLF
+
+  
+!tip 1
