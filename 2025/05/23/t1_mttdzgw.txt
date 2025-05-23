@@ -1,0 +1,7 @@
+1) I believe there is an issue where, if you have special membership, your flair will no longer automatically update your DONUT/CONTRIB - possibly to do with a set flair showing the golden donut. You can however, set your own user flair as a perk of special membership!
+
+2) There is a "tip weight" mechanic, where users with less than 20k Governance score do not give a "full vote" when it comers to tip rewards.
+
+Aside from that, not much penalty - but there may be perks in future for users with higher levels of governance score.
+
+!tip 1
