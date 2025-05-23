@@ -1,0 +1,3 @@
+Most important part is that it is not really about the amount you tip. Tips are used to calculate upvotes for the next distribution of dounts. We do not base it the Reddit upvote function.
+
+!tip 1
