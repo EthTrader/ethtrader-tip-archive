@@ -1,0 +1,8 @@
+I will make one after the round, but this statistic is not Worth a post I would say. If activity starts increasing I will make a status post about distributions again. Currently I only do tip leaderboards and register user metrics.
+
+I could bring back: 
+- tip graph to visualize which user send to and get from which user tips
+- distribution analysis where I eg investigate for a normal distribution about all users send and receive tips
+- post of the week leaderboard 
+
+!tip 1
