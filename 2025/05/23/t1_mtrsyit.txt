@@ -1,0 +1,3 @@
+The tip you tipped to users with the !tip command will be deducted from your monthly distribution every 28 days.... 
+
+>! !tip 1 !<

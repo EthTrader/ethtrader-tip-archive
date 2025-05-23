@@ -1,0 +1,4 @@
+The tips are calculated over a period (about 28 days). Users are given an amount of donuts based on activities and tips from other users. The tips you give out are deducted from the DONUT you receive at the end of the period. 
+
+
+!tip 1
