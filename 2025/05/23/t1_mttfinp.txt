@@ -1,0 +1,7 @@
+Actually, it's the other way around; your tips giver lesser reward to others. 🙃 
+
+> And do I lose/gain governance score by buying and selling?
+
+Depends. Governance score is the "lesser value" of DONUT and CONTRIB - so if you've sold DONUT you've bought, your GS might not be affected. But if you sell DONUT as you receive it, your governance score can go down.
+
+!tip 1
