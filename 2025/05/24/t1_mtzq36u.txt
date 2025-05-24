@@ -1,0 +1,5 @@
+Ah yep, gotcha. Correct.
+
+Unfortunately the contest distro transaction wasn't created until after the regular Distro already had a couple of siggies, as normally they'd both get created, signed and executed at the same time.
+
+!tip 1
