@@ -1,0 +1,5 @@
+Important question, multiplier applies before or after the max cap?
+
+I mean, if I "overfarm" and I can still reach the max cap or the multiplier will be applied after the 42500 DONUT cap is applied?
+
+!tip 1
