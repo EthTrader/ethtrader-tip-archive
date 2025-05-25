@@ -1,0 +1,3 @@
+New rules should never be retroactive. In that case we could create a rule to ban BroNut word and all those users that used it in the past would get banned. I think the point is clear.
+
+!tip 1

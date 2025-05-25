@@ -1,0 +1,5 @@
+Also new rules shouldnt be retroactive.
+
+For example, we could ban X word and get users that used that X word in the past banned.
+
+!tip 1
