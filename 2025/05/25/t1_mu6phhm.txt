@@ -1,0 +1,17 @@
+I appreciate your quick reply. I just want to clarify a few things because I think there's been a misunderstanding of the intent here.
+
+I had this proposal in mind for quite a time but I never believed that I should really had to officially address this because it is part of the common sense (from my point of view). This proposal is just trying to address a general governance gap that exists in many DAOs. The risk of retroactive rule application that can create unpredictability and erode trust in governance. That is not trolling, that is literally Governance 101.
+
+>It's just an attempt to use the Bronut brigade tactic...
+
+I don't think this has to do with the actual content of the proposal and I believe that it comes from personal feelings, etc. Dismissing this proposal as trolling doesn't engage with the points and it labels the messenger (me).
+
+If you believe that retroactive rules are necessary in some cases that is a valid stance and that debate is worth having but labeling any attempt to protect against retroactivity as childish or misuse is counterproductive. Strong governance comes from challenging assumptions, not just defending current positions.
+
+>This proposal would effectively shield cheaters…
+
+I dont think so. It doesnt protect anyone, it just states that rules shouldnt be applied retroactively. If the DAO wants to go after cheaters it should do under rules that existed when the cheating happened. If those rules werent strong enough that is on the system design, not the users. The fix is to improve the rules moving forward, not rewrite history.
+
+So to be clear, this isn't about shielding anyone, its about drawing a clear line in governance, the past stays the past and we build better systems for the future.
+
+🍩 !tip 1
