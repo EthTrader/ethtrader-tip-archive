@@ -1,0 +1,23 @@
+I agree that protecting the ecosystem's long term health is a top priority but we shouldn't do that by introducing instability into the governance process itself.
+
+The issue is not whether certain behaviors like farming or dumping are harmful. They clearly are. The issue is **how** we choose to deal with them. **Retroactive rule enforcement creates a governance precedent where no one can trust that today's actions will be judged by today's rules**.
+
+>The ecosystem evolved, and earlier rules didn’t properly address behaviors…
+
+Exactly, that is why we should evolve the rules **going forward**. If a system had loopholes, it is on us and the DAO to patch those holes moving ahead. Retroactively punishing people who acted withing the rules at the time is not governance, it is a rewrite of history and it shows why we need to **design rules with foresight, not hindsight.**
+
+>
+
+I get how the timing can seem reactive but correlation doesn't equal causation and like I told you before I had this whole thing in mind for really a long time. Main reason why I always ask about when certain rule will start working too.
+
+This proposal addresses a systemic issue: **retroactive governance is a structural flaw**, not just a reaction to one specific topic. I did not write this to protect anyone or attack any proposal, I wrote it because the ecosystem needs governance principles that are **predictable, fair, and easy to reason about**. This is how we build trust and scale participation.
+
+Totally respect your point of view and that you are not going to sign off but I believe that you should sign off and let the community decide because according to the only rules I found the sign off can be rejected only this checks are not meet (I mean, it is an objective sign off)
+
+* Impartial language is used in poll body and options texts 
+* That the poll is actionable 
+* A reasonable limit (2) to the number of concurrent governance poll
+
+But dont worry, I just hope other mods will look past the perceived intent and focus on the actual impact this proposal would have, **establishing a clear rule that proposals apply to future behavior.**
+
+🍩 !tip 1
