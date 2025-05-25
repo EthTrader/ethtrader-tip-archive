@@ -1,0 +1,9 @@
+I'm going to have to say [NO] on this one.
+
+Forcing this implementation could be too restrictive for whatever the future may hold, maybe Reddit platform ceases operation, maybe there is a glitch in Donut-Bot, maybe a code gets exploited somewhere - who knows. 
+
+Maybe at some stage there is the idea to reward users that had previous contributions.
+
+People can simply use their governance power to vote NO on proposals they don't support - and if a proposal doesn't get the support because it has a retro-active component, it can be re-proposed without it if the user feels that is necessary.
+
+!tip 1

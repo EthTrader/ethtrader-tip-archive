@@ -1,0 +1,5 @@
+[YES] 
+
+People should be given a fair chance to make their selling decisions align with the new rules.
+
+^(!tip 1)
