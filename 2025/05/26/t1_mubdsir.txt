@@ -1,0 +1,7 @@
+For sending tips that are all users, which are active in the last week. 
+
+For receiving tip in the last week it is cut at 100 people. 
+
+The sending list would also be cut at 100 but we only have 40ish people actively tipping.
+
+!tip 1
