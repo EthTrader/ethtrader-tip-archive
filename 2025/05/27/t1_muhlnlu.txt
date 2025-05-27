@@ -1,0 +1,3 @@
+Damn, a 60M gas limit. This double throughput without a hard fork if 50% agree. I wonder if the nodes can take it?? Not sure if it is good for stability.
+
+^(!tip 1)
