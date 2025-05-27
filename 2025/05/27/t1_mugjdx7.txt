@@ -1,0 +1,5 @@
+Welcome to EthTrader
+
+Heres your first tip of EthTrader $DONUT
+
+!tip 1
