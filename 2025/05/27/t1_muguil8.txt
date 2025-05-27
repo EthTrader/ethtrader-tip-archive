@@ -1,0 +1,7 @@
+Yes, I use the data provided at the snapshot, so active memberships at the time of the Distribution Snapshot are entered.
+
+Here was Round 149's list for example.
+
+https://github.com/mattg1981/donut-bot-distribution/blob/main/out/round_149/membership.000.task_00100.csv
+
+!tip 1
