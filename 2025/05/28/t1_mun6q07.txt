@@ -1,0 +1,3 @@
+Bulls are in full charge.
+
+^(!tip 1)
