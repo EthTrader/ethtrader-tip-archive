@@ -1,0 +1,3 @@
+Agreed, integrating with ChainLink is a strong indicator of success.
+
+^(!tip 1)
