@@ -1,0 +1,5 @@
+>The wallets support EVM chains, Solana, and multiple programming languages, enabling automated DeFi bots, payments, and treasury operations
+
+Cool features we needed 
+
+>! !tip 1 !<
