@@ -1,0 +1,3 @@
+It's nice to use blockchain.
+
+^(!tip 1)
