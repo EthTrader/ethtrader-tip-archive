@@ -1,0 +1,5 @@
+You can only tip donuts here. 
+
+Every Monday I post the tip leaderboard which is an overview and ranking of all people involved in tipping. So on Monday you will see where you stand compared to others. 
+
+!tip 1
