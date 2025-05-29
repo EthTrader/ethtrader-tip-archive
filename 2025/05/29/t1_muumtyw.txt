@@ -1,0 +1,3 @@
+Exactly, stack now win later.
+
+^(!tip 1)
