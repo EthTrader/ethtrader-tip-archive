@@ -1,0 +1,3 @@
+True, but it's still worth noticing. Bulls always like this.
+
+^(!tip 1)
