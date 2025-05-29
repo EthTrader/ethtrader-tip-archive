@@ -1,0 +1,3 @@
+Always, so this is green light for us to buy as well.
+
+^(!tip 1)
