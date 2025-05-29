@@ -1,0 +1,11 @@
+Capped maximum supply - something like 99% of it in circulation.
+
+Staking to secure the network
+
+Gas fees spent were the stake rewards
+
+So - if the network was being used, staking had higher APR, and less during periods of low network usage
+
+It's just a shame that the network was mostly not used very much... xD
+
+!tip 1
