@@ -1,0 +1,13 @@
+I got hacked and lost a lot of money 1 year ago and depends on the hack. In my dumb case I installed a Trojan that most of the antivirus didn't detect at all. A Redditor run a deep analysis on it.
+
+He basically cloned my browser and got lucky with Bitwarden password manager was encrypted again so he got access to all my browser extension wallets even if they had a different password.
+
+What it really save most of my net is a cold wallet like Trezor. It worked like a charm, even if I got connected it to Metamask he couldn't do anything at all.
+
+Anyway, my advice is to have a separate device to act like your bank for only exchanges and send tokens from your big stash to hot wallets where you don't hold much and that you can use in your daily devices.
+
+In summary, create another layer of security and have a device that acts like your bank account which is more isolated from the Internet and threads.
+
+I hope my traumatic experience that still ghosts me to help and answer you. 1 year later I still suffer of PTSD sometimes.
+
+🍩 !tip 1
