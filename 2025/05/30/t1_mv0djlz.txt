@@ -1,0 +1,3 @@
+True, holders are the only ones sleeping easy.
+
+^(!tip 1)
