@@ -1,0 +1,7 @@
+If the new proposal is implemented it would be nice if everybody could look up the ratio and the number of donuts he could sell or needs to buy to have the full ratio. Maybe a CMD in the dount bot.
+
+Also how do the donuts count if they are in the LP, is it the current amount of the position which would be risky or the amount you put in initially.
+
+I guess I will also ask this in the upcoming proposal.
+
+!tip 1
