@@ -1,0 +1,3 @@
+It only triggers selling fear.
+
+^(!tip 1)
