@@ -1,0 +1,8 @@
+Heres a brief intro to DonutBot
+
+https://www.reddit.com/r/ethtrader/comments/17q24e7/introducing_donutbot_register_and_tip_commands/
+
+
+Welcome to EthTrader
+
+!tip 1
