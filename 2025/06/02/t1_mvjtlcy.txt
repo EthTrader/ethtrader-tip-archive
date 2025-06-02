@@ -1,0 +1,3 @@
+Technically no, it is a sidechain. It is a separate, EVM-compatible chain that uses Ethereum's ecosystem.
+
+^(!tip 1)
