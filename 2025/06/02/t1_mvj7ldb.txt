@@ -1,0 +1,3 @@
+Right! At the moment, the burn rate is only about 300 ETH per day, which is far from what's needed to turn Ethereum deflationary.
+
+^(!tip 1)
