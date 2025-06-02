@@ -1,0 +1,6 @@
+>These contracts exploit Ethereum's EIP-7702 feature, which allows temporary wallet control delegation to smart contracts. The warning alerts users not to send ETH to these contracts
+
+That's nice.... Blockchain tech encouraging safety
+
+  
+!tip 1
