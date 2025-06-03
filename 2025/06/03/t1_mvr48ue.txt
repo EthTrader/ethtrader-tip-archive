@@ -1,0 +1,11 @@
+Hi! Well you can buy DONUT on Ethereum network with [https://app.uniswap.org/swap?outputCurrency=0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9](https://app.uniswap.org/swap?outputCurrency=0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9) and in Arbitrum one with sushiswap  [https://www.sushi.com/arbitrum/swap?token0=NATIVE&token1=0xF42e2B8bc2aF8B110b65be98dB1321B1ab8D44f5](https://www.sushi.com/arbitrum/swap?token0=NATIVE&token1=0xF42e2B8bc2aF8B110b65be98dB1321B1ab8D44f5)
+
+If I am not wrong you could just do it in one transaction. (Spot)
+
+I see that both also allows you to buy with a limit orders. That is okay, I want to buy DONUT at this price for 20 ETH for example, then it will create and order that it gets filled depending the price etc.
+
+And in Sushiswap you can also DCA.
+
+I hope this helps.
+
+🍩 !tip 1
