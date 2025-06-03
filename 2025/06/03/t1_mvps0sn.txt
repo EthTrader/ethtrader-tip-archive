@@ -1,0 +1,18 @@
+Hey Marc,
+
+I have a question for the first pool.
+
+If I provided liquidity let's say 10000 donuts and 0.05 ETH.
+Now the position is 5000 donuts and 0.1 ETH.
+
+Which amount of donuts would count towards the distribution penalty? If it counts will the ETH be included in the calculation as well?
+
+I would prefer if we check the $dollar amount of the current position and calculate it's current donut value, which then would be added to the penalty computation.
+
+Can we also make sure there is a way to look up the penalty, at best via Redditos page and the dount bot, by also stating the amount of donuts you could sell or would need to buy. 
+
+I assume the penalty is calculated once a distribution during the creation of the official csv?
+
+Would be great if you could answer, thanks. 
+
+!tip 1
