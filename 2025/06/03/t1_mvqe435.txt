@@ -1,0 +1,5 @@
+Just checked my tip status and observed that snapshot hasn't been taken yet. 
+
+So it's right to say the poll on multiplier-based distribution closes next round (150) which starts tomorrow and will go in effect the round after (151)?
+
+!tip 10
