@@ -1,0 +1,7 @@
+Its a bug in the dashboard. Already talked with Matt in discord.
+
+Quoting
+
+>season 6 started 6/4/2025 at 00:00:00 UTC.  Basoosh will get the UI updated as soon as possible - not sure about how the date is being calculated but the new seasons align with the new rounds.
+
+!tip 1
