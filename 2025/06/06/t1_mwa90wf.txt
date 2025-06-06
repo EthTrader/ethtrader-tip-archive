@@ -1,0 +1,3 @@
+Cool, now do food prices. c:
+
+^(!tip 1)
