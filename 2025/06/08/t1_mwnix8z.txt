@@ -1,0 +1,3 @@
+One day, ETH will rule all.
+
+^(!tip 1)
