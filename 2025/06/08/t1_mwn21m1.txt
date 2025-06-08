@@ -1,0 +1,3 @@
+The on-chain is future and it'll rewrite the rules for news.
+
+^(!tip 1)
