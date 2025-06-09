@@ -1,0 +1,3 @@
+What I understand is that the problem here is demand. Block space is very tight and validators will always prioritize high bids. In any case, using L2s is the way to go.
+
+^(!tip 1)
