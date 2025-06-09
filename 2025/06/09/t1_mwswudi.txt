@@ -1,0 +1,6 @@
+>The Pectra upgrade dropped in May with some nice improvements, but it doesn't fix the economics. We're still figuring out how to keep the lights on when success means nobody pays for electricity.
+
+I would love an upgrade where we'll pay layer2s kinda gas on mainnent
+
+  
+!tip 1
