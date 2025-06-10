@@ -1,0 +1,3 @@
+Look up your address on etherscan.io the scroll down to the Multichain info section at the bottom. You'll be able to see all the chains and any assets you have on them, if any. You'll be able to see what chain your Donuts are on as well. 
+
+!tip 1
