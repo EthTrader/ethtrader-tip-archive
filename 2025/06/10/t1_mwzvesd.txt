@@ -1,0 +1,16 @@
+Hmm - it appears rccmarketcap is only counting Arb Nova trading volume on DEX.
+
+Not factoring in Kraken, MEXC or Arbitrum One data.
+
+It also appears it is only considering DONUT trading volume on Mainnet, not Arbitrum One
+
+On coingecko I see;
+
+$MOON - $17,790.43
+
+$BRICK - $8,277.62
+
+$DONUT - $7,673.00
+
+
+!tip 1
