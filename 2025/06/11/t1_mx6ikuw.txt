@@ -1,0 +1,5 @@
+I only came up with this tonight apart from moving to other social networks and push them hard to get the banners/ads there.
+
+One us of case could be to open source DONUT dev ecosystem in a more "public" way like **“DONUT Grants” for Builders** (we already do that but backwards). Instead of that create a list of tools or specific things we want to build with a bounty in DONUT like stats dashboards, portfolio tools, RCP bridges, etc and encourage submissions  via GitHub.
+
+🍩 !tip 1
