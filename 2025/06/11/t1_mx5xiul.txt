@@ -1,0 +1,3 @@
+True, it's a prime time to stack wisely before the prices shoot to the moon.
+
+^(!tip 1)
