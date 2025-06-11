@@ -1,0 +1,3 @@
+Permanent banned users are also stated in a CSV right beside official distribution CSV in the GitHub. Names are also stated there.
+
+!tip 1
