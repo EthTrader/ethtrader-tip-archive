@@ -1,0 +1,10 @@
+. Green light
+. Green light
+. Red light
+. Red light
+. Green light
+. Red light
+. Red light
+. $2557
+
+!tip 1
