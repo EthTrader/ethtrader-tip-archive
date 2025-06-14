@@ -1,0 +1,3 @@
+Exactly, best time for shopping
+
+^(!tip 1)
