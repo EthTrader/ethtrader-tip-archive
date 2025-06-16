@@ -1,0 +1,7 @@
+It's mostly due to concentrated liquidity ranges, myself included.
+
+You can choose to provide liquidity at certain ranges only, it's a trick I've done in the past to DCA.
+
+One could for example, provide DONUT only liquidity, and range 100k to 200k. It won't be in range, so you'll currently have no reward, but if/when DONUT moves into that range, your position will start swapping DONUT for ETH, as traders make their moves.
+
+!tip 1
