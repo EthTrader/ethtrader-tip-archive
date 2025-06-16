@@ -1,0 +1,5 @@
+What I noticed is that when registered users interact with not registered users they don't tip. 
+I always do, since it's a replacement of upvotes here and we could get more people onboard:)
+Could be they get annoyed because of the additional tag, but I don't care :)
+
+!tip 1
