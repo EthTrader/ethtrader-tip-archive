@@ -1,0 +1,3 @@
+Hopefully, our patience will be rewarded.
+
+^(!tip 1)
