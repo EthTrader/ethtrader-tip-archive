@@ -1,0 +1,3 @@
+When we figure out how the multiplier adjustment actually works, it might be beneficial for people, to provide liquidity as a way of trading as well - it might be so long as the liquidity position is active, there is no penalty applied... who knows. I'll be keeping an eye out xD
+
+!tip 1
