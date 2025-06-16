@@ -1,0 +1,3 @@
+Problem with this metric, that it heavily depends on commit philosophy of each project 
+
+!tip 1
