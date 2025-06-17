@@ -1,0 +1,3 @@
+If it builds a momentum, $1 target doesn't look too far.
+
+^(!tip 1)
