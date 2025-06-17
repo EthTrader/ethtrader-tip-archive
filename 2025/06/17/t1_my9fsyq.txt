@@ -1,0 +1,10 @@
+In the last 30 days;
+
+* 8,186.86 ETH has been burned 
+* 78,332.06 ETH has been issued
+
+* 404,849.74 ETH issued if it was still Proof of Work!
+
+It's low, but it's still an inflation rate of 0.71% - hopefully we can get that down again soon!
+
+!tip 1
