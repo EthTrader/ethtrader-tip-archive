@@ -1,0 +1,3 @@
+It's a fact that ETH stays ahead.
+
+^(!tip 1)

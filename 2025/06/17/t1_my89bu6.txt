@@ -1,0 +1,3 @@
+Optimism remains a standout among Ethereum L2s.
+
+^(!tip 1)
