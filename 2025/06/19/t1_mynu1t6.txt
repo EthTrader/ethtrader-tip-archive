@@ -1,0 +1,7 @@
+Still not much info related and the Forbes article reads like \*\*\*\*
+
+As far as I read they are talking about something that could be someone in the dark web that has gathered old accounts in one place, etc. Anyway, unique passwords and 2FA is mandatory.
+
+My advice is to use Bitwarden and its autogenerate password for every account. This way you will have 1 pass per account and you wont even know it xD
+
+🍩 !tip 1
