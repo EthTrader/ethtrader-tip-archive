@@ -1,0 +1,5 @@
+There is a typo in step 1 third point, season 1 -> season 2.
+
+Creating a new wallet was the part which stopped me last time this time I will do it.
+
+!tip 1
