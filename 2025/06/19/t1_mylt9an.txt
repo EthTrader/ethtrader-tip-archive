@@ -1,0 +1,3 @@
+It means they have restrictions on trading during a specific time of the day.
+
+^(!tip 1)
