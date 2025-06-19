@@ -1,0 +1,5 @@
+>The project inherits Polygon zkEVM's codebase and aims to improve verification times by 40–60%, maintaining a permissionless, open-source approach.
+
+For Polygon it's always all about the tech. Let's hope this one gives POL's price a boost. 
+
+!tip 1
