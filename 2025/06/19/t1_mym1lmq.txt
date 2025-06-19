@@ -1,0 +1,3 @@
+Ethereum is war proof.
+
+^(!tip 1)
