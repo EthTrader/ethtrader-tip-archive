@@ -1,0 +1,3 @@
+Seems like it's getting more intense cause of the lack of proper cyber etiquette, knowledge and application. You can't predict how attackers might come but you can try to limit the impact. That's why pentesters and blue teams have become so crucial in securing platforms today. An expensive lesson learnt in this one here. 
+
+!tip 1
