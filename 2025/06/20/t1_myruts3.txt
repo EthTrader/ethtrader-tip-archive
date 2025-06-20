@@ -1,0 +1,3 @@
+It is so simple, just tell them to follow the money.
+
+^(!tip 1)
