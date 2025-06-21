@@ -1,0 +1,5 @@
+>On June 20, 2025, our security team identified a vulnerability related to a doodle image displayed on our homepage. This doodle image contained a link that triggered malicious code through an API call, resulting in an unexpected pop-up for some users when visited our homepage.
+
+Time to find who put that image link or got access to the original image source.
+
+🍩 !tip 1
