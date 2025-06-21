@@ -1,0 +1,9 @@
+> What's the process to update the ETH address in this subreddit?
+
+You can simply use the register command with a new address if you need to
+
+> Will the ETH address I provided still work?
+
+As long as your wallet supports Arbitrum or your seed-phrase can be imported into a wallet that supports Arbitrum, then you'll be fine.
+
+!tip 1
