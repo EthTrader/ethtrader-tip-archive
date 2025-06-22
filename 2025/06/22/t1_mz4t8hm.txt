@@ -1,0 +1,5 @@
+Reality: Rect
+
+Expectations: Bull run though the world is burning.
+
+^(!tip 1)
