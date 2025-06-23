@@ -1,0 +1,5 @@
+>This approach eliminates wallets, seed phrases, and chain complexity, making crypto transactions intuitive and chain-agnostic
+
+This might not be a good ideal
+
+!tip 1
