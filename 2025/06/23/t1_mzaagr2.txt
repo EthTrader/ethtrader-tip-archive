@@ -1,0 +1,3 @@
+Simplifying things is the way!
+
+^(!tip 1)
