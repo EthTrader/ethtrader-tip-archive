@@ -1,0 +1,3 @@
+This will only make Ethereum way faster, but the problem is higher hardware demands, and another issue I see is a risk of centralization. I am not sure if this will lower gas fees long-term or make things harder for validators.
+
+^(!tip 1)
