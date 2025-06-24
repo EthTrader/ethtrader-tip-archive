@@ -1,0 +1,3 @@
+A smart choice has been made.
+
+^(!tip 1)
