@@ -1,0 +1,3 @@
+Typical market play.
+
+^(!tip 1)
