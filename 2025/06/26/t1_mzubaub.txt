@@ -1,0 +1,5 @@
+Are there bots running on a per block basis?
+
+Could such upgrade increase the transaction volume?
+
+!tip 1
