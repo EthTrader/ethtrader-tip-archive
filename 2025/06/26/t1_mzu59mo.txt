@@ -1,0 +1,3 @@
+I think it's the right move to prioritize users financial safety over convenience.
+
+^(!tip 1)
