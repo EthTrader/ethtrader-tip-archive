@@ -1,0 +1,3 @@
+True, the fees proved the network is on fire.
+
+^(!tip 1)
