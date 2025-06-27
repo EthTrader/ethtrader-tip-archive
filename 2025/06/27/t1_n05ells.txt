@@ -1,0 +1,17 @@
+1) actually u/kirtash93 response is only correct if you tip on chain.
+
+Using the tip bot, the donuts you tip away are deducted from your distribution reward, therefore not factored in to what you have earned. 
+
+Lets say you;
+
+tip 1000 DONUT away,
+
+Received 50 from tips 
+
+and earned only 2000 from post/comments rewards.
+
+your final disitrubition would be 1050. And from that you can trade up to 25% of them without a multiplier adjustment 
+
+Hope that makes sense
+
+!tip 1
