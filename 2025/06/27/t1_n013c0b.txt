@@ -1,0 +1,13 @@
+For those that have never played around with a Liquidity Pool or DeFi much in general, the DONUT-ETH pool is a great stepping stone.
+
+For example, one could sell say, $10 worth of DONUT, and then put $10 worth of DONUT and the ETH they just swapped top into a position in the pool.
+
+This means you can start generating fees of ETH and DONUT from token you earned for free in the first place.
+
+Periodically, you can claim your rewards and compound your position by adding the new DONUT/ETH again.
+
+DONUT allows people to experience first hand some of the more advanced side of DeFi, without necessarily having any significant financial risk exposure.
+
+!tip 1
+
+!pow
