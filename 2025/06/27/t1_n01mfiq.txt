@@ -1,0 +1,3 @@
+Especially seed phrase. You can't believe how careless people are with their seed phrases. Some take photos of it not knowing some malicious apps in their phone scan for those patterns in their gallery.
+
+!tip 1
