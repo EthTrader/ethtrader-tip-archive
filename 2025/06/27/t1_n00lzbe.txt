@@ -1,0 +1,3 @@
+It's nice to simplify the payments and make crypto more accessible.
+
+^(!tip 1)
