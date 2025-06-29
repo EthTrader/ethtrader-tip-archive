@@ -1,0 +1,7 @@
+> The new logic involves scanning past user earnings, applying a formula, then excluding Donuts spent on Special Memberships + LPing and outputting updated governance scores with distribution penalties applied.
+
+As someone who's done all of the above, plus trading, I'll be curious to observe how the Multiplier Adjustment impacts the Liquidity Pool metrics.
+
+Thanks to the Devs for their skills!
+
+!tip 1
