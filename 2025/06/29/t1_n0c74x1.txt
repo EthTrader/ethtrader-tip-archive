@@ -1,0 +1,7 @@
+Soon.
+
+The DonutBot records all tips off-chain, and distributes them on-chain about once a month. The next distribution will take place in about 1 week. $DONUT is currently distributed on the Arbitrum network.
+
+Again, Welcome! 
+
+!tip 1
