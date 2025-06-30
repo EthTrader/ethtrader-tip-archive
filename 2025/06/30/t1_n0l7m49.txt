@@ -1,0 +1,5 @@
+[YES]
+
+For now, it's a good idea to preserve Donut scarcity and support deflation, though it's not ideal if the treasury depends on steady funding.
+
+^(!tip 1)
