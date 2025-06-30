@@ -1,0 +1,5 @@
+>a test transaction with a whole ETH xD?
+
+This is a whale-level test transaction xD
+
+^(!tip 1)
