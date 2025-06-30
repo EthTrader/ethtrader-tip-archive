@@ -1,0 +1,3 @@
+Would love to see a calculator for it. I know they've said DONUT in the LP won't be factored into the a multiplier penalty, but curious to know if it will record the DONUT currently in the LP, or originally sent to the LP, as this number can change as ratios change.
+
+!tip 1
