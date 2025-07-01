@@ -1,0 +1,19 @@
+> Is ETH inflationary?
+
+Yes
+
+> -No total supply cap
+
+True.
+
+> Why should we still be invested in ETH if it can print itself like the dollar?
+
+Thankfully, the inflation rate of ETH is pretty damn low, while the max cap is technically infinite, the reality is between the issuance for stake rewards for securing the network and validating transactions is only fractionally higher than the burn rate to pay for gas for utilizing the network.
+
+In fact, there can be periods of a deflation when the network volume is so high, more ETH gets burned than is issued.
+
+However, that does not strictly mean ETH to 10k or ETH to 1k, but investing in ETH is something to consider if one believes there will be more and more wide-spread use of the network.
+
+Personally, I'm backing up as there will be organizations that look towards immutable blockchain technology for various reasons and projects.
+
+!tip 1
