@@ -1,0 +1,5 @@
+Yes, just use the command register and a wallet address and you will be set. You will get a notification if it goes well or wrong.
+
+Feel free to ask anything
+
+!tip 1
