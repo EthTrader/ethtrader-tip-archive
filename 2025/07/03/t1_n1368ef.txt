@@ -1,0 +1,10 @@
+>Buterin laid out practical “tests” that he said every crypto project should pass. These include   
+1) the walk-away test. If the company behind an application disappears, do users keep their assets?  
+2) the insider attack test: How much damage can rogue insiders or compromised front-ends cause?  
+3) whether it has a trusted computing base: How many lines of code must be trusted to protect users’
+
+How can the average user do any of these tests? Or at least how can we gauge the risks?
+
+For example AAVE. If the website disappears, what happens?
+
+!tip 1
