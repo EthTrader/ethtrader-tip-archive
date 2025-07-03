@@ -1,0 +1,3 @@
+I don't think this is a Coinbase thing, it is more of a CEX thing. Remember, if you use a CEX you will never have privacy.
+
+^(!tip 1)
