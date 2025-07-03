@@ -1,0 +1,3 @@
+The Ethereum Foundation's only focus is the tech.
+
+^(!tip 1)
