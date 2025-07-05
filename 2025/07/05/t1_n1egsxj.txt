@@ -1,0 +1,3 @@
+The multisig transaction for contest rewards hasn't been submitted yet; nor am I the one who runs the code to initiate it. I share this data to the dev team to handle.
+
+!tip 1
