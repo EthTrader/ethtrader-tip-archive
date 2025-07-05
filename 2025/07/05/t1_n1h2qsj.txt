@@ -1,0 +1,3 @@
+My bank account looks like it escaped a budgetary battlefield.
+
+^(!tip 1)
