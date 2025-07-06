@@ -1,0 +1,5 @@
+Congrats 
+
+Eth price: #2508
+
+!tip 100
