@@ -1,0 +1,7 @@
+Would love to see a comparison of the ETH Node heat map vs Bitcoin mining heat map.
+
+Would be interesting to see what it looks like in say, 4 years time, as ETH Staking becomes more accessible for others to do on their own, and as BItcoin becomes more intensive to maintain PoW.
+
+!tip 1
+
+!pow
