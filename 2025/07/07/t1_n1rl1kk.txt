@@ -1,0 +1,3 @@
+Does these take into account when a post is deleted by mods or not ?
+
+ !tip 1
