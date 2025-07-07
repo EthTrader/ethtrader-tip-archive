@@ -1,0 +1,3 @@
+This is good for faster transaction inclusion!! It will bring a lot of revenue too.
+
+^(!tip 1)
