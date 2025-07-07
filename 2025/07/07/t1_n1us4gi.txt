@@ -1,0 +1,3 @@
+Assets Under Management - The total value of assets a platform manages.
+
+^(!tip 1)
