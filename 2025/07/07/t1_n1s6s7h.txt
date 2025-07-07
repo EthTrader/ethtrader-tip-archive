@@ -1,0 +1,5 @@
+My understanding is, even if a post or comment is deleted, the tip itself is executed. But does not count towards contributor rewards.
+
+Eg. If I tip a post 1 DONUT, which is then removed, the OP would get 1 DONUT.
+
+!tip 1
