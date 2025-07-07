@@ -1,0 +1,5 @@
+We should only tip good content but I like tipping people for engaging and being here. Its my upvote equivalent xD
+
+Regarding the command it cant have any word after the number. It detects it as a token name xD
+
+!tip 1
