@@ -1,0 +1,4 @@
+The bot updates the tip CSV were I pull the data from. 
+I don't know if the CSV deletes entries again. I would assume not. So that the delete posts  will be filtered out when the district is computed, hence this should include tips to deleted posts.
+
+!tip 1
