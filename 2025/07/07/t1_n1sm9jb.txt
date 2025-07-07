@@ -1,0 +1,11 @@
+If I was checking for AI, I would check with;
+
+zerogpt, quillbot and scribbr if there are varying results.
+
+Things have tightened up with news links as of yesterday, when the proposal to lower the AI threshold on articles passed.
+
+https://snapshot.box/#/s:ethtraderdao.eth/proposal/0x64f68dc528d92525acc3f03cfbbe63a694c440f3060b6a4132da3fe091f76c90
+
+Now anything that is greater than 25% AI generated will be removed.
+
+!tip 1
