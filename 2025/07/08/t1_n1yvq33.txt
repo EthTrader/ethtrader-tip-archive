@@ -1,0 +1,3 @@
+Nice coinbase 
+
+!tip 1
