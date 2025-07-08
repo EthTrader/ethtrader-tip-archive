@@ -1,0 +1,3 @@
+The price is a bargain now.. we will see why in the future.
+
+^(!tip 1)
