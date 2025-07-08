@@ -1,0 +1,3 @@
+The wallet you use does not matter just the ETH address you register with. 
+
+!tip 1
