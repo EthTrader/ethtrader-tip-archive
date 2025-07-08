@@ -1,0 +1,3 @@
+Different priorities on display. 
+
+!tip 1
