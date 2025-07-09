@@ -1,0 +1,8 @@
+Nope, tip 1 is like "upvote" but the rest if you tip more amount is just donut the other one gets. Multiplier only aplies to that 1 Donut tip.
+
+Weight is a ration between contrib and donut..you get a full weight when you have 20k contrib and 20k donut.
+
+
+Exactly the other person only get donut if you tip at least 1
+
+!tip 1

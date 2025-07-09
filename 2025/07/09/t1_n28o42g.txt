@@ -1,0 +1,3 @@
+Contrib is the governance token that we get every distro, more or less the same amount as Donut earned. It is not tradeable.
+
+!tip 1
