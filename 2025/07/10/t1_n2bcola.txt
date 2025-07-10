@@ -1,0 +1,3 @@
+True, Spot is the only thing that stays afloat. 
+
+^(!tip 1)
