@@ -1,0 +1,3 @@
+Lol I looked it up and found that the number was reserved for a draft proposal on Contract Secured Revenue but was reassigned to EIP-6968 because of 'number sniping concerns.'
+
+^(!tip 1)
