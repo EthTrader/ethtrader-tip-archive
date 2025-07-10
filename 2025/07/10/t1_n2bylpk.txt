@@ -1,0 +1,2 @@
+until eth 10k  
+!tip 1
