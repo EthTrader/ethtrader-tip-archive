@@ -1,0 +1,3 @@
+I’m all good as long as the price keeps going up.
+
+^(!tip 1)
