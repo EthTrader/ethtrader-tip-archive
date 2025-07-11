@@ -1,0 +1,5 @@
+Now I wonder just how many longs are being placed...
+
+I wouldn't be surprised to see a bit of a flash crash at some stage with a quick recovery.
+
+!tip 1

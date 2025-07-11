@@ -1,0 +1,3 @@
+*'He is beginning to believe.'*
+
+^(!tip 1)
