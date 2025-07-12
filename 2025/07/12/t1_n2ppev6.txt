@@ -1,0 +1,3 @@
+Scaling is clearly working thanks to L2s and upgrades on Mainnet. I have seen people on Twitter saying we will see 10k TPS in a few years.
+
+^(!tip 1)
