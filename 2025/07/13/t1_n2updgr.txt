@@ -1,0 +1,5 @@
+Yes, it now supports multiple chains, including:
+
+Ethereum ,Arbitrum,Polygon zkEVM and a few more
+
+^(!tip 1)
