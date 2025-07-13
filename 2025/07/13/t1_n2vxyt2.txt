@@ -1,0 +1,11 @@
+Btw, we have strict rules regarding AI content. Only allowed articles with <25% AI [https://snapshot.box/#/s:ethtraderdao.eth/proposal/0x64f68dc528d92525acc3f03cfbbe63a694c440f3060b6a4132da3fe091f76c90](https://snapshot.box/#/s:ethtraderdao.eth/proposal/0x64f68dc528d92525acc3f03cfbbe63a694c440f3060b6a4132da3fe091f76c90)
+
+We use this two tools to detect them:
+
+[https://quillbot.com/ai-content-detector](https://quillbot.com/ai-content-detector)  
+[https://www.zerogpt.com/](https://www.zerogpt.com/)
+
+  
+I checked and your link probably will be removed by mods.
+
+🍩 !tip 1
