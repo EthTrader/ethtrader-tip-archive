@@ -1,0 +1,7 @@
+1) Mod/Dev payment
+2) R151 Distro
+3) R151 Contest
+
+Contest transaction was finally initiated yesterday (and up to 4 already atleast) - not sure why it's taken so long to process this time
+
+!tip 1
