@@ -1,0 +1,17 @@
+The ETH/DONUT liquidity pool on Sushi is not a 'smart pool' - it is a standard V3 Pool.
+
+I haven't played around with smart pools or Steer myself, so unsure what exactly might have gone on.
+
+It does appear however, your DONUT/ETH position has been withdrawn, DONUT has been swapped to ETH and moved on somewhere.
+
+*help guide me or give me a contact between sushi and steer or how to navigate steer about this liquidity pool being now manage by steer fi which what says on sushi so I know it’s not a Malicious /fraud transaction*
+
+This is Sushi's official discord, and linked is the channel for to open a support ticket [https://discord.com/channels/748031363935895552/1084666830142054452](https://discord.com/channels/748031363935895552/1084666830142054452)
+
+Of course, be very careful of bad actors trying to slide into DM's and what not.
+
+https://preview.redd.it/cwzdkmzzglcf1.png?width=1392&format=png&auto=webp&s=3802f042cfb4f3d49d8e445f31f3d50be3e10ff7
+
+Good luck
+
+!tip 1
