@@ -1,0 +1,6 @@
+It does, that's how you get your rocket mostly, because there are not enough active registered users. 
+
+
+Only in the leaderboard for the complete round I neglect unregistered users because the tips are not executed if they did not register in time.
+
+!tip 1
