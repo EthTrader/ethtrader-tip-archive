@@ -1,0 +1,19 @@
+Depending on how much ETH you have, sometimes it's a good idea to actually keep some on a couple of different wallets/platforms. That way if 1 thing gets exploited, or 1 wallet gets compromised, you aren't at a total loss.
+
+That said, theres plenty of staking options these days for ETH.
+
+As far as putting on a CEX goes, Coinbase is probably as trustworthy as they come, they are the chosen custodian for Institutions like Blackrock.
+
+You can lend on https://app.aave.com/
+
+You can stake with https://everstake.one/
+
+I also use https://www.ether.fi/app
+
+You'll typically not get much more than 3% from anywhere.
+
+I've never used LIDO myself, and prefer not too as they currently hold the largest marketshare of staked ETH.
+
+Welcome to EthTrader, feel free to register your Ethereum address for our subs community token, $DONUT
+
+!tip 1
