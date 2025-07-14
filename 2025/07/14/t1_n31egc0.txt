@@ -1,0 +1,5 @@
+>There are currently 34 liquidity providers contributing to the pool.
+
+This always fills me with discomfort. Seems such a low number & liquidity could disappear very quickly.
+
+!tip 1
