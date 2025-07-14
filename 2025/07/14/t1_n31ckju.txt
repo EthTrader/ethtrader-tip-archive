@@ -1,0 +1,3 @@
+On Mainnet, the price on Arbitrum is still around $0.005
+
+^(!tip 1)
