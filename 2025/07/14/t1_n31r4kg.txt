@@ -1,0 +1,3 @@
+Normally DONUTs follow ETH but now the price is lagging ETH. What worries me here is only 5 providers holding 72% of the pool, that is not good for liquidity. We need to see more LPs jump in to stabilize it.
+
+^(!tip 1)
