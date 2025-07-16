@@ -1,0 +1,9 @@
+No, the only factor into the Pay2Post fee is the final Post Rewards Ratio at the end of the round.
+
+The Pay2Post fee is = Post Ratio x 2.5
+
+This is also capped at 250 DONUTs.
+
+Recently the post ratio rewards have been higher than 250, meaning posts with 1x multipliers have only required 1 tip to cover the posting fee.
+
+!tip 1
