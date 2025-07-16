@@ -1,0 +1,3 @@
+True, the market is too strong to shake.
+
+^(!tip 1)
