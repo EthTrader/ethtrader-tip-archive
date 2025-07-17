@@ -1,0 +1,3 @@
+True, on-chain is forever.
+
+^(!tip 1)
