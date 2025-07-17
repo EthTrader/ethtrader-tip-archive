@@ -1,0 +1,3 @@
+They swap role between BTC and ETH.
+
+ !tip 1
