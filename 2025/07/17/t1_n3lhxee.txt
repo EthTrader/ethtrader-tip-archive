@@ -1,0 +1,3 @@
+Exactly, there is no point expecting anything else.
+
+^(!tip 1)
