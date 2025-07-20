@@ -1,0 +1,3 @@
+Nice one, maybe you should add to the tipping section that we use them instead of upvotes here, and that the number of tips determines the payout ratios, so it's not about the amount you tip. Or similar.
+
+!tip 1
