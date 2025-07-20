@@ -1,0 +1,3 @@
+Lesson: Shorting ETH was a tough pill to swallow.
+
+^(!tip 1)
