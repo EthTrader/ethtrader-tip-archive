@@ -1,0 +1,7 @@
+ETIP 123 does not 'penalize' DONUT used that remains within the eco-system or supports the project; eg, DONUT used to provide liquidity, buy special memberships, will not factor in to an adjusted multiplier. In the future, perhaps there will be auctions, or perhaps a user wishes to purchase some advertising/community event to publicize their own project/app/website - in which case, this DONUT used would also be excluded from an adjusted multiplier.
+
+Dev work of course, directly supports the entire project and is crucial to maintaining operations. Hosting websites, maintaining servers/bots has direct real world costs - we arn't going to have many devs doing work for us if not only are they donating their time, but running at operational costs that exceed what they earn for their expertise.
+
+I understand the thought process, but that logic just would not be feasible or respectful to apply for dev's and the services they provide.
+
+!tip 1
