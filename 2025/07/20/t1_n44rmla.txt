@@ -1,0 +1,3 @@
+Most effective strategy!
+
+^(!tip 1)
