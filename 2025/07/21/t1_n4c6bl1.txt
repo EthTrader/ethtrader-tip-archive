@@ -1,0 +1,3 @@
+Human error is a built-in variable. You can only reduce it 🫠
+
+^(!tip 1)
