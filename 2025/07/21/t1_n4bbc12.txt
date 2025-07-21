@@ -1,0 +1,3 @@
+Less block time from 12 sec to 6 sec, wow. to six seconds. This will make dapps a lot better.
+
+^(!tip 1)
