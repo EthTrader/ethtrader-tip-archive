@@ -1,0 +1,3 @@
+True, the record-making season for ETH is activated!
+
+^(!tip 1)
