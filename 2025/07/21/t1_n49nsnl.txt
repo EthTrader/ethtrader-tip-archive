@@ -1,0 +1,11 @@
+>  If "member sold" = "member is less valuable", then that should apply to everyone & every way of earning.
+
+The difference here is dev work would be considered contracted work, it's a negotiated price for a service provided. (I guess we could apply a multiplier penalty for dev payments, and then the devs will ask for a higher rate to counter that, and then it seems kinda frivolous) 
+
+All users, devs, mods, etc are still bound by the adjusted multiplier for their content distribution rewards - however Dev grants and contracts, are separate from that and are essential for the Donut DAO to continue operating.
+
+I definitely agree there is some content that is higher quality than others though and it's a little sad to see someone earn more DONUT from screenshotting something, compared to someone who spent hours creating a comic from scratch - or someone posting a link compared to someone writing 400 words of well researched content - but this comes back to the tipping culture as content distributions are awarded based on community input which is a regular monthly occurrence.
+
+For what it's worth, I actually abstained from the vote for the Adjustment Multiplier, and was happy to go with whatever decision the rest of the community voted for.
+
+!tip 1
