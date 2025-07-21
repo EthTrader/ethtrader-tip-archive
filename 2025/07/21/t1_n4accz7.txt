@@ -1,0 +1,9 @@
+My main problem is the logic that was applied: If you sold your rewards, then your DONUT were earned in bad faith. ETIP 123 does not distinguish between exploitative & collaborative earnings. It punishes those who put effort & earned $5 the same as those who just shared links & earned hundreds. 
+
+It is paradox. We are building a content reward system but don't want creators to use their rewards.
+
+ETIP 123 is wrong. It does not address exploitative behavior. It doesn't distinguish those that exploit from those who do not. And because the rule is wrong, I'm a reluctant towards paying for its implementation.
+
+If we don't want exploitation, we have to prevent exploits from being paid. Telling people after the payment that they can't use their money if they want to keep that income is insane. 
+
+!tip 2
