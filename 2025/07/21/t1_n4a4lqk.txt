@@ -1,0 +1,3 @@
+Get registered in the sub with an evm wallet and be earning some donuts whenever you get a tip. You can register with this command !register(input your wallet). That's all
+
+!tip 1
