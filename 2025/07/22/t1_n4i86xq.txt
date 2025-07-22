@@ -1,0 +1,3 @@
+Is there a way to disconnect the wallet after the transaction?
+
+ !tip 1

@@ -1,0 +1,7 @@
+Your wallet UI should have a disconnect button - this is what Rabby looks like
+
+https://preview.redd.it/90b8wv09veef1.png?width=415&format=png&auto=webp&s=e07d38ae0c2d2dbfc1158aa0f995ce13b377d0d7
+
+I just tap the "connected" button to disconnect.
+
+!tip 1
