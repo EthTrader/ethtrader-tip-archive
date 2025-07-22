@@ -1,0 +1,3 @@
+It's time to capitalize on the opportunity. 
+
+^(!tip 1)
