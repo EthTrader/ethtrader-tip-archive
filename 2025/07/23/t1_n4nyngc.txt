@@ -1,0 +1,3 @@
+The only direction from here is up.
+
+^(!tip 1)
