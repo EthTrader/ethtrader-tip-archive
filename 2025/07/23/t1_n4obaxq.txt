@@ -1,0 +1,3 @@
+Bullish news! This is the stuff that gets the blood pumping.
+
+^(!tip 1)
