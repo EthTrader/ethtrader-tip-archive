@@ -1,0 +1,11 @@
+> Right now borrow rates are at 3% and supply yields fluctuate around 2.45% over 30 days
+
+I've throw some of my ETH into lending on AAVE, particularly on Scroll, ZkSync and Arbitrum. 
+
+Interestingly, Scroll was the one that resulted in the highest average yield oveer a couple of months, with moments ranging between 2-6 %
+
+So far, no issues!
+
+!tip 1
+
+!pow
