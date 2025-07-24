@@ -1,0 +1,9 @@
+Staking is pretty awesome...
+
+Just thinking out loud, It'd be really cool if we could somehow set up an r/EthTrader validator, pool together 32 ETH (including the treasury) let the treasury take an appropriate fee, but also allocate an amount of DONUT as an added bonus to r/EthTrader stakers 
+
+Then the Treasury could generate some ETH rewards over time, as would us users... hmmm
+
+Inspired by u/Aminok previous ideas of Proof of ETH for DONUT rewards xD
+
+!tip 1
