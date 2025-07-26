@@ -1,0 +1,7 @@
+Best guess I can think of is, OP kept their ETH on a centralized exchange, and the ETH was automatically converted to "ETH 2.0" from the switch of proof of work to proof of stake.
+
+Perhaps the exchange has then treated it as a 'token swap' and the "new ETH" has the higher average buy price - but even then, the price around the time of the merge was 1.5k to 1.6k.
+
+![gif](giphy|jPAdK8Nfzzwt2)
+
+!tip 1
