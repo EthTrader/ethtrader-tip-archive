@@ -1,0 +1,7 @@
+YOu can check holders directly on Arbiscan
+
+https://arbiscan.io/token/0xf42e2b8bc2af8b110b65be98db1321b1ab8d44f5#balances - this is for Arbitrum Network
+
+https://etherscan.io/token/0xc0f9bd5fa5698b6505f643900ffa515ea5df54a9#balances - This is for Mainnet
+
+!tip 1
