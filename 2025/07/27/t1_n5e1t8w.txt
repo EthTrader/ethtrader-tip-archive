@@ -1,0 +1,7 @@
+This started it on Mainnet.
+
+Wonder if Uniswap has been exploited + MEV bots adding salt to the wound?
+
+https://preview.redd.it/1fhjwo82ycff1.png?width=1353&format=png&auto=webp&s=1f35ead244f8855c2d200d03da624709281a5686
+
+!tip 1
