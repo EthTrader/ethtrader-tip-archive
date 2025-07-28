@@ -1,0 +1,11 @@
+Donuts were supposed to reward content. Now we say *don't use your reward*. I still don't like it. 
+
+The formula gets simpler by multiplying out the 100. My math teacher was always angry with me when results were too long.
+
+`Multiplier = -1.2x + 1.3` 
+
+where `x` is (DONUTs in wallet - DONUTs transferred + DONUTs in LP + DONUTs spent in special memberships)/(earned DONUTs)
+
+Pedantic, I know. I blame it on Dr. Schubert. Thanks for the reminder Reddito.
+
+!tip 1
