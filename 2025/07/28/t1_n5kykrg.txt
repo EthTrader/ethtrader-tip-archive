@@ -1,0 +1,3 @@
+When you bet against the king you lose :D.
+
+^(!tip 1)
