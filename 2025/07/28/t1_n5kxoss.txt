@@ -1,0 +1,3 @@
+True - no excuses. If something doesn’t feel tip-worthy, just stick to the default system and move on.
+
+^(!tip 1)
