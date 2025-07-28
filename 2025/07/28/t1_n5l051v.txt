@@ -1,0 +1,3 @@
+Hard to calculate right? Because its not a terniary rule (not sure if it is called like this xD)
+
+!tip 1
