@@ -1,0 +1,9 @@
+Some fascinating developments that go over my head.
+
+> On Thursday, hybrid blockchain Build on Bitcoin rolled out a technical upgrade that brought it closer to getting a fully decentralized mark on the L2Beat platform. The network implemented zero-knowledge (ZK) fraud proofs within an optimistic rollup framework. 
+
+> Meanwhile, the Ethereum Foundation set a timeline for implementing zkEVM in the mainnet within one year. On July 10, the foundation laid a path toward replacing traditional block execution with ZK-proofs. 
+
+I'd been calling for some time that ZKRollups would eventually lead the way, but perhaps these developments might see ZK's such as ZkSync, Scroll and Starknet less essential if Mainnet and Hybrid chains get the best of both worlds.
+
+!tip 1
