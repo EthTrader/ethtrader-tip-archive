@@ -1,0 +1,11 @@
+All this Dev stuff is well and truly beyond my comprehension.
+
+>Receive from LP does not account for a distinguish between a Fees collection and a withdraw. Rewards collection comes form another address so this should be fine.
+
+Good point, the yield farm comes from Merkl - but Transaction Fees definitely should not count towards 'earned DONUT' - I don't think that's the case.
+
+Perhaps the best way for computation is; if someone deposits 1000 DONUT into the LP, 1000 DONUT is excluded from their adjusted multiplier, and this number should remain constant until the position is withdrawn. 
+
+Let's say the user then withdraws their position, which now is 2500 DONUT.  The 1000 DONUT is reinstated into the calculation, but any additional rewards, say, they withdraw 2500 DONUT, that additional 1500 is "free to trade" with no impact on the multiplier. This is essentially DONUT earned by supporting the eco-system, not from Distribution.
+
+!tip 5
