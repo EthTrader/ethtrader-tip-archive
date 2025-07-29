@@ -1,0 +1,5 @@
+Staking was always a bit of a wrong word, on the old dashboard the "staking" was actually Liquidity Provision on Gnosis Network. 
+
+But, now we focus on Arbitrum Network as that is where new DONUT is being minted.
+
+!tip 1
