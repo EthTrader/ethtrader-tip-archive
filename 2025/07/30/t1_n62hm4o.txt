@@ -1,0 +1,5 @@
+Hey welcome! You can do !tip X to other posts to send them DONUT 🍩.
+
+Replace X with any amount, usually we do 1
+
+!tip 1
