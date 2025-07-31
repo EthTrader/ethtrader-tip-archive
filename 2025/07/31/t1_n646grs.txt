@@ -1,0 +1,5 @@
+Eth price: $3865.00!
+
+Congrats! 
+
+!tip 100
