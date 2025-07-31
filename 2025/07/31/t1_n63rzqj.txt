@@ -1,0 +1,5 @@
+TVL - Total value locked 
+
+It reflects how much capital is currently deployed or utilized across DeFi protocols.
+
+^(!tip 1)
