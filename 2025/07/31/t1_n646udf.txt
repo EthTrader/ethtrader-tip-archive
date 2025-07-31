@@ -1,0 +1,3 @@
+The way it’s climbing, we might get there sooner than expected.
+
+^(!tip 1)
