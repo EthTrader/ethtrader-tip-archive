@@ -1,0 +1,7 @@
+There are a couple of different types of transaction fees to consider though.
+
+Network or Gas fees are burned, fresh ETH is issued. And for stakers the end result is generating wealth/income passively.
+
+But in DeFi, transaction fees are protocol fees, and these create direct revenue for liquidity providers.
+
+!tip 1
