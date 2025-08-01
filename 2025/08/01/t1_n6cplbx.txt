@@ -1,0 +1,7 @@
+Donut Adresses on ETH mainnet: 5 800
+
+Donut adresses on ARB: 1 800
+
+Total transactions: 19 000
+
+ !tip 1
