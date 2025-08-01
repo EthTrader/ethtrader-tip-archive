@@ -1,0 +1,3 @@
+Yeah could also be, not sure but I think the official bot output CSV do not consider mainnet for all data dumps I use. 
+
+!tip 1
