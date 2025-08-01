@@ -1,0 +1,3 @@
+And other chains will only able to try to catch up to what eth has been done. After all, most of chains that involved in RWA are L2s
+
+!tip 1
