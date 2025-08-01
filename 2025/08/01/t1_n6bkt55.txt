@@ -1,0 +1,5 @@
+Yes the adjusted rewards multiplier is now in affect.
+
+Amongst other things, atleast this will help maintain a level of DONUT within the active user base to ensure that governance polls avoid getting gridlocked - some polls previously were close to not reaching enough votes for quorum.
+
+!tip 1
