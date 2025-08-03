@@ -1,0 +1,9 @@
+DONUT is r/ethtrader's native ERC-20 token that can be earned by participating in the community and it is the Reddit's first ever tradable Internet points. To earn them you need to register a wallet with the register command.
+
+You can learn more about it here: [https://www.reddit.com/r/ethtrader/comments/1ftnx4t/megathread\_comprehensive\_guide\_to\_rethtrader/](https://www.reddit.com/r/ethtrader/comments/1ftnx4t/megathread_comprehensive_guide_to_rethtrader/)
+
+It can be bought here in Ethereum network: [https://app.uniswap.org/swap?outputCurrency=0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9](https://app.uniswap.org/swap?outputCurrency=0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9) and here on Arbitrum One [https://www.sushi.com/arbitrum/swap?token0=NATIVE&token1=0xF42e2B8bc2aF8B110b65be98dB1321B1ab8D44f5](https://www.sushi.com/arbitrum/swap?token0=NATIVE&token1=0xF42e2B8bc2aF8B110b65be98dB1321B1ab8D44f5)
+
+Feel free to ask any doubt in the daily discussion if you have doubts or any question regarding it.
+
+🍩 !tip 1
