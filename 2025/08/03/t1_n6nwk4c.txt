@@ -1,0 +1,7 @@
+You can buy DONUT on Ethereum at [https://app.uniswap.org/swap?outputCurrency=0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9](https://app.uniswap.org/swap?outputCurrency=0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9)
+
+And on Arbitrum One at [https://www.sushi.com/arbitrum/swap?token0=NATIVE&token1=0xF42e2B8bc2aF8B110b65be98dB1321B1ab8D44f5](https://www.sushi.com/arbitrum/swap?token0=NATIVE&token1=0xF42e2B8bc2aF8B110b65be98dB1321B1ab8D44f5)
+
+You should register a wallet here too. You can earn "free" DONUT for being active and getting tips, etc.
+
+🍩 !tip 1
