@@ -1,0 +1,3 @@
+The volume includes all chains where PancakeSwap is active - primarily BNB Chain (the main one) xD, along with Ethereum, Arbitrum and other supported L2 networks.
+
+^(!tip 1)
