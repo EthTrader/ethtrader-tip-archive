@@ -1,0 +1,3 @@
+Link is just the link between blockchain.
+
+ !tip 1
