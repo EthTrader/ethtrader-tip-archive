@@ -1,0 +1,3 @@
+FOMO exists for a reason.
+
+^(!tip 1)
