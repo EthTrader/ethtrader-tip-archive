@@ -1,0 +1,3 @@
+Coinbase + self custody = doubt
+
+ !tip 1
