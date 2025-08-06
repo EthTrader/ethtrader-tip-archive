@@ -1,0 +1,9 @@
+This sub utilizes a governance/community token called $DONUT.
+
+Registered users are able to Tip other users for quality contributions which come from the DONUT DAO treasury funds. Kind of like tokenized upvotes. 
+
+You can read more here https://www.reddit.com/r/ethtrader/wiki/donuts/
+
+You can register your Ethereum wallet yourself if you wish to get involved.
+
+!tip 2
