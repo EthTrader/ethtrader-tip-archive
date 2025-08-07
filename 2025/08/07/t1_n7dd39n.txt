@@ -1,0 +1,3 @@
+I wonder what hybrid proofs will mean for the zk-rollups like zkSync, Scroll, Linea and Starknet...
+
+!tip 1
