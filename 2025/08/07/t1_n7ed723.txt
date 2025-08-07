@@ -1,0 +1,3 @@
+The main challenge with L2s is they are too many and this fragmentation slows down adoption. I hope solutions like AggLayer may help to solve this to a certain extent.
+
+^(!tip 1)
