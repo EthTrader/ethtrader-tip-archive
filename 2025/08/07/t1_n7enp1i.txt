@@ -1,0 +1,5 @@
+Ethereum added blobs, which tanked L2s gas fees and made the whole ecosystem really usable.
+
+[https://np.reddit.com/r/ethtrader/comments/1d8lujj/til\_explaining\_ethereum\_blob\_technology\_to\_a/](https://np.reddit.com/r/ethtrader/comments/1d8lujj/til_explaining_ethereum_blob_technology_to_a/)
+
+🍩 !tip 1
