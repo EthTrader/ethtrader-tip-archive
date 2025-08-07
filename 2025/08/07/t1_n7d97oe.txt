@@ -1,0 +1,7 @@
+For future reference, the tips are all settled at the end of the Distriobution round, and tips you have sent are subtracted from the tips you have received and the DAO rewards you have received. 
+
+Tips will never come directly from your wallet, once they are in your custody, they are yours.
+
+Hope that makes sense, welcome!
+
+!tip 2
