@@ -1,0 +1,7 @@
+Since the data ist stored on your end before it's published on the website I guess it's fairly easy to insert a mechanism to prevent harmful content.
+
+What will happen if the prices are too high for every tile, will you add new ones? Or maybe there could be seasons when the tiles reset..
+
+Do you get notified if a new tile is rented?
+
+!tip 1
