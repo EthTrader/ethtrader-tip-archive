@@ -1,0 +1,3 @@
+You need to register a ethereum network wallet address with the register command and with the tips you get each round (aprox each 30 days you get them)
+
+!tip 1
