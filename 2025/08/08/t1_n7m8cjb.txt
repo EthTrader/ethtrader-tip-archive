@@ -1,0 +1,3 @@
+Logical, focus on the task at hand before jumping ahead.
+
+^(!tip 1)
