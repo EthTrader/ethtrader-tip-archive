@@ -1,0 +1,3 @@
+Consequences to bet against ETH.
+
+^(!tip 1)
