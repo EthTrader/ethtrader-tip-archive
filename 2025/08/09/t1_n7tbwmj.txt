@@ -1,0 +1,4 @@
+If your DONUT are on Arbitrum One [https://arbiscan.io/](https://arbiscan.io/) search your wallet address here. If they are on Ethereum network [https://etherscan.io/](https://etherscan.io/) and if they are in gnosis (obsolete) [https://gnosisscan.io/](https://gnosisscan.io/)
+
+  
+🍩 !tip 1
