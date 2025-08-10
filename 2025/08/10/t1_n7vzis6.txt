@@ -1,0 +1,22 @@
+> I apologize if this has been asked before, but again, I just want to be a desire as possible and make sure my cold wallets never get drained.
+
+Don't apologize, these are VERY important questions to ask if you are unsure, and what highlights the dangers and risks with using DeFi, especially if you arn't fully understanding what you are doing. Even the most experienced crypto users have fallen prey so sophisticated, or even simple scams/exploits/bad actors.
+
+>My understanding so far is the risk is only there when doing the actual swap.
+
+Pretty much. Unless your seed phrase has been compromised (which is a different issue) funds don't leave your wallet without you signing something.
+
+Most of the time when everything leaves a wallet is because someone has been tricked or without realization entered their seed phrase into malicious software/website such as clone websites. I previously wrote about one [example here](https://www.reddit.com/r/ethtrader/comments/1964i00/reminder_for_airdrop_hunters_and_anyone_else_in/)
+
+You're doing the right thing by checking dexscreener and tokensniffer 
+
+Here is another good read by u/Kirtash93 https://www.reddit.com/r/ethtrader/comments/1hkiii4/unsure_about_a_tokens_safety_and_legitimacy_token/
+
+Revoke.cash is also your friend, but many wallets now allow you to remove permissions as well. The biggest red flag is anything where you have "unlimited token approvals" set. You can read one of my other posts about that here [The Sushiswap Incident](https://www.reddit.com/r/ethtrader/comments/1e0fe0b/throwback_thursday_the_sushicom_exploit_that/)
+
+**The best advice is to avoid shitcoins and newly launched memecoins altogether, and to use multiple wallets to reduce your potential risk exposure.**
+
+
+Welcome to EthTrader, feel free to register your Ethereum wallet for our subs SocialFi token, $DONUT
+
+!tip 5
