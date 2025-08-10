@@ -1,0 +1,13 @@
+Prices and ratios are two different things, that's how trading pairs will work.
+
+If 1 ETH can get you 100 tokens, and 1 ETH is worth $4000, then those 100 tokens must be worth $40
+
+Now, if ETH pumps, to $5000. But the trading pair ratio's haven't changed, then 1 ETH still gets you 100 tokens. These tokens,m by extension are now worth $50.
+
+They haven't actually increased in value, relative to ETH, but they have increased in price, benefiting directly from ETH's increased value.
+
+In an alt-season, ETH might jump to $6000 even, alts surge, and now, you can only get 50 tokens for your ETH. In this example, the alt has doubled it's value to ETH, and with $6000 ETH, the token would be worth $120.
+
+Alt season is when these small caps outperform the top projects for a period of time.
+
+!tip 1
