@@ -1,0 +1,3 @@
+I have nothing in the bank :D.
+
+^(!tip 1)
