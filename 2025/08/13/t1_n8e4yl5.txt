@@ -1,0 +1,6 @@
+<magic 8-ball>
+
+It seems likely!
+
+
+!tip 1
