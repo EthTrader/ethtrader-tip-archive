@@ -1,0 +1,3 @@
+Both, usually DONUT follows ETH 
+
+^(!tip 1)
