@@ -1,0 +1,9 @@
+To add;
+
+When you award someone a tip, the tip itself is deducted from your next round Distribution, and the tip is used to calculcate the rewards that comme from the DONUT DAO treasury.
+
+These tips are all calculated off-chain, and settled approx once a month before being distributed on-chain.
+
+If your tips send exceed the DONUT you receive, those tips simply won't be factored.
+
+!tip 1
