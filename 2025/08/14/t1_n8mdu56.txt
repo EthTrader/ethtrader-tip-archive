@@ -1,0 +1,3 @@
+Ethereum is in the limelight and all eyes on it.
+
+^(!tip 1)
