@@ -1,0 +1,3 @@
+They’re constantly coming up with new tricks.
+
+^(!tip 1)
