@@ -1,0 +1,3 @@
+This is not a new trick, if you check every digit on the address you will not fall for it. Or just copy-paste the address you want.
+
+^(!tip 1)
