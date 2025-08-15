@@ -1,0 +1,3 @@
+Keep buying as much as you can.
+
+^(!tip 1)
