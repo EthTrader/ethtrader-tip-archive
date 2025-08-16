@@ -1,0 +1,11 @@
+> 1. A dedicated "gas token" used purely for transactions, with a more stable price or an elastic supply.
+
+This reminds me a little about how Vechain and Ontology networks operate, they have VeThor and ONG as gas tokens that are issued for staking VET and ONT is my understanding.
+
+Perhaps this could be viable for future L2's, staking/restaking/liquidity of ETH on a certain L2, and receive an issued token in return, which acts as governance and gas fees for that particular network - but I'm not sure it's the best approach - just thinking out loud, I have no dev skills or understanding xD
+
+But, I will be curious to see what discussion takes place, but if you don't get much response here, you could also try in r/ethdev
+
+Welcome to r/EthTrader, feel free to register your Ethereum wallet for our subs SocialFi token, $DONUT
+
+!tip 5
