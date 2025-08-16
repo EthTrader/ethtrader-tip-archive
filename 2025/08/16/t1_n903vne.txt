@@ -1,0 +1,7 @@
+Reminds me when Fantom Network rebranded to SONIC and became EVM compatible. It's still an alt L1 blockchain, I thought it would become an L2 for ETH, but they continue to settle on their own blockchain.
+
+CELO on the other hand, was an alt L1 that did become an Ethereum L2.
+
+!tip 1
+
+!pow
