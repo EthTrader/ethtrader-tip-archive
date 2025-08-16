@@ -1,0 +1,1 @@
+Layer 2 transactions aren't included, layer 2 transactions can reach 5-10 million per day. !tip 1
