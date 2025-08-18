@@ -1,0 +1,3 @@
+Absolutely, they can't escape for long.
+
+^(!tip 1)
