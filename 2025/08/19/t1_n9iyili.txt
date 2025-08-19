@@ -1,0 +1,7 @@
+AAVE is a lending protocol, as far as they go, I've had no issues with them so far.
+
+I guess one downside to lending, (aside from the general risk of doing so) is that APY's can fluctuate depending on the demand, whereas stake rewards generally remain a little more steady.
+
+That said, via Aave you can lend your ETH on cheaper networks, like Arbitrum if you want as well.
+
+!tip 1
