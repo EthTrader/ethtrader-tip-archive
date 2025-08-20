@@ -1,0 +1,7 @@
+Base is going to remain big, it'll probably be one of the first L2's most new users use thanks to their relation with Coinbase.
+
+Optimism is the one that I think will eventually drop off, in place of a ZKRollup (C'mon ZkSync)
+
+!tip 1
+
+!pow
