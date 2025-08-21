@@ -1,0 +1,3 @@
+It'll be hard to avoid ETH.
+
+^(!tip 1)
