@@ -1,0 +1,3 @@
+I think it's right to prevent insider trading.
+
+^(!tip 1)
