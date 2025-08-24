@@ -1,0 +1,7 @@
+Welcome!
+
+As DrRobbe stated, tips are calculated off-chain, and settled about once per month. Then we distirbute the DONUT on-chain on Arbitrum One. Once it's in your wallet, it's yours!
+
+Tips are used to award quality/helpful content, as part of our SocialFi token project.
+
+!tip 5
