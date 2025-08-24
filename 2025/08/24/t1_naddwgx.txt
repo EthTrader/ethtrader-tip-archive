@@ -1,0 +1,3 @@
+Fortune favours the brave.
+
+^(!tip 1)
