@@ -1,0 +1,3 @@
+Whale is playing smartly. 
+
+^(!tip 1)
