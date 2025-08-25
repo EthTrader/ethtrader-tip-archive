@@ -1,0 +1,3 @@
+It's also handy because LP rewards are not included in the Adjusted Rewards Multiplier. That means if you earn 5k of DONUT from the LP, and sell it, it won't subtract 5k from your multiplier threshold.
+
+!tip 1
