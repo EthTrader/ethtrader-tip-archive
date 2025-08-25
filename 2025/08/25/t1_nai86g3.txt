@@ -1,0 +1,5 @@
+There is no script installation necessary; DONUT distributions occur about once a month, and tips are all calculated off-chain and settled with the distribution.
+
+You should still be registered under the address you previously registered with, but if you want peace of mind, you can re-register with the !*register* command and that will confirm 
+
+!tip 1
