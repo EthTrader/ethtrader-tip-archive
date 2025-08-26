@@ -1,0 +1,5 @@
+True, at least spot trading comes without the risk of liquidation.
+
+Spot > Leverage and rest
+
+^(!tip 1)
