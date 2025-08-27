@@ -1,0 +1,5 @@
+How can it be that your ratio is 0.96 but you need to buy is 0, line 33.
+
+Also can we print allowed to sell as well?
+
+!tip 1
