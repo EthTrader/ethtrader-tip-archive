@@ -1,0 +1,3 @@
+Sir you are tipping AutoMod.
+
+^(!tip 1)
