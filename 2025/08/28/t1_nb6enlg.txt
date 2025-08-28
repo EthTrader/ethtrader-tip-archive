@@ -1,0 +1,4 @@
+a year back we moved from gnosis to arbitrum one network, could be that yours are still stuck on gnosis.  
+should be easy to check under your registered address.
+
+!tip 1
