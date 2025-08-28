@@ -1,0 +1,3 @@
+BTC is more centralized than ETH.
+
+^(!tip 1)
