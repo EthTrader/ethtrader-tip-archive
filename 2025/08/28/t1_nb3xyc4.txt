@@ -1,0 +1,27 @@
+sub activity was higher, but tipping activity was lower.
+
+A few examples are right here,
+
+240 comments - only 9 tips 
+
+https://www.reddit.com/r/ethtrader/comments/1mkw67k/ethereum_breaks_4k_and_this_time_its_different/
+
+this post with over 150 comments, only 5 tips in the entire post.
+
+https://www.reddit.com/r/ethtrader/comments/1mlmf0k/hodl_and_you_will_get_rich/
+
+This post with 130 comments - has 15 tips observed 
+
+https://old.reddit.com/r/ethtrader/comments/1mp3a4q/guess_what_eth_supply_is_getting_squeezed/
+
+And this post, over 300 comments 
+
+https://www.reddit.com/r/ethtrader/comments/1mz2gnm/eth_hit_new_all_time_high/
+
+But, how many of the top 20 users engage with unregistered users, or the casual registered users? Not that many.
+
+This is why we try to avoid the "reciprocal tipping" of low effort comments; as it creates a negative feedback loop where the distribution is highly concentrated amongst the "top 20" and casual members are ignored, or feel ignored - counter-intuitive to growing a community.
+
+Users do need to register to count towards this end of round leaderboard, but, as I said, how many of these users were even engaged with with a tip that would possibly encourage them to sign up?
+
+!tip 1
