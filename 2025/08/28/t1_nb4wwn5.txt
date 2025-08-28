@@ -1,0 +1,18 @@
+Here's the DONUT Wiki section
+ - https://www.reddit.com/r/ethtrader/wiki/donuts/
+
+> Do you mostly hold them to build a stack, or do you actively tip them around to encourage good posts and discussions?
+
+$DONUT is a SocialFi token, essentially tokenized karma, or proof of contribution. It also serves as a governance token for r/EthTrader and the DONUT DAO.
+
+Users can tip quality content such as helpful information, creative memes, breaking news, and in addition to the tip itself, the DONUT DAO will crunch the numbers and airdrop DONUT to contributors about once a month.
+
+Some users burn DONUT in order to run advertising campaigns on the sub.
+
+Some users trade DONUT, as a way of making profit
+
+Some users hold their DONUT and use their governance power to help shape the direction of the sub and the DONUT DAO operations.
+
+Welcome to EthTrader!
+
+!tip 10
