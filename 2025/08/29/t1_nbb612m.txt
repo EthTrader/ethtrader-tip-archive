@@ -1,0 +1,5 @@
+Ethereum will carve out its own legacy. 
+
+#EEE
+
+^(!tip 1)
