@@ -1,0 +1,3 @@
+Distribution typically takes 3-7 days after the snapshot is published. The distribution is executed when  5 Multisig Guardians have all signed the transaction.
+
+!tip 1
