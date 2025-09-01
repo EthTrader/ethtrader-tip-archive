@@ -1,0 +1,5 @@
+5900 on mainnet
+ 1950 on arbitrum
+20500 transaction 
+
+!tip 1
