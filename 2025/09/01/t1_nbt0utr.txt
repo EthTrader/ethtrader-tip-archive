@@ -1,0 +1,5 @@
+I don't like that you set a range, just trust it an roll with it. 
+
+I also checked redditos script once more. Donuts incentive Rewards are ok to sell, but fee rewards are coming from the same address as for which you also withdraw or deposit to, so if you sell the donut fee rewards it will still count towards the multiplier.
+
+!tip 1
