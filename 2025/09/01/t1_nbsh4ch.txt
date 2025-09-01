@@ -1,0 +1,5 @@
+The problem is simple. New users don't know. 
+
+Don't get me wrong, the tip system is nice. It is jist difficult to reach 20k with this small level of activity. So I think people get discourage.
+
+ !tip 1
