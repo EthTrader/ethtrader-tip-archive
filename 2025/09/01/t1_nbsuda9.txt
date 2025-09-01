@@ -1,0 +1,5 @@
+You should look in the delta between these queues, in and out. 
+
+We had a similar post a few days ago, top comment there showed historical values of in and out queue side buy side. Which shower there is nothing to talk about.
+
+!tip 1
