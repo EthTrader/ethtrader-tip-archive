@@ -1,0 +1,5 @@
+ > This means a $500 of LP in a smaller range will take a larger percentage of the rewards, then a $500 Full range position, but if the a position goes out of range, the full range will still be earning.
+
+There is no specific math's to provide an exact answer, but concentrated assets will be used more efficiently than full range assets, when in that range. Everything else depends on the trading volume and other participants in the liquidity pool.
+
+!tip 1
