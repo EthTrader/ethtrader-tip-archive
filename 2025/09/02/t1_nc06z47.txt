@@ -1,0 +1,15 @@
+There are pro's and con's to each.
+
+But; my 3 top suggestions are
+
+1) Coinbase  
+It's a centralized exchange, you can get better APY's elsewhere, but there no on-chain gas costs. They are the chosen custodian of Institutions, so there is an element of trust there.
+
+2) [Everstake.one](http://Everstake.one)   
+pooled staking, on-chain gas fees, like anything, there is risk with smart contract, but has been very reliable in my experience. 
+
+3) [Ether.fi](http://Ether.fi) liquid staking/restaking platform, can offer decent APY's, chance of airdrops with other tokens, additional risk with liquid tokens 
+
+Welcome to EthTrader, feel free to register your Ethereum address for our SocialFi token, $DONUT
+
+!tip 10
