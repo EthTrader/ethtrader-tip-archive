@@ -1,0 +1,4 @@
+Okay thanks alot 
+(Quick question why does it say my tip counts for 0 when i tip? Im newbie)
+
+!tip 1
