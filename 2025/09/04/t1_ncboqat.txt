@@ -1,0 +1,7 @@
+As another user mentioned, it is a common scam practice, Send X with promise to receive Y. Sometimes they pay out the first time, and you feel encouraged to do it again with a larger amount.
+
+Most "testing" by legitimate projects start off on a test-net where tokens don't have monetary value and don't involve contracts that you need to sign on mainnet.
+
+Welcome to EthTrader! 
+
+!tip 5
