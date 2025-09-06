@@ -1,0 +1,3 @@
+It all depends on the ETH price movement.
+
+^(!tip 1)
