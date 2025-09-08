@@ -1,0 +1,3 @@
+Sadly it should stop shrinking first. Since I do this we bleed active registered users. 
+
+!tip 1
