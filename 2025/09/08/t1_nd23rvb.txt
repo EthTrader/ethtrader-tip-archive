@@ -1,0 +1,5 @@
+>  but current liquidity levels would likely not be able to support such an increase in demand.
+
+This is true and could be a hurdle. I assume liquidity is a lot more stable on the mainnet.
+
+^(!tip 1)
