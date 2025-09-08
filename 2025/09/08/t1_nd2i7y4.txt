@@ -1,0 +1,7 @@
+Possibly. Hard to say because concentrated ranges are calculated to a higher weight. 
+
+That's why Memey's position, despite being about half as much in DONUT and ETH to the Multisig-Treasury, is calculated to be about 33% of the pool, while the Treasury is 9%. 
+
+I'm not sure what Memey's range selection is.
+
+!tip 1
