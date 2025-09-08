@@ -1,0 +1,5 @@
+Yes, impermanent loss can occur, but can at times be off-set by the generated transaction fees and yield farm earned.
+
+It is considered higher risk, higher reward compared to just 'staking' 
+
+!tip 1
