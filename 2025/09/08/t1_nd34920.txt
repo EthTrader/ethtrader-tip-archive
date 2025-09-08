@@ -1,0 +1,3 @@
+Everyone and no one.
+
+^(!tip 1)
