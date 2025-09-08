@@ -1,0 +1,3 @@
+Both are gold backed tokens by different issuers. XAUT is issued by Tether and PAXG is issued by Paxos.
+
+^(!tip 1)
