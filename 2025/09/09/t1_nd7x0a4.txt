@@ -1,0 +1,3 @@
+If I was a hacker I would also attack packages from NPM, easier to hack and easier to spread. This is why in the bank I work for as software engineer we try to develop ourselves as much as stuff by ourselves instead of relying on third parties.
+
+🍩 !tip 1
