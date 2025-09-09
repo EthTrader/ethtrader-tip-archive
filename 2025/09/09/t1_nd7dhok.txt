@@ -1,0 +1,7 @@
+Thanks for alerting us!
+
+This is a serious security threat. It's better to avoid or not perform any onchain transactions until the issue is fully resolved. Stay safe!
+
+^(!tip 1)
+
+!pow
