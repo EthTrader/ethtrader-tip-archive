@@ -1,0 +1,3 @@
+I don't know if we should trust exchange coins too much.
+
+ !tip 1
