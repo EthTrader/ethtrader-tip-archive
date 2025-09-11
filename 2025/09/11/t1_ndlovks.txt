@@ -1,0 +1,3 @@
+Greed, that is what changed.
+
+^(!tip 1)
