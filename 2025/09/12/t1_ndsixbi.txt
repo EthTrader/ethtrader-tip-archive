@@ -1,0 +1,5 @@
+Simply,
+
+Yield generating assets > Non-yield assets
+
+^(!tip 1)
