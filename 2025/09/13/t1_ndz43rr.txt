@@ -1,0 +1,3 @@
+Tron fakes volume all the time, so I would not be surprised if they forged other on-chain metrics.
+
+^(!tip 1)
