@@ -1,0 +1,3 @@
+Buy, stake, hold, sell in 10 years.
+
+^(!tip 1)
