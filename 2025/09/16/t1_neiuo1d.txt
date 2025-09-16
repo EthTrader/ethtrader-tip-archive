@@ -1,0 +1,5 @@
+In short: 
+
+PoS > PoW or Validators > Miners 
+
+^(!tip 1)
