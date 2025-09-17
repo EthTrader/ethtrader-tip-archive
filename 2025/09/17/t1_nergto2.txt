@@ -1,0 +1,8 @@
+It’s exactly why they made the validator exit queue. Ethereum devs are known to implement smart and well thought through decisions from start. 
+
+They don’t rush faulty stuff.
+
+It’s both a feature and a safety measure. Say you hear that you are getting robbed in 1 week… you have time to prepare. (If someone else than you exits your validator) 
+
+A good explanation. Well done. 👏
+!tip 5

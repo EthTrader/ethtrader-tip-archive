@@ -1,0 +1,5 @@
+Pow, and POS both have attack vectors for this to be a issue. 
+
+But how Ethereum devs wrote the consensus mechanism it’s harder to do now than with POW. However it is still up to all of us to keep decentralisation a thing. 
+
+!tip 5
