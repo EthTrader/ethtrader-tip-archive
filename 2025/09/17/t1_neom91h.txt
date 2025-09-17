@@ -1,0 +1,3 @@
+It makes sense that the delay is good from a security point of view and also helps to keep the network run smoothly.
+
+^(!tip 1)
