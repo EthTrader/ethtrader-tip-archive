@@ -1,0 +1,10 @@
+Looks really clean and I think every needed information is there or at least linked. 
+
+Maybe we could also link apps/homepage and git repos from the donut eco system. So people can see that there is dev activity.
+
+- Donut dashboard
+- Mydounts-online 
+- Official Git hubs of reddito & matt (we could also display l monthly committs or similar)
+- Member git hubs Kirt & myself (not sure about this point)
+
+!tip 1
