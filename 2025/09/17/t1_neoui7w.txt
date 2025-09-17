@@ -1,0 +1,11 @@
+To be fair, 45 days for a chain that's as active as Ethereum is, feels like almost an unnecessarily long period time, where a quick search inidcated about 7200 blocks per day...
+
+For comparison, Ontology has takes 2 full rounds for Unstaked funds to be accessable, a round is 60k blocks - and this takes anywhere between 17 hours to 21 days to take place... but Ontology no where near as busy as Ethereum.
+
+Cardano Epochs are about 5 days long.
+
+Polygon I believe is about 3-4 days for unstaking, which takes 80 "Checkpoints", which a quick search stated 256 blocks per checkpoint.
+
+2 days in the withdrawal queue is absurdly short, but, 45 days feels unnecessarily long.
+
+!tip 1
