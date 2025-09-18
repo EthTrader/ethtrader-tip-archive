@@ -1,0 +1,5 @@
+The reason is simple you don’t need to hold UNI to use Uniswap protocol. That's why trading volumes or activities don't matter for the token price.
+
+*LPs may be happy by earning more fees from swaps*
+
+^(!tip 1)
