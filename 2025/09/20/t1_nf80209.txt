@@ -1,0 +1,3 @@
+Spot on! Polygon fundamentals look good, but the token performance drags it down.
+
+^(!tip 1)
