@@ -1,0 +1,3 @@
+Now you can climb it by using the tip cmd :D
+
+!tip 1
