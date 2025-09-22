@@ -1,0 +1,3 @@
+Or just do the average of the last 7 days, on Monday, since you already have the weekly volume you could just devide it by 7.
+
+!tip 1
