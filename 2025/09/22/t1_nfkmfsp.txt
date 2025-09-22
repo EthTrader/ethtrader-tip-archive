@@ -1,0 +1,7 @@
+Thanks for the inspiration!
+
+To match consistency of comparing previous weeks, I might remove the 24 hour volume, and replace it with "last weeks 7 day volume" and "this weeks 7 day volume".
+
+This will match the fact I look at the 7 day price adjustment of ETH/DONUT and last weeks DONUT/ETH price ratio too.
+
+!tip 1
