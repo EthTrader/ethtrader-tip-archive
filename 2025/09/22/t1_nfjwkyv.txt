@@ -1,0 +1,3 @@
+Yeah, that's normal everybody gets the same rank for the same tip amount, so this time if you got just 1 tip you are place 43 with all the others.
+
+!tip 1
