@@ -1,0 +1,3 @@
+Why create more chains when you can create more layers on one main net.
+
+^(!tip 1)
