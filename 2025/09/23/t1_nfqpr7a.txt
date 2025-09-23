@@ -1,0 +1,10 @@
+He has a point.  But the ethereum design fixes this automatically. You see this happening right now. 
+
+When price is low, ethereum validator entry queue grows. When price is high the exit queue grows. 
+I think over time the validator numbers will grow steadily with a few ups and downs here and there. 
+
+But we will see a steady lock up of eth until the price reaches a point where people take profits and a while after it will resume. At least that’s my guess and oppinion. 
+
+Again, I think the ethereum design stabilises this. 
+
+!tip 1
