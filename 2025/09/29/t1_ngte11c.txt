@@ -1,0 +1,8 @@
+I have a local script to check.. nothing really there for public use. 
+
+If you are not in the liquidity pool it's easy to compute.
+
+All earned donuts times 0.75 is what you need. 
+Current holdings plus everything you spend on special membership is what it is compared to. The difference could either be sold or you need to buy. 
+
+!tip 1
