@@ -1,0 +1,5 @@
+For the purpose of this experiment; I will only be swapping ETH to USDC and back. The goal is to attempt to out-pace the ETH accumulation that aave lending provides.
+
+https://arbiscan.io/address/0x58Ba5c0c39EE94BB1B2E53B9Ea0893356171Ab6a
+
+!tip 1
