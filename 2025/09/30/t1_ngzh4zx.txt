@@ -1,0 +1,9 @@
+If the tip is registered 3 times; then. 
+
+You will receive 3 x 1 tips + 1 x ratio reward.
+
+But, I suspect the tip is only being registered once, but due to the Reddit Server issue, the Donut-Bot comment is being posted multiple times - in which case, despite multiple notifications, you will receive the 1 x 1 tip + the 1 x ratio reward.
+
+u/Mattg1981 will be able to confirm once he has investigated :D
+
+!tip 1
