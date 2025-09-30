@@ -1,0 +1,5 @@
+Gas fees on Arbitrum are insanely cheap, 1 week of Lending 1 ETH has already yielded more than the gas spent on 5 transactions (4 trades, plus 1 tx to supply ETH to Aave)
+
+Either way, I like showcasing how people can make money by participating in the eco-system, from staking, to liquidity provision, and now this series to highlight lending and amateur day trading.
+
+!tip 1
