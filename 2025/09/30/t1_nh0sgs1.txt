@@ -1,0 +1,5 @@
+Reddit was having some server errors, I believe the tip has only been registered once, but the the submitted comments were published multiple times.
+
+It appears to be resolved now
+
+!tip 1
