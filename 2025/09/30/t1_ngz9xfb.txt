@@ -1,0 +1,4 @@
+When the comment ratio was like, 3 or 4 DONUT per vote... pepperidge farm remembers!
+
+But, it won't actually work like that, only 1 tip from a user to a submission is factored into the reward calculations. Otherwise the system could be gamed by "accidental double posting"
+!tip 1
