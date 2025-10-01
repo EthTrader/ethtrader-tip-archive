@@ -1,0 +1,3 @@
+Thanks. Makes sense to me (not sure why users weight would be different though from instaneous tips)
+
+!tip 10
