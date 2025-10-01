@@ -1,0 +1,14 @@
+It looks like it was not done right, it should look something like this:
+
+[https://arbiscan.io/tx/0xe41c938f859d68eee38049806b1d6283733736b7554c073ab0486ef7e172ff8d](https://arbiscan.io/tx/0xe41c938f859d68eee38049806b1d6283733736b7554c073ab0486ef7e172ff8d)
+
+I checked the transactions on the address you registered with. it looked like you never added a position to the sushi donut pool? 
+
+What you posted [https://arbiscan.io/tx/0xb4c3bbea5ec252517a5efe1f15e016fa218b0a89e304ed670ef37bc917528c7e](https://arbiscan.io/tx/0xb4c3bbea5ec252517a5efe1f15e016fa218b0a89e304ed670ef37bc917528c7e) looks like you minted an NFT ?   
+[https://arbiscan.io/nft/0xf0cbce1942a68beb3d1b73f0dd86c8dcc363ef49/30937](https://arbiscan.io/nft/0xf0cbce1942a68beb3d1b73f0dd86c8dcc363ef49/30937)
+
+Not really sure what that is about maybe someone else knows more.
+
+Regardless, for the effort:
+
+!tip 100
