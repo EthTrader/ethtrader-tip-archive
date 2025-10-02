@@ -1,0 +1,5 @@
+Perhaps you have toggled "Zap Mode" on.
+
+In which case, you you supply 1 asset, and it will basically sell one of your tokens for the other and split the ratio for your position.
+
+!tip 1
