@@ -1,0 +1,5 @@
+To be considered "in range" a position must have both ETH and DONUT.
+
+Therefore, those positions that have either 0 DONUT or 0 ETH are "out of range" and not currently earning any transaction fees or yield farm. They will become in range again when the price changes to what their set range was.
+
+!tip 1
