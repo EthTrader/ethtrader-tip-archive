@@ -1,0 +1,3 @@
+Nice, when you collect fees for the first time make sure you check weth.
+
+!tip 1
