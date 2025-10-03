@@ -1,0 +1,3 @@
+Most banks will wait until a big company like SWIFT provides a "layer" above that to use it. But if I was a huge bank that was going to provide a service I would create my own layer and then have the possibility to add any Layer 2 I want with the possibility to decide which layer use to bring a higher option to my client.
+
+🍩 !tip 1
