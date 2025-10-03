@@ -1,0 +1,9 @@
+The dashboard previously had a countdown timer for the conclusion of seasons on the membership page;
+
+https://preview.redd.it/a32yiya3pwsf1.png?width=465&format=png&auto=webp&s=6c4823462f0edde7d7141fa65f610d59006ae433
+
+But; as there are no more seasons that counter is gone.
+
+The dashboard will still show Subscription Status though; as either ACTIVE or INACTIVE
+
+!tip 1
