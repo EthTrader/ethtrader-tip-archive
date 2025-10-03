@@ -1,0 +1,11 @@
+here is the latest update; once Season 7 ended (5 days ago)
+
+A new 30 day rolling membership model has been implemented, to take a lot of the manual work out of the devs hands
+
+[https://www.reddit.com/r/ethtrader/comments/1nsnify/important\_update\_about\_rethtrader\_special/](https://www.reddit.com/r/ethtrader/comments/1nsnify/important_update_about_rethtrader_special/)
+
+But it seems there was an issue with the flair recognizing this, hence users without a current active membership still had the flair showing.
+
+DevMatt was able to identify the issue and user flairs should now update accurately to reflect membership status again.
+
+!tip 1
