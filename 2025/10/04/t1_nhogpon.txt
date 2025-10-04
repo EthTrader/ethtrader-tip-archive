@@ -1,0 +1,3 @@
+Only acceptable if backed by Ethereum 
+
+^(!tip 1)
