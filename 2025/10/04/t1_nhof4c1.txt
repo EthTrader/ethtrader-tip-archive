@@ -1,0 +1,5 @@
+You can't lose with ETH. My other advice is to try to be active on Crypto communities like r/ethtrader and register to earn its native token DONUT that you can get making posts and comments if people tips you. You will think it is dumb but in the end all the extra tokens you get can be a good chunk of money.
+
+You can register with `!register <wallet address> command`
+
+🍩 !tip 1

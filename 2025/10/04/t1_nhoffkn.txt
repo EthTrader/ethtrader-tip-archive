@@ -1,0 +1,7 @@
+I am ready for that future but I have never seen tech improvements directly affect a market price. It will be priced in.
+
+You can register with `!register <wallet address>`
+
+Paste that in a comment with your wallet address and you will register
+
+🍩 !tip 1
