@@ -1,0 +1,3 @@
+This is promising. Developers are getting better at preventing exploits it is great to see more security, we get more user trust like this. North Koreans are still the main culprits of crypto hacks, but to be fair a lot of this can be prevented with cold storage.
+
+^(!tip 1)
