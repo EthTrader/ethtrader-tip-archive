@@ -1,0 +1,8 @@
+Adoption keeps rising and it is not stopping. A matter of time that DONUT, r/ethtrader's native token starts flowing up too.
+
+You should register to earn some OP. Comment the following command replacing wallet address by yours and start earning them every distribution cycle!
+
+`!register <wallet address>`
+
+  
+🍩 !tip 1
