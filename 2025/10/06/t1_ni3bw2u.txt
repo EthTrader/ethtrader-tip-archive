@@ -1,0 +1,5 @@
+Seems to be working fine to me. But it does still calculate the donuts on gnosis chain if that’s the issue. 👍
+
+But what issue did you find? 🤔
+
+!tip 1

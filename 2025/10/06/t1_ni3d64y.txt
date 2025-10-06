@@ -1,0 +1,3 @@
+The issue was centered around looking up if a user was a special member.  There was a recent change to the special members file format due to the perpetual membership format (as opposed to the season format we were using before).
+
+!tip 1
