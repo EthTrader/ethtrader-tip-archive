@@ -1,0 +1,3 @@
+If true, then the GENIUS Act is truly living up to its name.
+
+^(!tip 1)
