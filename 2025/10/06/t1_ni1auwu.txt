@@ -1,0 +1,5 @@
+Maybe I am totally wrong but you just need to load your seed phrase (12/24 words), keystore file or raw private key to a new wallet like MetaMask for example.
+
+Furthermore, dont share any of that data to anyone and stay alert because scammers will try to reach you out.
+
+🍩 !tip 1
