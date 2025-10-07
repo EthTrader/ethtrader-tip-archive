@@ -1,0 +1,3 @@
+Exactly, the donuts are distributed on ARB One but the wallet address is the same as the ETH address.
+
+!tip 1
