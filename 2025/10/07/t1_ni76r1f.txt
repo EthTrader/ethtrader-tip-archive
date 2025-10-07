@@ -1,0 +1,5 @@
+Thanks a lot! Hope to see you around and you need also to register a wallet.
+
+Furthermore, just put the tip command alone in a single line like this
+
+🍩 !tip 1
