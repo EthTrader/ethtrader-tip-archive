@@ -1,0 +1,9 @@
+$DONUT
+
+A SocialFi token used in this subreddit.
+
+You can read more here https://donutdao.org/ or https://www.reddit.com/r/ethtrader/wiki/donuts/
+
+Feel free to register your address!
+
+!tip 5
