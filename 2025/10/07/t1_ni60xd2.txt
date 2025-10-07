@@ -1,0 +1,13 @@
+My approach is providing ETH from multiple wallets into multiple protocols.
+
+Both to help with staking decentralization, but also my own wallet security should shit hit the fan.
+
+There are a lot of options currently for smaller ETH holders to contribute; as you have listed.
+
+I avoid LIDO at all costs due to their large marketshare of staked ETH already;
+
+Ether.fi and Everstake are currently 2 of my preferred platforms for liquid and pooled staking options.
+
+!tip 1
+
+!pow
