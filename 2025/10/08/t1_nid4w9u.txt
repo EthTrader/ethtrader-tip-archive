@@ -1,0 +1,3 @@
+It's a good move for market integrity.
+
+^(!tip 1)
