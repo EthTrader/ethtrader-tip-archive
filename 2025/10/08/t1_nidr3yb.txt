@@ -1,0 +1,5 @@
+>Ethereum's upcoming Fusaka upgrade introduces PeerDAS (Peer Data Availability Sampling), enabling validators to verify blocks without downloading them fully, enhancing efficiency, rollup throughput, and reducing transaction costs. The upgrade strengthens Ethereum's role as the financial backbone of Web3, potentially increasing its monetary importance and settlement currency status.
+
+I think this makes Ethereum more attractive for users.
+
+^(!tip 1)
