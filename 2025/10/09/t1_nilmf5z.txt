@@ -1,0 +1,9 @@
+Do you have measures in place to detect wrong scoring?   
+Lets say i create 100 wallets, all review a shit coin to a nice score, would you detect it ?  
+Basically how will you detect real users and reviews?  
+I assume if the userbase is not large enough this is prone to be manipulated. 
+
+  
+Do you have any cooperation currently or planned with CEX, DEX or Coins?
+
+!tip 1
