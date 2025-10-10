@@ -1,0 +1,7 @@
+There's only one way to achieve that. Pleasing crypto gods and they love DONUT registered users that earn DONUT for the content they create.
+
+You should try the following command replacing wallet address by yours.
+
+`!register <wallet address>`
+
+🍩 !tip 1
