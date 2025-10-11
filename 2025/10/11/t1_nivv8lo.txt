@@ -1,0 +1,3 @@
+True, to stay in a game is better than getting wiped out.
+
+^(!tip 1)
