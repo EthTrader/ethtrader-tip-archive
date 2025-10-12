@@ -1,0 +1,5 @@
+Other issues on Sushi. Crosschain swaps worked really well in the past today it gave a lot of trouble. 
+Eventually faced some problems with Swapping ETH->Donut because of the spending approval. 
+
+
+!tip 1
