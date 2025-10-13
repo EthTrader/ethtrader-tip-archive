@@ -1,0 +1,4 @@
+Here i post process all of them, in the end of the round i only count the once which have "to\_user\_registered": 1, i sadly cant filter if in the end the tip also was eligible.
+
+  
+!tip 1
