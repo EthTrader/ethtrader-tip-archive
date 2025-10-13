@@ -1,0 +1,13 @@
+Here below is the link and basic steps:
+
+https://www.sushi.com/arbitrum/pool/v3/0x65f7a98d87bc21a3748545047632fef4d3ff9a67
+
+Step 1: Press Add liquidity 
+
+Step 2: Create position 
+
+Step 3: Set full range for fees and rewards.
+
+Step 4: Approval what amount you want
+
+^(!tip 1)
