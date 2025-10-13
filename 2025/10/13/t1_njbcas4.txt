@@ -1,0 +1,5 @@
+Volatility rules the market.
+
+Let's go up!
+
+^(!tip 1)
