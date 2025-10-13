@@ -1,0 +1,3 @@
+Hm, let's take Solana for example. Transactions were failing, the network is not fundamentally able to handle a large amount of volume.
+
+^(!tip 1)
