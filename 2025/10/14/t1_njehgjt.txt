@@ -1,0 +1,3 @@
+This is surprising, can't wrap my head around what might be the cause to the gwei fall when TXs are at an ATH 🤔
+
+!tip 1
