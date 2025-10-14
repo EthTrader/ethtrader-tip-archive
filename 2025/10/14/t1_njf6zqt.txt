@@ -1,0 +1,3 @@
+Repeat after me: we are early.
+
+^(!tip 1)
