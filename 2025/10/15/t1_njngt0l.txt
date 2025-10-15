@@ -1,0 +1,7 @@
+Personally I think that PoW is okay for certain things and PoS is better for others. PoS is the best option for how I understand Ethereum ecosystem and goal. 
+
+For a store of value and maybe govs currency and for some countries currency PoW is fine but not for a system that needs to manage insane amount of transactions and whole on top ecosystems.
+
+Both are valid but for different purposes.
+
+!tip 1
