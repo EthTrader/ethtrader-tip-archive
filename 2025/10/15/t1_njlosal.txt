@@ -1,0 +1,3 @@
+They normally detect bugs prematurely and fix them before the test-phase is over. Ethereum has the best developers in the space.
+
+^(!tip 1)
