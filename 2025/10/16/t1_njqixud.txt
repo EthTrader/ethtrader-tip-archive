@@ -1,0 +1,3 @@
+Let's first make a five digits figure before six digits.
+
+^(!tip 1)
