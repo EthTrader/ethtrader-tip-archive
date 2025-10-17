@@ -1,0 +1,3 @@
+This should be common practice, we want market integrity globally. For that we need clear rules, Ethereum for example benefits from regulatory clarity.
+
+^(!tip 1)
