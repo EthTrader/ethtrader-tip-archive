@@ -1,0 +1,3 @@
+They are already visible in your username. The first number is the amount of donuts you hold in your wallet currently. The second number is total number of donuts earned.
+
+!tip 1
