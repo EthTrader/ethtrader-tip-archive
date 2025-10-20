@@ -1,0 +1,3 @@
+There is no official tip leaderboard, only an official CSV.
+
+!tip 1
