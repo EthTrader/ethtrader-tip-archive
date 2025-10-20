@@ -1,0 +1,13 @@
+Welcome.
+
+Copy-Pasting response.
+
+These DONUT tips are recorded 'off-chain'. Approx once a month, the tips will be settled, and the DAO rewards will be calculated and then $DONUT will be distributed to participants on-chain, via Arbitrum network.
+
+You can tip DONUT now, and those DONUT will be deducted from your next distribution, and received DONUT will be added. Plus the calculated DAO rewards will be factored in as well.
+
+The next snapshot is due to take place in a few days time.
+
+Your flair is a reflection of your on-chain balance - and of course, once your DONUT's have been sent to your wallet, they are in your custody, only the off-chain DONUT are used for tips.
+
+!tip 1
