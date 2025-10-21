@@ -1,0 +1,3 @@
+'Your TA is no match for my tweets.'
+
+^(!tip 1)
