@@ -1,0 +1,3 @@
+I really haven't looked into the Uniswap pool at all, and wouldn't know how to calculate the percentages. I just grab the stats from the dashboard for the top 5 positions.
+
+!tip 1
