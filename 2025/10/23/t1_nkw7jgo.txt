@@ -1,0 +1,15 @@
+$DONUT is a SocialFi token that was introduced into this sub, starting off as an experiment as a form of tokenized karma, and evolving into a SocialFi token with governance and advertising use cases, and tradeable on Arbitrum network and Ethereum Mainnet.
+
+Users tip DONUT to quality/helpful/funny content as a reward for participation.
+
+In addition to the tips themselves, additional DONUT tokens are distriubted to users who have received tips.
+
+You can read more here;
+
+https://www.reddit.com/r/ethtrader/wiki/donuts/
+
+https://donutdao.org/
+
+Feel free to register your Ethereum wallet as well to be able to earn $DONUT of your own.
+
+!tip 50
