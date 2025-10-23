@@ -1,0 +1,3 @@
+If it lowers validation costs then it is already a win. Also it is good for scalability so I see no downsides to lighter nodes and faster dApps.
+
+^(!tip 1)
