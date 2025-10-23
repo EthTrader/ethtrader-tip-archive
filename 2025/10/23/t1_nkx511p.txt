@@ -1,0 +1,4 @@
+Do you have any details how the prove is verified? 
+I am just curious if this opens eth up for manipulation, e.g. if the one prover cheats and the verification is still intact.
+
+!tip 1
