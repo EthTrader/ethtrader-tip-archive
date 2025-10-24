@@ -1,0 +1,5 @@
+It is for round 155 which is finale, for the current round I could update it once a week, but there is no automated update currently. 
+
+The nodes move because also a physical model is applied which give the nodes with more connections more gravity, so it tries to stabilize. It's part of the model I created the page with.
+
+!tip 1
