@@ -1,0 +1,3 @@
+Interesting approach adding PoW on top of PoS. Never thought about it but can be an interesting idea for specific kind of projects that require PoW.
+
+🍩 !tip 1
