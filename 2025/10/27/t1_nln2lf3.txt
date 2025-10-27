@@ -1,0 +1,11 @@
+> I have a question - Is it a good idea to create a separate MetaMask wallet just for providing liquidity, so I don’t have to connect my main DONUT wallet all the time❓️
+
+It's always good to be vigilant with security, and to diversify wallets, but I wouldn't be too concerned with that specifically.
+
+Connecting wallets itself is generally harmless, it's signing malicious contracts or entering seed phrases on a clone or exploited platform which is where most people get caught out.
+
+But, that said, when interacting with multiple different things it can  be helpful, eg. I have my DONUT and provide LP and interact with Sushi on my registered wallet.
+
+I stake ETH predominately on another wallet, airdrop farm on another wallet, and trade on another wallet.
+
+!tip 1
