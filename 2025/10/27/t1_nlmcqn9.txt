@@ -1,0 +1,3 @@
+Whale hello there!! What a tip.
+
+^(!tip 1)
