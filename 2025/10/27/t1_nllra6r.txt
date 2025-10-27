@@ -1,0 +1,7 @@
+I would keep using the original wallet because
+
+1. This way the dounts you put in the pool are counted towards your earn ratio, if you transfer to another wallet they count as sold. 
+
+2. If you ever sell dounts you need to connect to sushi as well, which I assume you did already at some point, so not point in doing something different week interacting with the pool. 
+
+!tip 1
