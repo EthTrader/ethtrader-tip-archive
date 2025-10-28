@@ -1,0 +1,15 @@
+> Why do we get more contrib than donuts? Some of the top guys have around 3x contrib in the table.
+
+In general DONUT and CONTRIB is earned at a 1:1 ratio.
+
+However;
+
+DONUT cap: Currently the maximum DONUT one can earn is 42500 per round, excess DONUT are burned. But they still get the CONTRIB they would have earned.
+
+Post of the Week bonuses. Additional CONTRIB is awarded for Post of the Week rewards
+
+Governance bonuses: Additional CONTRIB is awarded for voting in governance
+
+Adjusted Multiplier Rewards: Users that have sold more than 25% of their earned DONUT, have an adjusted multiplier value. This affects their DONUT reward only.
+
+!tip 1
