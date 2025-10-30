@@ -1,0 +1,7 @@
+Pay double the Pay2Post fee to post beyond the limiter?
+
+Or, more simply, we could vote to have different numbers for each topic, which would probably require a lot less dev work.
+
+!tip 1
+
+!nominate
