@@ -1,0 +1,3 @@
+Even mainnet transactions are pretty cheap most of the time now. 
+
+!tip 1
