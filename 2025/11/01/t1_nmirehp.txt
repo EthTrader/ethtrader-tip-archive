@@ -1,0 +1,3 @@
+The big winners here are L2's because they will settle natively with ZK proofs. You may be wondering what this means and the answer is liquidity consolidation so a stronger Ethereum as a base layer.
+
+^(!tip 1)
