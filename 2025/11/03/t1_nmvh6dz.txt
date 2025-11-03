@@ -1,0 +1,3 @@
+Exactly yeah, centralized tokens and fiat rely on issuer trust. There are both freezing and debasement risks. If you really have to hold a stablecoin then choose DAI because it gives you true ownership thanks to overcollateralized and decentralized minting.
+
+^(!tip 1)
