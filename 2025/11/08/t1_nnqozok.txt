@@ -1,0 +1,3 @@
+This is one of the most important metrics that tell you the status of a network. High gas usage means high network activity.. which means there is a lot of demand. Not bad for a dead chain xD.
+
+^(!tip 1)
