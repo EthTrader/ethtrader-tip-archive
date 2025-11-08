@@ -1,0 +1,3 @@
+It makes sense.. we need regulated market makers to prevent liquidity withdrawals during crashes. There should be protection in the market.
+
+^(!tip 1)
