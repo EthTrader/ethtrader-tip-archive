@@ -1,0 +1,3 @@
+It gives us privacy through mixers and account abstraction wallets that hide the origins of transactions. DeFi gives you privacy through intent-based solvers, so your swap never reaches mempool. Of course Monero has privacy by default but ETH gives you optional and stronger privacy when you need it without forcing it on every transaction.
+
+^(!tip 1)
