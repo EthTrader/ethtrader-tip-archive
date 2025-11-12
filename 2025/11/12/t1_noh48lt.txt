@@ -1,0 +1,3 @@
+ZKVM's are built and run mainly on L2's. They give us faster and cheaper L2's without changed on mainnet.
+
+^(!tip 1)
