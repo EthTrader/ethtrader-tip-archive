@@ -1,0 +1,3 @@
+Every centralized relay can be a choke point. True scaling must add trust and not more intermediaries. Ethereum must stay cypherpunk!!
+
+^(!tip 1)
