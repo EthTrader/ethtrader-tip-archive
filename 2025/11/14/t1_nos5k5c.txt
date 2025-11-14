@@ -1,0 +1,3 @@
+Always avoid stuff with Safe in the name.
+
+🍩 !tip 1
