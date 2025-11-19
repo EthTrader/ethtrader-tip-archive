@@ -1,0 +1,9 @@
+You can earn DONUT for being active in ethtrader community and getting tips like this one
+
+!tip 10
+
+You need to register a wallet with the command
+
+!register <your wallet address>
+
+In a comment
