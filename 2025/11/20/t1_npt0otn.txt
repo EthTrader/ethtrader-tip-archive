@@ -1,0 +1,7 @@
+You need to be active in r/ethtrader and get tips like this one.
+
+You need to register a wallet with the following command
+
+!register <wallet address>
+
+!tip 5
