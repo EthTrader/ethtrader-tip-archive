@@ -1,0 +1,3 @@
+Yeah!! Generally scaling happens through L2's, but you cannot give up the base layer because it is ultimately what supports everything.
+
+^(!tip 1)
