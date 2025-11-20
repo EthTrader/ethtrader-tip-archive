@@ -1,0 +1,3 @@
+If it seems too good to be true then it is not true.
+
+^(!tip 1)
