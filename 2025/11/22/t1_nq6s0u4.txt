@@ -1,0 +1,12 @@
+20K GW:
+
+* users can nominate comments in the Daily thread to become a post.
+* users can remove submissions.
+
+60K GW:
+
+* users can approve filtered submissions.
+
+I think that’s about it, that’s what I can remember at the moment.
+
+!tip 6
