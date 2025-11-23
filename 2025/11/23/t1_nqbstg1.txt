@@ -1,0 +1,9 @@
+Supply squeeze incoming
+
+🍩 !tip 1
+
+You should register a wallet to earn some tasty DONUT for being active.
+
+You can do it with this command in a comment
+
+!register <your wallet address>
