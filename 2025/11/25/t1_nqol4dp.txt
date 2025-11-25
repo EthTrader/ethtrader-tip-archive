@@ -1,0 +1,3 @@
+The PeerDAS rollout will reduce data costs of L2's, there will be less fee spikes. I believe transactions will be lower than 1 cent. Nodes will become more decentralized too. ETH for the win.
+
+^(!tip 1)
