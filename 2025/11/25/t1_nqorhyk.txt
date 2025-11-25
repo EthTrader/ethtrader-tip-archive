@@ -1,0 +1,3 @@
+Your public key is not shown on the blockchain, the address is a hash (0x...) of the public key. The public key stays hidden until you spend from that address, it is revealed in the transaction signature. Quantum computers cannot easily reverse the hash to find the public key beforehand. 
+
+^(!tip 1)
