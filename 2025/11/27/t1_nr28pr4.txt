@@ -1,0 +1,3 @@
+It is the primary collateral, liquidity source and value anchor for protocols, stablecoins and RWA's.
+
+^(!tip 1)
