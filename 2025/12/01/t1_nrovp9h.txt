@@ -1,0 +1,3 @@
+Classic oracle price manipulation vector on a bridge. At least Yearn paused and managed to partially recover funds so that shows some resilience. This is why Chainlink is important, we need more cross-chain oracle redundancy. 
+
+^(!tip 1)
