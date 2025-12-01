@@ -1,0 +1,3 @@
+Also builders should prioritize DEX volume over CEX bribes.
+
+^(!tip 1)
