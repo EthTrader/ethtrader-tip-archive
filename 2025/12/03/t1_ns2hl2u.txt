@@ -1,0 +1,4 @@
+3026.44  !tip 1
+
+  
+[https://arbiscan.io/tx/0x46c002a9ba7a5c32b0f9e925f80854c2078d3fef05bdfbabc81ce91696c0e846](https://arbiscan.io/tx/0x46c002a9ba7a5c32b0f9e925f80854c2078d3fef05bdfbabc81ce91696c0e846)
