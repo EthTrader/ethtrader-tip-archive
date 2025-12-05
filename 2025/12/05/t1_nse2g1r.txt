@@ -1,0 +1,3 @@
+Should be one rule for all.
+
+!tip 1
