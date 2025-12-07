@@ -1,0 +1,4 @@
+I think for ETH EIP-1559 helped. It made gas bidding more stable and slightly reducing extractable value.
+Also i think the market is saturated with not optimized MEV bit also.
+
+!tip 1
