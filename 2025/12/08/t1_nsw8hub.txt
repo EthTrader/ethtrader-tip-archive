@@ -1,0 +1,3 @@
+The Sr Nums 1,2,3.... Those are repeated for people with the same number of tips. Was that intentional? Just triggered a teeny bit of OCD  :D
+
+!tip 1
