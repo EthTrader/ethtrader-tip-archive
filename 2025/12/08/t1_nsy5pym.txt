@@ -1,0 +1,3 @@
+Fair enough, multi-sequencer L2's have execution overhead but still posting costs would be a lot lower. It would be 10 times cheaper than Solana's L1 consensus burn. Obviously this a hypothesis but if Solana pivoted it would still win on economics.
+
+^(!tip 1)
