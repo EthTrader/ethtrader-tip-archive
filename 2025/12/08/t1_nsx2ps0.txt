@@ -1,0 +1,15 @@
+Well, 40% would be even better, but, 50% is a good benchmark.
+
+The top wallet currently is 30.29% of the pool.
+
+Let's say they get their wallet compromised, or they decide to pull liquidity on their own accord. That 1 wallet alone reduces the entire eco-systems liquidity by 30% instantly.
+
+This can result in high slippage in trades, and likely massive downward volatility.
+
+Overall, it means a healthier, decentralized liquidity pool that will be more stable, and therefore more appealing for any other exchange that would potentially want to list the token.
+
+Bonus maths. If the 1st wallet was to exit their liquidity, then entire pool's liquidity shrinks and then the 2nd wallet, which currently is 26% of the pool... would control 37% of the liquidity.
+
+This is why decentralization matters.
+
+!tip 1
