@@ -1,0 +1,4 @@
+Somehow metamask does not let me send donuts to the burn address since the last update.   
+I always get Invalid address... :/
+
+!tip 1
