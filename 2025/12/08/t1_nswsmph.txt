@@ -1,0 +1,5 @@
+With the current ratios we should tip unregistered users 10 or 100 donuts, since most of us max out anyways and the new users mostly don't know about distribution and ratios.
+
+So if we tip them 100 they are more likely to register?
+
+!tip 1
