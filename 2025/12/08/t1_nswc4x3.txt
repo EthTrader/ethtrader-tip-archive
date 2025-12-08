@@ -1,0 +1,3 @@
+Yes its by design same to amount same rank, after that rank continues with the number of people already on the board. 
+
+!tip 1
