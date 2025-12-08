@@ -1,0 +1,11 @@
+It appears your last membership has expired; purchased 38 days ago.
+
+There seems to be an error with the dashboard where it simply checks for a membership NFT, rather than the expiration? Something the devs can better explain and resolve. u/basoosh u/0xmarcaurel - this is due to the change from seasons to rolling memberships, you can read more here
+
+https://www.reddit.com/r/ethtrader/comments/1nsnify/important_update_about_rethtrader_special/
+
+I think the bot will more accurately display registration status.
+
+!membership
+
+!tip 1
