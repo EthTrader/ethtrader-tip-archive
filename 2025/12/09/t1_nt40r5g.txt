@@ -1,0 +1,2 @@
+This means we don't need to depend on metrics from CEX alone
+!tip 1
