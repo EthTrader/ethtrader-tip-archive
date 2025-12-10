@@ -1,0 +1,3 @@
+Sometimes if you are DCAing, you can leave it on a CEX and then  periodically withdraw what's built up. Saves doing transactions all the time if fees, particularly transferring out of a CEX, build up.
+
+!tip 1
