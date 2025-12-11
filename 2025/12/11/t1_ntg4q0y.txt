@@ -1,0 +1,3 @@
+Good news? Dip. Bad news? Dip. News? Dip.
+
+^(!tip 1)
