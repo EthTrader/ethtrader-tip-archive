@@ -1,0 +1,3 @@
+Best comment of the day.
+
+^(!tip 1)
