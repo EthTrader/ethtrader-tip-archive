@@ -1,0 +1,3 @@
+donut burn and activity are also strongly coupled so I guess it will keep steady as long as activity is steady. 
+
+!tip 1
