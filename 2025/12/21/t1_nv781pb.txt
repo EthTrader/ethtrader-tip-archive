@@ -1,0 +1,4 @@
+It says 20 million gas. Would that mean 20 million x the average gas price at the time? If so we could look at the time it was minted and look up the gas price.
+
+
+!tip 1 
