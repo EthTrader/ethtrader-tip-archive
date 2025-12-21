@@ -1,0 +1,6 @@
+Kind of but has been unattached from Reddit a longer time, to get them every distro you need to register a wallet address with this command.
+
+!register <your wallet> 
+
+  
+🍩 !tip 6
