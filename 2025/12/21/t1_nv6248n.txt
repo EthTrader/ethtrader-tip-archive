@@ -1,0 +1,7 @@
+Don't understand liquidity leaderboard showing the top provider has 54k Donut in pool but his share is massive 40%.
+
+Whats more concerning is now top 5 are controlling 84% of liquidity which is way far from any decentrization target.
+
+My percentage in pool is also dropped from 0.14% to 0.08%.
+
+^(!tip 1)
