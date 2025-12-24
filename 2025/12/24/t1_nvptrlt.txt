@@ -1,0 +1,10 @@
+It's always sad to me we lost the Donut on Gnosis. Could've kept it. But yeah, incentivizing two separate liquidity pools is not easy.
+
+But still, I'd more prefer having our Donut on:
+- Arb One
+- ETH mainnet
+- Gnosis
+- Polygon 
+- Base
+
+!tip 1
