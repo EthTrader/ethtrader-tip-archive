@@ -1,0 +1,3 @@
+It'd be nice to have DONUT that widespread, but as it is, we don't even have enough users providing liquidity on Arbitrum, let alone trying to spread liquidity between bridges and other networks. xD
+
+!tip 1
