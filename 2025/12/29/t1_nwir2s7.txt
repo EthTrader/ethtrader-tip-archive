@@ -1,0 +1,11 @@
+> It seems most of the top liquidity providers aren’t using the full range - Is the other option more rewarding❓️
+
+Generally yes. Though, the maths is fairly complex I can't provide an exact formula.
+
+Full range is great, it provides liquidity no matter what, which means you'll always be earning Tx fees and yield farm.
+
+The concentrated ranges will earn a greater portion of the transaction fee and yield farm, so long as the price is within the range. Once out of the range the position becomes 100% ETH or 100% DONUT, and is not eligible to earn fees or rewards until the price returns to the determined range.
+
+These concentrated positions are what causes the deeper and shallow ranges, and can also influence what prices might have support or resistance, similar to buy and sell walls in an order book.
+
+!tip 1
