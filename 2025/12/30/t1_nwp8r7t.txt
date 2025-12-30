@@ -1,0 +1,13 @@
+I'd say the short term swing trading was far riskier, while it yielded small gains every few minutes, 1 ill-timed trade would undo the profits made from the previous 5 or 6 trades xD
+
+So, playing slightly more patiently with the daily trade range has been far more successful for me.
+
+I literally just look at the Trading Range on Coingecko, and buy or sell at either end.
+
+Of course, there might be some days where I don't trade at all, either due to my own schedule or the lack of volatility.
+
+https://preview.redd.it/kmato34a0bag1.png?width=437&format=png&auto=webp&s=ff3dd4c8e38669656a3fea1839742e7d6e2f8fa0
+
+The other thing is, initially I would trade my entire balance of ETH into USDC and back in 1 transaction, but now I break it up into 0.25 ETH orders at different prices levels, and I've found that's helped me catch profit on days with tighter trading ranges.
+
+!tip 5
