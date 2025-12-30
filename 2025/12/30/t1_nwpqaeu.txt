@@ -1,0 +1,3 @@
+Never share your seeds, credentials or click on unsolicited links. Always verify support officially. This is why self-custody is the way.
+
+^(!tip 1)
