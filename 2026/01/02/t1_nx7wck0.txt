@@ -1,0 +1,12 @@
+We got this!
+
+Btw you should register a eth wallet public address to earn tasty donuts for being active in this community.
+
+You can do it with this command
+
+!register <your wallet address>
+
+
+!tip 10
+
+Happy new year!
