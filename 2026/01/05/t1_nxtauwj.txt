@@ -1,0 +1,3 @@
+At the part of the bank I work for as software engineer/product owner that treats really sensitive data dont use third parties and the bank is one of the big ones.
+
+!tip 1
