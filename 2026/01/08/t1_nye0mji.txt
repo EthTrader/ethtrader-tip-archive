@@ -1,0 +1,3 @@
+Exit queue at 0 is huge, it has not happened in a long time. It means no validators waiting to unstake and sell :D.
+
+^(!tip 1)
