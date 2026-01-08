@@ -1,0 +1,7 @@
+That’s a good insight, but we still need to make liquidity pool more attractive.
+
+As we know impermanent loss is the main reason people hesitate to provide liquidity. If LPs had any kind of protection against big price swings, I think a lot more people would be willing to jump in.
+
+Otherwise, I honestly don’t see things changing anytime soon - even though the rewards for LPs are already pretty decent.
+
+^(!tip 2)
