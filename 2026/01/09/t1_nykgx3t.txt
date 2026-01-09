@@ -1,0 +1,7 @@
+Spot on!
+
+Can't explain better:
+
+ L1 = settlement layer (provide security), L2= Execution layer (for transactions and run smart contracts)
+
+^(!tip 1)
