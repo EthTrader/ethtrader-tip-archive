@@ -1,0 +1,3 @@
+It looks promising, but the real world adoption will be the real test.
+
+^(!tip 1)
