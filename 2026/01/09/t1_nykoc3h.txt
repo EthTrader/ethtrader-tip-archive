@@ -1,0 +1,7 @@
+Thanks for the follow up. For the membership bug, it was indeed the network selected on Metamask. The UI change got me. 
+
+Then the dashboard told me I have zero donuts which was resolved by disconnecting my wallet after the right network was selected in Metamask.
+
+So I think I was the bug.
+
+!tip 1
