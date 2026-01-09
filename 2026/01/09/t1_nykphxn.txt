@@ -1,0 +1,3 @@
+I think small projects or projects that have high volume of micro transactions would still have viable reasons to build on an L2 rather than an L1 launch.
+
+!tip 1
