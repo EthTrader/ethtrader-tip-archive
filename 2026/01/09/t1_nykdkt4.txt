@@ -1,0 +1,3 @@
+Yes, I think this is the right shift and its a realistic goal to try. Payments will be one of the top things using crypto. And people usually confuses payments with real people using it. But reality will be different. It will be how banks or however makes payments. Because a user wants to send $5 from their bank account to another country bank (spoiler, its just a number, your money is not there and all the scam is about accounting numbers), and then the bank will decide what way they want to send this money to reduce fees, increase speed, etc. They could do it using SWIFT, just making an accounting in their bank because destination bank has an account with them or maybe blockchain etc. This is what will happen
+
+🍩 !tip 1
