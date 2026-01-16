@@ -1,0 +1,7 @@
+Swap Donut → USDT (ARB) using SushiSwap.
+
+Send USDT to CEX.
+
+Sell USDT via P2P in your currency.
+
+^(!tip 1)
