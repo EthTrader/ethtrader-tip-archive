@@ -1,0 +1,5 @@
+You connect your wallet to Sushi.com to trade DONUT for ETH
+
+Then you can transfer your ETH to the receiving address in your centralised exchange, sell the ETH and use to off-ramp to fiat.
+
+!tip 1
