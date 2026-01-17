@@ -1,0 +1,5 @@
+SushiSwap is well-known and widely used so not such risks. Yes Impermanent loss is a valid risk, if the price of DONUT changes a lot compared to ETH (because it paired with ETH).
+
+More info about IL you can get by more technically sound guy DBRiMatt. But what I personally experienced you earn rather than loss.
+
+^(!tip 1)
