@@ -1,0 +1,15 @@
+To be fair, Sushi don't indicate it very clearly anymore.
+
+There used to be a little question mark which you could click to see the 'route' a trade was taking.
+
+This is Uniswap for example
+
+If I wanted to trade TAO for DONUT.
+
+The most liquidity is in a TAO/USDC pair. and DONUT only pairs with ETH.
+
+So while it seems like I'm swapping TAO for DONUT, the DEX is actually routing 3 transactions; TAO to USDC, USDC to ETH, ETH to DONUT.
+
+*Processing img 2rlkkuw9otdg1...*
+
+!tip 1
