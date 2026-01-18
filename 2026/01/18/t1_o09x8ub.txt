@@ -1,0 +1,5 @@
+I doubt running your own validator will ever become less than 32 ETH, but with liquid and pooled staking options, users can still contribute to staking with less than 1 whole ETH if they wanted.
+
+Everstake and Ether.fi certainly get my recommendation.
+
+!tip 1
