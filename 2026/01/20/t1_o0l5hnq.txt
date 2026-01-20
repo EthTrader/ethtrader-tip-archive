@@ -1,0 +1,7 @@
+Staking pool like Everstake is more traditional, you send your ETH to their smart contract/validator, it's locked, you earn rewards.
+
+Liquid staking, you send your ETH to a protocol, you are given an ETH token in return, like stETH - so your ETH is being staked, and you can play with your liquid token as well.
+
+IMO, liquid staking has slightly higher risk associated.
+
+!tip 1
