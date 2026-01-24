@@ -1,0 +1,3 @@
+Crypto needs an interent connection, yes.
+
+!tip 1
