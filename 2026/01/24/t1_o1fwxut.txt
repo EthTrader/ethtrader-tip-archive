@@ -1,0 +1,5 @@
+Yea but there will always be some external dependence unless we build our own bridge, which comes with a lot of responsibility and a much higher cost than this.
+
+At least we know their history, and we know we can trust them!
+
+!tip 9
