@@ -1,0 +1,6 @@
+One of the roadmap:
+“Protocol‑level enforcement
+After the 10-year window, OP Stack chains are expected to deprecate raw ECDSA-signed EOA transactions. User transactions should flow through PQ-aware smart accounts.”
+
+Reading this makes me wonder there are so many tech terminology that average people won’t understand 
+!tip 1
