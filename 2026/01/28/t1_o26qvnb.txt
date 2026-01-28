@@ -1,0 +1,1 @@
+When you think about how Uniswap does that without custody, without traditional market makers, and without permission, that’s a pretty wild network effect. !tip 1
