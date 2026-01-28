@@ -1,0 +1,9 @@
+Topic filter is top 50.
+
+The front page, I believe technically is top 25. (As per Old.Reddit) When sorting by 'Hot' the first 2 posts are pinned posts, and the next 23 are the top upvoted/age algorithm on the 'front page'.
+
+New.Reddit and Reddit app, it's not as defined as they rely on a neverending scrolling page.
+
+Perhaps we could adjust the rule to be defined by 48 hour periods instead, and potentially increased to 3, given how many less posts there are these days.
+
+!tip 1

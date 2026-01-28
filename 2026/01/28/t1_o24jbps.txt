@@ -1,0 +1,5 @@
+Front page is top 25 posts based on old.reddit (the first 2 posts are the stickied posts)
+
+New.reddit and the reddit app it's harder to pinpoint as they just keep scrolling down.
+
+!tip 1
