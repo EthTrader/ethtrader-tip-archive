@@ -1,0 +1,1 @@
+It is probably good if creating a new token to do the minting on layer 2 first and distribution can be done easily cheaper !tip 1
