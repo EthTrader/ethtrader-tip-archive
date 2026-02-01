@@ -1,0 +1,14 @@
+Ethereum Mainnet is a lot cheaper now, definitely. 
+
+There may be other options, but if you want to keep your wrapped bitcoin, you could possibly do a cross-chain swap via [Sushi.com](http://Sushi.com)
+
+I don't have any WBTC on those networks, but I assume it can be done; with hopefully not much slippage/fees
+
+https://preview.redd.it/3vmdsb4p4wgg1.png?width=509&format=png&auto=webp&s=932f5a075f3fc57dc1f28df74fb797d2df1e4f16
+
+  
+There are probably some other bridges that support WBTC cross-chain, but I've only bridged ETH and USDC.
+
+Have some $DONUT in the meantime!
+
+!tip 10
