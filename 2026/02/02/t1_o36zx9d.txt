@@ -1,0 +1,3 @@
+Total value means nothing if you compare, you would need to normalize it by eg market cap.
+
+!tip 1
