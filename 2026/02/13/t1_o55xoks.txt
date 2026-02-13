@@ -1,0 +1,5 @@
+FYI - to leave a tip the the tip command needs to be followed by a number (most people tip 1 $DONUT) and no other words on the same line after that.
+
+EG.
+
+!tip 1
