@@ -1,0 +1,4 @@
+Users sending/receiving 1 tip, and they're making it to the leaderboard? How times have changed!
+
+
+!tip 1
