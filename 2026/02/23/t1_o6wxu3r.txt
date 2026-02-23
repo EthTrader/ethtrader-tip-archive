@@ -1,0 +1,5 @@
+Do you guys remember how I proposed this a few years ago to prevent people from losing money for sending it to the wrong address? It was basically adding a notification address in both sides that basically both have to accept to make the transaction trigger. This also would prevent dust attacks and unwanted transfers.
+
+Looks like Vitalik should hire me.
+
+🍩 !tip 1
