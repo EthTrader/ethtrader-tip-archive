@@ -1,0 +1,3 @@
+Honestly, L2s are still key for Ethereum scaling but not all of them have same importance. If you look at almost 700M transactions happen mainly on Base, Polygon PoS, and Arbitrum One, so if some of the smaller L2s abandoned or leave I don't think it would have a huge impact.
+
+^(!tip 1)
