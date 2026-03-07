@@ -1,0 +1,5 @@
+Spot on!
+
+Honestly, anything that help devs write code faster and fix bugs quicker is a big win.
+
+^(!tip 1)
