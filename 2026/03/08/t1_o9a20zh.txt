@@ -1,0 +1,5 @@
+Yes. The error using AI is pretty simple to solve. In decent companies before merging something there is a developer review process so thats where the errors should be found and suggestion made. In fact, in the github PR you can write stuff and the AI will improve, fix or adapt the code again based on human reviews.
+
+I mean AI will always need a supervisor. Lets think of Ai like an army of junior devs (you cant let them work on its own without supervising their work)
+
+!tip 1
