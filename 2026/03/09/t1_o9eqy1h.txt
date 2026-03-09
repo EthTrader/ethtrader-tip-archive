@@ -1,0 +1,5 @@
+https://arbiscan.io/tx/0xcd98076bd4590677496f15fe8506a49f51213aae9b16cdb16633890efdc3dcb8
+
+Burn: 411k Donut
+
+^(!tip 1)
