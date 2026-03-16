@@ -1,0 +1,2 @@
+From the economic perspective, it may be more cost efficient if they choose one unified code. Tho, how dependable is modularity compared to unified code?
+!tip 1
