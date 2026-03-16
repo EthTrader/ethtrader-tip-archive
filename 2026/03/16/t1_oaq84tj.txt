@@ -1,0 +1,7 @@
+There are lots of out of range positions, including my own.
+
+As those positions return within range, they will start earning some of those rewards.
+
+Technically, my 28% is non-existent.
+
+!tip 1
