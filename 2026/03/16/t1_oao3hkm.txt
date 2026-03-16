@@ -1,0 +1,7 @@
+Pretty much.
+
+Bitmine bought ETH from the foundation at a set price.
+
+Not via an Exchange, therefore no public order books are executed.
+
+!tip 1
