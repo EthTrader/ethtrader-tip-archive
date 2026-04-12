@@ -1,0 +1,7 @@
+Depends.
+
+high volume can certainly reward Liquidity Providers, especially if volume is occurring on a DEX.
+
+As a super general statement, higher on-chain activity also helps keep supply inflation in control with burning.
+
+!tip 5
