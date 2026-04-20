@@ -1,0 +1,5 @@
+I think in that case it makes sense to reset the topic limit, if any topic stays occupied for over 24 hours.
+
+I’m not sure how complex it would be to implement, but if it’s straightforward it could be consider to do.
+
+^(!tip 1)
